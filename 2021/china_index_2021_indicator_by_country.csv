@@ -1,0 +1,3565 @@
+Indicator NO.,Grading,Domain,Country,Score,Region,Layer
+1,1,Media,Taiwan,1,East Asia,exposure
+1,1,Media,Australia,2,Pacific,exposure
+1,1,Media,New Zealand,3,Pacific,exposure
+1,1,Media,Indonesia,2,Southeast & South Asia,exposure
+1,1,Media,Singapore,0,Southeast & South Asia,exposure
+1,1,Media,Georgia,0,Central Asia & South Caucasus,exposure
+1,1,Media,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+1,1,Media,Kazakhstan,0,Central Asia & South Caucasus,exposure
+1,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+1,1,Media,Tajikistan,3,Central Asia & South Caucasus,exposure
+1,1,Media,Ethiopia,0,Africa,exposure
+1,1,Media,Kenya,3,Africa,exposure
+1,1,Media,Brazil,1,Latin America,exposure
+1,1,Media,Bolívia,0,Latin America,exposure
+1,1,Media,Argentina,0,Latin America,exposure
+1,1,Media,Uruguay,0,Latin America,exposure
+1,1,Media,Paraguay,0,Latin America,exposure
+1,1,Media,Chile,1,Latin America,exposure
+1,1,Media,Colombia,1,Latin America,exposure
+1,1,Media,Mexico,3,Latin America,exposure
+1,1,Media,Peru,3,Latin America,exposure
+1,1,Media,Venezuela,1,Latin America,exposure
+1,1,Media,South Korea,0,East Asia,exposure
+1,1,Media,Japan,1,East Asia,exposure
+1,1,Media,Vietnam,0,Southeast & South Asia,exposure
+1,1,Media,United States,1,North America,exposure
+1,1,Media,Canada,4,North America,exposure
+1,1,Media,Philippines,0,Southeast & South Asia,exposure
+1,1,Media,Thailand,3,Southeast & South Asia,exposure
+1,1,Media,Cambodia,3,Southeast & South Asia,exposure
+1,1,Media,Malaysia,1,Southeast & South Asia,exposure
+1,1,Media,Germany,4,Europe,exposure
+1,1,Media,Estonia,0,Europe,exposure
+1,1,Media,Czech Republic,3,Europe,exposure
+1,1,Media,Bosnia and Herzegovina,0,Europe,exposure
+1,1,Media,Poland,1,Europe,exposure
+2,1,Media,Taiwan,3,East Asia,exposure
+2,1,Media,Australia,1,Pacific,exposure
+2,1,Media,New Zealand,1,Pacific,exposure
+2,1,Media,Indonesia,1,Southeast & South Asia,exposure
+2,1,Media,Singapore,0,Southeast & South Asia,exposure
+2,1,Media,Georgia,0,Central Asia & South Caucasus,exposure
+2,1,Media,Kyrgyzstan,2,Central Asia & South Caucasus,exposure
+2,1,Media,Kazakhstan,3,Central Asia & South Caucasus,exposure
+2,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+2,1,Media,Tajikistan,3,Central Asia & South Caucasus,exposure
+2,1,Media,Ethiopia,0,Africa,exposure
+2,1,Media,Kenya,3,Africa,exposure
+2,1,Media,Brazil,0,Latin America,exposure
+2,1,Media,Bolívia,0,Latin America,exposure
+2,1,Media,Argentina,3,Latin America,exposure
+2,1,Media,Uruguay,0,Latin America,exposure
+2,1,Media,Paraguay,0,Latin America,exposure
+2,1,Media,Chile,0,Latin America,exposure
+2,1,Media,Colombia,0,Latin America,exposure
+2,1,Media,Mexico,0,Latin America,exposure
+2,1,Media,Peru,0,Latin America,exposure
+2,1,Media,Venezuela,0,Latin America,exposure
+2,1,Media,South Korea,3,East Asia,exposure
+2,1,Media,Japan,1,East Asia,exposure
+2,1,Media,Vietnam,0,Southeast & South Asia,exposure
+2,1,Media,United States,1,North America,exposure
+2,1,Media,Canada,1,North America,exposure
+2,1,Media,Philippines,1,Southeast & South Asia,exposure
+2,1,Media,Thailand,3,Southeast & South Asia,exposure
+2,1,Media,Cambodia,4,Southeast & South Asia,exposure
+2,1,Media,Malaysia,1,Southeast & South Asia,exposure
+2,1,Media,Germany,1,Europe,exposure
+2,1,Media,Estonia,0,Europe,exposure
+2,1,Media,Czech Republic,0,Europe,exposure
+2,1,Media,Bosnia and Herzegovina,1,Europe,exposure
+2,1,Media,Poland,0,Europe,exposure
+3,1,Media,Taiwan,4,East Asia,exposure
+3,1,Media,Australia,4,Pacific,exposure
+3,1,Media,New Zealand,3,Pacific,exposure
+3,1,Media,Indonesia,4,Southeast & South Asia,exposure
+3,1,Media,Singapore,3,Southeast & South Asia,exposure
+3,1,Media,Georgia,4,Central Asia & South Caucasus,exposure
+3,1,Media,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+3,1,Media,Kazakhstan,3,Central Asia & South Caucasus,exposure
+3,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+3,1,Media,Tajikistan,3,Central Asia & South Caucasus,exposure
+3,1,Media,Ethiopia,0,Africa,exposure
+3,1,Media,Kenya,3,Africa,exposure
+3,1,Media,Brazil,,Latin America,exposure
+3,1,Media,Bolívia,,Latin America,exposure
+3,1,Media,Argentina,3,Latin America,exposure
+3,1,Media,Uruguay,0,Latin America,exposure
+3,1,Media,Paraguay,0,Latin America,exposure
+3,1,Media,Chile,3,Latin America,exposure
+3,1,Media,Colombia,1,Latin America,exposure
+3,1,Media,Mexico,3,Latin America,exposure
+3,1,Media,Peru,4,Latin America,exposure
+3,1,Media,Venezuela,3,Latin America,exposure
+3,1,Media,South Korea,4,East Asia,exposure
+3,1,Media,Japan,0,East Asia,exposure
+3,1,Media,Vietnam,0,Southeast & South Asia,exposure
+3,1,Media,United States,0,North America,exposure
+3,1,Media,Canada,4,North America,exposure
+3,1,Media,Philippines,,Southeast & South Asia,exposure
+3,1,Media,Thailand,2,Southeast & South Asia,exposure
+3,1,Media,Cambodia,3,Southeast & South Asia,exposure
+3,1,Media,Malaysia,2,Southeast & South Asia,exposure
+3,1,Media,Germany,3,Europe,exposure
+3,1,Media,Estonia,0,Europe,exposure
+3,1,Media,Czech Republic,0,Europe,exposure
+3,1,Media,Bosnia and Herzegovina,0,Europe,exposure
+3,1,Media,Poland,0,Europe,exposure
+4,1,Media,Taiwan,2,East Asia,exposure
+4,1,Media,Australia,3,Pacific,exposure
+4,1,Media,New Zealand,1,Pacific,exposure
+4,1,Media,Indonesia,0,Southeast & South Asia,exposure
+4,1,Media,Singapore,4,Southeast & South Asia,exposure
+4,1,Media,Georgia,4,Central Asia & South Caucasus,exposure
+4,1,Media,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+4,1,Media,Kazakhstan,3,Central Asia & South Caucasus,exposure
+4,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+4,1,Media,Tajikistan,0,Central Asia & South Caucasus,exposure
+4,1,Media,Ethiopia,0,Africa,exposure
+4,1,Media,Kenya,3,Africa,exposure
+4,1,Media,Brazil,0,Latin America,exposure
+4,1,Media,Bolívia,3,Latin America,exposure
+4,1,Media,Argentina,1,Latin America,exposure
+4,1,Media,Uruguay,1,Latin America,exposure
+4,1,Media,Paraguay,0,Latin America,exposure
+4,1,Media,Chile,,Latin America,exposure
+4,1,Media,Colombia,0,Latin America,exposure
+4,1,Media,Mexico,0,Latin America,exposure
+4,1,Media,Peru,4,Latin America,exposure
+4,1,Media,Venezuela,3,Latin America,exposure
+4,1,Media,South Korea,4,East Asia,exposure
+4,1,Media,Japan,,East Asia,exposure
+4,1,Media,Vietnam,0,Southeast & South Asia,exposure
+4,1,Media,United States,1,North America,exposure
+4,1,Media,Canada,0,North America,exposure
+4,1,Media,Philippines,4,Southeast & South Asia,exposure
+4,1,Media,Thailand,3,Southeast & South Asia,exposure
+4,1,Media,Cambodia,4,Southeast & South Asia,exposure
+4,1,Media,Malaysia,3,Southeast & South Asia,exposure
+4,1,Media,Germany,1,Europe,exposure
+4,1,Media,Estonia,0,Europe,exposure
+4,1,Media,Czech Republic,0,Europe,exposure
+4,1,Media,Bosnia and Herzegovina,0,Europe,exposure
+4,1,Media,Poland,0,Europe,exposure
+5,1,Media,Taiwan,4,East Asia,exposure
+5,1,Media,Australia,3,Pacific,exposure
+5,1,Media,New Zealand,3,Pacific,exposure
+5,1,Media,Indonesia,1,Southeast & South Asia,exposure
+5,1,Media,Singapore,4,Southeast & South Asia,exposure
+5,1,Media,Georgia,0,Central Asia & South Caucasus,exposure
+5,1,Media,Kyrgyzstan,2,Central Asia & South Caucasus,exposure
+5,1,Media,Kazakhstan,0,Central Asia & South Caucasus,exposure
+5,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+5,1,Media,Tajikistan,0,Central Asia & South Caucasus,exposure
+5,1,Media,Ethiopia,0,Africa,exposure
+5,1,Media,Kenya,3,Africa,exposure
+5,1,Media,Brazil,1,Latin America,exposure
+5,1,Media,Bolívia,1,Latin America,exposure
+5,1,Media,Argentina,3,Latin America,exposure
+5,1,Media,Uruguay,0,Latin America,exposure
+5,1,Media,Paraguay,0,Latin America,exposure
+5,1,Media,Chile,3,Latin America,exposure
+5,1,Media,Colombia,1,Latin America,exposure
+5,1,Media,Mexico,3,Latin America,exposure
+5,1,Media,Peru,4,Latin America,exposure
+5,1,Media,Venezuela,3,Latin America,exposure
+5,1,Media,South Korea,2,East Asia,exposure
+5,1,Media,Japan,1,East Asia,exposure
+5,1,Media,Vietnam,0,Southeast & South Asia,exposure
+5,1,Media,United States,2,North America,exposure
+5,1,Media,Canada,4,North America,exposure
+5,1,Media,Philippines,3,Southeast & South Asia,exposure
+5,1,Media,Thailand,3,Southeast & South Asia,exposure
+5,1,Media,Cambodia,3,Southeast & South Asia,exposure
+5,1,Media,Malaysia,3,Southeast & South Asia,exposure
+5,1,Media,Germany,3,Europe,exposure
+5,1,Media,Estonia,1,Europe,exposure
+5,1,Media,Czech Republic,1,Europe,exposure
+5,1,Media,Bosnia and Herzegovina,4,Europe,exposure
+5,1,Media,Poland,1,Europe,exposure
+6,1,Media,Taiwan,3,East Asia,exposure
+6,1,Media,Australia,2,Pacific,exposure
+6,1,Media,New Zealand,3,Pacific,exposure
+6,1,Media,Indonesia,1,Southeast & South Asia,exposure
+6,1,Media,Singapore,0,Southeast & South Asia,exposure
+6,1,Media,Georgia,3,Central Asia & South Caucasus,exposure
+6,1,Media,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+6,1,Media,Kazakhstan,,Central Asia & South Caucasus,exposure
+6,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+6,1,Media,Tajikistan,0,Central Asia & South Caucasus,exposure
+6,1,Media,Ethiopia,0,Africa,exposure
+6,1,Media,Kenya,3,Africa,exposure
+6,1,Media,Brazil,0,Latin America,exposure
+6,1,Media,Bolívia,0,Latin America,exposure
+6,1,Media,Argentina,0,Latin America,exposure
+6,1,Media,Uruguay,0,Latin America,exposure
+6,1,Media,Paraguay,0,Latin America,exposure
+6,1,Media,Chile,1,Latin America,exposure
+6,1,Media,Colombia,0,Latin America,exposure
+6,1,Media,Mexico,1,Latin America,exposure
+6,1,Media,Peru,3,Latin America,exposure
+6,1,Media,Venezuela,0,Latin America,exposure
+6,1,Media,South Korea,0,East Asia,exposure
+6,1,Media,Japan,2,East Asia,exposure
+6,1,Media,Vietnam,1,Southeast & South Asia,exposure
+6,1,Media,United States,1,North America,exposure
+6,1,Media,Canada,1,North America,exposure
+6,1,Media,Philippines,0,Southeast & South Asia,exposure
+6,1,Media,Thailand,3,Southeast & South Asia,exposure
+6,1,Media,Cambodia,3,Southeast & South Asia,exposure
+6,1,Media,Malaysia,1,Southeast & South Asia,exposure
+6,1,Media,Germany,3,Europe,exposure
+6,1,Media,Estonia,0,Europe,exposure
+6,1,Media,Czech Republic,3,Europe,exposure
+6,1,Media,Bosnia and Herzegovina,0,Europe,exposure
+6,1,Media,Poland,1,Europe,exposure
+7,1,Media,Taiwan,3,East Asia,exposure
+7,1,Media,Australia,4,Pacific,exposure
+7,1,Media,New Zealand,3,Pacific,exposure
+7,1,Media,Indonesia,1,Southeast & South Asia,exposure
+7,1,Media,Singapore,3,Southeast & South Asia,exposure
+7,1,Media,Georgia,2,Central Asia & South Caucasus,exposure
+7,1,Media,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+7,1,Media,Kazakhstan,4,Central Asia & South Caucasus,exposure
+7,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+7,1,Media,Tajikistan,0,Central Asia & South Caucasus,exposure
+7,1,Media,Ethiopia,0,Africa,exposure
+7,1,Media,Kenya,3,Africa,exposure
+7,1,Media,Brazil,0,Latin America,exposure
+7,1,Media,Bolívia,0,Latin America,exposure
+7,1,Media,Argentina,3,Latin America,exposure
+7,1,Media,Uruguay,1,Latin America,exposure
+7,1,Media,Paraguay,0,Latin America,exposure
+7,1,Media,Chile,3,Latin America,exposure
+7,1,Media,Colombia,1,Latin America,exposure
+7,1,Media,Mexico,1,Latin America,exposure
+7,1,Media,Peru,4,Latin America,exposure
+7,1,Media,Venezuela,3,Latin America,exposure
+7,1,Media,South Korea,0,East Asia,exposure
+7,1,Media,Japan,3,East Asia,exposure
+7,1,Media,Vietnam,0,Southeast & South Asia,exposure
+7,1,Media,United States,3,North America,exposure
+7,1,Media,Canada,4,North America,exposure
+7,1,Media,Philippines,3,Southeast & South Asia,exposure
+7,1,Media,Thailand,1,Southeast & South Asia,exposure
+7,1,Media,Cambodia,3,Southeast & South Asia,exposure
+7,1,Media,Malaysia,2,Southeast & South Asia,exposure
+7,1,Media,Germany,4,Europe,exposure
+7,1,Media,Estonia,0,Europe,exposure
+7,1,Media,Czech Republic,1,Europe,exposure
+7,1,Media,Bosnia and Herzegovina,1,Europe,exposure
+7,1,Media,Poland,0,Europe,exposure
+8,1,Media,Taiwan,4,East Asia,exposure
+8,1,Media,Australia,2,Pacific,exposure
+8,1,Media,New Zealand,3,Pacific,exposure
+8,1,Media,Indonesia,2,Southeast & South Asia,exposure
+8,1,Media,Singapore,,Southeast & South Asia,exposure
+8,1,Media,Georgia,3,Central Asia & South Caucasus,exposure
+8,1,Media,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+8,1,Media,Kazakhstan,3,Central Asia & South Caucasus,exposure
+8,1,Media,Armenia,0,Central Asia & South Caucasus,exposure
+8,1,Media,Tajikistan,1,Central Asia & South Caucasus,exposure
+8,1,Media,Ethiopia,0,Africa,exposure
+8,1,Media,Kenya,0,Africa,exposure
+8,1,Media,Brazil,0,Latin America,exposure
+8,1,Media,Bolívia,0,Latin America,exposure
+8,1,Media,Argentina,1,Latin America,exposure
+8,1,Media,Uruguay,0,Latin America,exposure
+8,1,Media,Paraguay,0,Latin America,exposure
+8,1,Media,Chile,4,Latin America,exposure
+8,1,Media,Colombia,0,Latin America,exposure
+8,1,Media,Mexico,1,Latin America,exposure
+8,1,Media,Peru,4,Latin America,exposure
+8,1,Media,Venezuela,0,Latin America,exposure
+8,1,Media,South Korea,1,East Asia,exposure
+8,1,Media,Japan,1,East Asia,exposure
+8,1,Media,Vietnam,0,Southeast & South Asia,exposure
+8,1,Media,United States,3,North America,exposure
+8,1,Media,Canada,4,North America,exposure
+8,1,Media,Philippines,3,Southeast & South Asia,exposure
+8,1,Media,Thailand,0,Southeast & South Asia,exposure
+8,1,Media,Cambodia,0,Southeast & South Asia,exposure
+8,1,Media,Malaysia,0,Southeast & South Asia,exposure
+8,1,Media,Germany,3,Europe,exposure
+8,1,Media,Estonia,2,Europe,exposure
+8,1,Media,Czech Republic,0,Europe,exposure
+8,1,Media,Bosnia and Herzegovina,1,Europe,exposure
+8,1,Media,Poland,3,Europe,exposure
+9,0,Media,Taiwan,4,East Asia,pressure
+9,0,Media,Australia,4,Pacific,pressure
+9,0,Media,New Zealand,0,Pacific,pressure
+9,0,Media,Indonesia,4,Southeast & South Asia,pressure
+9,0,Media,Singapore,4,Southeast & South Asia,pressure
+9,0,Media,Georgia,0,Central Asia & South Caucasus,pressure
+9,0,Media,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+9,0,Media,Kazakhstan,4,Central Asia & South Caucasus,pressure
+9,0,Media,Armenia,0,Central Asia & South Caucasus,pressure
+9,0,Media,Tajikistan,0,Central Asia & South Caucasus,pressure
+9,0,Media,Ethiopia,0,Africa,pressure
+9,0,Media,Kenya,0,Africa,pressure
+9,0,Media,Brazil,0,Latin America,pressure
+9,0,Media,Bolívia,0,Latin America,pressure
+9,0,Media,Argentina,0,Latin America,pressure
+9,0,Media,Uruguay,4,Latin America,pressure
+9,0,Media,Paraguay,0,Latin America,pressure
+9,0,Media,Chile,0,Latin America,pressure
+9,0,Media,Colombia,0,Latin America,pressure
+9,0,Media,Mexico,0,Latin America,pressure
+9,0,Media,Peru,0,Latin America,pressure
+9,0,Media,Venezuela,0,Latin America,pressure
+9,0,Media,South Korea,0,East Asia,pressure
+9,0,Media,Japan,0,East Asia,pressure
+9,0,Media,Vietnam,0,Southeast & South Asia,pressure
+9,0,Media,United States,4,North America,pressure
+9,0,Media,Canada,4,North America,pressure
+9,0,Media,Philippines,4,Southeast & South Asia,pressure
+9,0,Media,Thailand,4,Southeast & South Asia,pressure
+9,0,Media,Cambodia,0,Southeast & South Asia,pressure
+9,0,Media,Malaysia,4,Southeast & South Asia,pressure
+9,0,Media,Germany,4,Europe,pressure
+9,0,Media,Estonia,4,Europe,pressure
+9,0,Media,Czech Republic,0,Europe,pressure
+9,0,Media,Bosnia and Herzegovina,0,Europe,pressure
+9,0,Media,Poland,0,Europe,pressure
+10,1,Media,Taiwan,4,East Asia,effect
+10,1,Media,Australia,3,Pacific,effect
+10,1,Media,New Zealand,3,Pacific,effect
+10,1,Media,Indonesia,3,Southeast & South Asia,effect
+10,1,Media,Singapore,0,Southeast & South Asia,effect
+10,1,Media,Georgia,0,Central Asia & South Caucasus,effect
+10,1,Media,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+10,1,Media,Kazakhstan,0,Central Asia & South Caucasus,effect
+10,1,Media,Armenia,0,Central Asia & South Caucasus,effect
+10,1,Media,Tajikistan,0,Central Asia & South Caucasus,effect
+10,1,Media,Ethiopia,,Africa,effect
+10,1,Media,Kenya,0,Africa,effect
+10,1,Media,Brazil,0,Latin America,effect
+10,1,Media,Bolívia,0,Latin America,effect
+10,1,Media,Argentina,0,Latin America,effect
+10,1,Media,Uruguay,1,Latin America,effect
+10,1,Media,Paraguay,0,Latin America,effect
+10,1,Media,Chile,0,Latin America,effect
+10,1,Media,Colombia,0,Latin America,effect
+10,1,Media,Mexico,0,Latin America,effect
+10,1,Media,Peru,4,Latin America,effect
+10,1,Media,Venezuela,0,Latin America,effect
+10,1,Media,South Korea,1,East Asia,effect
+10,1,Media,Japan,0,East Asia,effect
+10,1,Media,Vietnam,,Southeast & South Asia,effect
+10,1,Media,United States,3,North America,effect
+10,1,Media,Canada,4,North America,effect
+10,1,Media,Philippines,3,Southeast & South Asia,effect
+10,1,Media,Thailand,2,Southeast & South Asia,effect
+10,1,Media,Cambodia,3,Southeast & South Asia,effect
+10,1,Media,Malaysia,2,Southeast & South Asia,effect
+10,1,Media,Germany,1,Europe,effect
+10,1,Media,Estonia,0,Europe,effect
+10,1,Media,Czech Republic,0,Europe,effect
+10,1,Media,Bosnia and Herzegovina,0,Europe,effect
+10,1,Media,Poland,,Europe,effect
+11,1,Media,Taiwan,4,East Asia,effect
+11,1,Media,Australia,0,Pacific,effect
+11,1,Media,New Zealand,0,Pacific,effect
+11,1,Media,Indonesia,4,Southeast & South Asia,effect
+11,1,Media,Singapore,4,Southeast & South Asia,effect
+11,1,Media,Georgia,0,Central Asia & South Caucasus,effect
+11,1,Media,Kyrgyzstan,3,Central Asia & South Caucasus,effect
+11,1,Media,Kazakhstan,0,Central Asia & South Caucasus,effect
+11,1,Media,Armenia,0,Central Asia & South Caucasus,effect
+11,1,Media,Tajikistan,1,Central Asia & South Caucasus,effect
+11,1,Media,Ethiopia,0,Africa,effect
+11,1,Media,Kenya,,Africa,effect
+11,1,Media,Brazil,0,Latin America,effect
+11,1,Media,Bolívia,0,Latin America,effect
+11,1,Media,Argentina,0,Latin America,effect
+11,1,Media,Uruguay,1,Latin America,effect
+11,1,Media,Paraguay,0,Latin America,effect
+11,1,Media,Chile,3,Latin America,effect
+11,1,Media,Colombia,0,Latin America,effect
+11,1,Media,Mexico,0,Latin America,effect
+11,1,Media,Peru,0,Latin America,effect
+11,1,Media,Venezuela,3,Latin America,effect
+11,1,Media,South Korea,1,East Asia,effect
+11,1,Media,Japan,0,East Asia,effect
+11,1,Media,Vietnam,3,Southeast & South Asia,effect
+11,1,Media,United States,3,North America,effect
+11,1,Media,Canada,4,North America,effect
+11,1,Media,Philippines,3,Southeast & South Asia,effect
+11,1,Media,Thailand,0,Southeast & South Asia,effect
+11,1,Media,Cambodia,0,Southeast & South Asia,effect
+11,1,Media,Malaysia,1,Southeast & South Asia,effect
+11,1,Media,Germany,1,Europe,effect
+11,1,Media,Estonia,0,Europe,effect
+11,1,Media,Czech Republic,1,Europe,effect
+11,1,Media,Bosnia and Herzegovina,0,Europe,effect
+11,1,Media,Poland,1,Europe,effect
+12,0,Foreign Policy,Taiwan,0,East Asia,exposure
+12,0,Foreign Policy,Australia,4,Pacific,exposure
+12,0,Foreign Policy,New Zealand,4,Pacific,exposure
+12,0,Foreign Policy,Indonesia,0,Southeast & South Asia,exposure
+12,0,Foreign Policy,Singapore,0,Southeast & South Asia,exposure
+12,0,Foreign Policy,Georgia,4,Central Asia & South Caucasus,exposure
+12,0,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+12,0,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,exposure
+12,0,Foreign Policy,Armenia,4,Central Asia & South Caucasus,exposure
+12,0,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,exposure
+12,0,Foreign Policy,Ethiopia,0,Africa,exposure
+12,0,Foreign Policy,Kenya,4,Africa,exposure
+12,0,Foreign Policy,Brazil,4,Latin America,exposure
+12,0,Foreign Policy,Bolívia,4,Latin America,exposure
+12,0,Foreign Policy,Argentina,4,Latin America,exposure
+12,0,Foreign Policy,Uruguay,4,Latin America,exposure
+12,0,Foreign Policy,Paraguay,0,Latin America,exposure
+12,0,Foreign Policy,Chile,4,Latin America,exposure
+12,0,Foreign Policy,Colombia,4,Latin America,exposure
+12,0,Foreign Policy,Mexico,4,Latin America,exposure
+12,0,Foreign Policy,Peru,4,Latin America,exposure
+12,0,Foreign Policy,Venezuela,0,Latin America,exposure
+12,0,Foreign Policy,South Korea,4,East Asia,exposure
+12,0,Foreign Policy,Japan,4,East Asia,exposure
+12,0,Foreign Policy,Vietnam,4,Southeast & South Asia,exposure
+12,0,Foreign Policy,United States,0,North America,exposure
+12,0,Foreign Policy,Canada,0,North America,exposure
+12,0,Foreign Policy,Philippines,0,Southeast & South Asia,exposure
+12,0,Foreign Policy,Thailand,4,Southeast & South Asia,exposure
+12,0,Foreign Policy,Cambodia,0,Southeast & South Asia,exposure
+12,0,Foreign Policy,Malaysia,4,Southeast & South Asia,exposure
+12,0,Foreign Policy,Germany,4,Europe,exposure
+12,0,Foreign Policy,Estonia,4,Europe,exposure
+12,0,Foreign Policy,Czech Republic,0,Europe,exposure
+12,0,Foreign Policy,Bosnia and Herzegovina,0,Europe,exposure
+12,0,Foreign Policy,Poland,0,Europe,exposure
+13,1,Foreign Policy,Taiwan,4,East Asia,exposure
+13,1,Foreign Policy,Australia,4,Pacific,exposure
+13,1,Foreign Policy,New Zealand,4,Pacific,exposure
+13,1,Foreign Policy,Indonesia,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Singapore,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Georgia,4,Central Asia & South Caucasus,exposure
+13,1,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+13,1,Foreign Policy,Kazakhstan,3,Central Asia & South Caucasus,exposure
+13,1,Foreign Policy,Armenia,1,Central Asia & South Caucasus,exposure
+13,1,Foreign Policy,Tajikistan,1,Central Asia & South Caucasus,exposure
+13,1,Foreign Policy,Ethiopia,0,Africa,exposure
+13,1,Foreign Policy,Kenya,3,Africa,exposure
+13,1,Foreign Policy,Brazil,4,Latin America,exposure
+13,1,Foreign Policy,Bolívia,4,Latin America,exposure
+13,1,Foreign Policy,Argentina,3,Latin America,exposure
+13,1,Foreign Policy,Uruguay,4,Latin America,exposure
+13,1,Foreign Policy,Paraguay,0,Latin America,exposure
+13,1,Foreign Policy,Chile,4,Latin America,exposure
+13,1,Foreign Policy,Colombia,1,Latin America,exposure
+13,1,Foreign Policy,Mexico,3,Latin America,exposure
+13,1,Foreign Policy,Peru,4,Latin America,exposure
+13,1,Foreign Policy,Venezuela,4,Latin America,exposure
+13,1,Foreign Policy,South Korea,4,East Asia,exposure
+13,1,Foreign Policy,Japan,4,East Asia,exposure
+13,1,Foreign Policy,Vietnam,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,United States,4,North America,exposure
+13,1,Foreign Policy,Canada,3,North America,exposure
+13,1,Foreign Policy,Philippines,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Thailand,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Cambodia,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Malaysia,4,Southeast & South Asia,exposure
+13,1,Foreign Policy,Germany,4,Europe,exposure
+13,1,Foreign Policy,Estonia,4,Europe,exposure
+13,1,Foreign Policy,Czech Republic,4,Europe,exposure
+13,1,Foreign Policy,Bosnia and Herzegovina,1,Europe,exposure
+13,1,Foreign Policy,Poland,3,Europe,exposure
+14,1,Foreign Policy,Taiwan,0,East Asia,pressure
+14,1,Foreign Policy,Australia,3,Pacific,pressure
+14,1,Foreign Policy,New Zealand,3,Pacific,pressure
+14,1,Foreign Policy,Indonesia,2,Southeast & South Asia,pressure
+14,1,Foreign Policy,Singapore,4,Southeast & South Asia,pressure
+14,1,Foreign Policy,Georgia,0,Central Asia & South Caucasus,pressure
+14,1,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,pressure
+14,1,Foreign Policy,Kazakhstan,0,Central Asia & South Caucasus,pressure
+14,1,Foreign Policy,Armenia,1,Central Asia & South Caucasus,pressure
+14,1,Foreign Policy,Tajikistan,1,Central Asia & South Caucasus,pressure
+14,1,Foreign Policy,Ethiopia,3,Africa,pressure
+14,1,Foreign Policy,Kenya,3,Africa,pressure
+14,1,Foreign Policy,Brazil,1,Latin America,pressure
+14,1,Foreign Policy,Bolívia,1,Latin America,pressure
+14,1,Foreign Policy,Argentina,1,Latin America,pressure
+14,1,Foreign Policy,Uruguay,3,Latin America,pressure
+14,1,Foreign Policy,Paraguay,0,Latin America,pressure
+14,1,Foreign Policy,Chile,2,Latin America,pressure
+14,1,Foreign Policy,Colombia,0,Latin America,pressure
+14,1,Foreign Policy,Mexico,3,Latin America,pressure
+14,1,Foreign Policy,Peru,4,Latin America,pressure
+14,1,Foreign Policy,Venezuela,4,Latin America,pressure
+14,1,Foreign Policy,South Korea,0,East Asia,pressure
+14,1,Foreign Policy,Japan,,East Asia,pressure
+14,1,Foreign Policy,Vietnam,3,Southeast & South Asia,pressure
+14,1,Foreign Policy,United States,0,North America,pressure
+14,1,Foreign Policy,Canada,0,North America,pressure
+14,1,Foreign Policy,Philippines,4,Southeast & South Asia,pressure
+14,1,Foreign Policy,Thailand,4,Southeast & South Asia,pressure
+14,1,Foreign Policy,Cambodia,4,Southeast & South Asia,pressure
+14,1,Foreign Policy,Malaysia,2,Southeast & South Asia,pressure
+14,1,Foreign Policy,Germany,0,Europe,pressure
+14,1,Foreign Policy,Estonia,,Europe,pressure
+14,1,Foreign Policy,Czech Republic,0,Europe,pressure
+14,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,pressure
+14,1,Foreign Policy,Poland,0,Europe,pressure
+15,1,Foreign Policy,Taiwan,1,East Asia,pressure
+15,1,Foreign Policy,Australia,1,Pacific,pressure
+15,1,Foreign Policy,New Zealand,0,Pacific,pressure
+15,1,Foreign Policy,Indonesia,0,Southeast & South Asia,pressure
+15,1,Foreign Policy,Singapore,3,Southeast & South Asia,pressure
+15,1,Foreign Policy,Georgia,0,Central Asia & South Caucasus,pressure
+15,1,Foreign Policy,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+15,1,Foreign Policy,Kazakhstan,0,Central Asia & South Caucasus,pressure
+15,1,Foreign Policy,Armenia,0,Central Asia & South Caucasus,pressure
+15,1,Foreign Policy,Tajikistan,0,Central Asia & South Caucasus,pressure
+15,1,Foreign Policy,Ethiopia,0,Africa,pressure
+15,1,Foreign Policy,Kenya,0,Africa,pressure
+15,1,Foreign Policy,Brazil,3,Latin America,pressure
+15,1,Foreign Policy,Bolívia,3,Latin America,pressure
+15,1,Foreign Policy,Argentina,0,Latin America,pressure
+15,1,Foreign Policy,Uruguay,3,Latin America,pressure
+15,1,Foreign Policy,Paraguay,0,Latin America,pressure
+15,1,Foreign Policy,Chile,2,Latin America,pressure
+15,1,Foreign Policy,Colombia,0,Latin America,pressure
+15,1,Foreign Policy,Mexico,3,Latin America,pressure
+15,1,Foreign Policy,Peru,4,Latin America,pressure
+15,1,Foreign Policy,Venezuela,0,Latin America,pressure
+15,1,Foreign Policy,South Korea,3,East Asia,pressure
+15,1,Foreign Policy,Japan,,East Asia,pressure
+15,1,Foreign Policy,Vietnam,4,Southeast & South Asia,pressure
+15,1,Foreign Policy,United States,4,North America,pressure
+15,1,Foreign Policy,Canada,0,North America,pressure
+15,1,Foreign Policy,Philippines,3,Southeast & South Asia,pressure
+15,1,Foreign Policy,Thailand,1,Southeast & South Asia,pressure
+15,1,Foreign Policy,Cambodia,3,Southeast & South Asia,pressure
+15,1,Foreign Policy,Malaysia,2,Southeast & South Asia,pressure
+15,1,Foreign Policy,Germany,3,Europe,pressure
+15,1,Foreign Policy,Estonia,3,Europe,pressure
+15,1,Foreign Policy,Czech Republic,3,Europe,pressure
+15,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,pressure
+15,1,Foreign Policy,Poland,0,Europe,pressure
+16,0,Foreign Policy,Taiwan,4,East Asia,pressure
+16,0,Foreign Policy,Australia,4,Pacific,pressure
+16,0,Foreign Policy,New Zealand,0,Pacific,pressure
+16,0,Foreign Policy,Indonesia,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Singapore,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Georgia,0,Central Asia & South Caucasus,pressure
+16,0,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,pressure
+16,0,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,pressure
+16,0,Foreign Policy,Armenia,0,Central Asia & South Caucasus,pressure
+16,0,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,pressure
+16,0,Foreign Policy,Ethiopia,0,Africa,pressure
+16,0,Foreign Policy,Kenya,0,Africa,pressure
+16,0,Foreign Policy,Brazil,0,Latin America,pressure
+16,0,Foreign Policy,Bolívia,4,Latin America,pressure
+16,0,Foreign Policy,Argentina,0,Latin America,pressure
+16,0,Foreign Policy,Uruguay,0,Latin America,pressure
+16,0,Foreign Policy,Paraguay,,Latin America,pressure
+16,0,Foreign Policy,Chile,0,Latin America,pressure
+16,0,Foreign Policy,Colombia,0,Latin America,pressure
+16,0,Foreign Policy,Mexico,0,Latin America,pressure
+16,0,Foreign Policy,Peru,0,Latin America,pressure
+16,0,Foreign Policy,Venezuela,0,Latin America,pressure
+16,0,Foreign Policy,South Korea,4,East Asia,pressure
+16,0,Foreign Policy,Japan,4,East Asia,pressure
+16,0,Foreign Policy,Vietnam,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,United States,4,North America,pressure
+16,0,Foreign Policy,Canada,4,North America,pressure
+16,0,Foreign Policy,Philippines,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Thailand,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Cambodia,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Malaysia,0,Southeast & South Asia,pressure
+16,0,Foreign Policy,Germany,0,Europe,pressure
+16,0,Foreign Policy,Estonia,0,Europe,pressure
+16,0,Foreign Policy,Czech Republic,0,Europe,pressure
+16,0,Foreign Policy,Bosnia and Herzegovina,0,Europe,pressure
+16,0,Foreign Policy,Poland,0,Europe,pressure
+17,0,Foreign Policy,Taiwan,,East Asia,effect
+17,0,Foreign Policy,Australia,0,Pacific,effect
+17,0,Foreign Policy,New Zealand,0,Pacific,effect
+17,0,Foreign Policy,Indonesia,4,Southeast & South Asia,effect
+17,0,Foreign Policy,Singapore,0,Southeast & South Asia,effect
+17,0,Foreign Policy,Georgia,4,Central Asia & South Caucasus,effect
+17,0,Foreign Policy,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+17,0,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,effect
+17,0,Foreign Policy,Armenia,4,Central Asia & South Caucasus,effect
+17,0,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,effect
+17,0,Foreign Policy,Ethiopia,0,Africa,effect
+17,0,Foreign Policy,Kenya,0,Africa,effect
+17,0,Foreign Policy,Brazil,0,Latin America,effect
+17,0,Foreign Policy,Bolívia,0,Latin America,effect
+17,0,Foreign Policy,Argentina,0,Latin America,effect
+17,0,Foreign Policy,Uruguay,4,Latin America,effect
+17,0,Foreign Policy,Paraguay,0,Latin America,effect
+17,0,Foreign Policy,Chile,0,Latin America,effect
+17,0,Foreign Policy,Colombia,0,Latin America,effect
+17,0,Foreign Policy,Mexico,4,Latin America,effect
+17,0,Foreign Policy,Peru,0,Latin America,effect
+17,0,Foreign Policy,Venezuela,0,Latin America,effect
+17,0,Foreign Policy,South Korea,0,East Asia,effect
+17,0,Foreign Policy,Japan,0,East Asia,effect
+17,0,Foreign Policy,Vietnam,,Southeast & South Asia,effect
+17,0,Foreign Policy,United States,0,North America,effect
+17,0,Foreign Policy,Canada,0,North America,effect
+17,0,Foreign Policy,Philippines,0,Southeast & South Asia,effect
+17,0,Foreign Policy,Thailand,0,Southeast & South Asia,effect
+17,0,Foreign Policy,Cambodia,,Southeast & South Asia,effect
+17,0,Foreign Policy,Malaysia,0,Southeast & South Asia,effect
+17,0,Foreign Policy,Germany,0,Europe,effect
+17,0,Foreign Policy,Estonia,0,Europe,effect
+17,0,Foreign Policy,Czech Republic,0,Europe,effect
+17,0,Foreign Policy,Bosnia and Herzegovina,0,Europe,effect
+17,0,Foreign Policy,Poland,0,Europe,effect
+18,1,Foreign Policy,Taiwan,,East Asia,effect
+18,1,Foreign Policy,Australia,0,Pacific,effect
+18,1,Foreign Policy,New Zealand,0,Pacific,effect
+18,1,Foreign Policy,Indonesia,0,Southeast & South Asia,effect
+18,1,Foreign Policy,Singapore,0,Southeast & South Asia,effect
+18,1,Foreign Policy,Georgia,2,Central Asia & South Caucasus,effect
+18,1,Foreign Policy,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+18,1,Foreign Policy,Kazakhstan,0,Central Asia & South Caucasus,effect
+18,1,Foreign Policy,Armenia,0,Central Asia & South Caucasus,effect
+18,1,Foreign Policy,Tajikistan,0,Central Asia & South Caucasus,effect
+18,1,Foreign Policy,Ethiopia,,Africa,effect
+18,1,Foreign Policy,Kenya,0,Africa,effect
+18,1,Foreign Policy,Brazil,3,Latin America,effect
+18,1,Foreign Policy,Bolívia,0,Latin America,effect
+18,1,Foreign Policy,Argentina,0,Latin America,effect
+18,1,Foreign Policy,Uruguay,3,Latin America,effect
+18,1,Foreign Policy,Paraguay,0,Latin America,effect
+18,1,Foreign Policy,Chile,0,Latin America,effect
+18,1,Foreign Policy,Colombia,0,Latin America,effect
+18,1,Foreign Policy,Mexico,0,Latin America,effect
+18,1,Foreign Policy,Peru,0,Latin America,effect
+18,1,Foreign Policy,Venezuela,3,Latin America,effect
+18,1,Foreign Policy,South Korea,0,East Asia,effect
+18,1,Foreign Policy,Japan,,East Asia,effect
+18,1,Foreign Policy,Vietnam,,Southeast & South Asia,effect
+18,1,Foreign Policy,United States,0,North America,effect
+18,1,Foreign Policy,Canada,0,North America,effect
+18,1,Foreign Policy,Philippines,1,Southeast & South Asia,effect
+18,1,Foreign Policy,Thailand,0,Southeast & South Asia,effect
+18,1,Foreign Policy,Cambodia,3,Southeast & South Asia,effect
+18,1,Foreign Policy,Malaysia,0,Southeast & South Asia,effect
+18,1,Foreign Policy,Germany,0,Europe,effect
+18,1,Foreign Policy,Estonia,0,Europe,effect
+18,1,Foreign Policy,Czech Republic,0,Europe,effect
+18,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,effect
+18,1,Foreign Policy,Poland,,Europe,effect
+19,1,Foreign Policy,Taiwan,4,East Asia,effect
+19,1,Foreign Policy,Australia,0,Pacific,effect
+19,1,Foreign Policy,New Zealand,0,Pacific,effect
+19,1,Foreign Policy,Indonesia,0,Southeast & South Asia,effect
+19,1,Foreign Policy,Singapore,2,Southeast & South Asia,effect
+19,1,Foreign Policy,Georgia,,Central Asia & South Caucasus,effect
+19,1,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+19,1,Foreign Policy,Kazakhstan,2,Central Asia & South Caucasus,effect
+19,1,Foreign Policy,Armenia,4,Central Asia & South Caucasus,effect
+19,1,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,effect
+19,1,Foreign Policy,Ethiopia,4,Africa,effect
+19,1,Foreign Policy,Kenya,4,Africa,effect
+19,1,Foreign Policy,Brazil,2,Latin America,effect
+19,1,Foreign Policy,Bolívia,2,Latin America,effect
+19,1,Foreign Policy,Argentina,2,Latin America,effect
+19,1,Foreign Policy,Uruguay,2,Latin America,effect
+19,1,Foreign Policy,Paraguay,2,Latin America,effect
+19,1,Foreign Policy,Chile,2,Latin America,effect
+19,1,Foreign Policy,Colombia,2,Latin America,effect
+19,1,Foreign Policy,Mexico,2,Latin America,effect
+19,1,Foreign Policy,Peru,2,Latin America,effect
+19,1,Foreign Policy,Venezuela,4,Latin America,effect
+19,1,Foreign Policy,South Korea,2,East Asia,effect
+19,1,Foreign Policy,Japan,0,East Asia,effect
+19,1,Foreign Policy,Vietnam,0,Southeast & South Asia,effect
+19,1,Foreign Policy,United States,0,North America,effect
+19,1,Foreign Policy,Canada,0,North America,effect
+19,1,Foreign Policy,Philippines,0,Southeast & South Asia,effect
+19,1,Foreign Policy,Thailand,2,Southeast & South Asia,effect
+19,1,Foreign Policy,Cambodia,4,Southeast & South Asia,effect
+19,1,Foreign Policy,Malaysia,0,Southeast & South Asia,effect
+19,1,Foreign Policy,Germany,0,Europe,effect
+19,1,Foreign Policy,Estonia,0,Europe,effect
+19,1,Foreign Policy,Czech Republic,2,Europe,effect
+19,1,Foreign Policy,Bosnia and Herzegovina,2,Europe,effect
+19,1,Foreign Policy,Poland,2,Europe,effect
+20,1,Foreign Policy,Taiwan,0,East Asia,effect
+20,1,Foreign Policy,Australia,0,Pacific,effect
+20,1,Foreign Policy,New Zealand,0,Pacific,effect
+20,1,Foreign Policy,Indonesia,2,Southeast & South Asia,effect
+20,1,Foreign Policy,Singapore,4,Southeast & South Asia,effect
+20,1,Foreign Policy,Georgia,2,Central Asia & South Caucasus,effect
+20,1,Foreign Policy,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+20,1,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,effect
+20,1,Foreign Policy,Armenia,0,Central Asia & South Caucasus,effect
+20,1,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,effect
+20,1,Foreign Policy,Ethiopia,2,Africa,effect
+20,1,Foreign Policy,Kenya,2,Africa,effect
+20,1,Foreign Policy,Brazil,2,Latin America,effect
+20,1,Foreign Policy,Bolívia,2,Latin America,effect
+20,1,Foreign Policy,Argentina,2,Latin America,effect
+20,1,Foreign Policy,Uruguay,2,Latin America,effect
+20,1,Foreign Policy,Paraguay,2,Latin America,effect
+20,1,Foreign Policy,Chile,2,Latin America,effect
+20,1,Foreign Policy,Colombia,2,Latin America,effect
+20,1,Foreign Policy,Mexico,2,Latin America,effect
+20,1,Foreign Policy,Peru,2,Latin America,effect
+20,1,Foreign Policy,Venezuela,4,Latin America,effect
+20,1,Foreign Policy,South Korea,2,East Asia,effect
+20,1,Foreign Policy,Japan,0,East Asia,effect
+20,1,Foreign Policy,Vietnam,2,Southeast & South Asia,effect
+20,1,Foreign Policy,United States,0,North America,effect
+20,1,Foreign Policy,Canada,0,North America,effect
+20,1,Foreign Policy,Philippines,4,Southeast & South Asia,effect
+20,1,Foreign Policy,Thailand,4,Southeast & South Asia,effect
+20,1,Foreign Policy,Cambodia,4,Southeast & South Asia,effect
+20,1,Foreign Policy,Malaysia,0,Southeast & South Asia,effect
+20,1,Foreign Policy,Germany,0,Europe,effect
+20,1,Foreign Policy,Estonia,0,Europe,effect
+20,1,Foreign Policy,Czech Republic,0,Europe,effect
+20,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,effect
+20,1,Foreign Policy,Poland,0,Europe,effect
+21,1,Foreign Policy,Taiwan,0,East Asia,effect
+21,1,Foreign Policy,Australia,0,Pacific,effect
+21,1,Foreign Policy,New Zealand,0,Pacific,effect
+21,1,Foreign Policy,Indonesia,2,Southeast & South Asia,effect
+21,1,Foreign Policy,Singapore,2,Southeast & South Asia,effect
+21,1,Foreign Policy,Georgia,2,Central Asia & South Caucasus,effect
+21,1,Foreign Policy,Kyrgyzstan,2,Central Asia & South Caucasus,effect
+21,1,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,effect
+21,1,Foreign Policy,Armenia,0,Central Asia & South Caucasus,effect
+21,1,Foreign Policy,Tajikistan,2,Central Asia & South Caucasus,effect
+21,1,Foreign Policy,Ethiopia,2,Africa,effect
+21,1,Foreign Policy,Kenya,4,Africa,effect
+21,1,Foreign Policy,Brazil,2,Latin America,effect
+21,1,Foreign Policy,Bolívia,2,Latin America,effect
+21,1,Foreign Policy,Argentina,2,Latin America,effect
+21,1,Foreign Policy,Uruguay,2,Latin America,effect
+21,1,Foreign Policy,Paraguay,2,Latin America,effect
+21,1,Foreign Policy,Chile,2,Latin America,effect
+21,1,Foreign Policy,Colombia,2,Latin America,effect
+21,1,Foreign Policy,Mexico,4,Latin America,effect
+21,1,Foreign Policy,Peru,2,Latin America,effect
+21,1,Foreign Policy,Venezuela,2,Latin America,effect
+21,1,Foreign Policy,South Korea,2,East Asia,effect
+21,1,Foreign Policy,Japan,0,East Asia,effect
+21,1,Foreign Policy,Vietnam,2,Southeast & South Asia,effect
+21,1,Foreign Policy,United States,0,North America,effect
+21,1,Foreign Policy,Canada,0,North America,effect
+21,1,Foreign Policy,Philippines,2,Southeast & South Asia,effect
+21,1,Foreign Policy,Thailand,2,Southeast & South Asia,effect
+21,1,Foreign Policy,Cambodia,4,Southeast & South Asia,effect
+21,1,Foreign Policy,Malaysia,2,Southeast & South Asia,effect
+21,1,Foreign Policy,Germany,0,Europe,effect
+21,1,Foreign Policy,Estonia,0,Europe,effect
+21,1,Foreign Policy,Czech Republic,2,Europe,effect
+21,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,effect
+21,1,Foreign Policy,Poland,2,Europe,effect
+22,1,Foreign Policy,Taiwan,0,East Asia,effect
+22,1,Foreign Policy,Australia,0,Pacific,effect
+22,1,Foreign Policy,New Zealand,0,Pacific,effect
+22,1,Foreign Policy,Indonesia,2,Southeast & South Asia,effect
+22,1,Foreign Policy,Singapore,4,Southeast & South Asia,effect
+22,1,Foreign Policy,Georgia,2,Central Asia & South Caucasus,effect
+22,1,Foreign Policy,Kyrgyzstan,2,Central Asia & South Caucasus,effect
+22,1,Foreign Policy,Kazakhstan,4,Central Asia & South Caucasus,effect
+22,1,Foreign Policy,Armenia,4,Central Asia & South Caucasus,effect
+22,1,Foreign Policy,Tajikistan,4,Central Asia & South Caucasus,effect
+22,1,Foreign Policy,Ethiopia,4,Africa,effect
+22,1,Foreign Policy,Kenya,2,Africa,effect
+22,1,Foreign Policy,Brazil,2,Latin America,effect
+22,1,Foreign Policy,Bolívia,2,Latin America,effect
+22,1,Foreign Policy,Argentina,2,Latin America,effect
+22,1,Foreign Policy,Uruguay,2,Latin America,effect
+22,1,Foreign Policy,Paraguay,2,Latin America,effect
+22,1,Foreign Policy,Chile,2,Latin America,effect
+22,1,Foreign Policy,Colombia,2,Latin America,effect
+22,1,Foreign Policy,Mexico,2,Latin America,effect
+22,1,Foreign Policy,Peru,2,Latin America,effect
+22,1,Foreign Policy,Venezuela,4,Latin America,effect
+22,1,Foreign Policy,South Korea,2,East Asia,effect
+22,1,Foreign Policy,Japan,0,East Asia,effect
+22,1,Foreign Policy,Vietnam,4,Southeast & South Asia,effect
+22,1,Foreign Policy,United States,0,North America,effect
+22,1,Foreign Policy,Canada,0,North America,effect
+22,1,Foreign Policy,Philippines,2,Southeast & South Asia,effect
+22,1,Foreign Policy,Thailand,4,Southeast & South Asia,effect
+22,1,Foreign Policy,Cambodia,4,Southeast & South Asia,effect
+22,1,Foreign Policy,Malaysia,2,Southeast & South Asia,effect
+22,1,Foreign Policy,Germany,0,Europe,effect
+22,1,Foreign Policy,Estonia,0,Europe,effect
+22,1,Foreign Policy,Czech Republic,2,Europe,effect
+22,1,Foreign Policy,Bosnia and Herzegovina,0,Europe,effect
+22,1,Foreign Policy,Poland,2,Europe,effect
+23,1,Academia,Taiwan,2,East Asia,exposure
+23,1,Academia,Australia,4,Pacific,exposure
+23,1,Academia,New Zealand,3,Pacific,exposure
+23,1,Academia,Indonesia,4,Southeast & South Asia,exposure
+23,1,Academia,Singapore,4,Southeast & South Asia,exposure
+23,1,Academia,Georgia,3,Central Asia & South Caucasus,exposure
+23,1,Academia,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+23,1,Academia,Kazakhstan,4,Central Asia & South Caucasus,exposure
+23,1,Academia,Armenia,0,Central Asia & South Caucasus,exposure
+23,1,Academia,Tajikistan,3,Central Asia & South Caucasus,exposure
+23,1,Academia,Ethiopia,3,Africa,exposure
+23,1,Academia,Kenya,3,Africa,exposure
+23,1,Academia,Brazil,4,Latin America,exposure
+23,1,Academia,Bolívia,2,Latin America,exposure
+23,1,Academia,Argentina,3,Latin America,exposure
+23,1,Academia,Uruguay,1,Latin America,exposure
+23,1,Academia,Paraguay,0,Latin America,exposure
+23,1,Academia,Chile,3,Latin America,exposure
+23,1,Academia,Colombia,1,Latin America,exposure
+23,1,Academia,Mexico,3,Latin America,exposure
+23,1,Academia,Peru,3,Latin America,exposure
+23,1,Academia,Venezuela,3,Latin America,exposure
+23,1,Academia,South Korea,2,East Asia,exposure
+23,1,Academia,Japan,1,East Asia,exposure
+23,1,Academia,Vietnam,0,Southeast & South Asia,exposure
+23,1,Academia,United States,4,North America,exposure
+23,1,Academia,Canada,4,North America,exposure
+23,1,Academia,Philippines,3,Southeast & South Asia,exposure
+23,1,Academia,Thailand,4,Southeast & South Asia,exposure
+23,1,Academia,Cambodia,1,Southeast & South Asia,exposure
+23,1,Academia,Malaysia,2,Southeast & South Asia,exposure
+23,1,Academia,Germany,4,Europe,exposure
+23,1,Academia,Estonia,3,Europe,exposure
+23,1,Academia,Czech Republic,1,Europe,exposure
+23,1,Academia,Bosnia and Herzegovina,0,Europe,exposure
+23,1,Academia,Poland,3,Europe,exposure
+24,1,Academia,Taiwan,0,East Asia,exposure
+24,1,Academia,Australia,3,Pacific,exposure
+24,1,Academia,New Zealand,3,Pacific,exposure
+24,1,Academia,Indonesia,2,Southeast & South Asia,exposure
+24,1,Academia,Singapore,3,Southeast & South Asia,exposure
+24,1,Academia,Georgia,4,Central Asia & South Caucasus,exposure
+24,1,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+24,1,Academia,Kazakhstan,3,Central Asia & South Caucasus,exposure
+24,1,Academia,Armenia,3,Central Asia & South Caucasus,exposure
+24,1,Academia,Tajikistan,4,Central Asia & South Caucasus,exposure
+24,1,Academia,Ethiopia,4,Africa,exposure
+24,1,Academia,Kenya,3,Africa,exposure
+24,1,Academia,Brazil,4,Latin America,exposure
+24,1,Academia,Bolívia,1,Latin America,exposure
+24,1,Academia,Argentina,3,Latin America,exposure
+24,1,Academia,Uruguay,3,Latin America,exposure
+24,1,Academia,Paraguay,1,Latin America,exposure
+24,1,Academia,Chile,4,Latin America,exposure
+24,1,Academia,Colombia,1,Latin America,exposure
+24,1,Academia,Mexico,4,Latin America,exposure
+24,1,Academia,Peru,4,Latin America,exposure
+24,1,Academia,Venezuela,3,Latin America,exposure
+24,1,Academia,South Korea,2,East Asia,exposure
+24,1,Academia,Japan,2,East Asia,exposure
+24,1,Academia,Vietnam,1,Southeast & South Asia,exposure
+24,1,Academia,United States,4,North America,exposure
+24,1,Academia,Canada,4,North America,exposure
+24,1,Academia,Philippines,3,Southeast & South Asia,exposure
+24,1,Academia,Thailand,4,Southeast & South Asia,exposure
+24,1,Academia,Cambodia,3,Southeast & South Asia,exposure
+24,1,Academia,Malaysia,2,Southeast & South Asia,exposure
+24,1,Academia,Germany,4,Europe,exposure
+24,1,Academia,Estonia,3,Europe,exposure
+24,1,Academia,Czech Republic,1,Europe,exposure
+24,1,Academia,Bosnia and Herzegovina,3,Europe,exposure
+24,1,Academia,Poland,4,Europe,exposure
+25,0,Academia,Taiwan,0,East Asia,exposure
+25,0,Academia,Australia,0,Pacific,exposure
+25,0,Academia,New Zealand,0,Pacific,exposure
+25,0,Academia,Indonesia,0,Southeast & South Asia,exposure
+25,0,Academia,Singapore,4,Southeast & South Asia,exposure
+25,0,Academia,Georgia,4,Central Asia & South Caucasus,exposure
+25,0,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+25,0,Academia,Kazakhstan,4,Central Asia & South Caucasus,exposure
+25,0,Academia,Armenia,4,Central Asia & South Caucasus,exposure
+25,0,Academia,Tajikistan,0,Central Asia & South Caucasus,exposure
+25,0,Academia,Ethiopia,0,Africa,exposure
+25,0,Academia,Kenya,4,Africa,exposure
+25,0,Academia,Brazil,0,Latin America,exposure
+25,0,Academia,Bolívia,0,Latin America,exposure
+25,0,Academia,Argentina,4,Latin America,exposure
+25,0,Academia,Uruguay,4,Latin America,exposure
+25,0,Academia,Paraguay,0,Latin America,exposure
+25,0,Academia,Chile,4,Latin America,exposure
+25,0,Academia,Colombia,0,Latin America,exposure
+25,0,Academia,Mexico,4,Latin America,exposure
+25,0,Academia,Peru,4,Latin America,exposure
+25,0,Academia,Venezuela,0,Latin America,exposure
+25,0,Academia,South Korea,4,East Asia,exposure
+25,0,Academia,Japan,0,East Asia,exposure
+25,0,Academia,Vietnam,0,Southeast & South Asia,exposure
+25,0,Academia,United States,4,North America,exposure
+25,0,Academia,Canada,0,North America,exposure
+25,0,Academia,Philippines,0,Southeast & South Asia,exposure
+25,0,Academia,Thailand,0,Southeast & South Asia,exposure
+25,0,Academia,Cambodia,0,Southeast & South Asia,exposure
+25,0,Academia,Malaysia,0,Southeast & South Asia,exposure
+25,0,Academia,Germany,4,Europe,exposure
+25,0,Academia,Estonia,4,Europe,exposure
+25,0,Academia,Czech Republic,0,Europe,exposure
+25,0,Academia,Bosnia and Herzegovina,,Europe,exposure
+25,0,Academia,Poland,0,Europe,exposure
+26,1,Academia,Taiwan,1,East Asia,exposure
+26,1,Academia,Australia,0,Pacific,exposure
+26,1,Academia,New Zealand,0,Pacific,exposure
+26,1,Academia,Indonesia,1,Southeast & South Asia,exposure
+26,1,Academia,Singapore,3,Southeast & South Asia,exposure
+26,1,Academia,Georgia,2,Central Asia & South Caucasus,exposure
+26,1,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+26,1,Academia,Kazakhstan,3,Central Asia & South Caucasus,exposure
+26,1,Academia,Armenia,0,Central Asia & South Caucasus,exposure
+26,1,Academia,Tajikistan,3,Central Asia & South Caucasus,exposure
+26,1,Academia,Ethiopia,0,Africa,exposure
+26,1,Academia,Kenya,0,Africa,exposure
+26,1,Academia,Brazil,0,Latin America,exposure
+26,1,Academia,Bolívia,0,Latin America,exposure
+26,1,Academia,Argentina,1,Latin America,exposure
+26,1,Academia,Uruguay,0,Latin America,exposure
+26,1,Academia,Paraguay,0,Latin America,exposure
+26,1,Academia,Chile,0,Latin America,exposure
+26,1,Academia,Colombia,0,Latin America,exposure
+26,1,Academia,Mexico,0,Latin America,exposure
+26,1,Academia,Peru,4,Latin America,exposure
+26,1,Academia,Venezuela,0,Latin America,exposure
+26,1,Academia,South Korea,0,East Asia,exposure
+26,1,Academia,Japan,1,East Asia,exposure
+26,1,Academia,Vietnam,0,Southeast & South Asia,exposure
+26,1,Academia,United States,1,North America,exposure
+26,1,Academia,Canada,0,North America,exposure
+26,1,Academia,Philippines,2,Southeast & South Asia,exposure
+26,1,Academia,Thailand,3,Southeast & South Asia,exposure
+26,1,Academia,Cambodia,1,Southeast & South Asia,exposure
+26,1,Academia,Malaysia,3,Southeast & South Asia,exposure
+26,1,Academia,Germany,1,Europe,exposure
+26,1,Academia,Estonia,3,Europe,exposure
+26,1,Academia,Czech Republic,0,Europe,exposure
+26,1,Academia,Bosnia and Herzegovina,3,Europe,exposure
+26,1,Academia,Poland,3,Europe,exposure
+27,1,Academia,Taiwan,,East Asia,exposure
+27,1,Academia,Australia,3,Pacific,exposure
+27,1,Academia,New Zealand,,Pacific,exposure
+27,1,Academia,Indonesia,1,Southeast & South Asia,exposure
+27,1,Academia,Singapore,3,Southeast & South Asia,exposure
+27,1,Academia,Georgia,3,Central Asia & South Caucasus,exposure
+27,1,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+27,1,Academia,Kazakhstan,3,Central Asia & South Caucasus,exposure
+27,1,Academia,Armenia,0,Central Asia & South Caucasus,exposure
+27,1,Academia,Tajikistan,1,Central Asia & South Caucasus,exposure
+27,1,Academia,Ethiopia,0,Africa,exposure
+27,1,Academia,Kenya,,Africa,exposure
+27,1,Academia,Brazil,0,Latin America,exposure
+27,1,Academia,Bolívia,0,Latin America,exposure
+27,1,Academia,Argentina,1,Latin America,exposure
+27,1,Academia,Uruguay,4,Latin America,exposure
+27,1,Academia,Paraguay,0,Latin America,exposure
+27,1,Academia,Chile,2,Latin America,exposure
+27,1,Academia,Colombia,1,Latin America,exposure
+27,1,Academia,Mexico,3,Latin America,exposure
+27,1,Academia,Peru,0,Latin America,exposure
+27,1,Academia,Venezuela,3,Latin America,exposure
+27,1,Academia,South Korea,0,East Asia,exposure
+27,1,Academia,Japan,2,East Asia,exposure
+27,1,Academia,Vietnam,3,Southeast & South Asia,exposure
+27,1,Academia,United States,4,North America,exposure
+27,1,Academia,Canada,2,North America,exposure
+27,1,Academia,Philippines,3,Southeast & South Asia,exposure
+27,1,Academia,Thailand,0,Southeast & South Asia,exposure
+27,1,Academia,Cambodia,2,Southeast & South Asia,exposure
+27,1,Academia,Malaysia,2,Southeast & South Asia,exposure
+27,1,Academia,Germany,2,Europe,exposure
+27,1,Academia,Estonia,0,Europe,exposure
+27,1,Academia,Czech Republic,3,Europe,exposure
+27,1,Academia,Bosnia and Herzegovina,3,Europe,exposure
+27,1,Academia,Poland,,Europe,exposure
+28,1,Academia,Taiwan,4,East Asia,exposure
+28,1,Academia,Australia,2,Pacific,exposure
+28,1,Academia,New Zealand,1,Pacific,exposure
+28,1,Academia,Indonesia,1,Southeast & South Asia,exposure
+28,1,Academia,Singapore,3,Southeast & South Asia,exposure
+28,1,Academia,Georgia,3,Central Asia & South Caucasus,exposure
+28,1,Academia,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+28,1,Academia,Kazakhstan,0,Central Asia & South Caucasus,exposure
+28,1,Academia,Armenia,0,Central Asia & South Caucasus,exposure
+28,1,Academia,Tajikistan,2,Central Asia & South Caucasus,exposure
+28,1,Academia,Ethiopia,0,Africa,exposure
+28,1,Academia,Kenya,0,Africa,exposure
+28,1,Academia,Brazil,1,Latin America,exposure
+28,1,Academia,Bolívia,3,Latin America,exposure
+28,1,Academia,Argentina,0,Latin America,exposure
+28,1,Academia,Uruguay,0,Latin America,exposure
+28,1,Academia,Paraguay,0,Latin America,exposure
+28,1,Academia,Chile,0,Latin America,exposure
+28,1,Academia,Colombia,0,Latin America,exposure
+28,1,Academia,Mexico,0,Latin America,exposure
+28,1,Academia,Peru,0,Latin America,exposure
+28,1,Academia,Venezuela,1,Latin America,exposure
+28,1,Academia,South Korea,3,East Asia,exposure
+28,1,Academia,Japan,2,East Asia,exposure
+28,1,Academia,Vietnam,0,Southeast & South Asia,exposure
+28,1,Academia,United States,4,North America,exposure
+28,1,Academia,Canada,4,North America,exposure
+28,1,Academia,Philippines,0,Southeast & South Asia,exposure
+28,1,Academia,Thailand,3,Southeast & South Asia,exposure
+28,1,Academia,Cambodia,0,Southeast & South Asia,exposure
+28,1,Academia,Malaysia,0,Southeast & South Asia,exposure
+28,1,Academia,Germany,4,Europe,exposure
+28,1,Academia,Estonia,0,Europe,exposure
+28,1,Academia,Czech Republic,1,Europe,exposure
+28,1,Academia,Bosnia and Herzegovina,0,Europe,exposure
+28,1,Academia,Poland,,Europe,exposure
+29,1,Academia,Taiwan,,East Asia,exposure
+29,1,Academia,Australia,0,Pacific,exposure
+29,1,Academia,New Zealand,1,Pacific,exposure
+29,1,Academia,Indonesia,1,Southeast & South Asia,exposure
+29,1,Academia,Singapore,4,Southeast & South Asia,exposure
+29,1,Academia,Georgia,3,Central Asia & South Caucasus,exposure
+29,1,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+29,1,Academia,Kazakhstan,3,Central Asia & South Caucasus,exposure
+29,1,Academia,Armenia,2,Central Asia & South Caucasus,exposure
+29,1,Academia,Tajikistan,0,Central Asia & South Caucasus,exposure
+29,1,Academia,Ethiopia,3,Africa,exposure
+29,1,Academia,Kenya,,Africa,exposure
+29,1,Academia,Brazil,,Latin America,exposure
+29,1,Academia,Bolívia,0,Latin America,exposure
+29,1,Academia,Argentina,3,Latin America,exposure
+29,1,Academia,Uruguay,0,Latin America,exposure
+29,1,Academia,Paraguay,1,Latin America,exposure
+29,1,Academia,Chile,1,Latin America,exposure
+29,1,Academia,Colombia,1,Latin America,exposure
+29,1,Academia,Mexico,4,Latin America,exposure
+29,1,Academia,Peru,4,Latin America,exposure
+29,1,Academia,Venezuela,3,Latin America,exposure
+29,1,Academia,South Korea,4,East Asia,exposure
+29,1,Academia,Japan,2,East Asia,exposure
+29,1,Academia,Vietnam,0,Southeast & South Asia,exposure
+29,1,Academia,United States,4,North America,exposure
+29,1,Academia,Canada,4,North America,exposure
+29,1,Academia,Philippines,4,Southeast & South Asia,exposure
+29,1,Academia,Thailand,4,Southeast & South Asia,exposure
+29,1,Academia,Cambodia,1,Southeast & South Asia,exposure
+29,1,Academia,Malaysia,,Southeast & South Asia,exposure
+29,1,Academia,Germany,3,Europe,exposure
+29,1,Academia,Estonia,1,Europe,exposure
+29,1,Academia,Czech Republic,1,Europe,exposure
+29,1,Academia,Bosnia and Herzegovina,4,Europe,exposure
+29,1,Academia,Poland,1,Europe,exposure
+30,1,Academia,Taiwan,2,East Asia,pressure
+30,1,Academia,Australia,3,Pacific,pressure
+30,1,Academia,New Zealand,3,Pacific,pressure
+30,1,Academia,Indonesia,0,Southeast & South Asia,pressure
+30,1,Academia,Singapore,2,Southeast & South Asia,pressure
+30,1,Academia,Georgia,0,Central Asia & South Caucasus,pressure
+30,1,Academia,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+30,1,Academia,Kazakhstan,0,Central Asia & South Caucasus,pressure
+30,1,Academia,Armenia,0,Central Asia & South Caucasus,pressure
+30,1,Academia,Tajikistan,0,Central Asia & South Caucasus,pressure
+30,1,Academia,Ethiopia,0,Africa,pressure
+30,1,Academia,Kenya,0,Africa,pressure
+30,1,Academia,Brazil,0,Latin America,pressure
+30,1,Academia,Bolívia,0,Latin America,pressure
+30,1,Academia,Argentina,0,Latin America,pressure
+30,1,Academia,Uruguay,0,Latin America,pressure
+30,1,Academia,Paraguay,0,Latin America,pressure
+30,1,Academia,Chile,0,Latin America,pressure
+30,1,Academia,Colombia,0,Latin America,pressure
+30,1,Academia,Mexico,0,Latin America,pressure
+30,1,Academia,Peru,0,Latin America,pressure
+30,1,Academia,Venezuela,0,Latin America,pressure
+30,1,Academia,South Korea,4,East Asia,pressure
+30,1,Academia,Japan,1,East Asia,pressure
+30,1,Academia,Vietnam,0,Southeast & South Asia,pressure
+30,1,Academia,United States,4,North America,pressure
+30,1,Academia,Canada,4,North America,pressure
+30,1,Academia,Philippines,1,Southeast & South Asia,pressure
+30,1,Academia,Thailand,0,Southeast & South Asia,pressure
+30,1,Academia,Cambodia,0,Southeast & South Asia,pressure
+30,1,Academia,Malaysia,0,Southeast & South Asia,pressure
+30,1,Academia,Germany,3,Europe,pressure
+30,1,Academia,Estonia,1,Europe,pressure
+30,1,Academia,Czech Republic,0,Europe,pressure
+30,1,Academia,Bosnia and Herzegovina,0,Europe,pressure
+30,1,Academia,Poland,1,Europe,pressure
+31,1,Academia,Taiwan,3,East Asia,pressure
+31,1,Academia,Australia,3,Pacific,pressure
+31,1,Academia,New Zealand,0,Pacific,pressure
+31,1,Academia,Indonesia,0,Southeast & South Asia,pressure
+31,1,Academia,Singapore,0,Southeast & South Asia,pressure
+31,1,Academia,Georgia,0,Central Asia & South Caucasus,pressure
+31,1,Academia,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+31,1,Academia,Kazakhstan,,Central Asia & South Caucasus,pressure
+31,1,Academia,Armenia,0,Central Asia & South Caucasus,pressure
+31,1,Academia,Tajikistan,0,Central Asia & South Caucasus,pressure
+31,1,Academia,Ethiopia,0,Africa,pressure
+31,1,Academia,Kenya,,Africa,pressure
+31,1,Academia,Brazil,0,Latin America,pressure
+31,1,Academia,Bolívia,0,Latin America,pressure
+31,1,Academia,Argentina,0,Latin America,pressure
+31,1,Academia,Uruguay,0,Latin America,pressure
+31,1,Academia,Paraguay,0,Latin America,pressure
+31,1,Academia,Chile,0,Latin America,pressure
+31,1,Academia,Colombia,0,Latin America,pressure
+31,1,Academia,Mexico,0,Latin America,pressure
+31,1,Academia,Peru,0,Latin America,pressure
+31,1,Academia,Venezuela,0,Latin America,pressure
+31,1,Academia,South Korea,0,East Asia,pressure
+31,1,Academia,Japan,4,East Asia,pressure
+31,1,Academia,Vietnam,,Southeast & South Asia,pressure
+31,1,Academia,United States,4,North America,pressure
+31,1,Academia,Canada,0,North America,pressure
+31,1,Academia,Philippines,0,Southeast & South Asia,pressure
+31,1,Academia,Thailand,0,Southeast & South Asia,pressure
+31,1,Academia,Cambodia,0,Southeast & South Asia,pressure
+31,1,Academia,Malaysia,0,Southeast & South Asia,pressure
+31,1,Academia,Germany,4,Europe,pressure
+31,1,Academia,Estonia,3,Europe,pressure
+31,1,Academia,Czech Republic,0,Europe,pressure
+31,1,Academia,Bosnia and Herzegovina,,Europe,pressure
+31,1,Academia,Poland,0,Europe,pressure
+32,0,Academia,Taiwan,0,East Asia,effect
+32,0,Academia,Australia,0,Pacific,effect
+32,0,Academia,New Zealand,,Pacific,effect
+32,0,Academia,Indonesia,0,Southeast & South Asia,effect
+32,0,Academia,Singapore,4,Southeast & South Asia,effect
+32,0,Academia,Georgia,0,Central Asia & South Caucasus,effect
+32,0,Academia,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+32,0,Academia,Kazakhstan,0,Central Asia & South Caucasus,effect
+32,0,Academia,Armenia,4,Central Asia & South Caucasus,effect
+32,0,Academia,Tajikistan,4,Central Asia & South Caucasus,effect
+32,0,Academia,Ethiopia,0,Africa,effect
+32,0,Academia,Kenya,4,Africa,effect
+32,0,Academia,Brazil,0,Latin America,effect
+32,0,Academia,Bolívia,0,Latin America,effect
+32,0,Academia,Argentina,0,Latin America,effect
+32,0,Academia,Uruguay,0,Latin America,effect
+32,0,Academia,Paraguay,0,Latin America,effect
+32,0,Academia,Chile,0,Latin America,effect
+32,0,Academia,Colombia,0,Latin America,effect
+32,0,Academia,Mexico,4,Latin America,effect
+32,0,Academia,Peru,4,Latin America,effect
+32,0,Academia,Venezuela,0,Latin America,effect
+32,0,Academia,South Korea,0,East Asia,effect
+32,0,Academia,Japan,0,East Asia,effect
+32,0,Academia,Vietnam,0,Southeast & South Asia,effect
+32,0,Academia,United States,0,North America,effect
+32,0,Academia,Canada,4,North America,effect
+32,0,Academia,Philippines,0,Southeast & South Asia,effect
+32,0,Academia,Thailand,4,Southeast & South Asia,effect
+32,0,Academia,Cambodia,4,Southeast & South Asia,effect
+32,0,Academia,Malaysia,4,Southeast & South Asia,effect
+32,0,Academia,Germany,4,Europe,effect
+32,0,Academia,Estonia,0,Europe,effect
+32,0,Academia,Czech Republic,0,Europe,effect
+32,0,Academia,Bosnia and Herzegovina,0,Europe,effect
+32,0,Academia,Poland,0,Europe,effect
+33,1,Academia,Taiwan,3,East Asia,effect
+33,1,Academia,Australia,4,Pacific,effect
+33,1,Academia,New Zealand,0,Pacific,effect
+33,1,Academia,Indonesia,0,Southeast & South Asia,effect
+33,1,Academia,Singapore,,Southeast & South Asia,effect
+33,1,Academia,Georgia,0,Central Asia & South Caucasus,effect
+33,1,Academia,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+33,1,Academia,Kazakhstan,0,Central Asia & South Caucasus,effect
+33,1,Academia,Armenia,0,Central Asia & South Caucasus,effect
+33,1,Academia,Tajikistan,0,Central Asia & South Caucasus,effect
+33,1,Academia,Ethiopia,0,Africa,effect
+33,1,Academia,Kenya,0,Africa,effect
+33,1,Academia,Brazil,0,Latin America,effect
+33,1,Academia,Bolívia,0,Latin America,effect
+33,1,Academia,Argentina,0,Latin America,effect
+33,1,Academia,Uruguay,0,Latin America,effect
+33,1,Academia,Paraguay,0,Latin America,effect
+33,1,Academia,Chile,0,Latin America,effect
+33,1,Academia,Colombia,0,Latin America,effect
+33,1,Academia,Mexico,0,Latin America,effect
+33,1,Academia,Peru,0,Latin America,effect
+33,1,Academia,Venezuela,0,Latin America,effect
+33,1,Academia,South Korea,2,East Asia,effect
+33,1,Academia,Japan,0,East Asia,effect
+33,1,Academia,Vietnam,,Southeast & South Asia,effect
+33,1,Academia,United States,4,North America,effect
+33,1,Academia,Canada,4,North America,effect
+33,1,Academia,Philippines,,Southeast & South Asia,effect
+33,1,Academia,Thailand,,Southeast & South Asia,effect
+33,1,Academia,Cambodia,0,Southeast & South Asia,effect
+33,1,Academia,Malaysia,0,Southeast & South Asia,effect
+33,1,Academia,Germany,3,Europe,effect
+33,1,Academia,Estonia,3,Europe,effect
+33,1,Academia,Czech Republic,0,Europe,effect
+33,1,Academia,Bosnia and Herzegovina,0,Europe,effect
+33,1,Academia,Poland,0,Europe,effect
+34,1,Domestic Politics,Taiwan,2,East Asia,exposure
+34,1,Domestic Politics,Australia,3,Pacific,exposure
+34,1,Domestic Politics,New Zealand,3,Pacific,exposure
+34,1,Domestic Politics,Indonesia,4,Southeast & South Asia,exposure
+34,1,Domestic Politics,Singapore,0,Southeast & South Asia,exposure
+34,1,Domestic Politics,Georgia,4,Central Asia & South Caucasus,exposure
+34,1,Domestic Politics,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+34,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,exposure
+34,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,exposure
+34,1,Domestic Politics,Tajikistan,4,Central Asia & South Caucasus,exposure
+34,1,Domestic Politics,Ethiopia,0,Africa,exposure
+34,1,Domestic Politics,Kenya,4,Africa,exposure
+34,1,Domestic Politics,Brazil,3,Latin America,exposure
+34,1,Domestic Politics,Bolívia,3,Latin America,exposure
+34,1,Domestic Politics,Argentina,4,Latin America,exposure
+34,1,Domestic Politics,Uruguay,3,Latin America,exposure
+34,1,Domestic Politics,Paraguay,0,Latin America,exposure
+34,1,Domestic Politics,Chile,2,Latin America,exposure
+34,1,Domestic Politics,Colombia,3,Latin America,exposure
+34,1,Domestic Politics,Mexico,4,Latin America,exposure
+34,1,Domestic Politics,Peru,4,Latin America,exposure
+34,1,Domestic Politics,Venezuela,3,Latin America,exposure
+34,1,Domestic Politics,South Korea,4,East Asia,exposure
+34,1,Domestic Politics,Japan,0,East Asia,exposure
+34,1,Domestic Politics,Vietnam,3,Southeast & South Asia,exposure
+34,1,Domestic Politics,United States,,North America,exposure
+34,1,Domestic Politics,Canada,4,North America,exposure
+34,1,Domestic Politics,Philippines,4,Southeast & South Asia,exposure
+34,1,Domestic Politics,Thailand,4,Southeast & South Asia,exposure
+34,1,Domestic Politics,Cambodia,0,Southeast & South Asia,exposure
+34,1,Domestic Politics,Malaysia,0,Southeast & South Asia,exposure
+34,1,Domestic Politics,Germany,4,Europe,exposure
+34,1,Domestic Politics,Estonia,0,Europe,exposure
+34,1,Domestic Politics,Czech Republic,2,Europe,exposure
+34,1,Domestic Politics,Bosnia and Herzegovina,1,Europe,exposure
+34,1,Domestic Politics,Poland,2,Europe,exposure
+35,1,Domestic Politics,Taiwan,1,East Asia,exposure
+35,1,Domestic Politics,Australia,4,Pacific,exposure
+35,1,Domestic Politics,New Zealand,4,Pacific,exposure
+35,1,Domestic Politics,Indonesia,2,Southeast & South Asia,exposure
+35,1,Domestic Politics,Singapore,0,Southeast & South Asia,exposure
+35,1,Domestic Politics,Georgia,3,Central Asia & South Caucasus,exposure
+35,1,Domestic Politics,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+35,1,Domestic Politics,Kazakhstan,2,Central Asia & South Caucasus,exposure
+35,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,exposure
+35,1,Domestic Politics,Tajikistan,2,Central Asia & South Caucasus,exposure
+35,1,Domestic Politics,Ethiopia,3,Africa,exposure
+35,1,Domestic Politics,Kenya,3,Africa,exposure
+35,1,Domestic Politics,Brazil,4,Latin America,exposure
+35,1,Domestic Politics,Bolívia,3,Latin America,exposure
+35,1,Domestic Politics,Argentina,4,Latin America,exposure
+35,1,Domestic Politics,Uruguay,4,Latin America,exposure
+35,1,Domestic Politics,Paraguay,0,Latin America,exposure
+35,1,Domestic Politics,Chile,2,Latin America,exposure
+35,1,Domestic Politics,Colombia,1,Latin America,exposure
+35,1,Domestic Politics,Mexico,4,Latin America,exposure
+35,1,Domestic Politics,Peru,4,Latin America,exposure
+35,1,Domestic Politics,Venezuela,0,Latin America,exposure
+35,1,Domestic Politics,South Korea,4,East Asia,exposure
+35,1,Domestic Politics,Japan,2,East Asia,exposure
+35,1,Domestic Politics,Vietnam,3,Southeast & South Asia,exposure
+35,1,Domestic Politics,United States,4,North America,exposure
+35,1,Domestic Politics,Canada,4,North America,exposure
+35,1,Domestic Politics,Philippines,3,Southeast & South Asia,exposure
+35,1,Domestic Politics,Thailand,4,Southeast & South Asia,exposure
+35,1,Domestic Politics,Cambodia,4,Southeast & South Asia,exposure
+35,1,Domestic Politics,Malaysia,4,Southeast & South Asia,exposure
+35,1,Domestic Politics,Germany,4,Europe,exposure
+35,1,Domestic Politics,Estonia,3,Europe,exposure
+35,1,Domestic Politics,Czech Republic,1,Europe,exposure
+35,1,Domestic Politics,Bosnia and Herzegovina,3,Europe,exposure
+35,1,Domestic Politics,Poland,2,Europe,exposure
+36,1,Domestic Politics,Taiwan,4,East Asia,exposure
+36,1,Domestic Politics,Australia,4,Pacific,exposure
+36,1,Domestic Politics,New Zealand,3,Pacific,exposure
+36,1,Domestic Politics,Indonesia,2,Southeast & South Asia,exposure
+36,1,Domestic Politics,Singapore,3,Southeast & South Asia,exposure
+36,1,Domestic Politics,Georgia,3,Central Asia & South Caucasus,exposure
+36,1,Domestic Politics,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+36,1,Domestic Politics,Kazakhstan,3,Central Asia & South Caucasus,exposure
+36,1,Domestic Politics,Armenia,1,Central Asia & South Caucasus,exposure
+36,1,Domestic Politics,Tajikistan,0,Central Asia & South Caucasus,exposure
+36,1,Domestic Politics,Ethiopia,0,Africa,exposure
+36,1,Domestic Politics,Kenya,1,Africa,exposure
+36,1,Domestic Politics,Brazil,3,Latin America,exposure
+36,1,Domestic Politics,Bolívia,0,Latin America,exposure
+36,1,Domestic Politics,Argentina,4,Latin America,exposure
+36,1,Domestic Politics,Uruguay,3,Latin America,exposure
+36,1,Domestic Politics,Paraguay,0,Latin America,exposure
+36,1,Domestic Politics,Chile,4,Latin America,exposure
+36,1,Domestic Politics,Colombia,1,Latin America,exposure
+36,1,Domestic Politics,Mexico,3,Latin America,exposure
+36,1,Domestic Politics,Peru,4,Latin America,exposure
+36,1,Domestic Politics,Venezuela,4,Latin America,exposure
+36,1,Domestic Politics,South Korea,0,East Asia,exposure
+36,1,Domestic Politics,Japan,3,East Asia,exposure
+36,1,Domestic Politics,Vietnam,4,Southeast & South Asia,exposure
+36,1,Domestic Politics,United States,4,North America,exposure
+36,1,Domestic Politics,Canada,0,North America,exposure
+36,1,Domestic Politics,Philippines,3,Southeast & South Asia,exposure
+36,1,Domestic Politics,Thailand,,Southeast & South Asia,exposure
+36,1,Domestic Politics,Cambodia,,Southeast & South Asia,exposure
+36,1,Domestic Politics,Malaysia,2,Southeast & South Asia,exposure
+36,1,Domestic Politics,Germany,4,Europe,exposure
+36,1,Domestic Politics,Estonia,3,Europe,exposure
+36,1,Domestic Politics,Czech Republic,1,Europe,exposure
+36,1,Domestic Politics,Bosnia and Herzegovina,0,Europe,exposure
+36,1,Domestic Politics,Poland,3,Europe,exposure
+37,1,Domestic Politics,Taiwan,4,East Asia,exposure
+37,1,Domestic Politics,Australia,3,Pacific,exposure
+37,1,Domestic Politics,New Zealand,3,Pacific,exposure
+37,1,Domestic Politics,Indonesia,4,Southeast & South Asia,exposure
+37,1,Domestic Politics,Singapore,4,Southeast & South Asia,exposure
+37,1,Domestic Politics,Georgia,4,Central Asia & South Caucasus,exposure
+37,1,Domestic Politics,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+37,1,Domestic Politics,Kazakhstan,4,Central Asia & South Caucasus,exposure
+37,1,Domestic Politics,Armenia,1,Central Asia & South Caucasus,exposure
+37,1,Domestic Politics,Tajikistan,4,Central Asia & South Caucasus,exposure
+37,1,Domestic Politics,Ethiopia,3,Africa,exposure
+37,1,Domestic Politics,Kenya,3,Africa,exposure
+37,1,Domestic Politics,Brazil,3,Latin America,exposure
+37,1,Domestic Politics,Bolívia,3,Latin America,exposure
+37,1,Domestic Politics,Argentina,3,Latin America,exposure
+37,1,Domestic Politics,Uruguay,4,Latin America,exposure
+37,1,Domestic Politics,Paraguay,,Latin America,exposure
+37,1,Domestic Politics,Chile,4,Latin America,exposure
+37,1,Domestic Politics,Colombia,1,Latin America,exposure
+37,1,Domestic Politics,Mexico,3,Latin America,exposure
+37,1,Domestic Politics,Peru,4,Latin America,exposure
+37,1,Domestic Politics,Venezuela,4,Latin America,exposure
+37,1,Domestic Politics,South Korea,4,East Asia,exposure
+37,1,Domestic Politics,Japan,3,East Asia,exposure
+37,1,Domestic Politics,Vietnam,3,Southeast & South Asia,exposure
+37,1,Domestic Politics,United States,4,North America,exposure
+37,1,Domestic Politics,Canada,2,North America,exposure
+37,1,Domestic Politics,Philippines,4,Southeast & South Asia,exposure
+37,1,Domestic Politics,Thailand,2,Southeast & South Asia,exposure
+37,1,Domestic Politics,Cambodia,3,Southeast & South Asia,exposure
+37,1,Domestic Politics,Malaysia,3,Southeast & South Asia,exposure
+37,1,Domestic Politics,Germany,4,Europe,exposure
+37,1,Domestic Politics,Estonia,3,Europe,exposure
+37,1,Domestic Politics,Czech Republic,4,Europe,exposure
+37,1,Domestic Politics,Bosnia and Herzegovina,4,Europe,exposure
+37,1,Domestic Politics,Poland,3,Europe,exposure
+38,1,Domestic Politics,Taiwan,0,East Asia,exposure
+38,1,Domestic Politics,Australia,3,Pacific,exposure
+38,1,Domestic Politics,New Zealand,,Pacific,exposure
+38,1,Domestic Politics,Indonesia,3,Southeast & South Asia,exposure
+38,1,Domestic Politics,Singapore,3,Southeast & South Asia,exposure
+38,1,Domestic Politics,Georgia,0,Central Asia & South Caucasus,exposure
+38,1,Domestic Politics,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+38,1,Domestic Politics,Kazakhstan,1,Central Asia & South Caucasus,exposure
+38,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,exposure
+38,1,Domestic Politics,Tajikistan,0,Central Asia & South Caucasus,exposure
+38,1,Domestic Politics,Ethiopia,3,Africa,exposure
+38,1,Domestic Politics,Kenya,3,Africa,exposure
+38,1,Domestic Politics,Brazil,1,Latin America,exposure
+38,1,Domestic Politics,Bolívia,3,Latin America,exposure
+38,1,Domestic Politics,Argentina,3,Latin America,exposure
+38,1,Domestic Politics,Uruguay,0,Latin America,exposure
+38,1,Domestic Politics,Paraguay,0,Latin America,exposure
+38,1,Domestic Politics,Chile,2,Latin America,exposure
+38,1,Domestic Politics,Colombia,1,Latin America,exposure
+38,1,Domestic Politics,Mexico,1,Latin America,exposure
+38,1,Domestic Politics,Peru,4,Latin America,exposure
+38,1,Domestic Politics,Venezuela,3,Latin America,exposure
+38,1,Domestic Politics,South Korea,0,East Asia,exposure
+38,1,Domestic Politics,Japan,0,East Asia,exposure
+38,1,Domestic Politics,Vietnam,0,Southeast & South Asia,exposure
+38,1,Domestic Politics,United States,0,North America,exposure
+38,1,Domestic Politics,Canada,0,North America,exposure
+38,1,Domestic Politics,Philippines,4,Southeast & South Asia,exposure
+38,1,Domestic Politics,Thailand,3,Southeast & South Asia,exposure
+38,1,Domestic Politics,Cambodia,3,Southeast & South Asia,exposure
+38,1,Domestic Politics,Malaysia,2,Southeast & South Asia,exposure
+38,1,Domestic Politics,Germany,1,Europe,exposure
+38,1,Domestic Politics,Estonia,0,Europe,exposure
+38,1,Domestic Politics,Czech Republic,0,Europe,exposure
+38,1,Domestic Politics,Bosnia and Herzegovina,0,Europe,exposure
+38,1,Domestic Politics,Poland,0,Europe,exposure
+39,1,Domestic Politics,Taiwan,3,East Asia,exposure
+39,1,Domestic Politics,Australia,4,Pacific,exposure
+39,1,Domestic Politics,New Zealand,3,Pacific,exposure
+39,1,Domestic Politics,Indonesia,0,Southeast & South Asia,exposure
+39,1,Domestic Politics,Singapore,0,Southeast & South Asia,exposure
+39,1,Domestic Politics,Georgia,0,Central Asia & South Caucasus,exposure
+39,1,Domestic Politics,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+39,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,exposure
+39,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,exposure
+39,1,Domestic Politics,Tajikistan,0,Central Asia & South Caucasus,exposure
+39,1,Domestic Politics,Ethiopia,0,Africa,exposure
+39,1,Domestic Politics,Kenya,0,Africa,exposure
+39,1,Domestic Politics,Brazil,0,Latin America,exposure
+39,1,Domestic Politics,Bolívia,0,Latin America,exposure
+39,1,Domestic Politics,Argentina,0,Latin America,exposure
+39,1,Domestic Politics,Uruguay,0,Latin America,exposure
+39,1,Domestic Politics,Paraguay,0,Latin America,exposure
+39,1,Domestic Politics,Chile,0,Latin America,exposure
+39,1,Domestic Politics,Colombia,0,Latin America,exposure
+39,1,Domestic Politics,Mexico,3,Latin America,exposure
+39,1,Domestic Politics,Peru,0,Latin America,exposure
+39,1,Domestic Politics,Venezuela,0,Latin America,exposure
+39,1,Domestic Politics,South Korea,0,East Asia,exposure
+39,1,Domestic Politics,Japan,3,East Asia,exposure
+39,1,Domestic Politics,Vietnam,0,Southeast & South Asia,exposure
+39,1,Domestic Politics,United States,3,North America,exposure
+39,1,Domestic Politics,Canada,0,North America,exposure
+39,1,Domestic Politics,Philippines,,Southeast & South Asia,exposure
+39,1,Domestic Politics,Thailand,0,Southeast & South Asia,exposure
+39,1,Domestic Politics,Cambodia,,Southeast & South Asia,exposure
+39,1,Domestic Politics,Malaysia,3,Southeast & South Asia,exposure
+39,1,Domestic Politics,Germany,0,Europe,exposure
+39,1,Domestic Politics,Estonia,0,Europe,exposure
+39,1,Domestic Politics,Czech Republic,0,Europe,exposure
+39,1,Domestic Politics,Bosnia and Herzegovina,0,Europe,exposure
+39,1,Domestic Politics,Poland,0,Europe,exposure
+40,1,Domestic Politics,Taiwan,3,East Asia,pressure
+40,1,Domestic Politics,Australia,3,Pacific,pressure
+40,1,Domestic Politics,New Zealand,3,Pacific,pressure
+40,1,Domestic Politics,Indonesia,0,Southeast & South Asia,pressure
+40,1,Domestic Politics,Singapore,3,Southeast & South Asia,pressure
+40,1,Domestic Politics,Georgia,0,Central Asia & South Caucasus,pressure
+40,1,Domestic Politics,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+40,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,pressure
+40,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,pressure
+40,1,Domestic Politics,Tajikistan,0,Central Asia & South Caucasus,pressure
+40,1,Domestic Politics,Ethiopia,0,Africa,pressure
+40,1,Domestic Politics,Kenya,0,Africa,pressure
+40,1,Domestic Politics,Brazil,0,Latin America,pressure
+40,1,Domestic Politics,Bolívia,0,Latin America,pressure
+40,1,Domestic Politics,Argentina,0,Latin America,pressure
+40,1,Domestic Politics,Uruguay,0,Latin America,pressure
+40,1,Domestic Politics,Paraguay,0,Latin America,pressure
+40,1,Domestic Politics,Chile,0,Latin America,pressure
+40,1,Domestic Politics,Colombia,0,Latin America,pressure
+40,1,Domestic Politics,Mexico,0,Latin America,pressure
+40,1,Domestic Politics,Peru,1,Latin America,pressure
+40,1,Domestic Politics,Venezuela,0,Latin America,pressure
+40,1,Domestic Politics,South Korea,3,East Asia,pressure
+40,1,Domestic Politics,Japan,1,East Asia,pressure
+40,1,Domestic Politics,Vietnam,0,Southeast & South Asia,pressure
+40,1,Domestic Politics,United States,4,North America,pressure
+40,1,Domestic Politics,Canada,0,North America,pressure
+40,1,Domestic Politics,Philippines,3,Southeast & South Asia,pressure
+40,1,Domestic Politics,Thailand,3,Southeast & South Asia,pressure
+40,1,Domestic Politics,Cambodia,0,Southeast & South Asia,pressure
+40,1,Domestic Politics,Malaysia,0,Southeast & South Asia,pressure
+40,1,Domestic Politics,Germany,1,Europe,pressure
+40,1,Domestic Politics,Estonia,0,Europe,pressure
+40,1,Domestic Politics,Czech Republic,0,Europe,pressure
+40,1,Domestic Politics,Bosnia and Herzegovina,0,Europe,pressure
+40,1,Domestic Politics,Poland,0,Europe,pressure
+41,1,Domestic Politics,Taiwan,0,East Asia,pressure
+41,1,Domestic Politics,Australia,0,Pacific,pressure
+41,1,Domestic Politics,New Zealand,0,Pacific,pressure
+41,1,Domestic Politics,Indonesia,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Singapore,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Georgia,0,Central Asia & South Caucasus,pressure
+41,1,Domestic Politics,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+41,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,pressure
+41,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,pressure
+41,1,Domestic Politics,Tajikistan,0,Central Asia & South Caucasus,pressure
+41,1,Domestic Politics,Ethiopia,0,Africa,pressure
+41,1,Domestic Politics,Kenya,0,Africa,pressure
+41,1,Domestic Politics,Brazil,0,Latin America,pressure
+41,1,Domestic Politics,Bolívia,0,Latin America,pressure
+41,1,Domestic Politics,Argentina,0,Latin America,pressure
+41,1,Domestic Politics,Uruguay,0,Latin America,pressure
+41,1,Domestic Politics,Paraguay,0,Latin America,pressure
+41,1,Domestic Politics,Chile,0,Latin America,pressure
+41,1,Domestic Politics,Colombia,0,Latin America,pressure
+41,1,Domestic Politics,Mexico,0,Latin America,pressure
+41,1,Domestic Politics,Peru,0,Latin America,pressure
+41,1,Domestic Politics,Venezuela,0,Latin America,pressure
+41,1,Domestic Politics,South Korea,0,East Asia,pressure
+41,1,Domestic Politics,Japan,0,East Asia,pressure
+41,1,Domestic Politics,Vietnam,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,United States,,North America,pressure
+41,1,Domestic Politics,Canada,0,North America,pressure
+41,1,Domestic Politics,Philippines,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Thailand,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Cambodia,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Malaysia,0,Southeast & South Asia,pressure
+41,1,Domestic Politics,Germany,1,Europe,pressure
+41,1,Domestic Politics,Estonia,0,Europe,pressure
+41,1,Domestic Politics,Czech Republic,0,Europe,pressure
+41,1,Domestic Politics,Bosnia and Herzegovina,0,Europe,pressure
+41,1,Domestic Politics,Poland,0,Europe,pressure
+42,1,Domestic Politics,Taiwan,4,East Asia,effect
+42,1,Domestic Politics,Australia,0,Pacific,effect
+42,1,Domestic Politics,New Zealand,0,Pacific,effect
+42,1,Domestic Politics,Indonesia,4,Southeast & South Asia,effect
+42,1,Domestic Politics,Singapore,0,Southeast & South Asia,effect
+42,1,Domestic Politics,Georgia,4,Central Asia & South Caucasus,effect
+42,1,Domestic Politics,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+42,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,effect
+42,1,Domestic Politics,Armenia,4,Central Asia & South Caucasus,effect
+42,1,Domestic Politics,Tajikistan,4,Central Asia & South Caucasus,effect
+42,1,Domestic Politics,Ethiopia,3,Africa,effect
+42,1,Domestic Politics,Kenya,3,Africa,effect
+42,1,Domestic Politics,Brazil,0,Latin America,effect
+42,1,Domestic Politics,Bolívia,0,Latin America,effect
+42,1,Domestic Politics,Argentina,4,Latin America,effect
+42,1,Domestic Politics,Uruguay,4,Latin America,effect
+42,1,Domestic Politics,Paraguay,0,Latin America,effect
+42,1,Domestic Politics,Chile,4,Latin America,effect
+42,1,Domestic Politics,Colombia,4,Latin America,effect
+42,1,Domestic Politics,Mexico,4,Latin America,effect
+42,1,Domestic Politics,Peru,0,Latin America,effect
+42,1,Domestic Politics,Venezuela,4,Latin America,effect
+42,1,Domestic Politics,South Korea,4,East Asia,effect
+42,1,Domestic Politics,Japan,1,East Asia,effect
+42,1,Domestic Politics,Vietnam,0,Southeast & South Asia,effect
+42,1,Domestic Politics,United States,,North America,effect
+42,1,Domestic Politics,Canada,0,North America,effect
+42,1,Domestic Politics,Philippines,4,Southeast & South Asia,effect
+42,1,Domestic Politics,Thailand,4,Southeast & South Asia,effect
+42,1,Domestic Politics,Cambodia,4,Southeast & South Asia,effect
+42,1,Domestic Politics,Malaysia,4,Southeast & South Asia,effect
+42,1,Domestic Politics,Germany,4,Europe,effect
+42,1,Domestic Politics,Estonia,1,Europe,effect
+42,1,Domestic Politics,Czech Republic,2,Europe,effect
+42,1,Domestic Politics,Bosnia and Herzegovina,4,Europe,effect
+42,1,Domestic Politics,Poland,,Europe,effect
+43,1,Domestic Politics,Taiwan,1,East Asia,effect
+43,1,Domestic Politics,Australia,3,Pacific,effect
+43,1,Domestic Politics,New Zealand,3,Pacific,effect
+43,1,Domestic Politics,Indonesia,1,Southeast & South Asia,effect
+43,1,Domestic Politics,Singapore,3,Southeast & South Asia,effect
+43,1,Domestic Politics,Georgia,3,Central Asia & South Caucasus,effect
+43,1,Domestic Politics,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+43,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,effect
+43,1,Domestic Politics,Armenia,0,Central Asia & South Caucasus,effect
+43,1,Domestic Politics,Tajikistan,3,Central Asia & South Caucasus,effect
+43,1,Domestic Politics,Ethiopia,0,Africa,effect
+43,1,Domestic Politics,Kenya,0,Africa,effect
+43,1,Domestic Politics,Brazil,3,Latin America,effect
+43,1,Domestic Politics,Bolívia,0,Latin America,effect
+43,1,Domestic Politics,Argentina,0,Latin America,effect
+43,1,Domestic Politics,Uruguay,0,Latin America,effect
+43,1,Domestic Politics,Paraguay,,Latin America,effect
+43,1,Domestic Politics,Chile,4,Latin America,effect
+43,1,Domestic Politics,Colombia,0,Latin America,effect
+43,1,Domestic Politics,Mexico,3,Latin America,effect
+43,1,Domestic Politics,Peru,4,Latin America,effect
+43,1,Domestic Politics,Venezuela,4,Latin America,effect
+43,1,Domestic Politics,South Korea,4,East Asia,effect
+43,1,Domestic Politics,Japan,1,East Asia,effect
+43,1,Domestic Politics,Vietnam,,Southeast & South Asia,effect
+43,1,Domestic Politics,United States,4,North America,effect
+43,1,Domestic Politics,Canada,0,North America,effect
+43,1,Domestic Politics,Philippines,,Southeast & South Asia,effect
+43,1,Domestic Politics,Thailand,3,Southeast & South Asia,effect
+43,1,Domestic Politics,Cambodia,3,Southeast & South Asia,effect
+43,1,Domestic Politics,Malaysia,,Southeast & South Asia,effect
+43,1,Domestic Politics,Germany,4,Europe,effect
+43,1,Domestic Politics,Estonia,3,Europe,effect
+43,1,Domestic Politics,Czech Republic,3,Europe,effect
+43,1,Domestic Politics,Bosnia and Herzegovina,3,Europe,effect
+43,1,Domestic Politics,Poland,0,Europe,effect
+44,1,Domestic Politics,Taiwan,0,East Asia,effect
+44,1,Domestic Politics,Australia,0,Pacific,effect
+44,1,Domestic Politics,New Zealand,0,Pacific,effect
+44,1,Domestic Politics,Indonesia,0,Southeast & South Asia,effect
+44,1,Domestic Politics,Singapore,0,Southeast & South Asia,effect
+44,1,Domestic Politics,Georgia,3,Central Asia & South Caucasus,effect
+44,1,Domestic Politics,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+44,1,Domestic Politics,Kazakhstan,0,Central Asia & South Caucasus,effect
+44,1,Domestic Politics,Armenia,1,Central Asia & South Caucasus,effect
+44,1,Domestic Politics,Tajikistan,3,Central Asia & South Caucasus,effect
+44,1,Domestic Politics,Ethiopia,0,Africa,effect
+44,1,Domestic Politics,Kenya,0,Africa,effect
+44,1,Domestic Politics,Brazil,0,Latin America,effect
+44,1,Domestic Politics,Bolívia,0,Latin America,effect
+44,1,Domestic Politics,Argentina,0,Latin America,effect
+44,1,Domestic Politics,Uruguay,0,Latin America,effect
+44,1,Domestic Politics,Paraguay,0,Latin America,effect
+44,1,Domestic Politics,Chile,0,Latin America,effect
+44,1,Domestic Politics,Colombia,0,Latin America,effect
+44,1,Domestic Politics,Mexico,0,Latin America,effect
+44,1,Domestic Politics,Peru,0,Latin America,effect
+44,1,Domestic Politics,Venezuela,3,Latin America,effect
+44,1,Domestic Politics,South Korea,0,East Asia,effect
+44,1,Domestic Politics,Japan,0,East Asia,effect
+44,1,Domestic Politics,Vietnam,0,Southeast & South Asia,effect
+44,1,Domestic Politics,United States,0,North America,effect
+44,1,Domestic Politics,Canada,0,North America,effect
+44,1,Domestic Politics,Philippines,0,Southeast & South Asia,effect
+44,1,Domestic Politics,Thailand,0,Southeast & South Asia,effect
+44,1,Domestic Politics,Cambodia,2,Southeast & South Asia,effect
+44,1,Domestic Politics,Malaysia,1,Southeast & South Asia,effect
+44,1,Domestic Politics,Germany,0,Europe,effect
+44,1,Domestic Politics,Estonia,0,Europe,effect
+44,1,Domestic Politics,Czech Republic,0,Europe,effect
+44,1,Domestic Politics,Bosnia and Herzegovina,3,Europe,effect
+44,1,Domestic Politics,Poland,0,Europe,effect
+45,0,Economy,Taiwan,4,East Asia,exposure
+45,0,Economy,Australia,4,Pacific,exposure
+45,0,Economy,New Zealand,4,Pacific,exposure
+45,0,Economy,Indonesia,4,Southeast & South Asia,exposure
+45,0,Economy,Singapore,4,Southeast & South Asia,exposure
+45,0,Economy,Georgia,0,Central Asia & South Caucasus,exposure
+45,0,Economy,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+45,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,exposure
+45,0,Economy,Armenia,0,Central Asia & South Caucasus,exposure
+45,0,Economy,Tajikistan,0,Central Asia & South Caucasus,exposure
+45,0,Economy,Ethiopia,4,Africa,exposure
+45,0,Economy,Kenya,4,Africa,exposure
+45,0,Economy,Brazil,4,Latin America,exposure
+45,0,Economy,Bolívia,4,Latin America,exposure
+45,0,Economy,Argentina,0,Latin America,exposure
+45,0,Economy,Uruguay,4,Latin America,exposure
+45,0,Economy,Paraguay,0,Latin America,exposure
+45,0,Economy,Chile,4,Latin America,exposure
+45,0,Economy,Colombia,0,Latin America,exposure
+45,0,Economy,Mexico,0,Latin America,exposure
+45,0,Economy,Peru,4,Latin America,exposure
+45,0,Economy,Venezuela,0,Latin America,exposure
+45,0,Economy,South Korea,4,East Asia,exposure
+45,0,Economy,Japan,4,East Asia,exposure
+45,0,Economy,Vietnam,4,Southeast & South Asia,exposure
+45,0,Economy,United States,0,North America,exposure
+45,0,Economy,Canada,0,North America,exposure
+45,0,Economy,Philippines,4,Southeast & South Asia,exposure
+45,0,Economy,Thailand,4,Southeast & South Asia,exposure
+45,0,Economy,Cambodia,4,Southeast & South Asia,exposure
+45,0,Economy,Malaysia,4,Southeast & South Asia,exposure
+45,0,Economy,Germany,4,Europe,exposure
+45,0,Economy,Estonia,0,Europe,exposure
+45,0,Economy,Czech Republic,0,Europe,exposure
+45,0,Economy,Bosnia and Herzegovina,0,Europe,exposure
+45,0,Economy,Poland,0,Europe,exposure
+46,0,Economy,Taiwan,0,East Asia,exposure
+46,0,Economy,Australia,0,Pacific,exposure
+46,0,Economy,New Zealand,0,Pacific,exposure
+46,0,Economy,Indonesia,0,Southeast & South Asia,exposure
+46,0,Economy,Singapore,0,Southeast & South Asia,exposure
+46,0,Economy,Georgia,0,Central Asia & South Caucasus,exposure
+46,0,Economy,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+46,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,exposure
+46,0,Economy,Armenia,0,Central Asia & South Caucasus,exposure
+46,0,Economy,Tajikistan,4,Central Asia & South Caucasus,exposure
+46,0,Economy,Ethiopia,4,Africa,exposure
+46,0,Economy,Kenya,4,Africa,exposure
+46,0,Economy,Brazil,0,Latin America,exposure
+46,0,Economy,Bolívia,0,Latin America,exposure
+46,0,Economy,Argentina,0,Latin America,exposure
+46,0,Economy,Uruguay,0,Latin America,exposure
+46,0,Economy,Paraguay,0,Latin America,exposure
+46,0,Economy,Chile,0,Latin America,exposure
+46,0,Economy,Colombia,0,Latin America,exposure
+46,0,Economy,Mexico,0,Latin America,exposure
+46,0,Economy,Peru,0,Latin America,exposure
+46,0,Economy,Venezuela,0,Latin America,exposure
+46,0,Economy,South Korea,0,East Asia,exposure
+46,0,Economy,Japan,0,East Asia,exposure
+46,0,Economy,Vietnam,0,Southeast & South Asia,exposure
+46,0,Economy,United States,0,North America,exposure
+46,0,Economy,Canada,0,North America,exposure
+46,0,Economy,Philippines,0,Southeast & South Asia,exposure
+46,0,Economy,Thailand,0,Southeast & South Asia,exposure
+46,0,Economy,Cambodia,0,Southeast & South Asia,exposure
+46,0,Economy,Malaysia,0,Southeast & South Asia,exposure
+46,0,Economy,Germany,0,Europe,exposure
+46,0,Economy,Estonia,0,Europe,exposure
+46,0,Economy,Czech Republic,0,Europe,exposure
+46,0,Economy,Bosnia and Herzegovina,0,Europe,exposure
+46,0,Economy,Poland,0,Europe,exposure
+47,0,Economy,Taiwan,0,East Asia,exposure
+47,0,Economy,Australia,4,Pacific,exposure
+47,0,Economy,New Zealand,4,Pacific,exposure
+47,0,Economy,Indonesia,4,Southeast & South Asia,exposure
+47,0,Economy,Singapore,0,Southeast & South Asia,exposure
+47,0,Economy,Georgia,0,Central Asia & South Caucasus,exposure
+47,0,Economy,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+47,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,exposure
+47,0,Economy,Armenia,4,Central Asia & South Caucasus,exposure
+47,0,Economy,Tajikistan,4,Central Asia & South Caucasus,exposure
+47,0,Economy,Ethiopia,0,Africa,exposure
+47,0,Economy,Kenya,0,Africa,exposure
+47,0,Economy,Brazil,4,Latin America,exposure
+47,0,Economy,Bolívia,0,Latin America,exposure
+47,0,Economy,Argentina,0,Latin America,exposure
+47,0,Economy,Uruguay,0,Latin America,exposure
+47,0,Economy,Paraguay,0,Latin America,exposure
+47,0,Economy,Chile,4,Latin America,exposure
+47,0,Economy,Colombia,0,Latin America,exposure
+47,0,Economy,Mexico,0,Latin America,exposure
+47,0,Economy,Peru,4,Latin America,exposure
+47,0,Economy,Venezuela,0,Latin America,exposure
+47,0,Economy,South Korea,4,East Asia,exposure
+47,0,Economy,Japan,0,East Asia,exposure
+47,0,Economy,Vietnam,4,Southeast & South Asia,exposure
+47,0,Economy,United States,0,North America,exposure
+47,0,Economy,Canada,0,North America,exposure
+47,0,Economy,Philippines,0,Southeast & South Asia,exposure
+47,0,Economy,Thailand,0,Southeast & South Asia,exposure
+47,0,Economy,Cambodia,0,Southeast & South Asia,exposure
+47,0,Economy,Malaysia,0,Southeast & South Asia,exposure
+47,0,Economy,Germany,0,Europe,exposure
+47,0,Economy,Estonia,0,Europe,exposure
+47,0,Economy,Czech Republic,0,Europe,exposure
+47,0,Economy,Bosnia and Herzegovina,0,Europe,exposure
+47,0,Economy,Poland,0,Europe,exposure
+48,0,Economy,Taiwan,0,East Asia,exposure
+48,0,Economy,Australia,4,Pacific,exposure
+48,0,Economy,New Zealand,4,Pacific,exposure
+48,0,Economy,Indonesia,4,Southeast & South Asia,exposure
+48,0,Economy,Singapore,4,Southeast & South Asia,exposure
+48,0,Economy,Georgia,4,Central Asia & South Caucasus,exposure
+48,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+48,0,Economy,Kazakhstan,4,Central Asia & South Caucasus,exposure
+48,0,Economy,Armenia,4,Central Asia & South Caucasus,exposure
+48,0,Economy,Tajikistan,4,Central Asia & South Caucasus,exposure
+48,0,Economy,Ethiopia,4,Africa,exposure
+48,0,Economy,Kenya,4,Africa,exposure
+48,0,Economy,Brazil,4,Latin America,exposure
+48,0,Economy,Bolívia,4,Latin America,exposure
+48,0,Economy,Argentina,4,Latin America,exposure
+48,0,Economy,Uruguay,0,Latin America,exposure
+48,0,Economy,Paraguay,0,Latin America,exposure
+48,0,Economy,Chile,4,Latin America,exposure
+48,0,Economy,Colombia,0,Latin America,exposure
+48,0,Economy,Mexico,4,Latin America,exposure
+48,0,Economy,Peru,4,Latin America,exposure
+48,0,Economy,Venezuela,4,Latin America,exposure
+48,0,Economy,South Korea,0,East Asia,exposure
+48,0,Economy,Japan,0,East Asia,exposure
+48,0,Economy,Vietnam,0,Southeast & South Asia,exposure
+48,0,Economy,United States,4,North America,exposure
+48,0,Economy,Canada,0,North America,exposure
+48,0,Economy,Philippines,4,Southeast & South Asia,exposure
+48,0,Economy,Thailand,4,Southeast & South Asia,exposure
+48,0,Economy,Cambodia,4,Southeast & South Asia,exposure
+48,0,Economy,Malaysia,4,Southeast & South Asia,exposure
+48,0,Economy,Germany,4,Europe,exposure
+48,0,Economy,Estonia,4,Europe,exposure
+48,0,Economy,Czech Republic,4,Europe,exposure
+48,0,Economy,Bosnia and Herzegovina,0,Europe,exposure
+48,0,Economy,Poland,0,Europe,exposure
+49,0,Economy,Taiwan,0,East Asia,exposure
+49,0,Economy,Australia,4,Pacific,exposure
+49,0,Economy,New Zealand,4,Pacific,exposure
+49,0,Economy,Indonesia,4,Southeast & South Asia,exposure
+49,0,Economy,Singapore,4,Southeast & South Asia,exposure
+49,0,Economy,Georgia,4,Central Asia & South Caucasus,exposure
+49,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+49,0,Economy,Kazakhstan,4,Central Asia & South Caucasus,exposure
+49,0,Economy,Armenia,4,Central Asia & South Caucasus,exposure
+49,0,Economy,Tajikistan,4,Central Asia & South Caucasus,exposure
+49,0,Economy,Ethiopia,4,Africa,exposure
+49,0,Economy,Kenya,4,Africa,exposure
+49,0,Economy,Brazil,4,Latin America,exposure
+49,0,Economy,Bolívia,4,Latin America,exposure
+49,0,Economy,Argentina,4,Latin America,exposure
+49,0,Economy,Uruguay,4,Latin America,exposure
+49,0,Economy,Paraguay,0,Latin America,exposure
+49,0,Economy,Chile,4,Latin America,exposure
+49,0,Economy,Colombia,0,Latin America,exposure
+49,0,Economy,Mexico,0,Latin America,exposure
+49,0,Economy,Peru,4,Latin America,exposure
+49,0,Economy,Venezuela,4,Latin America,exposure
+49,0,Economy,South Korea,4,East Asia,exposure
+49,0,Economy,Japan,0,East Asia,exposure
+49,0,Economy,Vietnam,4,Southeast & South Asia,exposure
+49,0,Economy,United States,0,North America,exposure
+49,0,Economy,Canada,4,North America,exposure
+49,0,Economy,Philippines,4,Southeast & South Asia,exposure
+49,0,Economy,Thailand,4,Southeast & South Asia,exposure
+49,0,Economy,Cambodia,4,Southeast & South Asia,exposure
+49,0,Economy,Malaysia,4,Southeast & South Asia,exposure
+49,0,Economy,Germany,4,Europe,exposure
+49,0,Economy,Estonia,0,Europe,exposure
+49,0,Economy,Czech Republic,0,Europe,exposure
+49,0,Economy,Bosnia and Herzegovina,0,Europe,exposure
+49,0,Economy,Poland,4,Europe,exposure
+50,0,Economy,Taiwan,0,East Asia,exposure
+50,0,Economy,Australia,4,Pacific,exposure
+50,0,Economy,New Zealand,4,Pacific,exposure
+50,0,Economy,Indonesia,0,Southeast & South Asia,exposure
+50,0,Economy,Singapore,4,Southeast & South Asia,exposure
+50,0,Economy,Georgia,4,Central Asia & South Caucasus,exposure
+50,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+50,0,Economy,Kazakhstan,4,Central Asia & South Caucasus,exposure
+50,0,Economy,Armenia,4,Central Asia & South Caucasus,exposure
+50,0,Economy,Tajikistan,4,Central Asia & South Caucasus,exposure
+50,0,Economy,Ethiopia,0,Africa,exposure
+50,0,Economy,Kenya,4,Africa,exposure
+50,0,Economy,Brazil,4,Latin America,exposure
+50,0,Economy,Bolívia,0,Latin America,exposure
+50,0,Economy,Argentina,0,Latin America,exposure
+50,0,Economy,Uruguay,0,Latin America,exposure
+50,0,Economy,Paraguay,0,Latin America,exposure
+50,0,Economy,Chile,0,Latin America,exposure
+50,0,Economy,Colombia,0,Latin America,exposure
+50,0,Economy,Mexico,0,Latin America,exposure
+50,0,Economy,Peru,0,Latin America,exposure
+50,0,Economy,Venezuela,0,Latin America,exposure
+50,0,Economy,South Korea,4,East Asia,exposure
+50,0,Economy,Japan,0,East Asia,exposure
+50,0,Economy,Vietnam,0,Southeast & South Asia,exposure
+50,0,Economy,United States,0,North America,exposure
+50,0,Economy,Canada,0,North America,exposure
+50,0,Economy,Philippines,4,Southeast & South Asia,exposure
+50,0,Economy,Thailand,4,Southeast & South Asia,exposure
+50,0,Economy,Cambodia,4,Southeast & South Asia,exposure
+50,0,Economy,Malaysia,4,Southeast & South Asia,exposure
+50,0,Economy,Germany,0,Europe,exposure
+50,0,Economy,Estonia,0,Europe,exposure
+50,0,Economy,Czech Republic,0,Europe,exposure
+50,0,Economy,Bosnia and Herzegovina,4,Europe,exposure
+50,0,Economy,Poland,4,Europe,exposure
+51,0,Economy,Taiwan,4,East Asia,pressure
+51,0,Economy,Australia,4,Pacific,pressure
+51,0,Economy,New Zealand,4,Pacific,pressure
+51,0,Economy,Indonesia,0,Southeast & South Asia,pressure
+51,0,Economy,Singapore,0,Southeast & South Asia,pressure
+51,0,Economy,Georgia,0,Central Asia & South Caucasus,pressure
+51,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,pressure
+51,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,pressure
+51,0,Economy,Armenia,0,Central Asia & South Caucasus,pressure
+51,0,Economy,Tajikistan,0,Central Asia & South Caucasus,pressure
+51,0,Economy,Ethiopia,0,Africa,pressure
+51,0,Economy,Kenya,0,Africa,pressure
+51,0,Economy,Brazil,4,Latin America,pressure
+51,0,Economy,Bolívia,0,Latin America,pressure
+51,0,Economy,Argentina,4,Latin America,pressure
+51,0,Economy,Uruguay,0,Latin America,pressure
+51,0,Economy,Paraguay,4,Latin America,pressure
+51,0,Economy,Chile,0,Latin America,pressure
+51,0,Economy,Colombia,0,Latin America,pressure
+51,0,Economy,Mexico,0,Latin America,pressure
+51,0,Economy,Peru,0,Latin America,pressure
+51,0,Economy,Venezuela,0,Latin America,pressure
+51,0,Economy,South Korea,4,East Asia,pressure
+51,0,Economy,Japan,4,East Asia,pressure
+51,0,Economy,Vietnam,4,Southeast & South Asia,pressure
+51,0,Economy,United States,4,North America,pressure
+51,0,Economy,Canada,4,North America,pressure
+51,0,Economy,Philippines,4,Southeast & South Asia,pressure
+51,0,Economy,Thailand,0,Southeast & South Asia,pressure
+51,0,Economy,Cambodia,0,Southeast & South Asia,pressure
+51,0,Economy,Malaysia,0,Southeast & South Asia,pressure
+51,0,Economy,Germany,0,Europe,pressure
+51,0,Economy,Estonia,0,Europe,pressure
+51,0,Economy,Czech Republic,0,Europe,pressure
+51,0,Economy,Bosnia and Herzegovina,0,Europe,pressure
+51,0,Economy,Poland,0,Europe,pressure
+52,0,Economy,Taiwan,4,East Asia,pressure
+52,0,Economy,Australia,4,Pacific,pressure
+52,0,Economy,New Zealand,0,Pacific,pressure
+52,0,Economy,Indonesia,0,Southeast & South Asia,pressure
+52,0,Economy,Singapore,4,Southeast & South Asia,pressure
+52,0,Economy,Georgia,0,Central Asia & South Caucasus,pressure
+52,0,Economy,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+52,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,pressure
+52,0,Economy,Armenia,0,Central Asia & South Caucasus,pressure
+52,0,Economy,Tajikistan,0,Central Asia & South Caucasus,pressure
+52,0,Economy,Ethiopia,0,Africa,pressure
+52,0,Economy,Kenya,0,Africa,pressure
+52,0,Economy,Brazil,0,Latin America,pressure
+52,0,Economy,Bolívia,0,Latin America,pressure
+52,0,Economy,Argentina,0,Latin America,pressure
+52,0,Economy,Uruguay,0,Latin America,pressure
+52,0,Economy,Paraguay,4,Latin America,pressure
+52,0,Economy,Chile,4,Latin America,pressure
+52,0,Economy,Colombia,0,Latin America,pressure
+52,0,Economy,Mexico,0,Latin America,pressure
+52,0,Economy,Peru,0,Latin America,pressure
+52,0,Economy,Venezuela,0,Latin America,pressure
+52,0,Economy,South Korea,4,East Asia,pressure
+52,0,Economy,Japan,4,East Asia,pressure
+52,0,Economy,Vietnam,,Southeast & South Asia,pressure
+52,0,Economy,United States,4,North America,pressure
+52,0,Economy,Canada,4,North America,pressure
+52,0,Economy,Philippines,0,Southeast & South Asia,pressure
+52,0,Economy,Thailand,0,Southeast & South Asia,pressure
+52,0,Economy,Cambodia,0,Southeast & South Asia,pressure
+52,0,Economy,Malaysia,0,Southeast & South Asia,pressure
+52,0,Economy,Germany,4,Europe,pressure
+52,0,Economy,Estonia,0,Europe,pressure
+52,0,Economy,Czech Republic,0,Europe,pressure
+52,0,Economy,Bosnia and Herzegovina,0,Europe,pressure
+52,0,Economy,Poland,0,Europe,pressure
+53,0,Economy,Taiwan,4,East Asia,effect
+53,0,Economy,Australia,4,Pacific,effect
+53,0,Economy,New Zealand,4,Pacific,effect
+53,0,Economy,Indonesia,4,Southeast & South Asia,effect
+53,0,Economy,Singapore,4,Southeast & South Asia,effect
+53,0,Economy,Georgia,4,Central Asia & South Caucasus,effect
+53,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+53,0,Economy,Kazakhstan,4,Central Asia & South Caucasus,effect
+53,0,Economy,Armenia,4,Central Asia & South Caucasus,effect
+53,0,Economy,Tajikistan,4,Central Asia & South Caucasus,effect
+53,0,Economy,Ethiopia,0,Africa,effect
+53,0,Economy,Kenya,0,Africa,effect
+53,0,Economy,Brazil,0,Latin America,effect
+53,0,Economy,Bolívia,0,Latin America,effect
+53,0,Economy,Argentina,0,Latin America,effect
+53,0,Economy,Uruguay,0,Latin America,effect
+53,0,Economy,Paraguay,0,Latin America,effect
+53,0,Economy,Chile,4,Latin America,effect
+53,0,Economy,Colombia,0,Latin America,effect
+53,0,Economy,Mexico,0,Latin America,effect
+53,0,Economy,Peru,4,Latin America,effect
+53,0,Economy,Venezuela,0,Latin America,effect
+53,0,Economy,South Korea,4,East Asia,effect
+53,0,Economy,Japan,0,East Asia,effect
+53,0,Economy,Vietnam,4,Southeast & South Asia,effect
+53,0,Economy,United States,0,North America,effect
+53,0,Economy,Canada,0,North America,effect
+53,0,Economy,Philippines,4,Southeast & South Asia,effect
+53,0,Economy,Thailand,4,Southeast & South Asia,effect
+53,0,Economy,Cambodia,4,Southeast & South Asia,effect
+53,0,Economy,Malaysia,4,Southeast & South Asia,effect
+53,0,Economy,Germany,0,Europe,effect
+53,0,Economy,Estonia,0,Europe,effect
+53,0,Economy,Czech Republic,0,Europe,effect
+53,0,Economy,Bosnia and Herzegovina,0,Europe,effect
+53,0,Economy,Poland,0,Europe,effect
+54,0,Economy,Taiwan,0,East Asia,effect
+54,0,Economy,Australia,0,Pacific,effect
+54,0,Economy,New Zealand,4,Pacific,effect
+54,0,Economy,Indonesia,4,Southeast & South Asia,effect
+54,0,Economy,Singapore,4,Southeast & South Asia,effect
+54,0,Economy,Georgia,4,Central Asia & South Caucasus,effect
+54,0,Economy,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+54,0,Economy,Kazakhstan,4,Central Asia & South Caucasus,effect
+54,0,Economy,Armenia,0,Central Asia & South Caucasus,effect
+54,0,Economy,Tajikistan,4,Central Asia & South Caucasus,effect
+54,0,Economy,Ethiopia,4,Africa,effect
+54,0,Economy,Kenya,4,Africa,effect
+54,0,Economy,Brazil,0,Latin America,effect
+54,0,Economy,Bolívia,0,Latin America,effect
+54,0,Economy,Argentina,0,Latin America,effect
+54,0,Economy,Uruguay,4,Latin America,effect
+54,0,Economy,Paraguay,0,Latin America,effect
+54,0,Economy,Chile,0,Latin America,effect
+54,0,Economy,Colombia,0,Latin America,effect
+54,0,Economy,Mexico,0,Latin America,effect
+54,0,Economy,Peru,4,Latin America,effect
+54,0,Economy,Venezuela,4,Latin America,effect
+54,0,Economy,South Korea,4,East Asia,effect
+54,0,Economy,Japan,0,East Asia,effect
+54,0,Economy,Vietnam,4,Southeast & South Asia,effect
+54,0,Economy,United States,0,North America,effect
+54,0,Economy,Canada,0,North America,effect
+54,0,Economy,Philippines,4,Southeast & South Asia,effect
+54,0,Economy,Thailand,4,Southeast & South Asia,effect
+54,0,Economy,Cambodia,4,Southeast & South Asia,effect
+54,0,Economy,Malaysia,4,Southeast & South Asia,effect
+54,0,Economy,Germany,0,Europe,effect
+54,0,Economy,Estonia,0,Europe,effect
+54,0,Economy,Czech Republic,0,Europe,effect
+54,0,Economy,Bosnia and Herzegovina,0,Europe,effect
+54,0,Economy,Poland,0,Europe,effect
+55,0,Economy,Taiwan,0,East Asia,effect
+55,0,Economy,Australia,,Pacific,effect
+55,0,Economy,New Zealand,,Pacific,effect
+55,0,Economy,Indonesia,0,Southeast & South Asia,effect
+55,0,Economy,Singapore,0,Southeast & South Asia,effect
+55,0,Economy,Georgia,0,Central Asia & South Caucasus,effect
+55,0,Economy,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+55,0,Economy,Kazakhstan,0,Central Asia & South Caucasus,effect
+55,0,Economy,Armenia,0,Central Asia & South Caucasus,effect
+55,0,Economy,Tajikistan,4,Central Asia & South Caucasus,effect
+55,0,Economy,Ethiopia,0,Africa,effect
+55,0,Economy,Kenya,0,Africa,effect
+55,0,Economy,Brazil,0,Latin America,effect
+55,0,Economy,Bolívia,0,Latin America,effect
+55,0,Economy,Argentina,0,Latin America,effect
+55,0,Economy,Uruguay,0,Latin America,effect
+55,0,Economy,Paraguay,0,Latin America,effect
+55,0,Economy,Chile,0,Latin America,effect
+55,0,Economy,Colombia,0,Latin America,effect
+55,0,Economy,Mexico,0,Latin America,effect
+55,0,Economy,Peru,0,Latin America,effect
+55,0,Economy,Venezuela,4,Latin America,effect
+55,0,Economy,South Korea,0,East Asia,effect
+55,0,Economy,Japan,0,East Asia,effect
+55,0,Economy,Vietnam,0,Southeast & South Asia,effect
+55,0,Economy,United States,0,North America,effect
+55,0,Economy,Canada,0,North America,effect
+55,0,Economy,Philippines,0,Southeast & South Asia,effect
+55,0,Economy,Thailand,0,Southeast & South Asia,effect
+55,0,Economy,Cambodia,0,Southeast & South Asia,effect
+55,0,Economy,Malaysia,0,Southeast & South Asia,effect
+55,0,Economy,Germany,0,Europe,effect
+55,0,Economy,Estonia,0,Europe,effect
+55,0,Economy,Czech Republic,0,Europe,effect
+55,0,Economy,Bosnia and Herzegovina,0,Europe,effect
+55,0,Economy,Poland,0,Europe,effect
+56,0,Technology,Taiwan,0,East Asia,exposure
+56,0,Technology,Australia,0,Pacific,exposure
+56,0,Technology,New Zealand,0,Pacific,exposure
+56,0,Technology,Indonesia,4,Southeast & South Asia,exposure
+56,0,Technology,Singapore,4,Southeast & South Asia,exposure
+56,0,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+56,0,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+56,0,Technology,Kazakhstan,4,Central Asia & South Caucasus,exposure
+56,0,Technology,Armenia,0,Central Asia & South Caucasus,exposure
+56,0,Technology,Tajikistan,4,Central Asia & South Caucasus,exposure
+56,0,Technology,Ethiopia,0,Africa,exposure
+56,0,Technology,Kenya,4,Africa,exposure
+56,0,Technology,Brazil,0,Latin America,exposure
+56,0,Technology,Bolívia,0,Latin America,exposure
+56,0,Technology,Argentina,4,Latin America,exposure
+56,0,Technology,Uruguay,0,Latin America,exposure
+56,0,Technology,Paraguay,0,Latin America,exposure
+56,0,Technology,Chile,0,Latin America,exposure
+56,0,Technology,Colombia,0,Latin America,exposure
+56,0,Technology,Mexico,0,Latin America,exposure
+56,0,Technology,Peru,0,Latin America,exposure
+56,0,Technology,Venezuela,4,Latin America,exposure
+56,0,Technology,South Korea,0,East Asia,exposure
+56,0,Technology,Japan,4,East Asia,exposure
+56,0,Technology,Vietnam,0,Southeast & South Asia,exposure
+56,0,Technology,United States,0,North America,exposure
+56,0,Technology,Canada,0,North America,exposure
+56,0,Technology,Philippines,4,Southeast & South Asia,exposure
+56,0,Technology,Thailand,4,Southeast & South Asia,exposure
+56,0,Technology,Cambodia,4,Southeast & South Asia,exposure
+56,0,Technology,Malaysia,4,Southeast & South Asia,exposure
+56,0,Technology,Germany,0,Europe,exposure
+56,0,Technology,Estonia,0,Europe,exposure
+56,0,Technology,Czech Republic,0,Europe,exposure
+56,0,Technology,Bosnia and Herzegovina,0,Europe,exposure
+56,0,Technology,Poland,0,Europe,exposure
+57,1,Technology,Taiwan,0,East Asia,exposure
+57,1,Technology,Australia,0,Pacific,exposure
+57,1,Technology,New Zealand,3,Pacific,exposure
+57,1,Technology,Indonesia,4,Southeast & South Asia,exposure
+57,1,Technology,Singapore,3,Southeast & South Asia,exposure
+57,1,Technology,Georgia,4,Central Asia & South Caucasus,exposure
+57,1,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+57,1,Technology,Kazakhstan,3,Central Asia & South Caucasus,exposure
+57,1,Technology,Armenia,3,Central Asia & South Caucasus,exposure
+57,1,Technology,Tajikistan,4,Central Asia & South Caucasus,exposure
+57,1,Technology,Ethiopia,4,Africa,exposure
+57,1,Technology,Kenya,3,Africa,exposure
+57,1,Technology,Brazil,4,Latin America,exposure
+57,1,Technology,Bolívia,0,Latin America,exposure
+57,1,Technology,Argentina,4,Latin America,exposure
+57,1,Technology,Uruguay,0,Latin America,exposure
+57,1,Technology,Paraguay,0,Latin America,exposure
+57,1,Technology,Chile,4,Latin America,exposure
+57,1,Technology,Colombia,1,Latin America,exposure
+57,1,Technology,Mexico,3,Latin America,exposure
+57,1,Technology,Peru,4,Latin America,exposure
+57,1,Technology,Venezuela,4,Latin America,exposure
+57,1,Technology,South Korea,1,East Asia,exposure
+57,1,Technology,Japan,3,East Asia,exposure
+57,1,Technology,Vietnam,4,Southeast & South Asia,exposure
+57,1,Technology,United States,0,North America,exposure
+57,1,Technology,Canada,3,North America,exposure
+57,1,Technology,Philippines,3,Southeast & South Asia,exposure
+57,1,Technology,Thailand,4,Southeast & South Asia,exposure
+57,1,Technology,Cambodia,3,Southeast & South Asia,exposure
+57,1,Technology,Malaysia,3,Southeast & South Asia,exposure
+57,1,Technology,Germany,4,Europe,exposure
+57,1,Technology,Estonia,4,Europe,exposure
+57,1,Technology,Czech Republic,4,Europe,exposure
+57,1,Technology,Bosnia and Herzegovina,3,Europe,exposure
+57,1,Technology,Poland,4,Europe,exposure
+58,1,Technology,Taiwan,0,East Asia,exposure
+58,1,Technology,Australia,,Pacific,exposure
+58,1,Technology,New Zealand,,Pacific,exposure
+58,1,Technology,Indonesia,4,Southeast & South Asia,exposure
+58,1,Technology,Singapore,4,Southeast & South Asia,exposure
+58,1,Technology,Georgia,3,Central Asia & South Caucasus,exposure
+58,1,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+58,1,Technology,Kazakhstan,3,Central Asia & South Caucasus,exposure
+58,1,Technology,Armenia,0,Central Asia & South Caucasus,exposure
+58,1,Technology,Tajikistan,2,Central Asia & South Caucasus,exposure
+58,1,Technology,Ethiopia,0,Africa,exposure
+58,1,Technology,Kenya,3,Africa,exposure
+58,1,Technology,Brazil,1,Latin America,exposure
+58,1,Technology,Bolívia,3,Latin America,exposure
+58,1,Technology,Argentina,4,Latin America,exposure
+58,1,Technology,Uruguay,,Latin America,exposure
+58,1,Technology,Paraguay,3,Latin America,exposure
+58,1,Technology,Chile,4,Latin America,exposure
+58,1,Technology,Colombia,1,Latin America,exposure
+58,1,Technology,Mexico,3,Latin America,exposure
+58,1,Technology,Peru,4,Latin America,exposure
+58,1,Technology,Venezuela,4,Latin America,exposure
+58,1,Technology,South Korea,,East Asia,exposure
+58,1,Technology,Japan,0,East Asia,exposure
+58,1,Technology,Vietnam,0,Southeast & South Asia,exposure
+58,1,Technology,United States,0,North America,exposure
+58,1,Technology,Canada,0,North America,exposure
+58,1,Technology,Philippines,3,Southeast & South Asia,exposure
+58,1,Technology,Thailand,3,Southeast & South Asia,exposure
+58,1,Technology,Cambodia,4,Southeast & South Asia,exposure
+58,1,Technology,Malaysia,3,Southeast & South Asia,exposure
+58,1,Technology,Germany,1,Europe,exposure
+58,1,Technology,Estonia,3,Europe,exposure
+58,1,Technology,Czech Republic,4,Europe,exposure
+58,1,Technology,Bosnia and Herzegovina,1,Europe,exposure
+58,1,Technology,Poland,,Europe,exposure
+59,0,Technology,Taiwan,0,East Asia,exposure
+59,0,Technology,Australia,4,Pacific,exposure
+59,0,Technology,New Zealand,0,Pacific,exposure
+59,0,Technology,Indonesia,4,Southeast & South Asia,exposure
+59,0,Technology,Singapore,4,Southeast & South Asia,exposure
+59,0,Technology,Georgia,4,Central Asia & South Caucasus,exposure
+59,0,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+59,0,Technology,Kazakhstan,4,Central Asia & South Caucasus,exposure
+59,0,Technology,Armenia,4,Central Asia & South Caucasus,exposure
+59,0,Technology,Tajikistan,4,Central Asia & South Caucasus,exposure
+59,0,Technology,Ethiopia,0,Africa,exposure
+59,0,Technology,Kenya,4,Africa,exposure
+59,0,Technology,Brazil,4,Latin America,exposure
+59,0,Technology,Bolívia,4,Latin America,exposure
+59,0,Technology,Argentina,4,Latin America,exposure
+59,0,Technology,Uruguay,4,Latin America,exposure
+59,0,Technology,Paraguay,4,Latin America,exposure
+59,0,Technology,Chile,4,Latin America,exposure
+59,0,Technology,Colombia,0,Latin America,exposure
+59,0,Technology,Mexico,0,Latin America,exposure
+59,0,Technology,Peru,4,Latin America,exposure
+59,0,Technology,Venezuela,4,Latin America,exposure
+59,0,Technology,South Korea,4,East Asia,exposure
+59,0,Technology,Japan,0,East Asia,exposure
+59,0,Technology,Vietnam,0,Southeast & South Asia,exposure
+59,0,Technology,United States,0,North America,exposure
+59,0,Technology,Canada,0,North America,exposure
+59,0,Technology,Philippines,4,Southeast & South Asia,exposure
+59,0,Technology,Thailand,4,Southeast & South Asia,exposure
+59,0,Technology,Cambodia,4,Southeast & South Asia,exposure
+59,0,Technology,Malaysia,4,Southeast & South Asia,exposure
+59,0,Technology,Germany,4,Europe,exposure
+59,0,Technology,Estonia,4,Europe,exposure
+59,0,Technology,Czech Republic,4,Europe,exposure
+59,0,Technology,Bosnia and Herzegovina,0,Europe,exposure
+59,0,Technology,Poland,0,Europe,exposure
+60,1,Technology,Taiwan,3,East Asia,exposure
+60,1,Technology,Australia,1,Pacific,exposure
+60,1,Technology,New Zealand,1,Pacific,exposure
+60,1,Technology,Indonesia,0,Southeast & South Asia,exposure
+60,1,Technology,Singapore,3,Southeast & South Asia,exposure
+60,1,Technology,Georgia,3,Central Asia & South Caucasus,exposure
+60,1,Technology,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+60,1,Technology,Kazakhstan,4,Central Asia & South Caucasus,exposure
+60,1,Technology,Armenia,1,Central Asia & South Caucasus,exposure
+60,1,Technology,Tajikistan,1,Central Asia & South Caucasus,exposure
+60,1,Technology,Ethiopia,0,Africa,exposure
+60,1,Technology,Kenya,0,Africa,exposure
+60,1,Technology,Brazil,3,Latin America,exposure
+60,1,Technology,Bolívia,4,Latin America,exposure
+60,1,Technology,Argentina,0,Latin America,exposure
+60,1,Technology,Uruguay,0,Latin America,exposure
+60,1,Technology,Paraguay,0,Latin America,exposure
+60,1,Technology,Chile,0,Latin America,exposure
+60,1,Technology,Colombia,0,Latin America,exposure
+60,1,Technology,Mexico,0,Latin America,exposure
+60,1,Technology,Peru,0,Latin America,exposure
+60,1,Technology,Venezuela,4,Latin America,exposure
+60,1,Technology,South Korea,0,East Asia,exposure
+60,1,Technology,Japan,0,East Asia,exposure
+60,1,Technology,Vietnam,0,Southeast & South Asia,exposure
+60,1,Technology,United States,0,North America,exposure
+60,1,Technology,Canada,0,North America,exposure
+60,1,Technology,Philippines,3,Southeast & South Asia,exposure
+60,1,Technology,Thailand,0,Southeast & South Asia,exposure
+60,1,Technology,Cambodia,3,Southeast & South Asia,exposure
+60,1,Technology,Malaysia,3,Southeast & South Asia,exposure
+60,1,Technology,Germany,0,Europe,exposure
+60,1,Technology,Estonia,0,Europe,exposure
+60,1,Technology,Czech Republic,0,Europe,exposure
+60,1,Technology,Bosnia and Herzegovina,3,Europe,exposure
+60,1,Technology,Poland,0,Europe,exposure
+61,1,Technology,Taiwan,0,East Asia,exposure
+61,1,Technology,Australia,0,Pacific,exposure
+61,1,Technology,New Zealand,0,Pacific,exposure
+61,1,Technology,Indonesia,4,Southeast & South Asia,exposure
+61,1,Technology,Singapore,3,Southeast & South Asia,exposure
+61,1,Technology,Georgia,3,Central Asia & South Caucasus,exposure
+61,1,Technology,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+61,1,Technology,Kazakhstan,3,Central Asia & South Caucasus,exposure
+61,1,Technology,Armenia,1,Central Asia & South Caucasus,exposure
+61,1,Technology,Tajikistan,3,Central Asia & South Caucasus,exposure
+61,1,Technology,Ethiopia,3,Africa,exposure
+61,1,Technology,Kenya,3,Africa,exposure
+61,1,Technology,Brazil,3,Latin America,exposure
+61,1,Technology,Bolívia,0,Latin America,exposure
+61,1,Technology,Argentina,0,Latin America,exposure
+61,1,Technology,Uruguay,3,Latin America,exposure
+61,1,Technology,Paraguay,0,Latin America,exposure
+61,1,Technology,Chile,0,Latin America,exposure
+61,1,Technology,Colombia,1,Latin America,exposure
+61,1,Technology,Mexico,0,Latin America,exposure
+61,1,Technology,Peru,0,Latin America,exposure
+61,1,Technology,Venezuela,0,Latin America,exposure
+61,1,Technology,South Korea,0,East Asia,exposure
+61,1,Technology,Japan,0,East Asia,exposure
+61,1,Technology,Vietnam,0,Southeast & South Asia,exposure
+61,1,Technology,United States,3,North America,exposure
+61,1,Technology,Canada,0,North America,exposure
+61,1,Technology,Philippines,3,Southeast & South Asia,exposure
+61,1,Technology,Thailand,3,Southeast & South Asia,exposure
+61,1,Technology,Cambodia,0,Southeast & South Asia,exposure
+61,1,Technology,Malaysia,2,Southeast & South Asia,exposure
+61,1,Technology,Germany,3,Europe,exposure
+61,1,Technology,Estonia,0,Europe,exposure
+61,1,Technology,Czech Republic,0,Europe,exposure
+61,1,Technology,Bosnia and Herzegovina,3,Europe,exposure
+61,1,Technology,Poland,0,Europe,exposure
+62,0,Technology,Taiwan,0,East Asia,exposure
+62,0,Technology,Australia,4,Pacific,exposure
+62,0,Technology,New Zealand,4,Pacific,exposure
+62,0,Technology,Indonesia,0,Southeast & South Asia,exposure
+62,0,Technology,Singapore,4,Southeast & South Asia,exposure
+62,0,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+62,0,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+62,0,Technology,Kazakhstan,0,Central Asia & South Caucasus,exposure
+62,0,Technology,Armenia,,Central Asia & South Caucasus,exposure
+62,0,Technology,Tajikistan,4,Central Asia & South Caucasus,exposure
+62,0,Technology,Ethiopia,0,Africa,exposure
+62,0,Technology,Kenya,0,Africa,exposure
+62,0,Technology,Brazil,0,Latin America,exposure
+62,0,Technology,Bolívia,0,Latin America,exposure
+62,0,Technology,Argentina,4,Latin America,exposure
+62,0,Technology,Uruguay,0,Latin America,exposure
+62,0,Technology,Paraguay,0,Latin America,exposure
+62,0,Technology,Chile,0,Latin America,exposure
+62,0,Technology,Colombia,0,Latin America,exposure
+62,0,Technology,Mexico,0,Latin America,exposure
+62,0,Technology,Peru,0,Latin America,exposure
+62,0,Technology,Venezuela,0,Latin America,exposure
+62,0,Technology,South Korea,4,East Asia,exposure
+62,0,Technology,Japan,4,East Asia,exposure
+62,0,Technology,Vietnam,4,Southeast & South Asia,exposure
+62,0,Technology,United States,0,North America,exposure
+62,0,Technology,Canada,0,North America,exposure
+62,0,Technology,Philippines,0,Southeast & South Asia,exposure
+62,0,Technology,Thailand,0,Southeast & South Asia,exposure
+62,0,Technology,Cambodia,0,Southeast & South Asia,exposure
+62,0,Technology,Malaysia,0,Southeast & South Asia,exposure
+62,0,Technology,Germany,4,Europe,exposure
+62,0,Technology,Estonia,0,Europe,exposure
+62,0,Technology,Czech Republic,0,Europe,exposure
+62,0,Technology,Bosnia and Herzegovina,0,Europe,exposure
+62,0,Technology,Poland,0,Europe,exposure
+63,1,Technology,Taiwan,4,East Asia,exposure
+63,1,Technology,Australia,1,Pacific,exposure
+63,1,Technology,New Zealand,1,Pacific,exposure
+63,1,Technology,Indonesia,4,Southeast & South Asia,exposure
+63,1,Technology,Singapore,3,Southeast & South Asia,exposure
+63,1,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+63,1,Technology,Kyrgyzstan,,Central Asia & South Caucasus,exposure
+63,1,Technology,Kazakhstan,3,Central Asia & South Caucasus,exposure
+63,1,Technology,Armenia,0,Central Asia & South Caucasus,exposure
+63,1,Technology,Tajikistan,0,Central Asia & South Caucasus,exposure
+63,1,Technology,Ethiopia,3,Africa,exposure
+63,1,Technology,Kenya,3,Africa,exposure
+63,1,Technology,Brazil,3,Latin America,exposure
+63,1,Technology,Bolívia,0,Latin America,exposure
+63,1,Technology,Argentina,3,Latin America,exposure
+63,1,Technology,Uruguay,0,Latin America,exposure
+63,1,Technology,Paraguay,0,Latin America,exposure
+63,1,Technology,Chile,2,Latin America,exposure
+63,1,Technology,Colombia,0,Latin America,exposure
+63,1,Technology,Mexico,3,Latin America,exposure
+63,1,Technology,Peru,1,Latin America,exposure
+63,1,Technology,Venezuela,0,Latin America,exposure
+63,1,Technology,South Korea,2,East Asia,exposure
+63,1,Technology,Japan,1,East Asia,exposure
+63,1,Technology,Vietnam,4,Southeast & South Asia,exposure
+63,1,Technology,United States,4,North America,exposure
+63,1,Technology,Canada,4,North America,exposure
+63,1,Technology,Philippines,4,Southeast & South Asia,exposure
+63,1,Technology,Thailand,2,Southeast & South Asia,exposure
+63,1,Technology,Cambodia,1,Southeast & South Asia,exposure
+63,1,Technology,Malaysia,1,Southeast & South Asia,exposure
+63,1,Technology,Germany,4,Europe,exposure
+63,1,Technology,Estonia,0,Europe,exposure
+63,1,Technology,Czech Republic,0,Europe,exposure
+63,1,Technology,Bosnia and Herzegovina,0,Europe,exposure
+63,1,Technology,Poland,0,Europe,exposure
+64,1,Technology,Taiwan,4,East Asia,exposure
+64,1,Technology,Australia,2,Pacific,exposure
+64,1,Technology,New Zealand,0,Pacific,exposure
+64,1,Technology,Indonesia,4,Southeast & South Asia,exposure
+64,1,Technology,Singapore,4,Southeast & South Asia,exposure
+64,1,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+64,1,Technology,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+64,1,Technology,Kazakhstan,2,Central Asia & South Caucasus,exposure
+64,1,Technology,Armenia,1,Central Asia & South Caucasus,exposure
+64,1,Technology,Tajikistan,1,Central Asia & South Caucasus,exposure
+64,1,Technology,Ethiopia,,Africa,exposure
+64,1,Technology,Kenya,0,Africa,exposure
+64,1,Technology,Brazil,1,Latin America,exposure
+64,1,Technology,Bolívia,0,Latin America,exposure
+64,1,Technology,Argentina,3,Latin America,exposure
+64,1,Technology,Uruguay,0,Latin America,exposure
+64,1,Technology,Paraguay,0,Latin America,exposure
+64,1,Technology,Chile,2,Latin America,exposure
+64,1,Technology,Colombia,1,Latin America,exposure
+64,1,Technology,Mexico,3,Latin America,exposure
+64,1,Technology,Peru,0,Latin America,exposure
+64,1,Technology,Venezuela,0,Latin America,exposure
+64,1,Technology,South Korea,4,East Asia,exposure
+64,1,Technology,Japan,0,East Asia,exposure
+64,1,Technology,Vietnam,0,Southeast & South Asia,exposure
+64,1,Technology,United States,4,North America,exposure
+64,1,Technology,Canada,1,North America,exposure
+64,1,Technology,Philippines,1,Southeast & South Asia,exposure
+64,1,Technology,Thailand,3,Southeast & South Asia,exposure
+64,1,Technology,Cambodia,1,Southeast & South Asia,exposure
+64,1,Technology,Malaysia,1,Southeast & South Asia,exposure
+64,1,Technology,Germany,4,Europe,exposure
+64,1,Technology,Estonia,0,Europe,exposure
+64,1,Technology,Czech Republic,0,Europe,exposure
+64,1,Technology,Bosnia and Herzegovina,1,Europe,exposure
+64,1,Technology,Poland,,Europe,exposure
+65,0,Technology,Taiwan,0,East Asia,exposure
+65,0,Technology,Australia,0,Pacific,exposure
+65,0,Technology,New Zealand,0,Pacific,exposure
+65,0,Technology,Indonesia,4,Southeast & South Asia,exposure
+65,0,Technology,Singapore,4,Southeast & South Asia,exposure
+65,0,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+65,0,Technology,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+65,0,Technology,Kazakhstan,4,Central Asia & South Caucasus,exposure
+65,0,Technology,Armenia,0,Central Asia & South Caucasus,exposure
+65,0,Technology,Tajikistan,0,Central Asia & South Caucasus,exposure
+65,0,Technology,Ethiopia,0,Africa,exposure
+65,0,Technology,Kenya,0,Africa,exposure
+65,0,Technology,Brazil,4,Latin America,exposure
+65,0,Technology,Bolívia,0,Latin America,exposure
+65,0,Technology,Argentina,0,Latin America,exposure
+65,0,Technology,Uruguay,0,Latin America,exposure
+65,0,Technology,Paraguay,0,Latin America,exposure
+65,0,Technology,Chile,0,Latin America,exposure
+65,0,Technology,Colombia,0,Latin America,exposure
+65,0,Technology,Mexico,4,Latin America,exposure
+65,0,Technology,Peru,0,Latin America,exposure
+65,0,Technology,Venezuela,0,Latin America,exposure
+65,0,Technology,South Korea,4,East Asia,exposure
+65,0,Technology,Japan,0,East Asia,exposure
+65,0,Technology,Vietnam,4,Southeast & South Asia,exposure
+65,0,Technology,United States,0,North America,exposure
+65,0,Technology,Canada,0,North America,exposure
+65,0,Technology,Philippines,0,Southeast & South Asia,exposure
+65,0,Technology,Thailand,0,Southeast & South Asia,exposure
+65,0,Technology,Cambodia,4,Southeast & South Asia,exposure
+65,0,Technology,Malaysia,0,Southeast & South Asia,exposure
+65,0,Technology,Germany,0,Europe,exposure
+65,0,Technology,Estonia,0,Europe,exposure
+65,0,Technology,Czech Republic,0,Europe,exposure
+65,0,Technology,Bosnia and Herzegovina,4,Europe,exposure
+65,0,Technology,Poland,0,Europe,exposure
+66,0,Technology,Taiwan,0,East Asia,exposure
+66,0,Technology,Australia,0,Pacific,exposure
+66,0,Technology,New Zealand,0,Pacific,exposure
+66,0,Technology,Indonesia,0,Southeast & South Asia,exposure
+66,0,Technology,Singapore,4,Southeast & South Asia,exposure
+66,0,Technology,Georgia,0,Central Asia & South Caucasus,exposure
+66,0,Technology,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+66,0,Technology,Kazakhstan,0,Central Asia & South Caucasus,exposure
+66,0,Technology,Armenia,0,Central Asia & South Caucasus,exposure
+66,0,Technology,Tajikistan,4,Central Asia & South Caucasus,exposure
+66,0,Technology,Ethiopia,4,Africa,exposure
+66,0,Technology,Kenya,0,Africa,exposure
+66,0,Technology,Brazil,4,Latin America,exposure
+66,0,Technology,Bolívia,0,Latin America,exposure
+66,0,Technology,Argentina,,Latin America,exposure
+66,0,Technology,Uruguay,0,Latin America,exposure
+66,0,Technology,Paraguay,0,Latin America,exposure
+66,0,Technology,Chile,0,Latin America,exposure
+66,0,Technology,Colombia,0,Latin America,exposure
+66,0,Technology,Mexico,0,Latin America,exposure
+66,0,Technology,Peru,0,Latin America,exposure
+66,0,Technology,Venezuela,0,Latin America,exposure
+66,0,Technology,South Korea,0,East Asia,exposure
+66,0,Technology,Japan,0,East Asia,exposure
+66,0,Technology,Vietnam,0,Southeast & South Asia,exposure
+66,0,Technology,United States,0,North America,exposure
+66,0,Technology,Canada,0,North America,exposure
+66,0,Technology,Philippines,4,Southeast & South Asia,exposure
+66,0,Technology,Thailand,4,Southeast & South Asia,exposure
+66,0,Technology,Cambodia,4,Southeast & South Asia,exposure
+66,0,Technology,Malaysia,4,Southeast & South Asia,exposure
+66,0,Technology,Germany,0,Europe,exposure
+66,0,Technology,Estonia,0,Europe,exposure
+66,0,Technology,Czech Republic,0,Europe,exposure
+66,0,Technology,Bosnia and Herzegovina,0,Europe,exposure
+66,0,Technology,Poland,0,Europe,exposure
+67,1,Society,Taiwan,4,East Asia,exposure
+67,1,Society,Australia,4,Pacific,exposure
+67,1,Society,New Zealand,2,Pacific,exposure
+67,1,Society,Indonesia,0,Southeast & South Asia,exposure
+67,1,Society,Singapore,0,Southeast & South Asia,exposure
+67,1,Society,Georgia,0,Central Asia & South Caucasus,exposure
+67,1,Society,Kyrgyzstan,3,Central Asia & South Caucasus,exposure
+67,1,Society,Kazakhstan,0,Central Asia & South Caucasus,exposure
+67,1,Society,Armenia,0,Central Asia & South Caucasus,exposure
+67,1,Society,Tajikistan,0,Central Asia & South Caucasus,exposure
+67,1,Society,Ethiopia,0,Africa,exposure
+67,1,Society,Kenya,0,Africa,exposure
+67,1,Society,Brazil,1,Latin America,exposure
+67,1,Society,Bolívia,0,Latin America,exposure
+67,1,Society,Argentina,0,Latin America,exposure
+67,1,Society,Uruguay,0,Latin America,exposure
+67,1,Society,Paraguay,0,Latin America,exposure
+67,1,Society,Chile,0,Latin America,exposure
+67,1,Society,Colombia,0,Latin America,exposure
+67,1,Society,Mexico,0,Latin America,exposure
+67,1,Society,Peru,0,Latin America,exposure
+67,1,Society,Venezuela,0,Latin America,exposure
+67,1,Society,South Korea,0,East Asia,exposure
+67,1,Society,Japan,4,East Asia,exposure
+67,1,Society,Vietnam,0,Southeast & South Asia,exposure
+67,1,Society,United States,3,North America,exposure
+67,1,Society,Canada,4,North America,exposure
+67,1,Society,Philippines,0,Southeast & South Asia,exposure
+67,1,Society,Thailand,1,Southeast & South Asia,exposure
+67,1,Society,Cambodia,0,Southeast & South Asia,exposure
+67,1,Society,Malaysia,3,Southeast & South Asia,exposure
+67,1,Society,Germany,2,Europe,exposure
+67,1,Society,Estonia,0,Europe,exposure
+67,1,Society,Czech Republic,1,Europe,exposure
+67,1,Society,Bosnia and Herzegovina,0,Europe,exposure
+67,1,Society,Poland,1,Europe,exposure
+68,0,Society,Taiwan,4,East Asia,exposure
+68,0,Society,Australia,4,Pacific,exposure
+68,0,Society,New Zealand,4,Pacific,exposure
+68,0,Society,Indonesia,0,Southeast & South Asia,exposure
+68,0,Society,Singapore,4,Southeast & South Asia,exposure
+68,0,Society,Georgia,0,Central Asia & South Caucasus,exposure
+68,0,Society,Kyrgyzstan,,Central Asia & South Caucasus,exposure
+68,0,Society,Kazakhstan,0,Central Asia & South Caucasus,exposure
+68,0,Society,Armenia,0,Central Asia & South Caucasus,exposure
+68,0,Society,Tajikistan,0,Central Asia & South Caucasus,exposure
+68,0,Society,Ethiopia,0,Africa,exposure
+68,0,Society,Kenya,0,Africa,exposure
+68,0,Society,Brazil,0,Latin America,exposure
+68,0,Society,Bolívia,0,Latin America,exposure
+68,0,Society,Argentina,0,Latin America,exposure
+68,0,Society,Uruguay,0,Latin America,exposure
+68,0,Society,Paraguay,0,Latin America,exposure
+68,0,Society,Chile,0,Latin America,exposure
+68,0,Society,Colombia,0,Latin America,exposure
+68,0,Society,Mexico,0,Latin America,exposure
+68,0,Society,Peru,4,Latin America,exposure
+68,0,Society,Venezuela,0,Latin America,exposure
+68,0,Society,South Korea,0,East Asia,exposure
+68,0,Society,Japan,4,East Asia,exposure
+68,0,Society,Vietnam,0,Southeast & South Asia,exposure
+68,0,Society,United States,4,North America,exposure
+68,0,Society,Canada,4,North America,exposure
+68,0,Society,Philippines,0,Southeast & South Asia,exposure
+68,0,Society,Thailand,4,Southeast & South Asia,exposure
+68,0,Society,Cambodia,4,Southeast & South Asia,exposure
+68,0,Society,Malaysia,4,Southeast & South Asia,exposure
+68,0,Society,Germany,4,Europe,exposure
+68,0,Society,Estonia,0,Europe,exposure
+68,0,Society,Czech Republic,0,Europe,exposure
+68,0,Society,Bosnia and Herzegovina,0,Europe,exposure
+68,0,Society,Poland,0,Europe,exposure
+69,0,Society,Taiwan,4,East Asia,exposure
+69,0,Society,Australia,0,Pacific,exposure
+69,0,Society,New Zealand,0,Pacific,exposure
+69,0,Society,Indonesia,0,Southeast & South Asia,exposure
+69,0,Society,Singapore,4,Southeast & South Asia,exposure
+69,0,Society,Georgia,0,Central Asia & South Caucasus,exposure
+69,0,Society,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+69,0,Society,Kazakhstan,0,Central Asia & South Caucasus,exposure
+69,0,Society,Armenia,0,Central Asia & South Caucasus,exposure
+69,0,Society,Tajikistan,0,Central Asia & South Caucasus,exposure
+69,0,Society,Ethiopia,0,Africa,exposure
+69,0,Society,Kenya,0,Africa,exposure
+69,0,Society,Brazil,4,Latin America,exposure
+69,0,Society,Bolívia,0,Latin America,exposure
+69,0,Society,Argentina,0,Latin America,exposure
+69,0,Society,Uruguay,4,Latin America,exposure
+69,0,Society,Paraguay,0,Latin America,exposure
+69,0,Society,Chile,0,Latin America,exposure
+69,0,Society,Colombia,0,Latin America,exposure
+69,0,Society,Mexico,4,Latin America,exposure
+69,0,Society,Peru,0,Latin America,exposure
+69,0,Society,Venezuela,0,Latin America,exposure
+69,0,Society,South Korea,4,East Asia,exposure
+69,0,Society,Japan,4,East Asia,exposure
+69,0,Society,Vietnam,4,Southeast & South Asia,exposure
+69,0,Society,United States,0,North America,exposure
+69,0,Society,Canada,0,North America,exposure
+69,0,Society,Philippines,0,Southeast & South Asia,exposure
+69,0,Society,Thailand,0,Southeast & South Asia,exposure
+69,0,Society,Cambodia,0,Southeast & South Asia,exposure
+69,0,Society,Malaysia,0,Southeast & South Asia,exposure
+69,0,Society,Germany,0,Europe,exposure
+69,0,Society,Estonia,0,Europe,exposure
+69,0,Society,Czech Republic,0,Europe,exposure
+69,0,Society,Bosnia and Herzegovina,0,Europe,exposure
+69,0,Society,Poland,0,Europe,exposure
+70,1,Society,Taiwan,3,East Asia,exposure
+70,1,Society,Australia,4,Pacific,exposure
+70,1,Society,New Zealand,0,Pacific,exposure
+70,1,Society,Indonesia,2,Southeast & South Asia,exposure
+70,1,Society,Singapore,3,Southeast & South Asia,exposure
+70,1,Society,Georgia,0,Central Asia & South Caucasus,exposure
+70,1,Society,Kyrgyzstan,,Central Asia & South Caucasus,exposure
+70,1,Society,Kazakhstan,,Central Asia & South Caucasus,exposure
+70,1,Society,Armenia,0,Central Asia & South Caucasus,exposure
+70,1,Society,Tajikistan,0,Central Asia & South Caucasus,exposure
+70,1,Society,Ethiopia,0,Africa,exposure
+70,1,Society,Kenya,0,Africa,exposure
+70,1,Society,Brazil,0,Latin America,exposure
+70,1,Society,Bolívia,0,Latin America,exposure
+70,1,Society,Argentina,0,Latin America,exposure
+70,1,Society,Uruguay,0,Latin America,exposure
+70,1,Society,Paraguay,0,Latin America,exposure
+70,1,Society,Chile,0,Latin America,exposure
+70,1,Society,Colombia,0,Latin America,exposure
+70,1,Society,Mexico,3,Latin America,exposure
+70,1,Society,Peru,4,Latin America,exposure
+70,1,Society,Venezuela,0,Latin America,exposure
+70,1,Society,South Korea,0,East Asia,exposure
+70,1,Society,Japan,1,East Asia,exposure
+70,1,Society,Vietnam,0,Southeast & South Asia,exposure
+70,1,Society,United States,4,North America,exposure
+70,1,Society,Canada,4,North America,exposure
+70,1,Society,Philippines,1,Southeast & South Asia,exposure
+70,1,Society,Thailand,3,Southeast & South Asia,exposure
+70,1,Society,Cambodia,0,Southeast & South Asia,exposure
+70,1,Society,Malaysia,4,Southeast & South Asia,exposure
+70,1,Society,Germany,4,Europe,exposure
+70,1,Society,Estonia,0,Europe,exposure
+70,1,Society,Czech Republic,4,Europe,exposure
+70,1,Society,Bosnia and Herzegovina,0,Europe,exposure
+70,1,Society,Poland,3,Europe,exposure
+71,1,Society,Taiwan,3,East Asia,exposure
+71,1,Society,Australia,4,Pacific,exposure
+71,1,Society,New Zealand,1,Pacific,exposure
+71,1,Society,Indonesia,0,Southeast & South Asia,exposure
+71,1,Society,Singapore,2,Southeast & South Asia,exposure
+71,1,Society,Georgia,2,Central Asia & South Caucasus,exposure
+71,1,Society,Kyrgyzstan,1,Central Asia & South Caucasus,exposure
+71,1,Society,Kazakhstan,1,Central Asia & South Caucasus,exposure
+71,1,Society,Armenia,0,Central Asia & South Caucasus,exposure
+71,1,Society,Tajikistan,1,Central Asia & South Caucasus,exposure
+71,1,Society,Ethiopia,3,Africa,exposure
+71,1,Society,Kenya,1,Africa,exposure
+71,1,Society,Brazil,1,Latin America,exposure
+71,1,Society,Bolívia,0,Latin America,exposure
+71,1,Society,Argentina,0,Latin America,exposure
+71,1,Society,Uruguay,0,Latin America,exposure
+71,1,Society,Paraguay,0,Latin America,exposure
+71,1,Society,Chile,2,Latin America,exposure
+71,1,Society,Colombia,0,Latin America,exposure
+71,1,Society,Mexico,3,Latin America,exposure
+71,1,Society,Peru,1,Latin America,exposure
+71,1,Society,Venezuela,0,Latin America,exposure
+71,1,Society,South Korea,0,East Asia,exposure
+71,1,Society,Japan,1,East Asia,exposure
+71,1,Society,Vietnam,0,Southeast & South Asia,exposure
+71,1,Society,United States,4,North America,exposure
+71,1,Society,Canada,4,North America,exposure
+71,1,Society,Philippines,0,Southeast & South Asia,exposure
+71,1,Society,Thailand,4,Southeast & South Asia,exposure
+71,1,Society,Cambodia,,Southeast & South Asia,exposure
+71,1,Society,Malaysia,1,Southeast & South Asia,exposure
+71,1,Society,Germany,1,Europe,exposure
+71,1,Society,Estonia,0,Europe,exposure
+71,1,Society,Czech Republic,0,Europe,exposure
+71,1,Society,Bosnia and Herzegovina,0,Europe,exposure
+71,1,Society,Poland,1,Europe,exposure
+72,0,Society,Taiwan,4,East Asia,exposure
+72,0,Society,Australia,4,Pacific,exposure
+72,0,Society,New Zealand,4,Pacific,exposure
+72,0,Society,Indonesia,4,Southeast & South Asia,exposure
+72,0,Society,Singapore,4,Southeast & South Asia,exposure
+72,0,Society,Georgia,0,Central Asia & South Caucasus,exposure
+72,0,Society,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+72,0,Society,Kazakhstan,,Central Asia & South Caucasus,exposure
+72,0,Society,Armenia,0,Central Asia & South Caucasus,exposure
+72,0,Society,Tajikistan,0,Central Asia & South Caucasus,exposure
+72,0,Society,Ethiopia,4,Africa,exposure
+72,0,Society,Kenya,4,Africa,exposure
+72,0,Society,Brazil,4,Latin America,exposure
+72,0,Society,Bolívia,0,Latin America,exposure
+72,0,Society,Argentina,4,Latin America,exposure
+72,0,Society,Uruguay,0,Latin America,exposure
+72,0,Society,Paraguay,0,Latin America,exposure
+72,0,Society,Chile,4,Latin America,exposure
+72,0,Society,Colombia,0,Latin America,exposure
+72,0,Society,Mexico,0,Latin America,exposure
+72,0,Society,Peru,4,Latin America,exposure
+72,0,Society,Venezuela,0,Latin America,exposure
+72,0,Society,South Korea,0,East Asia,exposure
+72,0,Society,Japan,4,East Asia,exposure
+72,0,Society,Vietnam,0,Southeast & South Asia,exposure
+72,0,Society,United States,0,North America,exposure
+72,0,Society,Canada,4,North America,exposure
+72,0,Society,Philippines,4,Southeast & South Asia,exposure
+72,0,Society,Thailand,4,Southeast & South Asia,exposure
+72,0,Society,Cambodia,4,Southeast & South Asia,exposure
+72,0,Society,Malaysia,0,Southeast & South Asia,exposure
+72,0,Society,Germany,0,Europe,exposure
+72,0,Society,Estonia,0,Europe,exposure
+72,0,Society,Czech Republic,0,Europe,exposure
+72,0,Society,Bosnia and Herzegovina,4,Europe,exposure
+72,0,Society,Poland,,Europe,exposure
+73,1,Society,Taiwan,4,East Asia,exposure
+73,1,Society,Australia,0,Pacific,exposure
+73,1,Society,New Zealand,0,Pacific,exposure
+73,1,Society,Indonesia,1,Southeast & South Asia,exposure
+73,1,Society,Singapore,1,Southeast & South Asia,exposure
+73,1,Society,Georgia,0,Central Asia & South Caucasus,exposure
+73,1,Society,Kyrgyzstan,,Central Asia & South Caucasus,exposure
+73,1,Society,Kazakhstan,,Central Asia & South Caucasus,exposure
+73,1,Society,Armenia,0,Central Asia & South Caucasus,exposure
+73,1,Society,Tajikistan,4,Central Asia & South Caucasus,exposure
+73,1,Society,Ethiopia,0,Africa,exposure
+73,1,Society,Kenya,1,Africa,exposure
+73,1,Society,Brazil,0,Latin America,exposure
+73,1,Society,Bolívia,0,Latin America,exposure
+73,1,Society,Argentina,0,Latin America,exposure
+73,1,Society,Uruguay,0,Latin America,exposure
+73,1,Society,Paraguay,0,Latin America,exposure
+73,1,Society,Chile,0,Latin America,exposure
+73,1,Society,Colombia,1,Latin America,exposure
+73,1,Society,Mexico,3,Latin America,exposure
+73,1,Society,Peru,3,Latin America,exposure
+73,1,Society,Venezuela,1,Latin America,exposure
+73,1,Society,South Korea,0,East Asia,exposure
+73,1,Society,Japan,1,East Asia,exposure
+73,1,Society,Vietnam,1,Southeast & South Asia,exposure
+73,1,Society,United States,2,North America,exposure
+73,1,Society,Canada,4,North America,exposure
+73,1,Society,Philippines,3,Southeast & South Asia,exposure
+73,1,Society,Thailand,4,Southeast & South Asia,exposure
+73,1,Society,Cambodia,3,Southeast & South Asia,exposure
+73,1,Society,Malaysia,3,Southeast & South Asia,exposure
+73,1,Society,Germany,1,Europe,exposure
+73,1,Society,Estonia,0,Europe,exposure
+73,1,Society,Czech Republic,0,Europe,exposure
+73,1,Society,Bosnia and Herzegovina,0,Europe,exposure
+73,1,Society,Poland,0,Europe,exposure
+74,0,Society,Taiwan,0,East Asia,effect
+74,0,Society,Australia,0,Pacific,effect
+74,0,Society,New Zealand,0,Pacific,effect
+74,0,Society,Indonesia,0,Southeast & South Asia,effect
+74,0,Society,Singapore,,Southeast & South Asia,effect
+74,0,Society,Georgia,0,Central Asia & South Caucasus,effect
+74,0,Society,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+74,0,Society,Kazakhstan,,Central Asia & South Caucasus,effect
+74,0,Society,Armenia,4,Central Asia & South Caucasus,effect
+74,0,Society,Tajikistan,4,Central Asia & South Caucasus,effect
+74,0,Society,Ethiopia,0,Africa,effect
+74,0,Society,Kenya,,Africa,effect
+74,0,Society,Brazil,,Latin America,effect
+74,0,Society,Bolívia,0,Latin America,effect
+74,0,Society,Argentina,4,Latin America,effect
+74,0,Society,Uruguay,0,Latin America,effect
+74,0,Society,Paraguay,0,Latin America,effect
+74,0,Society,Chile,0,Latin America,effect
+74,0,Society,Colombia,,Latin America,effect
+74,0,Society,Mexico,0,Latin America,effect
+74,0,Society,Peru,4,Latin America,effect
+74,0,Society,Venezuela,0,Latin America,effect
+74,0,Society,South Korea,4,East Asia,effect
+74,0,Society,Japan,0,East Asia,effect
+74,0,Society,Vietnam,0,Southeast & South Asia,effect
+74,0,Society,United States,0,North America,effect
+74,0,Society,Canada,0,North America,effect
+74,0,Society,Philippines,4,Southeast & South Asia,effect
+74,0,Society,Thailand,0,Southeast & South Asia,effect
+74,0,Society,Cambodia,4,Southeast & South Asia,effect
+74,0,Society,Malaysia,4,Southeast & South Asia,effect
+74,0,Society,Germany,0,Europe,effect
+74,0,Society,Estonia,0,Europe,effect
+74,0,Society,Czech Republic,0,Europe,effect
+74,0,Society,Bosnia and Herzegovina,,Europe,effect
+74,0,Society,Poland,0,Europe,effect
+75,1,Society,Taiwan,4,East Asia,effect
+75,1,Society,Australia,0,Pacific,effect
+75,1,Society,New Zealand,0,Pacific,effect
+75,1,Society,Indonesia,1,Southeast & South Asia,effect
+75,1,Society,Singapore,0,Southeast & South Asia,effect
+75,1,Society,Georgia,0,Central Asia & South Caucasus,effect
+75,1,Society,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+75,1,Society,Kazakhstan,0,Central Asia & South Caucasus,effect
+75,1,Society,Armenia,0,Central Asia & South Caucasus,effect
+75,1,Society,Tajikistan,3,Central Asia & South Caucasus,effect
+75,1,Society,Ethiopia,0,Africa,effect
+75,1,Society,Kenya,0,Africa,effect
+75,1,Society,Brazil,0,Latin America,effect
+75,1,Society,Bolívia,0,Latin America,effect
+75,1,Society,Argentina,0,Latin America,effect
+75,1,Society,Uruguay,1,Latin America,effect
+75,1,Society,Paraguay,0,Latin America,effect
+75,1,Society,Chile,0,Latin America,effect
+75,1,Society,Colombia,0,Latin America,effect
+75,1,Society,Mexico,0,Latin America,effect
+75,1,Society,Peru,4,Latin America,effect
+75,1,Society,Venezuela,0,Latin America,effect
+75,1,Society,South Korea,0,East Asia,effect
+75,1,Society,Japan,0,East Asia,effect
+75,1,Society,Vietnam,0,Southeast & South Asia,effect
+75,1,Society,United States,1,North America,effect
+75,1,Society,Canada,0,North America,effect
+75,1,Society,Philippines,0,Southeast & South Asia,effect
+75,1,Society,Thailand,0,Southeast & South Asia,effect
+75,1,Society,Cambodia,0,Southeast & South Asia,effect
+75,1,Society,Malaysia,1,Southeast & South Asia,effect
+75,1,Society,Germany,1,Europe,effect
+75,1,Society,Estonia,0,Europe,effect
+75,1,Society,Czech Republic,0,Europe,effect
+75,1,Society,Bosnia and Herzegovina,0,Europe,effect
+75,1,Society,Poland,0,Europe,effect
+76,1,Society,Taiwan,4,East Asia,effect
+76,1,Society,Australia,0,Pacific,effect
+76,1,Society,New Zealand,0,Pacific,effect
+76,1,Society,Indonesia,0,Southeast & South Asia,effect
+76,1,Society,Singapore,3,Southeast & South Asia,effect
+76,1,Society,Georgia,4,Central Asia & South Caucasus,effect
+76,1,Society,Kyrgyzstan,1,Central Asia & South Caucasus,effect
+76,1,Society,Kazakhstan,0,Central Asia & South Caucasus,effect
+76,1,Society,Armenia,1,Central Asia & South Caucasus,effect
+76,1,Society,Tajikistan,1,Central Asia & South Caucasus,effect
+76,1,Society,Ethiopia,3,Africa,effect
+76,1,Society,Kenya,0,Africa,effect
+76,1,Society,Brazil,0,Latin America,effect
+76,1,Society,Bolívia,0,Latin America,effect
+76,1,Society,Argentina,0,Latin America,effect
+76,1,Society,Uruguay,0,Latin America,effect
+76,1,Society,Paraguay,0,Latin America,effect
+76,1,Society,Chile,3,Latin America,effect
+76,1,Society,Colombia,0,Latin America,effect
+76,1,Society,Mexico,0,Latin America,effect
+76,1,Society,Peru,4,Latin America,effect
+76,1,Society,Venezuela,4,Latin America,effect
+76,1,Society,South Korea,0,East Asia,effect
+76,1,Society,Japan,0,East Asia,effect
+76,1,Society,Vietnam,0,Southeast & South Asia,effect
+76,1,Society,United States,,North America,effect
+76,1,Society,Canada,0,North America,effect
+76,1,Society,Philippines,0,Southeast & South Asia,effect
+76,1,Society,Thailand,1,Southeast & South Asia,effect
+76,1,Society,Cambodia,1,Southeast & South Asia,effect
+76,1,Society,Malaysia,0,Southeast & South Asia,effect
+76,1,Society,Germany,1,Europe,effect
+76,1,Society,Estonia,0,Europe,effect
+76,1,Society,Czech Republic,1,Europe,effect
+76,1,Society,Bosnia and Herzegovina,0,Europe,effect
+76,1,Society,Poland,0,Europe,effect
+77,0,Society,Taiwan,0,East Asia,effect
+77,0,Society,Australia,0,Pacific,effect
+77,0,Society,New Zealand,0,Pacific,effect
+77,0,Society,Indonesia,0,Southeast & South Asia,effect
+77,0,Society,Singapore,4,Southeast & South Asia,effect
+77,0,Society,Georgia,4,Central Asia & South Caucasus,effect
+77,0,Society,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+77,0,Society,Kazakhstan,0,Central Asia & South Caucasus,effect
+77,0,Society,Armenia,,Central Asia & South Caucasus,effect
+77,0,Society,Tajikistan,0,Central Asia & South Caucasus,effect
+77,0,Society,Ethiopia,0,Africa,effect
+77,0,Society,Kenya,0,Africa,effect
+77,0,Society,Brazil,4,Latin America,effect
+77,0,Society,Bolívia,4,Latin America,effect
+77,0,Society,Argentina,0,Latin America,effect
+77,0,Society,Uruguay,4,Latin America,effect
+77,0,Society,Paraguay,,Latin America,effect
+77,0,Society,Chile,4,Latin America,effect
+77,0,Society,Colombia,4,Latin America,effect
+77,0,Society,Mexico,4,Latin America,effect
+77,0,Society,Peru,4,Latin America,effect
+77,0,Society,Venezuela,,Latin America,effect
+77,0,Society,South Korea,0,East Asia,effect
+77,0,Society,Japan,0,East Asia,effect
+77,0,Society,Vietnam,0,Southeast & South Asia,effect
+77,0,Society,United States,0,North America,effect
+77,0,Society,Canada,0,North America,effect
+77,0,Society,Philippines,0,Southeast & South Asia,effect
+77,0,Society,Thailand,0,Southeast & South Asia,effect
+77,0,Society,Cambodia,4,Southeast & South Asia,effect
+77,0,Society,Malaysia,4,Southeast & South Asia,effect
+77,0,Society,Germany,0,Europe,effect
+77,0,Society,Estonia,0,Europe,effect
+77,0,Society,Czech Republic,0,Europe,effect
+77,0,Society,Bosnia and Herzegovina,,Europe,effect
+77,0,Society,Poland,0,Europe,effect
+78,0,Military,Taiwan,0,East Asia,exposure
+78,0,Military,Australia,0,Pacific,exposure
+78,0,Military,New Zealand,0,Pacific,exposure
+78,0,Military,Indonesia,4,Southeast & South Asia,exposure
+78,0,Military,Singapore,0,Southeast & South Asia,exposure
+78,0,Military,Georgia,4,Central Asia & South Caucasus,exposure
+78,0,Military,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+78,0,Military,Kazakhstan,4,Central Asia & South Caucasus,exposure
+78,0,Military,Armenia,4,Central Asia & South Caucasus,exposure
+78,0,Military,Tajikistan,4,Central Asia & South Caucasus,exposure
+78,0,Military,Ethiopia,4,Africa,exposure
+78,0,Military,Kenya,4,Africa,exposure
+78,0,Military,Brazil,4,Latin America,exposure
+78,0,Military,Bolívia,4,Latin America,exposure
+78,0,Military,Argentina,0,Latin America,exposure
+78,0,Military,Uruguay,4,Latin America,exposure
+78,0,Military,Paraguay,4,Latin America,exposure
+78,0,Military,Chile,0,Latin America,exposure
+78,0,Military,Colombia,0,Latin America,exposure
+78,0,Military,Mexico,0,Latin America,exposure
+78,0,Military,Peru,4,Latin America,exposure
+78,0,Military,Venezuela,4,Latin America,exposure
+78,0,Military,South Korea,4,East Asia,exposure
+78,0,Military,Japan,0,East Asia,exposure
+78,0,Military,Vietnam,0,Southeast & South Asia,exposure
+78,0,Military,United States,0,North America,exposure
+78,0,Military,Canada,0,North America,exposure
+78,0,Military,Philippines,4,Southeast & South Asia,exposure
+78,0,Military,Thailand,4,Southeast & South Asia,exposure
+78,0,Military,Cambodia,4,Southeast & South Asia,exposure
+78,0,Military,Malaysia,4,Southeast & South Asia,exposure
+78,0,Military,Germany,0,Europe,exposure
+78,0,Military,Estonia,4,Europe,exposure
+78,0,Military,Czech Republic,4,Europe,exposure
+78,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+78,0,Military,Poland,0,Europe,exposure
+79,0,Military,Taiwan,0,East Asia,exposure
+79,0,Military,Australia,0,Pacific,exposure
+79,0,Military,New Zealand,0,Pacific,exposure
+79,0,Military,Indonesia,0,Southeast & South Asia,exposure
+79,0,Military,Singapore,4,Southeast & South Asia,exposure
+79,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+79,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+79,0,Military,Kazakhstan,0,Central Asia & South Caucasus,exposure
+79,0,Military,Armenia,0,Central Asia & South Caucasus,exposure
+79,0,Military,Tajikistan,0,Central Asia & South Caucasus,exposure
+79,0,Military,Ethiopia,0,Africa,exposure
+79,0,Military,Kenya,0,Africa,exposure
+79,0,Military,Brazil,0,Latin America,exposure
+79,0,Military,Bolívia,0,Latin America,exposure
+79,0,Military,Argentina,0,Latin America,exposure
+79,0,Military,Uruguay,0,Latin America,exposure
+79,0,Military,Paraguay,0,Latin America,exposure
+79,0,Military,Chile,0,Latin America,exposure
+79,0,Military,Colombia,0,Latin America,exposure
+79,0,Military,Mexico,0,Latin America,exposure
+79,0,Military,Peru,0,Latin America,exposure
+79,0,Military,Venezuela,0,Latin America,exposure
+79,0,Military,South Korea,0,East Asia,exposure
+79,0,Military,Japan,0,East Asia,exposure
+79,0,Military,Vietnam,0,Southeast & South Asia,exposure
+79,0,Military,United States,0,North America,exposure
+79,0,Military,Canada,0,North America,exposure
+79,0,Military,Philippines,4,Southeast & South Asia,exposure
+79,0,Military,Thailand,0,Southeast & South Asia,exposure
+79,0,Military,Cambodia,0,Southeast & South Asia,exposure
+79,0,Military,Malaysia,0,Southeast & South Asia,exposure
+79,0,Military,Germany,0,Europe,exposure
+79,0,Military,Estonia,0,Europe,exposure
+79,0,Military,Czech Republic,0,Europe,exposure
+79,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+79,0,Military,Poland,0,Europe,exposure
+80,0,Military,Taiwan,0,East Asia,exposure
+80,0,Military,Australia,0,Pacific,exposure
+80,0,Military,New Zealand,0,Pacific,exposure
+80,0,Military,Indonesia,0,Southeast & South Asia,exposure
+80,0,Military,Singapore,4,Southeast & South Asia,exposure
+80,0,Military,Georgia,4,Central Asia & South Caucasus,exposure
+80,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+80,0,Military,Kazakhstan,4,Central Asia & South Caucasus,exposure
+80,0,Military,Armenia,4,Central Asia & South Caucasus,exposure
+80,0,Military,Tajikistan,0,Central Asia & South Caucasus,exposure
+80,0,Military,Ethiopia,0,Africa,exposure
+80,0,Military,Kenya,0,Africa,exposure
+80,0,Military,Brazil,0,Latin America,exposure
+80,0,Military,Bolívia,4,Latin America,exposure
+80,0,Military,Argentina,0,Latin America,exposure
+80,0,Military,Uruguay,4,Latin America,exposure
+80,0,Military,Paraguay,0,Latin America,exposure
+80,0,Military,Chile,0,Latin America,exposure
+80,0,Military,Colombia,0,Latin America,exposure
+80,0,Military,Mexico,0,Latin America,exposure
+80,0,Military,Peru,0,Latin America,exposure
+80,0,Military,Venezuela,0,Latin America,exposure
+80,0,Military,South Korea,0,East Asia,exposure
+80,0,Military,Japan,0,East Asia,exposure
+80,0,Military,Vietnam,0,Southeast & South Asia,exposure
+80,0,Military,United States,0,North America,exposure
+80,0,Military,Canada,0,North America,exposure
+80,0,Military,Philippines,0,Southeast & South Asia,exposure
+80,0,Military,Thailand,4,Southeast & South Asia,exposure
+80,0,Military,Cambodia,0,Southeast & South Asia,exposure
+80,0,Military,Malaysia,0,Southeast & South Asia,exposure
+80,0,Military,Germany,0,Europe,exposure
+80,0,Military,Estonia,0,Europe,exposure
+80,0,Military,Czech Republic,0,Europe,exposure
+80,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+80,0,Military,Poland,0,Europe,exposure
+81,0,Military,Taiwan,0,East Asia,exposure
+81,0,Military,Australia,0,Pacific,exposure
+81,0,Military,New Zealand,0,Pacific,exposure
+81,0,Military,Indonesia,0,Southeast & South Asia,exposure
+81,0,Military,Singapore,4,Southeast & South Asia,exposure
+81,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+81,0,Military,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+81,0,Military,Kazakhstan,0,Central Asia & South Caucasus,exposure
+81,0,Military,Armenia,0,Central Asia & South Caucasus,exposure
+81,0,Military,Tajikistan,4,Central Asia & South Caucasus,exposure
+81,0,Military,Ethiopia,0,Africa,exposure
+81,0,Military,Kenya,4,Africa,exposure
+81,0,Military,Brazil,0,Latin America,exposure
+81,0,Military,Bolívia,0,Latin America,exposure
+81,0,Military,Argentina,4,Latin America,exposure
+81,0,Military,Uruguay,0,Latin America,exposure
+81,0,Military,Paraguay,0,Latin America,exposure
+81,0,Military,Chile,0,Latin America,exposure
+81,0,Military,Colombia,0,Latin America,exposure
+81,0,Military,Mexico,0,Latin America,exposure
+81,0,Military,Peru,0,Latin America,exposure
+81,0,Military,Venezuela,0,Latin America,exposure
+81,0,Military,South Korea,0,East Asia,exposure
+81,0,Military,Japan,0,East Asia,exposure
+81,0,Military,Vietnam,0,Southeast & South Asia,exposure
+81,0,Military,United States,0,North America,exposure
+81,0,Military,Canada,0,North America,exposure
+81,0,Military,Philippines,4,Southeast & South Asia,exposure
+81,0,Military,Thailand,4,Southeast & South Asia,exposure
+81,0,Military,Cambodia,4,Southeast & South Asia,exposure
+81,0,Military,Malaysia,4,Southeast & South Asia,exposure
+81,0,Military,Germany,0,Europe,exposure
+81,0,Military,Estonia,0,Europe,exposure
+81,0,Military,Czech Republic,0,Europe,exposure
+81,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+81,0,Military,Poland,0,Europe,exposure
+82,0,Military,Taiwan,0,East Asia,exposure
+82,0,Military,Australia,0,Pacific,exposure
+82,0,Military,New Zealand,0,Pacific,exposure
+82,0,Military,Indonesia,4,Southeast & South Asia,exposure
+82,0,Military,Singapore,0,Southeast & South Asia,exposure
+82,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+82,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+82,0,Military,Kazakhstan,0,Central Asia & South Caucasus,exposure
+82,0,Military,Armenia,0,Central Asia & South Caucasus,exposure
+82,0,Military,Tajikistan,0,Central Asia & South Caucasus,exposure
+82,0,Military,Ethiopia,0,Africa,exposure
+82,0,Military,Kenya,,Africa,exposure
+82,0,Military,Brazil,0,Latin America,exposure
+82,0,Military,Bolívia,0,Latin America,exposure
+82,0,Military,Argentina,0,Latin America,exposure
+82,0,Military,Uruguay,0,Latin America,exposure
+82,0,Military,Paraguay,0,Latin America,exposure
+82,0,Military,Chile,0,Latin America,exposure
+82,0,Military,Colombia,0,Latin America,exposure
+82,0,Military,Mexico,4,Latin America,exposure
+82,0,Military,Peru,4,Latin America,exposure
+82,0,Military,Venezuela,4,Latin America,exposure
+82,0,Military,South Korea,0,East Asia,exposure
+82,0,Military,Japan,0,East Asia,exposure
+82,0,Military,Vietnam,0,Southeast & South Asia,exposure
+82,0,Military,United States,0,North America,exposure
+82,0,Military,Canada,0,North America,exposure
+82,0,Military,Philippines,4,Southeast & South Asia,exposure
+82,0,Military,Thailand,4,Southeast & South Asia,exposure
+82,0,Military,Cambodia,4,Southeast & South Asia,exposure
+82,0,Military,Malaysia,0,Southeast & South Asia,exposure
+82,0,Military,Germany,0,Europe,exposure
+82,0,Military,Estonia,0,Europe,exposure
+82,0,Military,Czech Republic,0,Europe,exposure
+82,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+82,0,Military,Poland,0,Europe,exposure
+83,0,Military,Taiwan,0,East Asia,exposure
+83,0,Military,Australia,0,Pacific,exposure
+83,0,Military,New Zealand,0,Pacific,exposure
+83,0,Military,Indonesia,0,Southeast & South Asia,exposure
+83,0,Military,Singapore,0,Southeast & South Asia,exposure
+83,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+83,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+83,0,Military,Kazakhstan,0,Central Asia & South Caucasus,exposure
+83,0,Military,Armenia,0,Central Asia & South Caucasus,exposure
+83,0,Military,Tajikistan,4,Central Asia & South Caucasus,exposure
+83,0,Military,Ethiopia,0,Africa,exposure
+83,0,Military,Kenya,0,Africa,exposure
+83,0,Military,Brazil,0,Latin America,exposure
+83,0,Military,Bolívia,0,Latin America,exposure
+83,0,Military,Argentina,0,Latin America,exposure
+83,0,Military,Uruguay,0,Latin America,exposure
+83,0,Military,Paraguay,0,Latin America,exposure
+83,0,Military,Chile,0,Latin America,exposure
+83,0,Military,Colombia,0,Latin America,exposure
+83,0,Military,Mexico,0,Latin America,exposure
+83,0,Military,Peru,0,Latin America,exposure
+83,0,Military,Venezuela,0,Latin America,exposure
+83,0,Military,South Korea,0,East Asia,exposure
+83,0,Military,Japan,0,East Asia,exposure
+83,0,Military,Vietnam,0,Southeast & South Asia,exposure
+83,0,Military,United States,0,North America,exposure
+83,0,Military,Canada,0,North America,exposure
+83,0,Military,Philippines,0,Southeast & South Asia,exposure
+83,0,Military,Thailand,4,Southeast & South Asia,exposure
+83,0,Military,Cambodia,4,Southeast & South Asia,exposure
+83,0,Military,Malaysia,0,Southeast & South Asia,exposure
+83,0,Military,Germany,0,Europe,exposure
+83,0,Military,Estonia,0,Europe,exposure
+83,0,Military,Czech Republic,0,Europe,exposure
+83,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+83,0,Military,Poland,0,Europe,exposure
+84,0,Military,Taiwan,0,East Asia,exposure
+84,0,Military,Australia,0,Pacific,exposure
+84,0,Military,New Zealand,4,Pacific,exposure
+84,0,Military,Indonesia,4,Southeast & South Asia,exposure
+84,0,Military,Singapore,4,Southeast & South Asia,exposure
+84,0,Military,Georgia,4,Central Asia & South Caucasus,exposure
+84,0,Military,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+84,0,Military,Kazakhstan,4,Central Asia & South Caucasus,exposure
+84,0,Military,Armenia,4,Central Asia & South Caucasus,exposure
+84,0,Military,Tajikistan,4,Central Asia & South Caucasus,exposure
+84,0,Military,Ethiopia,0,Africa,exposure
+84,0,Military,Kenya,0,Africa,exposure
+84,0,Military,Brazil,4,Latin America,exposure
+84,0,Military,Bolívia,0,Latin America,exposure
+84,0,Military,Argentina,4,Latin America,exposure
+84,0,Military,Uruguay,4,Latin America,exposure
+84,0,Military,Paraguay,0,Latin America,exposure
+84,0,Military,Chile,4,Latin America,exposure
+84,0,Military,Colombia,0,Latin America,exposure
+84,0,Military,Mexico,4,Latin America,exposure
+84,0,Military,Peru,4,Latin America,exposure
+84,0,Military,Venezuela,4,Latin America,exposure
+84,0,Military,South Korea,0,East Asia,exposure
+84,0,Military,Japan,4,East Asia,exposure
+84,0,Military,Vietnam,0,Southeast & South Asia,exposure
+84,0,Military,United States,0,North America,exposure
+84,0,Military,Canada,0,North America,exposure
+84,0,Military,Philippines,0,Southeast & South Asia,exposure
+84,0,Military,Thailand,4,Southeast & South Asia,exposure
+84,0,Military,Cambodia,4,Southeast & South Asia,exposure
+84,0,Military,Malaysia,0,Southeast & South Asia,exposure
+84,0,Military,Germany,0,Europe,exposure
+84,0,Military,Estonia,0,Europe,exposure
+84,0,Military,Czech Republic,0,Europe,exposure
+84,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+84,0,Military,Poland,0,Europe,exposure
+85,0,Military,Taiwan,0,East Asia,exposure
+85,0,Military,Australia,0,Pacific,exposure
+85,0,Military,New Zealand,0,Pacific,exposure
+85,0,Military,Indonesia,0,Southeast & South Asia,exposure
+85,0,Military,Singapore,0,Southeast & South Asia,exposure
+85,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+85,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+85,0,Military,Kazakhstan,4,Central Asia & South Caucasus,exposure
+85,0,Military,Armenia,4,Central Asia & South Caucasus,exposure
+85,0,Military,Tajikistan,4,Central Asia & South Caucasus,exposure
+85,0,Military,Ethiopia,0,Africa,exposure
+85,0,Military,Kenya,0,Africa,exposure
+85,0,Military,Brazil,0,Latin America,exposure
+85,0,Military,Bolívia,0,Latin America,exposure
+85,0,Military,Argentina,0,Latin America,exposure
+85,0,Military,Uruguay,0,Latin America,exposure
+85,0,Military,Paraguay,0,Latin America,exposure
+85,0,Military,Chile,0,Latin America,exposure
+85,0,Military,Colombia,0,Latin America,exposure
+85,0,Military,Mexico,0,Latin America,exposure
+85,0,Military,Peru,4,Latin America,exposure
+85,0,Military,Venezuela,,Latin America,exposure
+85,0,Military,South Korea,0,East Asia,exposure
+85,0,Military,Japan,0,East Asia,exposure
+85,0,Military,Vietnam,0,Southeast & South Asia,exposure
+85,0,Military,United States,0,North America,exposure
+85,0,Military,Canada,0,North America,exposure
+85,0,Military,Philippines,0,Southeast & South Asia,exposure
+85,0,Military,Thailand,4,Southeast & South Asia,exposure
+85,0,Military,Cambodia,4,Southeast & South Asia,exposure
+85,0,Military,Malaysia,0,Southeast & South Asia,exposure
+85,0,Military,Germany,0,Europe,exposure
+85,0,Military,Estonia,0,Europe,exposure
+85,0,Military,Czech Republic,0,Europe,exposure
+85,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+85,0,Military,Poland,0,Europe,exposure
+86,0,Military,Taiwan,4,East Asia,exposure
+86,0,Military,Australia,0,Pacific,exposure
+86,0,Military,New Zealand,0,Pacific,exposure
+86,0,Military,Indonesia,4,Southeast & South Asia,exposure
+86,0,Military,Singapore,4,Southeast & South Asia,exposure
+86,0,Military,Georgia,0,Central Asia & South Caucasus,exposure
+86,0,Military,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+86,0,Military,Kazakhstan,0,Central Asia & South Caucasus,exposure
+86,0,Military,Armenia,0,Central Asia & South Caucasus,exposure
+86,0,Military,Tajikistan,0,Central Asia & South Caucasus,exposure
+86,0,Military,Ethiopia,0,Africa,exposure
+86,0,Military,Kenya,0,Africa,exposure
+86,0,Military,Brazil,0,Latin America,exposure
+86,0,Military,Bolívia,0,Latin America,exposure
+86,0,Military,Argentina,0,Latin America,exposure
+86,0,Military,Uruguay,0,Latin America,exposure
+86,0,Military,Paraguay,0,Latin America,exposure
+86,0,Military,Chile,0,Latin America,exposure
+86,0,Military,Colombia,0,Latin America,exposure
+86,0,Military,Mexico,0,Latin America,exposure
+86,0,Military,Peru,4,Latin America,exposure
+86,0,Military,Venezuela,4,Latin America,exposure
+86,0,Military,South Korea,4,East Asia,exposure
+86,0,Military,Japan,0,East Asia,exposure
+86,0,Military,Vietnam,,Southeast & South Asia,exposure
+86,0,Military,United States,4,North America,exposure
+86,0,Military,Canada,0,North America,exposure
+86,0,Military,Philippines,0,Southeast & South Asia,exposure
+86,0,Military,Thailand,,Southeast & South Asia,exposure
+86,0,Military,Cambodia,4,Southeast & South Asia,exposure
+86,0,Military,Malaysia,0,Southeast & South Asia,exposure
+86,0,Military,Germany,0,Europe,exposure
+86,0,Military,Estonia,0,Europe,exposure
+86,0,Military,Czech Republic,0,Europe,exposure
+86,0,Military,Bosnia and Herzegovina,0,Europe,exposure
+86,0,Military,Poland,,Europe,exposure
+87,0,Military,Taiwan,4,East Asia,effect
+87,0,Military,Australia,0,Pacific,effect
+87,0,Military,New Zealand,0,Pacific,effect
+87,0,Military,Indonesia,0,Southeast & South Asia,effect
+87,0,Military,Singapore,0,Southeast & South Asia,effect
+87,0,Military,Georgia,0,Central Asia & South Caucasus,effect
+87,0,Military,Kyrgyzstan,0,Central Asia & South Caucasus,effect
+87,0,Military,Kazakhstan,0,Central Asia & South Caucasus,effect
+87,0,Military,Armenia,0,Central Asia & South Caucasus,effect
+87,0,Military,Tajikistan,0,Central Asia & South Caucasus,effect
+87,0,Military,Ethiopia,0,Africa,effect
+87,0,Military,Kenya,0,Africa,effect
+87,0,Military,Brazil,0,Latin America,effect
+87,0,Military,Bolívia,0,Latin America,effect
+87,0,Military,Argentina,0,Latin America,effect
+87,0,Military,Uruguay,4,Latin America,effect
+87,0,Military,Paraguay,0,Latin America,effect
+87,0,Military,Chile,4,Latin America,effect
+87,0,Military,Colombia,0,Latin America,effect
+87,0,Military,Mexico,0,Latin America,effect
+87,0,Military,Peru,4,Latin America,effect
+87,0,Military,Venezuela,4,Latin America,effect
+87,0,Military,South Korea,0,East Asia,effect
+87,0,Military,Japan,0,East Asia,effect
+87,0,Military,Vietnam,0,Southeast & South Asia,effect
+87,0,Military,United States,4,North America,effect
+87,0,Military,Canada,0,North America,effect
+87,0,Military,Philippines,0,Southeast & South Asia,effect
+87,0,Military,Thailand,0,Southeast & South Asia,effect
+87,0,Military,Cambodia,4,Southeast & South Asia,effect
+87,0,Military,Malaysia,0,Southeast & South Asia,effect
+87,0,Military,Germany,0,Europe,effect
+87,0,Military,Estonia,0,Europe,effect
+87,0,Military,Czech Republic,0,Europe,effect
+87,0,Military,Bosnia and Herzegovina,0,Europe,effect
+87,0,Military,Poland,0,Europe,effect
+88,0,Military,Taiwan,0,East Asia,effect
+88,0,Military,Australia,4,Pacific,effect
+88,0,Military,New Zealand,4,Pacific,effect
+88,0,Military,Indonesia,4,Southeast & South Asia,effect
+88,0,Military,Singapore,4,Southeast & South Asia,effect
+88,0,Military,Georgia,0,Central Asia & South Caucasus,effect
+88,0,Military,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+88,0,Military,Kazakhstan,4,Central Asia & South Caucasus,effect
+88,0,Military,Armenia,4,Central Asia & South Caucasus,effect
+88,0,Military,Tajikistan,4,Central Asia & South Caucasus,effect
+88,0,Military,Ethiopia,0,Africa,effect
+88,0,Military,Kenya,0,Africa,effect
+88,0,Military,Brazil,0,Latin America,effect
+88,0,Military,Bolívia,0,Latin America,effect
+88,0,Military,Argentina,0,Latin America,effect
+88,0,Military,Uruguay,0,Latin America,effect
+88,0,Military,Paraguay,0,Latin America,effect
+88,0,Military,Chile,0,Latin America,effect
+88,0,Military,Colombia,4,Latin America,effect
+88,0,Military,Mexico,4,Latin America,effect
+88,0,Military,Peru,4,Latin America,effect
+88,0,Military,Venezuela,4,Latin America,effect
+88,0,Military,South Korea,0,East Asia,effect
+88,0,Military,Japan,0,East Asia,effect
+88,0,Military,Vietnam,0,Southeast & South Asia,effect
+88,0,Military,United States,0,North America,effect
+88,0,Military,Canada,0,North America,effect
+88,0,Military,Philippines,4,Southeast & South Asia,effect
+88,0,Military,Thailand,4,Southeast & South Asia,effect
+88,0,Military,Cambodia,4,Southeast & South Asia,effect
+88,0,Military,Malaysia,4,Southeast & South Asia,effect
+88,0,Military,Germany,4,Europe,effect
+88,0,Military,Estonia,0,Europe,effect
+88,0,Military,Czech Republic,0,Europe,effect
+88,0,Military,Bosnia and Herzegovina,0,Europe,effect
+88,0,Military,Poland,0,Europe,effect
+89,0,Law Enforcement,Taiwan,4,East Asia,exposure
+89,0,Law Enforcement,Australia,0,Pacific,exposure
+89,0,Law Enforcement,New Zealand,0,Pacific,exposure
+89,0,Law Enforcement,Indonesia,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Singapore,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Georgia,4,Central Asia & South Caucasus,exposure
+89,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+89,0,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,exposure
+89,0,Law Enforcement,Armenia,4,Central Asia & South Caucasus,exposure
+89,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,exposure
+89,0,Law Enforcement,Ethiopia,4,Africa,exposure
+89,0,Law Enforcement,Kenya,4,Africa,exposure
+89,0,Law Enforcement,Brazil,4,Latin America,exposure
+89,0,Law Enforcement,Bolívia,0,Latin America,exposure
+89,0,Law Enforcement,Argentina,4,Latin America,exposure
+89,0,Law Enforcement,Uruguay,4,Latin America,exposure
+89,0,Law Enforcement,Paraguay,0,Latin America,exposure
+89,0,Law Enforcement,Chile,4,Latin America,exposure
+89,0,Law Enforcement,Colombia,4,Latin America,exposure
+89,0,Law Enforcement,Mexico,4,Latin America,exposure
+89,0,Law Enforcement,Peru,4,Latin America,exposure
+89,0,Law Enforcement,Venezuela,4,Latin America,exposure
+89,0,Law Enforcement,South Korea,4,East Asia,exposure
+89,0,Law Enforcement,Japan,0,East Asia,exposure
+89,0,Law Enforcement,Vietnam,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,United States,0,North America,exposure
+89,0,Law Enforcement,Canada,0,North America,exposure
+89,0,Law Enforcement,Philippines,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Thailand,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Cambodia,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Malaysia,4,Southeast & South Asia,exposure
+89,0,Law Enforcement,Germany,0,Europe,exposure
+89,0,Law Enforcement,Estonia,4,Europe,exposure
+89,0,Law Enforcement,Czech Republic,4,Europe,exposure
+89,0,Law Enforcement,Bosnia and Herzegovina,4,Europe,exposure
+89,0,Law Enforcement,Poland,4,Europe,exposure
+90,0,Law Enforcement,Taiwan,4,East Asia,exposure
+90,0,Law Enforcement,Australia,4,Pacific,exposure
+90,0,Law Enforcement,New Zealand,0,Pacific,exposure
+90,0,Law Enforcement,Indonesia,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,Singapore,0,Southeast & South Asia,exposure
+90,0,Law Enforcement,Georgia,4,Central Asia & South Caucasus,exposure
+90,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,exposure
+90,0,Law Enforcement,Kazakhstan,4,Central Asia & South Caucasus,exposure
+90,0,Law Enforcement,Armenia,4,Central Asia & South Caucasus,exposure
+90,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,exposure
+90,0,Law Enforcement,Ethiopia,0,Africa,exposure
+90,0,Law Enforcement,Kenya,0,Africa,exposure
+90,0,Law Enforcement,Brazil,0,Latin America,exposure
+90,0,Law Enforcement,Bolívia,0,Latin America,exposure
+90,0,Law Enforcement,Argentina,4,Latin America,exposure
+90,0,Law Enforcement,Uruguay,4,Latin America,exposure
+90,0,Law Enforcement,Paraguay,0,Latin America,exposure
+90,0,Law Enforcement,Chile,0,Latin America,exposure
+90,0,Law Enforcement,Colombia,0,Latin America,exposure
+90,0,Law Enforcement,Mexico,0,Latin America,exposure
+90,0,Law Enforcement,Peru,0,Latin America,exposure
+90,0,Law Enforcement,Venezuela,0,Latin America,exposure
+90,0,Law Enforcement,South Korea,,East Asia,exposure
+90,0,Law Enforcement,Japan,0,East Asia,exposure
+90,0,Law Enforcement,Vietnam,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,United States,0,North America,exposure
+90,0,Law Enforcement,Canada,0,North America,exposure
+90,0,Law Enforcement,Philippines,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,Thailand,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,Cambodia,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,Malaysia,4,Southeast & South Asia,exposure
+90,0,Law Enforcement,Germany,0,Europe,exposure
+90,0,Law Enforcement,Estonia,0,Europe,exposure
+90,0,Law Enforcement,Czech Republic,0,Europe,exposure
+90,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,exposure
+90,0,Law Enforcement,Poland,0,Europe,exposure
+91,0,Law Enforcement,Taiwan,4,East Asia,exposure
+91,0,Law Enforcement,Australia,4,Pacific,exposure
+91,0,Law Enforcement,New Zealand,4,Pacific,exposure
+91,0,Law Enforcement,Indonesia,4,Southeast & South Asia,exposure
+91,0,Law Enforcement,Singapore,0,Southeast & South Asia,exposure
+91,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,exposure
+91,0,Law Enforcement,Kyrgyzstan,0,Central Asia & South Caucasus,exposure
+91,0,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,exposure
+91,0,Law Enforcement,Armenia,0,Central Asia & South Caucasus,exposure
+91,0,Law Enforcement,Tajikistan,0,Central Asia & South Caucasus,exposure
+91,0,Law Enforcement,Ethiopia,0,Africa,exposure
+91,0,Law Enforcement,Kenya,0,Africa,exposure
+91,0,Law Enforcement,Brazil,4,Latin America,exposure
+91,0,Law Enforcement,Bolívia,4,Latin America,exposure
+91,0,Law Enforcement,Argentina,4,Latin America,exposure
+91,0,Law Enforcement,Uruguay,0,Latin America,exposure
+91,0,Law Enforcement,Paraguay,4,Latin America,exposure
+91,0,Law Enforcement,Chile,0,Latin America,exposure
+91,0,Law Enforcement,Colombia,0,Latin America,exposure
+91,0,Law Enforcement,Mexico,4,Latin America,exposure
+91,0,Law Enforcement,Peru,4,Latin America,exposure
+91,0,Law Enforcement,Venezuela,0,Latin America,exposure
+91,0,Law Enforcement,South Korea,4,East Asia,exposure
+91,0,Law Enforcement,Japan,0,East Asia,exposure
+91,0,Law Enforcement,Vietnam,0,Southeast & South Asia,exposure
+91,0,Law Enforcement,United States,4,North America,exposure
+91,0,Law Enforcement,Canada,4,North America,exposure
+91,0,Law Enforcement,Philippines,4,Southeast & South Asia,exposure
+91,0,Law Enforcement,Thailand,4,Southeast & South Asia,exposure
+91,0,Law Enforcement,Cambodia,4,Southeast & South Asia,exposure
+91,0,Law Enforcement,Malaysia,4,Southeast & South Asia,exposure
+91,0,Law Enforcement,Germany,0,Europe,exposure
+91,0,Law Enforcement,Estonia,0,Europe,exposure
+91,0,Law Enforcement,Czech Republic,0,Europe,exposure
+91,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,exposure
+91,0,Law Enforcement,Poland,4,Europe,exposure
+92,1,Law Enforcement,Taiwan,4,East Asia,pressure
+92,1,Law Enforcement,Australia,2,Pacific,pressure
+92,1,Law Enforcement,New Zealand,3,Pacific,pressure
+92,1,Law Enforcement,Indonesia,0,Southeast & South Asia,pressure
+92,1,Law Enforcement,Singapore,4,Southeast & South Asia,pressure
+92,1,Law Enforcement,Georgia,0,Central Asia & South Caucasus,pressure
+92,1,Law Enforcement,Kyrgyzstan,0,Central Asia & South Caucasus,pressure
+92,1,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,pressure
+92,1,Law Enforcement,Armenia,1,Central Asia & South Caucasus,pressure
+92,1,Law Enforcement,Tajikistan,0,Central Asia & South Caucasus,pressure
+92,1,Law Enforcement,Ethiopia,0,Africa,pressure
+92,1,Law Enforcement,Kenya,3,Africa,pressure
+92,1,Law Enforcement,Brazil,0,Latin America,pressure
+92,1,Law Enforcement,Bolívia,0,Latin America,pressure
+92,1,Law Enforcement,Argentina,0,Latin America,pressure
+92,1,Law Enforcement,Uruguay,0,Latin America,pressure
+92,1,Law Enforcement,Paraguay,0,Latin America,pressure
+92,1,Law Enforcement,Chile,0,Latin America,pressure
+92,1,Law Enforcement,Colombia,0,Latin America,pressure
+92,1,Law Enforcement,Mexico,0,Latin America,pressure
+92,1,Law Enforcement,Peru,0,Latin America,pressure
+92,1,Law Enforcement,Venezuela,0,Latin America,pressure
+92,1,Law Enforcement,South Korea,4,East Asia,pressure
+92,1,Law Enforcement,Japan,4,East Asia,pressure
+92,1,Law Enforcement,Vietnam,0,Southeast & South Asia,pressure
+92,1,Law Enforcement,United States,4,North America,pressure
+92,1,Law Enforcement,Canada,4,North America,pressure
+92,1,Law Enforcement,Philippines,4,Southeast & South Asia,pressure
+92,1,Law Enforcement,Thailand,0,Southeast & South Asia,pressure
+92,1,Law Enforcement,Cambodia,3,Southeast & South Asia,pressure
+92,1,Law Enforcement,Malaysia,3,Southeast & South Asia,pressure
+92,1,Law Enforcement,Germany,4,Europe,pressure
+92,1,Law Enforcement,Estonia,3,Europe,pressure
+92,1,Law Enforcement,Czech Republic,0,Europe,pressure
+92,1,Law Enforcement,Bosnia and Herzegovina,0,Europe,pressure
+92,1,Law Enforcement,Poland,3,Europe,pressure
+93,1,Law Enforcement,Taiwan,4,East Asia,pressure
+93,1,Law Enforcement,Australia,4,Pacific,pressure
+93,1,Law Enforcement,New Zealand,3,Pacific,pressure
+93,1,Law Enforcement,Indonesia,3,Southeast & South Asia,pressure
+93,1,Law Enforcement,Singapore,4,Southeast & South Asia,pressure
+93,1,Law Enforcement,Georgia,0,Central Asia & South Caucasus,pressure
+93,1,Law Enforcement,Kyrgyzstan,1,Central Asia & South Caucasus,pressure
+93,1,Law Enforcement,Kazakhstan,3,Central Asia & South Caucasus,pressure
+93,1,Law Enforcement,Armenia,1,Central Asia & South Caucasus,pressure
+93,1,Law Enforcement,Tajikistan,0,Central Asia & South Caucasus,pressure
+93,1,Law Enforcement,Ethiopia,3,Africa,pressure
+93,1,Law Enforcement,Kenya,3,Africa,pressure
+93,1,Law Enforcement,Brazil,0,Latin America,pressure
+93,1,Law Enforcement,Bolívia,0,Latin America,pressure
+93,1,Law Enforcement,Argentina,0,Latin America,pressure
+93,1,Law Enforcement,Uruguay,0,Latin America,pressure
+93,1,Law Enforcement,Paraguay,0,Latin America,pressure
+93,1,Law Enforcement,Chile,0,Latin America,pressure
+93,1,Law Enforcement,Colombia,0,Latin America,pressure
+93,1,Law Enforcement,Mexico,3,Latin America,pressure
+93,1,Law Enforcement,Peru,4,Latin America,pressure
+93,1,Law Enforcement,Venezuela,0,Latin America,pressure
+93,1,Law Enforcement,South Korea,4,East Asia,pressure
+93,1,Law Enforcement,Japan,4,East Asia,pressure
+93,1,Law Enforcement,Vietnam,4,Southeast & South Asia,pressure
+93,1,Law Enforcement,United States,4,North America,pressure
+93,1,Law Enforcement,Canada,0,North America,pressure
+93,1,Law Enforcement,Philippines,4,Southeast & South Asia,pressure
+93,1,Law Enforcement,Thailand,0,Southeast & South Asia,pressure
+93,1,Law Enforcement,Cambodia,3,Southeast & South Asia,pressure
+93,1,Law Enforcement,Malaysia,3,Southeast & South Asia,pressure
+93,1,Law Enforcement,Germany,4,Europe,pressure
+93,1,Law Enforcement,Estonia,0,Europe,pressure
+93,1,Law Enforcement,Czech Republic,4,Europe,pressure
+93,1,Law Enforcement,Bosnia and Herzegovina,0,Europe,pressure
+93,1,Law Enforcement,Poland,2,Europe,pressure
+94,1,Law Enforcement,Taiwan,3,East Asia,pressure
+94,1,Law Enforcement,Australia,1,Pacific,pressure
+94,1,Law Enforcement,New Zealand,0,Pacific,pressure
+94,1,Law Enforcement,Indonesia,0,Southeast & South Asia,pressure
+94,1,Law Enforcement,Singapore,0,Southeast & South Asia,pressure
+94,1,Law Enforcement,Georgia,0,Central Asia & South Caucasus,pressure
+94,1,Law Enforcement,Kyrgyzstan,3,Central Asia & South Caucasus,pressure
+94,1,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,pressure
+94,1,Law Enforcement,Armenia,0,Central Asia & South Caucasus,pressure
+94,1,Law Enforcement,Tajikistan,0,Central Asia & South Caucasus,pressure
+94,1,Law Enforcement,Ethiopia,0,Africa,pressure
+94,1,Law Enforcement,Kenya,0,Africa,pressure
+94,1,Law Enforcement,Brazil,0,Latin America,pressure
+94,1,Law Enforcement,Bolívia,0,Latin America,pressure
+94,1,Law Enforcement,Argentina,0,Latin America,pressure
+94,1,Law Enforcement,Uruguay,0,Latin America,pressure
+94,1,Law Enforcement,Paraguay,1,Latin America,pressure
+94,1,Law Enforcement,Chile,0,Latin America,pressure
+94,1,Law Enforcement,Colombia,0,Latin America,pressure
+94,1,Law Enforcement,Mexico,0,Latin America,pressure
+94,1,Law Enforcement,Peru,0,Latin America,pressure
+94,1,Law Enforcement,Venezuela,0,Latin America,pressure
+94,1,Law Enforcement,South Korea,1,East Asia,pressure
+94,1,Law Enforcement,Japan,0,East Asia,pressure
+94,1,Law Enforcement,Vietnam,0,Southeast & South Asia,pressure
+94,1,Law Enforcement,United States,,North America,pressure
+94,1,Law Enforcement,Canada,4,North America,pressure
+94,1,Law Enforcement,Philippines,2,Southeast & South Asia,pressure
+94,1,Law Enforcement,Thailand,0,Southeast & South Asia,pressure
+94,1,Law Enforcement,Cambodia,,Southeast & South Asia,pressure
+94,1,Law Enforcement,Malaysia,2,Southeast & South Asia,pressure
+94,1,Law Enforcement,Germany,3,Europe,pressure
+94,1,Law Enforcement,Estonia,0,Europe,pressure
+94,1,Law Enforcement,Czech Republic,0,Europe,pressure
+94,1,Law Enforcement,Bosnia and Herzegovina,0,Europe,pressure
+94,1,Law Enforcement,Poland,0,Europe,pressure
+95,0,Law Enforcement,Taiwan,4,East Asia,effect
+95,0,Law Enforcement,Australia,4,Pacific,effect
+95,0,Law Enforcement,New Zealand,4,Pacific,effect
+95,0,Law Enforcement,Indonesia,0,Southeast & South Asia,effect
+95,0,Law Enforcement,Singapore,4,Southeast & South Asia,effect
+95,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,effect
+95,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+95,0,Law Enforcement,Kazakhstan,4,Central Asia & South Caucasus,effect
+95,0,Law Enforcement,Armenia,4,Central Asia & South Caucasus,effect
+95,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,effect
+95,0,Law Enforcement,Ethiopia,4,Africa,effect
+95,0,Law Enforcement,Kenya,4,Africa,effect
+95,0,Law Enforcement,Brazil,4,Latin America,effect
+95,0,Law Enforcement,Bolívia,4,Latin America,effect
+95,0,Law Enforcement,Argentina,4,Latin America,effect
+95,0,Law Enforcement,Uruguay,4,Latin America,effect
+95,0,Law Enforcement,Paraguay,0,Latin America,effect
+95,0,Law Enforcement,Chile,4,Latin America,effect
+95,0,Law Enforcement,Colombia,0,Latin America,effect
+95,0,Law Enforcement,Mexico,4,Latin America,effect
+95,0,Law Enforcement,Peru,4,Latin America,effect
+95,0,Law Enforcement,Venezuela,4,Latin America,effect
+95,0,Law Enforcement,South Korea,4,East Asia,effect
+95,0,Law Enforcement,Japan,0,East Asia,effect
+95,0,Law Enforcement,Vietnam,0,Southeast & South Asia,effect
+95,0,Law Enforcement,United States,4,North America,effect
+95,0,Law Enforcement,Canada,0,North America,effect
+95,0,Law Enforcement,Philippines,4,Southeast & South Asia,effect
+95,0,Law Enforcement,Thailand,0,Southeast & South Asia,effect
+95,0,Law Enforcement,Cambodia,4,Southeast & South Asia,effect
+95,0,Law Enforcement,Malaysia,4,Southeast & South Asia,effect
+95,0,Law Enforcement,Germany,0,Europe,effect
+95,0,Law Enforcement,Estonia,4,Europe,effect
+95,0,Law Enforcement,Czech Republic,4,Europe,effect
+95,0,Law Enforcement,Bosnia and Herzegovina,4,Europe,effect
+95,0,Law Enforcement,Poland,,Europe,effect
+96,0,Law Enforcement,Taiwan,0,East Asia,effect
+96,0,Law Enforcement,Australia,0,Pacific,effect
+96,0,Law Enforcement,New Zealand,4,Pacific,effect
+96,0,Law Enforcement,Indonesia,0,Southeast & South Asia,effect
+96,0,Law Enforcement,Singapore,0,Southeast & South Asia,effect
+96,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,effect
+96,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+96,0,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,effect
+96,0,Law Enforcement,Armenia,0,Central Asia & South Caucasus,effect
+96,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,effect
+96,0,Law Enforcement,Ethiopia,0,Africa,effect
+96,0,Law Enforcement,Kenya,0,Africa,effect
+96,0,Law Enforcement,Brazil,0,Latin America,effect
+96,0,Law Enforcement,Bolívia,0,Latin America,effect
+96,0,Law Enforcement,Argentina,0,Latin America,effect
+96,0,Law Enforcement,Uruguay,0,Latin America,effect
+96,0,Law Enforcement,Paraguay,0,Latin America,effect
+96,0,Law Enforcement,Chile,0,Latin America,effect
+96,0,Law Enforcement,Colombia,0,Latin America,effect
+96,0,Law Enforcement,Mexico,0,Latin America,effect
+96,0,Law Enforcement,Peru,0,Latin America,effect
+96,0,Law Enforcement,Venezuela,0,Latin America,effect
+96,0,Law Enforcement,South Korea,4,East Asia,effect
+96,0,Law Enforcement,Japan,0,East Asia,effect
+96,0,Law Enforcement,Vietnam,4,Southeast & South Asia,effect
+96,0,Law Enforcement,United States,0,North America,effect
+96,0,Law Enforcement,Canada,0,North America,effect
+96,0,Law Enforcement,Philippines,0,Southeast & South Asia,effect
+96,0,Law Enforcement,Thailand,4,Southeast & South Asia,effect
+96,0,Law Enforcement,Cambodia,4,Southeast & South Asia,effect
+96,0,Law Enforcement,Malaysia,0,Southeast & South Asia,effect
+96,0,Law Enforcement,Germany,0,Europe,effect
+96,0,Law Enforcement,Estonia,0,Europe,effect
+96,0,Law Enforcement,Czech Republic,0,Europe,effect
+96,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,effect
+96,0,Law Enforcement,Poland,0,Europe,effect
+97,0,Law Enforcement,Taiwan,0,East Asia,effect
+97,0,Law Enforcement,Australia,0,Pacific,effect
+97,0,Law Enforcement,New Zealand,0,Pacific,effect
+97,0,Law Enforcement,Indonesia,0,Southeast & South Asia,effect
+97,0,Law Enforcement,Singapore,0,Southeast & South Asia,effect
+97,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,effect
+97,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+97,0,Law Enforcement,Kazakhstan,4,Central Asia & South Caucasus,effect
+97,0,Law Enforcement,Armenia,0,Central Asia & South Caucasus,effect
+97,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,effect
+97,0,Law Enforcement,Ethiopia,0,Africa,effect
+97,0,Law Enforcement,Kenya,0,Africa,effect
+97,0,Law Enforcement,Brazil,0,Latin America,effect
+97,0,Law Enforcement,Bolívia,0,Latin America,effect
+97,0,Law Enforcement,Argentina,0,Latin America,effect
+97,0,Law Enforcement,Uruguay,0,Latin America,effect
+97,0,Law Enforcement,Paraguay,0,Latin America,effect
+97,0,Law Enforcement,Chile,0,Latin America,effect
+97,0,Law Enforcement,Colombia,0,Latin America,effect
+97,0,Law Enforcement,Mexico,0,Latin America,effect
+97,0,Law Enforcement,Peru,0,Latin America,effect
+97,0,Law Enforcement,Venezuela,0,Latin America,effect
+97,0,Law Enforcement,South Korea,0,East Asia,effect
+97,0,Law Enforcement,Japan,0,East Asia,effect
+97,0,Law Enforcement,Vietnam,0,Southeast & South Asia,effect
+97,0,Law Enforcement,United States,0,North America,effect
+97,0,Law Enforcement,Canada,0,North America,effect
+97,0,Law Enforcement,Philippines,0,Southeast & South Asia,effect
+97,0,Law Enforcement,Thailand,4,Southeast & South Asia,effect
+97,0,Law Enforcement,Cambodia,4,Southeast & South Asia,effect
+97,0,Law Enforcement,Malaysia,4,Southeast & South Asia,effect
+97,0,Law Enforcement,Germany,0,Europe,effect
+97,0,Law Enforcement,Estonia,0,Europe,effect
+97,0,Law Enforcement,Czech Republic,0,Europe,effect
+97,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,effect
+97,0,Law Enforcement,Poland,0,Europe,effect
+98,0,Law Enforcement,Taiwan,0,East Asia,effect
+98,0,Law Enforcement,Australia,0,Pacific,effect
+98,0,Law Enforcement,New Zealand,0,Pacific,effect
+98,0,Law Enforcement,Indonesia,4,Southeast & South Asia,effect
+98,0,Law Enforcement,Singapore,0,Southeast & South Asia,effect
+98,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,effect
+98,0,Law Enforcement,Kyrgyzstan,,Central Asia & South Caucasus,effect
+98,0,Law Enforcement,Kazakhstan,0,Central Asia & South Caucasus,effect
+98,0,Law Enforcement,Armenia,4,Central Asia & South Caucasus,effect
+98,0,Law Enforcement,Tajikistan,0,Central Asia & South Caucasus,effect
+98,0,Law Enforcement,Ethiopia,0,Africa,effect
+98,0,Law Enforcement,Kenya,4,Africa,effect
+98,0,Law Enforcement,Brazil,0,Latin America,effect
+98,0,Law Enforcement,Bolívia,0,Latin America,effect
+98,0,Law Enforcement,Argentina,0,Latin America,effect
+98,0,Law Enforcement,Uruguay,0,Latin America,effect
+98,0,Law Enforcement,Paraguay,0,Latin America,effect
+98,0,Law Enforcement,Chile,0,Latin America,effect
+98,0,Law Enforcement,Colombia,0,Latin America,effect
+98,0,Law Enforcement,Mexico,0,Latin America,effect
+98,0,Law Enforcement,Peru,0,Latin America,effect
+98,0,Law Enforcement,Venezuela,0,Latin America,effect
+98,0,Law Enforcement,South Korea,0,East Asia,effect
+98,0,Law Enforcement,Japan,0,East Asia,effect
+98,0,Law Enforcement,Vietnam,4,Southeast & South Asia,effect
+98,0,Law Enforcement,United States,0,North America,effect
+98,0,Law Enforcement,Canada,0,North America,effect
+98,0,Law Enforcement,Philippines,0,Southeast & South Asia,effect
+98,0,Law Enforcement,Thailand,4,Southeast & South Asia,effect
+98,0,Law Enforcement,Cambodia,4,Southeast & South Asia,effect
+98,0,Law Enforcement,Malaysia,4,Southeast & South Asia,effect
+98,0,Law Enforcement,Germany,0,Europe,effect
+98,0,Law Enforcement,Estonia,0,Europe,effect
+98,0,Law Enforcement,Czech Republic,0,Europe,effect
+98,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,effect
+98,0,Law Enforcement,Poland,4,Europe,effect
+99,0,Law Enforcement,Taiwan,0,East Asia,effect
+99,0,Law Enforcement,Australia,0,Pacific,effect
+99,0,Law Enforcement,New Zealand,0,Pacific,effect
+99,0,Law Enforcement,Indonesia,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Singapore,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Georgia,0,Central Asia & South Caucasus,effect
+99,0,Law Enforcement,Kyrgyzstan,4,Central Asia & South Caucasus,effect
+99,0,Law Enforcement,Kazakhstan,4,Central Asia & South Caucasus,effect
+99,0,Law Enforcement,Armenia,4,Central Asia & South Caucasus,effect
+99,0,Law Enforcement,Tajikistan,4,Central Asia & South Caucasus,effect
+99,0,Law Enforcement,Ethiopia,0,Africa,effect
+99,0,Law Enforcement,Kenya,0,Africa,effect
+99,0,Law Enforcement,Brazil,0,Latin America,effect
+99,0,Law Enforcement,Bolívia,0,Latin America,effect
+99,0,Law Enforcement,Argentina,0,Latin America,effect
+99,0,Law Enforcement,Uruguay,0,Latin America,effect
+99,0,Law Enforcement,Paraguay,0,Latin America,effect
+99,0,Law Enforcement,Chile,0,Latin America,effect
+99,0,Law Enforcement,Colombia,0,Latin America,effect
+99,0,Law Enforcement,Mexico,0,Latin America,effect
+99,0,Law Enforcement,Peru,4,Latin America,effect
+99,0,Law Enforcement,Venezuela,0,Latin America,effect
+99,0,Law Enforcement,South Korea,0,East Asia,effect
+99,0,Law Enforcement,Japan,0,East Asia,effect
+99,0,Law Enforcement,Vietnam,4,Southeast & South Asia,effect
+99,0,Law Enforcement,United States,0,North America,effect
+99,0,Law Enforcement,Canada,0,North America,effect
+99,0,Law Enforcement,Philippines,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Thailand,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Cambodia,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Malaysia,4,Southeast & South Asia,effect
+99,0,Law Enforcement,Germany,0,Europe,effect
+99,0,Law Enforcement,Estonia,0,Europe,effect
+99,0,Law Enforcement,Czech Republic,0,Europe,effect
+99,0,Law Enforcement,Bosnia and Herzegovina,0,Europe,effect
+99,0,Law Enforcement,Poland,4,Europe,effect
