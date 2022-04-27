@@ -1,0 +1,918 @@
+{
+    "name": "Czech Republic",
+    "partner": "Sinopsis",
+    "year": "2021",
+    "GDP": "$22,578.83",
+    "population": "10.7M",
+    "original": "80/396",
+    "ranking": "33",
+    "overall": "20%",
+    "effect": "16%",
+    "exposure": "24%",
+    "pressure": "13%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "Prague Times \u5e03\u62c9\u683c\u65f6\u62a5, Czech-Chinese Journal \u6377\u534e\u901a\u8baf, EC Today (\u4eca\u65e5\u4e2d\u6b27\u7f51). They are significant within the diaspora context, not the whole society, so this depends on your definition of significant in this area.",
+                "evidence_urls": [
+                    "https://archive.ph/NvOXS"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "China Radio International broadcasts in Czech, but remains a fringe media organization.",
+                "evidence_urls": [
+                    "http://czech.cri.cn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Prague Times \u5e03\u62c9\u683c\u65f6\u62a5, Czech-Chinese Journal \u6377\u534e\u901a\u8baf, and EC Today (\u4eca\u65e5\u4e2d\u6b27\u7f51) are owned by PRC citizens. The PRC state-owned company CITIC holds 49% of shares in Czech media company Empresa Media which runs TV channel Barrandov and issues magazines T\u00fdden and Instinkt. CITIC also held 57% of shares in media agency M\u00e9dea within the given period (this has changed recently and CITIC sold its shares back to the Czech minority owner). This company controls majority of Czech advertisement business in media.",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/07/cns0.pdf",
+                    "https://www.lidovky.cz/byznys/cinska-skupina-citic-prodala-majoritu-v-medialni-firme-medea-zpet-soukupovi.A210726_141809_ln_ekonomika_lijk"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Liter\u00e1rn\u00ed noviny magazine has a cooperation agreement with Guangming Ribao and frequently reprints its content in its section Reading China+.",
+                "evidence_urls": [
+                    "https://zpravy.aktualne.cz/domaci/literarni-noviny-cina-spoluprace/r~f68e6648316811eaa24cac1f6b220ee8/",
+                    "https://www.literarky.cz/reading-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "There are occasional cases of downplaying of human rights abuses in Xinjiang. The most prominent public figure spreading doubts about situation in Xinjiang is the former Czech prime-minister Ji\u0159\u00ed Paroubek, who mostly expresses himself through his blog Va\u0161e v\u011bc.",
+                "evidence_urls": [
+                    "http://vasevec.parlamentnilisty.cz/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "There is a Chinese-Czech Parliamentary Group, but it comprises exclusively of Czech MPs. However it should be noted that leadership that this group includes politicians with positive views of CPC. ",
+                "evidence_urls": [
+                    "https://www.psp.cz/sqw/hp.sqw?k=2723"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "If we extend the period to prior to the Covid-riddled 2020, then the answer is 4, otherwise it would be 1 at the most.\n\nMembers of the Communist Party of Bohemia and Moravia (KS\u010cM) and Czech Social Democratic Party (\u010cSSD) have occasional contacts with PRC representatives, particularly with the CCP's International Liaison Department. \n\nIn 2019, leaders of \u010cSSD, KS\u010cM and ANO met with Tianjin's Party secretary Li Hongzhong h",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/a-new-comintern-for-the-new-era-the-ccp-international-department-from-bucharest-to-reykjavik/",
+                    "https://sinopsis.cz/en/p2b-tianjin-ppf/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence available of that.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "Before his intended visit to Taiwan the Czech Senate Speaker Jaroslav Kubera was under substantial pressure from PRC embassy which sent him a threatening letter. When Kubera's successor Milo\u0161 Vystr\u010dil actually visited Taiwan, PRC Foreign Minister Wang Yi said that the CR would pay a \"heavy price\" for the visit. \n\nCzech politicians critical towards China are regularly denounced by the PRC embassy, though usually indirectly.",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/embassy-threats/",
+                    "https://jamestown.org/program/how-the-ccp-mobilized-a-cross-border-disinformation-campaign-against-the-czech-senate-speaker/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence of that available in the given time-frame.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence of that available in the given time-frame.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Or perhaps 0 if you count this EU document signed by Czech foreign minister https://data.consilium.europa.eu/doc/document/ST-7914-2021-INIT/en/pdf",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "The Czech Senate denounced human rights violations in Tibet in Xinjiang in its Resolution on winter Olympics in Beijing 2022. \n\nThe Czech Republic supported the Joint Statement on the Human Rights Situation in Xinjiang at the Human Rights Council delivered on June 22nd by Leslie E. Norton, Ambassador and Permanent Representative of Canada to the United Nations in Geneva ",
+                "evidence_urls": [
+                    "https://www.senat.cz/xqw/webdav/pssenat/original/99874/83842",
+                    "https://geneva.usmission.gov/2021/06/22/joint-statement-on-the-human-rights-situation-in-xinjiang/    "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "The Czech Senate denounced human rights violations in Tibet in Xinjiang in its Resolution on winter Olympics in Beijing 2022. However, the Czech government has not taken such action.",
+                "evidence_urls": [
+                    "https://www.senat.cz/xqw/webdav/pssenat/original/99874/83842"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "The government or its official representatives have not officially denounced PRC's curbing of Hong Kong's freedoms.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "Only one Czech university (Technical University of Ostrava) has a partnership with Huawei. Other partnerships with PRC tech companies were terminated after National Cyber and Information Security Agency released its warning about such companies.",
+                "evidence_urls": [
+                    "https://archive.md/IZgDR"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "There are two Confucius Institutes in the Czech Republic.",
+                "evidence_urls": [
+                    "https://konfucius.upol.cz/",
+                    "https://www.konfucius-vsfs.cz/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No evidence of that available for the given period.",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20200809160009/http://www.esilks.org:80/institut/sid/KPZUtD44",
+                    "https://sinopsis.cz/wp-content/uploads/2019/11/ep.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Milo\u0161 Balab\u00e1n, Czech Social Democratic Party (a government party) security expert and formerly of Charles University's Centre for Security Policy and university's Czech-Chinese centre, received funds for his China-related lectures from the PRC embassy. He did so without notifying the university as he received the funds through his private company which shared its name with the Centre for Security Policy.",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2019/11/ep.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "There is only one known case of a Czech scholar participating in a talent program.",
+                "evidence_urls": [
+                    "http://web.archive.org/web/20200925163047/https://cpit.vsb.cz/export/sites/cpit/.content/galerie-souboru/CH_HBUT.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Such activities cannot be confirmed from publicly available sources, but some non-public sources suggest it could be even 3 to 4.",
+                "evidence_urls": [
+                    "https://denikn.cz/241261/bis-cinsti-spioni-pritvrdili-verbuji-v-cesku-agenty-uredniky-i-akademiky-lakaji-na-zajezdy/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No public evidence of that available. There are cases, though, that cannot be backed by public sources.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "These deals are often fringe and lead to nowhere, especially for the given time-frame.",
+                "evidence_urls": [
+                    "https://www.ceskatelevize.cz/ivysilani/1142743803-reporteri-ct/220452801240036/obsah/800730-drahe-sliby",
+                    "https://sinopsis.cz/citic-vede-cesko-do-nove-ery-cinskeho-vlivu-vstric-velkemu-skoku-vzad-a-exportu-leninskeho-autoritarstvi/",
+                    "https://sinopsis.cz/jak-hamacek-s-tvrdikem-zachranovali-cesko/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "Yes, but these ties have grown unimportant and non-active in the last years.",
+                "evidence_urls": [
+                    "https://www.ceskatelevize.cz/ivysilani/1142743803-reporteri-ct/220452801240036/obsah/800730-drahe-sliby"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "Yes, but most trips are still paid by the Czech state.",
+                "evidence_urls": [
+                    "https://denikn.cz/241261/bis-cinsti-spioni-pritvrdili-verbuji-v-cesku-agenty-uredniky-i-akademiky-lakaji-na-zajezdy/",
+                    "https://www.pressreader.com/czech-republic/respekt/20180618/282265256145659"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "High-level Czech political circles have frequent contacts with PRC officials including with the International Liaison Department and other influence organs.",
+                "evidence_urls": [
+                    "https://www.ceskatelevize.cz/ivysilani/1142743803-reporteri-ct/220452801240036/obsah/800730-drahe-sliby",
+                    "Sinopsis report on ILD activities in the Czech Republic, forthcoming."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "The Czech Communists and some members of the ruling parties have expressed positive views of the CCP, but it has become a fringe opinion.",
+                "evidence_urls": [
+                    "https://plus.rozhlas.cz/komuniste-v-cine-prokazali-ze-umi-zemi-ridit-nekteri-ujguri-problem-maji-jini-8296746",
+                    "https://www.lidovky.cz/domov/diky-vazbam-na-cinu-dostaneme-republiku-z-problemu.A200317_213629_ln_domov_tmr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Especially former politicians have been employed by PRC state-owned companies or entities close to the PRC party-state organs.",
+                "evidence_urls": [
+                    "https://sinopsis.cz/citic-ma-prevzit-i-podil-cefc-v-rosnefti/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "PRC is not a major trading partner of the Czech Republic. ",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountryProfile/en/Country/CZE/Year/2019/TradeFlow/EXPIMP"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "PRC buys some of Czech timber, but there is barely anything else.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Yes, some digital infrastructure for state and state-owned structures is operated or provided by Huawei.",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-domov/huawei-kauza-vyrobky-cinska-firma-varovani-nukib-analyza-audit-riziko_1901250600_kno"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "No.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Threats of sanctions were made both in 2019 and 2020, but none were actually initiated, at least publicly.",
+                "evidence_urls": [
+                    "https://www.idnes.cz/zpravy/domaci/milos-zeman-huawei-ppf-skoda-tyden-s-prezidentem-odveta.A190110_203154_domaci_onkr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "The country is part of the European common market.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Much of the Czech telcom market relies on PRC equipment.",
+                "evidence_urls": [
+                    "https://www.capacitymedia.com/articles/3825631/exclusive-four-european-vodafone-companies-are-100-huawei",
+                    "https://www.idnes.cz/mobil/mobilni-operatori/vodafonu-postavi-3g-sit-huawei-cinane-tak-zcela-opanovali-ceske-site.A090708_151340_mob_operatori_vok"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Much of the Czech telcom market relies on PRC equipment.",
+                "evidence_urls": [
+                    "https://www.idnes.cz/mobil/mobilni-operatori/vodafonu-postavi-3g-sit-huawei-cinane-tak-zcela-opanovali-ceske-site.A090708_151340_mob_operatori_vok",
+                    "https://www.capacitymedia.com/articles/3825631/exclusive-four-european-vodafone-companies-are-100-huawei"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Surveillance systems have been provided by Hikvision to police, military, hospitals, etc. Huawei has provided segments of digital infrastructure to the Ministry of the Interior and other state and state-owned entities.",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-domov/huawei-kauza-vyrobky-cinska-firma-varovani-nukib-analyza-audit-riziko_1901250600_kno",
+                    "https://www.lupa.cz/clanky/cinske-kamery-hikvision-pobezi-na-ceskem-softwaru-angelcam-ma-jim-dodat-duveryhodnost/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Czech social media landscape is dominated by Western products.",
+                "evidence_urls": [
+                    "https://datareportal.com/reports/digital-2021-czechia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "Czech China Association for the Promotion of Peaceful Reunification exists as a Chinese diaspora umbrella organization, but it is rarely active, and even less beyond the small diaspora community itself.",
+                "evidence_urls": [
+                    "https://dspace.cuni.cz/bitstream/handle/20.500.11956/122925/120371731.pdf?sequence=1&isAllowed=y"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "4",
+                "evidence": "E.g., Chinese New Year celebrations are a high-profile event featuring CCP-coopted diaspora leaders and high-level Czech politicians.",
+                "evidence_urls": [
+                    "https://jamestown.org/program/the-role-of-coopted-diaspora-groups-in-czech-and-european-united-front-work/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "This is quite limited and constricted to the small diaspora community itself.",
+                "evidence_urls": [
+                    "https://jamestown.org/program/the-role-of-coopted-diaspora-groups-in-czech-and-european-united-front-work/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "If we are not counting politicians and former politicians among celebrities, then no.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "Some towns have promoted the CCP narratives regarding the handling of the Covid-19 pandemic.",
+                "evidence_urls": [
+                    "https://hlidacipes.org/nachod-dekuje-za-rousky-krasnemu-cinskemu-lidu-devotni-dopis-do-ciny-starosta-poslal-ze-slusnosti/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No, on the contrary.",
+                "evidence_urls": [
+                    "https://denikn.cz/494263/pruzkum-cine-veri-jen-jeden-z-deseti-cechu-srbove-chvali-pomoc-svedi-jsou-nejtvrdsi/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "Hikvision surveillance systems.",
+                "evidence_urls": [
+                    "https://zpravy.aktualne.cz/domaci/armada-skoly-i-urad-vlady-cesko-monitoruji-cinske-kamery-pod/r~59ac5ce0da6d11eb94d2ac1f6b220ee8/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "Yes, but only with Hong Kong.",
+                "evidence_urls": [
+                    "https://zpravy.aktualne.cz/domaci/o-vydani-ke-stihani-do-hongkongu-jeste-nikdo-nepozadal-tlumi/r~3f952e88e79111eab0f60cc47ab5f122/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "There has been quite a lot of organized crime violence among the Chinese diaspora in the 90s, but nothing in the recent years.",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "Not within the given time-frame.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "The Czech MFA has been targeted by PRC-linked hackers for years.",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-domov/nukib-narodni-urad-pro-kybernetickou-a-informacni-bezpecnost-rusko-cina_1909251420_dok"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "Also, there are not Chinese dissidents in the country, as far as the researchers know.",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Surveillance cameras made by Hikvision.\n",
+                "evidence_urls": [
+                    "https://www.lupa.cz/clanky/cinske-kamery-hikvision-pobezi-na-ceskem-softwaru-angelcam-ma-jim-dodat-duveryhodnost/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, the Czech Republic has a GDP per capita of US $22,578.83 and a total population of 10.7 million people, with the Chinese population comprising 8,263 people, or 0.07% of the total population.",
+    "description-2": "The Czech Republic established diplomatic relations with the People Republic of China in 1949. The Czech Republic was ranked 40th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 91/100."
+}

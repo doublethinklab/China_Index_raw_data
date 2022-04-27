@@ -1,0 +1,988 @@
+{
+    "name": "Kenya",
+    "partner": "Code for Africa",
+    "year": "2021",
+    "GDP": "$1,816.55",
+    "population": "53.7M",
+    "original": "150/372",
+    "ranking": "16",
+    "overall": "40%",
+    "effect": "31%",
+    "exposure": "49%",
+    "pressure": "19%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cgtn.com/about-us ",
+                    "https://www.startimestv.com/home.html",
+                    "https://www.opera.com/ ",
+                    "http://chinaplus.cri.cn/",
+                    "https://web.archive.org/web/20220315074100/http://scoopernews.com/kenya",
+                    "https://businesstoday.co.ke/xinhua-builds-africa-regional-bureau-nairobi/ ",
+                    "https://kenyatradeportal.go.ke/content/china-daily-africa-ltd",
+                    "http://www.china.org.cn/english/culture/160050.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/MEMBER/2018/03/14/401ab6e5bee54af8b0ce94af69cfa08a.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "Research from the IFJ in 2020 indicates this: Many Kenyan journalists have been on trips to China, sometimes for as long as six months. It was noted that there had been a recent emphasis on taking journalists from Islamic media to China for training. In-house technical staff were also reported to have been to China for training and purchase of equipment for Kenyan infrastructure.",
+                "evidence_urls": [
+                    "https://www.ifj.org/fileadmin/user_upload/IFJ_Report_2020_-_The_China_Story.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "This evidence follows on from the previous question.",
+                "evidence_urls": [
+                    "https://www.ifj.org/fileadmin/user_upload/IFJ_Report_2020_-_The_China_Story.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "There are broadcasts in Kiswahili.",
+                "evidence_urls": [
+                    "http://swahili.cri.cn/",
+                    "https://www.startimestv.com/channeldetail/265.html",
+                    "https://www.pressreader.com/hong-kong/china-daily/20131112/281530813788216 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "The linked organisations are part-owned by PRC citizens or organisations.",
+                "evidence_urls": [
+                    "https://www.cgtn.com/about-us",
+                    "https://www.startimestv.com/home.html ",
+                    "https://www.opera.com/",
+                    "http://chinaplus.cri.cn/ ",
+                    "http://m.scoopernews.com/kenya"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "Mostly via Xinhua Press Agency, who also have Nairobi offices.",
+                "evidence_urls": [
+                    "https://www.dw.com/en/experts-warn-of-chinas-growing-media-influence-in-africa/a-56385420"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There is no evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "There is no evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab review]:\n\nThis link shows the situation of China's suppression of Uyghurs and Hong Kong, which cannot support the indicator.\n\nhttps://www.standardmedia.co.ke/letters/article/2001414708/china-using-cases-against-hong-kong-activists-to-muzzle-opposition   \nhttps://www.standardmedia.co.ke/world/article/2001411878/defying-chinese-surveillance-young-uyghurs-abroad-speak-up-online ",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.parliament.go.ke/virtual-conference-between-national-assembly-kenya-and-national-peoples-congress-npc-peoples"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.parliament.go.ke/virtual-conference-between-national-assembly-kenya-and-national-peoples-congress-npc-peoples"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/zfhzlt2018/eng/zfzs_1/t1829653.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ke.china-embassy.org/eng/xw/t421245.htm",
+                    "https://www.reuters.com/article/us-taiwan-china-kenya-idUSKCN0X90EX"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Kenya's government has not made its stance clear.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ke.china-embassy.org/eng/xw/t421245.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/a/202101/22/WS600a2aa1a31024ad0baa45bf.html",
+                    "https://www.fmprc.gov.cn/zfhzlt2018/eng/zfgx_4/jmhz/t1649653.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.uonbi.ac.ke/news/confucius-institute-building-handed-over-university-nairobi",
+                    "http://www.xinhuanet.com/english/2018-12/04/c_137650589.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1517681/kenya-to-teach-mandarin-chinese-in-primary-classrooms/",
+                    "http://www.xinhuanet.com/english/africa/2019-01/07/c_137726758.htm",
+                    "http://www.chinadaily.com.cn/a/201510/16/WS5a2b4145a310eefe3e99f288.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab Review]:\n\nThe link which our local expert has provided is about the Confucius Institute, not related to the indicator.\nhttps://www.uonbi.ac.ke/news/confucius-institute-building-handed-over-university-nairobi",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab Review]:\n\nThe link which our local expert has provided is about the Confucius Institute, not related to the indicator.\nhttp://www.xinhuanet.com/english/2018-12/04/c_137650589.htm",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There is no evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab Review]:\n\nThe link which our local expert has provided is denied entry into Zambia instead of China:\nhttps://face2faceafrica.com/article/kenyan-lawyer-and-pan-africanist-denied-entry-into-zambia-over-china-africa-lecture",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.uonbi.ac.ke/news/confucius-institute-building-handed-over-university-nairobi"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    " http://ke.china-embassy.org/eng/zfgx/t1222394.htm  ",
+                    "http://ke.china-embassy.org/eng/zkgx/t1614327.htm ",
+                    "http://www.xinhuanet.com/english/2018-11/22/c_137624677.htm ",
+                    "https://www.businessdailyafrica.com/bd/news/counties/china-investors-sh16bn-tiles-plant-in-kisumu-3408070 ",
+                    "http://en.brnn.com/n3/2019/0423/c414872-9570791.html ",
+                    "https://www.kenyachamber.or.ke/2020/12/03/boost-for-kenya-china-trade-as-chinese-firms-pitch-in-nairobi ",
+                    "https://youtu.be/4N8m3e37DLg "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sistercities.org/trilateral-partnership-nairobi-kenya-denver-u-s-kunming-china/ ",
+                    " https://www.sistercities.org/sino-african-initiative/ ",
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Kenya"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.the-star.co.ke/counties/north-eastern/2016-06-02-embu-residents-say-mcas-trip-to-china-a-waste-of-money/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://youtu.be/4N8m3e37DLg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2018-05/24/c_137201302.htm",
+                    "https://www.youtube.com/watch?v=ldY1fBLPyBg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No supporting evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ke.china-embassy.org/eng/xw/t421245.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.president.go.ke/2018/11/05/speech-by-his-excellency-hon-uhuru-kenyatta-c-g-h-president-of-the-republic-of-kenya-and-commander-in-chief-of-the-defence-forces-at-the-inaugural-china-international-import-expo-at-the-shanghai-i/",
+                    "https://www.statista.com/statistics/1135632/main-import-partners-from-kenya-by-value-of-imports/",
+                    "https://www.pd.co.ke/lifestyle/ten-kenyas-largest-trading-partners-4581/",
+                    "https://africacheck.org/fact-checks/reports/yes-china-kenyas-biggest-trading-partner-its-not-balanced-trade",
+                    "https://wits.worldbank.org/CountryProfile/en/Country/KEN/Year/LTST/TradeFlow/EXPIMP"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1324618/china-is-kenyas-largest-creditor-with-72-of-total-bilateral-debt/",
+                    "https://www.businessdailyafrica.com/bd/economy/g20-derails-kenya-s-push-for-china-debt-relief-deal-2295320",
+                    "https://www.dw.com/en/kenya-struggles-to-manage-debt-for-railway-to-nowhere/a-50887431"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.globalconstructionreview.com/news/kenya-take-over-chinese-operated-rail-line-five-ye/",
+                    "http://www.chinadaily.com.cn/a/201706/02/WS5a291f76a310fcb6fafd3bf2.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2018/AIIB-Approves-Membership-of-Papua-New-Guinea-and-Kenya.html",
+                    "http://www.xinhuanet.com/english/2018-05/04/c_137154262.htm",
+                    "https://qz.com/africa/1273424/kenya-joins-china-led-asian-infrastructure-investment-bank-aiib/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "It's known as the Kenya National Chamber of Commerce and Industry.",
+                "evidence_urls": [
+                    "https://www.beltandroadglobalforum.com/en/member/forumfull",
+                    "http://www.xinhuanet.com/english/2019-03/25/c_137922762.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.theeastafrican.co.ke/tea/business/kenya-rejects-china-eac-free-trade-agreement-1393736"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.businessdailyafrica.com/bd/markets/market-news/kenya-eases-special-economic-zone-rules-to-woo-investments-2274930"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "The answer to the above is not a resounding no as the risk of Kenya losing its assets over debt to PRC is imminent, as explained by the links.",
+                "evidence_urls": [
+                    "https://www.the-star.co.ke/news/2021-03-15-china-could-seize-mombasa-port-over-sh364bn-sgr-loan/",
+                    "https://www.hellenicshippingnews.com/china-to-take-over-kenyas-main-port-over-unpaid-huge-chinese-loan/",
+                    "https://www.theeastafrican.co.ke/business/Kenya-assets-risk-seizure-by-Chinese/2560-4870476-prkgwj/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liquid.tech/about-us/news/China+Telecom+Global+and+Liquid%20Intelligent%20Technologies+form+landmark+partnership+to+step+up+network+collaboration+between+Africa+and+Asia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-kenya-safaricom/safaricom-launches-east-africas-first-5g-network-huawei-a-vendor-idUSKBN2BI1H7",
+                    "https://qz.com/africa/1990724/kenya-becomes-the-second-african-country-to-launch-5g/",
+                    "http://www.chinadaily.com.cn/a/201712/07/WS5a29082ea310fcb6fafd3138.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://africabusinesscommunities.com/news/kenya-huawei-partners-with-safaricom-to-deploy-fiber-to-the-home-network/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.standardmedia.co.ke/counties/article/2000125287/safaricom-reveals-huawei-involvement-in-cctv-tender",
+                    "https://www.bbc.com/future/bespoke/specials/connected-world/government.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-kenya-china/kenya-secures-666-million-from-china-for-tech-city-highway-idUSKCN1S21KG",
+                    "https://www.datacenterdynamics.com/en/news/huawei-build-konza-data-center-and-smart-city-kenya-chinese-concessional-loan/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.centralbank.go.ke/national-payments-system/#:~:text=EAPS%20is%20a%20funds%20transfer,in%20the%20EAC%20local%20currencies"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://technode.com/2019/11/12/chinese-investors-lead-series-a-in-kenyan-logistics-startup-lori-systems/",
+                    "https://techpoint.africa/2020/08/24/how-future-hub-invests/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "The top five social media in Kenya are: Facebook, Twitter, WhatsApp, LinkedIn, Instagram",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-11/18/c_139523226.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/huawei-pays-knh-kids-bills-kenya/",
+                    "https://www.chinadaily.com.cn/world/2017-03/22/content_28643529.htm",
+                    "http://www.xinhuanet.com/english/2019-07/20/c_138243806.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.standardmedia.co.ke/counties/article/2000154391/pang-ownership-disclosed-to-parliamentary-team"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/content/1188260.shtml",
+                    "https://www.standardmedia.co.ke/entertainment/features/2001403909/hunting-chinese-tv-series-filmed-in-kenya-takes-market-by-storm",
+                    "https://www.kenyans.co.ke/news/62493-nairobi-tv-series-attracts-250-million-viewers-china",
+                    "http://www.xinhuanet.com/english/2019-10/20/c_138488443.htm",
+                    "https://news.cgtn.com/news/2019-09-03/Kenya-launches-first-Chinese-Film-Week-to-boost-cultural-cooperation-JG83pA3CRa/index.html"
+                ],
+                "note": "[Doublethink Lab Review]:\n\nThe links which our local expert has provided was about TV production collaborated between China and Kenya, although it shows the industry has significant high actives in Kenya, we do need more research or evidence on whether if they're portraying the PRC in a positive light.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2018/10/15/world/africa/kenya-china-racism.html",
+                    "https://www.aa.com.tr/en/africa/kenya-slams-china-over-racism-connected-to-covid-19/1805204",
+                    "https://qz.com/africa/1423930/kenya-must-deal-with-chinese-racial-discrimination/",
+                    "https://www.business-humanrights.org/en/latest-news/kenya-govt-agency-probes-allegations-of-racism-against-china-road-bridge-corporation-against-local-staff/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.piie.com/blogs/realtime-economic-issues-watch/arms-and-influence-chinese-arms-transfers-africa-context",
+                    "https://www.theguardian.com/world/us-embassy-cables-documents/249097",
+                    "https://www.businessdailyafrica.com/bd/economy/kenya-boosts-china-ties-with-sh7-9bn-arms-purchase-deal-2108412"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.standardmedia.co.ke/nairobi/article/2001385607/china-to-establish-military-base-in-kenya",
+                    "https://www.businessdailyafrica.com/bd/economy/china-targeting-kenya-for-military-base-us-claims-2300524"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab Review]:\n\nThe link which our local expert has provided is not related to PLA and HADR:\nhttp://www.xinhuanet.com/english/2019-06/11/c_138134299.htm",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-03/25/c_137922802.htm",
+                    "https://www.the-star.co.ke/news/2019-04-01-kenya-and-china-plan-anti-graft-deal/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.businessdailyafrica.com/bd/economy/kenya-dismisses-us-chinese-5g-spy-claims-3339998",
+                    "https://www.heritage.org/asia/report/government-buildings-africa-are-likely-vector-chinese-spying",
+                    "https://www.voanews.com/east-asia-pacific/voa-news-china/report-chinese-construction-projects-create-opportunity-spy",
+                    "https://www.sandiegouniontribune.com/en-espanol/sdhoy-dozens-of-chinese-citizens-detained-in-kenya-for-2014dec04-story.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.standardmedia.co.ke/business/news/article/2000202822/survey-links-kenyas-cyber-attacks-to-china",
+                    "https://www.fifthdomain.com/international/2018/08/17/china-is-hacking-countries-is-trades-with/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.standardmedia.co.ke/counties/article/2000125287/safaricom-reveals-huawei-involvement-in-cctv-tender"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cnn.com/2016/08/09/asia/taiwan-kenya-deportations/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Kenya has a GDP per capita of US $1,816.55 and a total population of 53.7 million people, with the Chinese population comprising 50,000 people, or 0.94% of the total population.",
+    "description-2": "Kenya established diplomatic relations with the People Republic of China in 1964. Kenya was ranked 102nd in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 48/100."
+}

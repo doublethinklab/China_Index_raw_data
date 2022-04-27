@@ -1,0 +1,1038 @@
+{
+    "name": "Paraguay",
+    "partner": "Data Privacy Brasil",
+    "year": "2021",
+    "GDP": "$4,949.75",
+    "population": "7.1M",
+    "original": "34/380",
+    "ranking": "36",
+    "overall": "9%",
+    "effect": "8%",
+    "exposure": "7%",
+    "pressure": "19%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/2016/06/01/54/"
+                ],
+                "note": "No Paraguayan media appears in the list of members of the World Chinese Media",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "No Paraguayan media appears in the list of members of the BRNA",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality.",
+                "evidence_urls": [],
+                "note": "Given the lack of information, I had to resort to interviews. The people consulted stated that there is no reference to this.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.observacom.org/tres-grupos-principales-dominan-la-propiedad-de-medios-en-paraguay/",
+                    "https://www.revistaplus.com.py/2018/08/25/los-propietarios-de-medios-de-comunicacion-mas-poderosos-de-paraguay/",
+                    "https://www.rdn.com.py/2020/07/31/duenos-de-medios-reciben-miles-de-millones-de-contratos-con-el-estado/",
+                    "https://www.prensaescrita.com/america/paraguay.php"
+                ],
+                "note": "The most important media outlets are owned by Paraguayan nationals.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "Interviews with a journalist of an important media holding and with an independent journalist. Both asked for source confidentiality. The people consulted stated that there is no reference to this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://silpy.congreso.gov.py/comision/100417",
+                    "https://noticias.nat.gov.tw/news.php?unit=92&post=181728",
+                    "http://www.senado.gov.py/index.php/noticias/noticias-presidencia/5490-se-rechaza-el-proyecto-que-insta-establecer-relaciones-diplomaticas-con-china-popular-2020-04-18-02-03-59",
+                    "https://www.lanacion.com.py/politica_edicion_impresa/2021/03/18/frente-guasu-usa-vacunas-para-insistir-en-vinculo-con-china-popular/"
+                ],
+                "note": "There is this type of organisation only in regard to Taiwan. However, a group of parliamentarians presented an initiative in favor of RPC",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.senado.gov.py/index.php/noticias/noticias-generales/5954-bancada-del-fg-entrego-insumos-medicos-al-ministerio-de-salud-2020-06-22-18-19-03"
+                ],
+                "note": "There are no reports of official meetings, but a group of legislators received donations from the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.stp.gov.py/v1/gobierno-de-taiwan-ofrece-beca-a-distancia-para-funcionarios-publicos/",
+                    "https://www.stp.gov.py/v1/gobierno-de-taiwan-ofrece-beca-total-sobre-entrenamiento-en-liderazgo-y-recursos-humanos/",
+                    "https://www.adndigital.com.py/china-taiwan-ofrece-becas-funcionarios-publicos/"
+                ],
+                "note": "Only Taiwan offers this type of training to diplomats or civil servants in Paraguay.",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Paraguay and the PRC do not have diplomatic relations. For this reason, there are no embassy of PRC in Paraguay and it is not possible to check the visa issue\n",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.diputados.gov.py/index.php/noticias/presidente-de-diputados-manifiesta-su-apoyo-la-inclusion-de-la-republica-de-china-taiwan-la-oms",
+                    "https://www.lanacion.com.py/politica/2020/04/11/legisladores-apoyan-a-taiwan-y-rechazan-acusaciones-desde-la-oms/",
+                    "https://www.lanacion.com.py/politica/2021/04/27/lettaiwanhelp-fuerte-apoyo-del-congreso-para-ingreso-de-taiwan-a-la-oms/"
+                ],
+                "note": "Paraguay supports Taiwan's participation in the WHO.\n",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Due to the relationship with Taiwan, it is evident that Paraguay did not publicly supports the candidacies presented by the PRC. However, it cannot be ruled out that on some occasion a PRC candidate has been voted for by Paraguay. There is no access to a complete record of the voting in which Paraguay participated.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/politica/2020/07/10/taiwan-y-paraguay-celebran-63-anos-de-relaciones-diplomaticas/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Because of its relationship with Taiwan, Paraguay generally supports their initiatives. Because of this, it is not feasible that these types of claims be supported.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/politica/2020/07/10/taiwan-y-paraguay-celebran-63-anos-de-relaciones-diplomaticas/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Due to its relationship with Taiwan, Paraguay generally supports its initiatives. Paraguay also exhibits great alignment with the United States in its foreign policy, which has already spoken out on the issue. But no evidence could be found to condemn the PRC's actions towards the Uyghur population.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/politica/2020/07/10/taiwan-y-paraguay-celebran-63-anos-de-relaciones-diplomaticas/",
+                    "https://focustaiwan.tw/politics/202104230015",
+                    "https://thediplomat.com/2019/05/taiwan-voices-support-for-uyghurs-in-china/",
+                    "https://www.dw.com/es/eeuu-presiona-a-china-sobre-taiw%C3%A1n-y-origen-de-la-pandemia/a-57860300"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No report could be found regarding Paraguay's position. From the background, it is to be hoped that it does not support the position of the PRC\n",
+                "evidence_urls": [
+                    "https://tibetpolicy.net/tsai-ing-wens-ambiguity-over-tibet/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No report could be found regarding Paraguay's position. Due to the antecedents and the relationship with Taiwan and the United States, it is to be expected that it does not support the position of the PRC\n",
+                "evidence_urls": [
+                    "https://py.usembassy.gov/joint-statement-on-hong-kong/",
+                    "https://tibetpolicy.net/tsai-ing-wens-ambiguity-over-tibet/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.uptp.edu.py/",
+                    "https://www.una.py/la-universidad/convenios-y-acuerdos/convenios-y-acuerdos-internacionales/",
+                    "https://www.universidadcatolica.edu.py/convenios-vigentes/"
+                ],
+                "note": "There is a university promoted by Taiwan in Paraguay. In addition, there is no relationship between the other universities and the PRC. As a reference, the agreements of the two main universities in the country are detailed.\n",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "There is a Confucius Center in Paraguay, linked to a Taiwanese school which is in the process of closing.\n",
+                "evidence_urls": [
+                    "https://www.ultimahora.com/colegio-chiang-kai-shek-anuncia-cierre-definitivo-35-anos-n2889721.html",
+                    "http://www.trece.com.py/actualidad/embajada-taiwan-cierre-chiang-kai"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mec.gov.py/cms_v2/adjuntos/5801",
+                    "https://www.lanacion.com.py/columnistas/2020/01/09/el-guarani-y-el-ingles-en-las-aulas/"
+                ],
+                "note": "The official languages are Spanish and Guarani. English is taught in schools as a foreign language.",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.brsn.net/list/zhikujigou_en/index.html",
+                    "http://uasr.xjtu.edu.cn/Members/Members.htm",
+                    "http://www.ucmsr.com/route"
+                ],
+                "note": "There is no evidence that Paraguayan think tanks participate in networks linked to the PRC.\n",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1019&context=think_tanks",
+                    "https://paraguaydebate.org.py/relacion-entre-think-tanks-y-universidades-en-paraguay/"
+                ],
+                "note": "Considering the Global Go To Think Tank Index Report and other publications, it was verified that the main think tanks in the country do not have projects financed by PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "No evidence was found regarding Paraguayan experts who participate in this type of program. Considering the approach of the Thousand Talents Program, the possibility that this type of recruitment has been carried out in Paraguay is limited.",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Paraguayan students have participated in different programs promoted by Huawei.\n",
+                "evidence_urls": [
+                    "https://www2.pol.una.py/?q=node/1683",
+                    "https://www.pol.una.py/archivos/Competencia_HUAWEI_Paraguay_2018.pdf",
+                    "https://www.huawei.com/minisite/seeds-for-the-future/history.html#:~:text=Seeds%20for%20the%20Future%20is,communication%20between%20countries%20and%20cultures.&text=launched%20in%202008.-,This%20program%20aims%20to%20develop%20skilled%2C%20local%20ICT%20talent%20and,communication%20between%20countries%20and%20cultures."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/ahora/2020/03/31/covid-19-ex-becarios-de-taiwan-en-contra-de-acuerdo-con-china-popular-para-recibir-cooperacion/"
+                ],
+                "note": "There is no evidence of the existence of this type of group linked to the PRC in the country. This type of group is however, linked to other countries, such as Taiwan, for example.",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Although no information is found in this regard in the consultations carried out, it is not possible to rule out that this has occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "The curricula in initial, basic and secondary education are designed by the government, which does not have diplomatic relations with the PRC. There is also no evidence of a relationship between the PRC and the universities in the country.",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "The URL shows that education is a topic of cooperation between Taiwan and Paraguay. There is even an Education Counselor and \"academic, cultural and educational exchanges are offered within the framework of selecting scholarship holders, inviting teachers or authorities in the educational/cultural field to visit Taiwan, cultural events and, among others, cooperative matters between both academic institutions of both nations\". Many teachers participate in these activities, so it is unlikely that they will be censured for speaking positively about Taiwan's independence.",
+                "evidence_urls": [
+                    "https://www.roc-taiwan.org/py_es/post/12143.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.cm.gov.py/wp-content/uploads/2020/02/constitucion-nacional-PARA-INCISO-C.pdf",
+                    "https://www.itapua.gov.py/index.php/noticias/gobernacion-de-itapua-recibio-importante-donacion-del-gobierno-y-de-la-comunidad-chino-taiwanesa-de-encarnacion",
+                    "https://www.itapua.gov.py/index.php/noticias/nueva-importante-donacion-de-china-taiwan-la-gobernacion-de-itapua",
+                    "https://www.taiwanembassy.org/py_es/post/14554.html"
+                ],
+                "note": "There are no reports on such agreements. Although municipalities and governorates have a certain level of autonomy, it would be very strange for them to be related to a country with which the central government has no formal relation. There is evidence of the relationship of organisations linked to Taiwan with sub-national governments.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://recursos.mec.edu.py/kiwix/wikipedia_es_all_maxi/A/Lista_de_ciudades_hermanas_en_Paraguay",
+                    "https://www.wikiwand.com/es/Anexo:Ciudades_hermanas_en_Paraguay"
+                ],
+                "note": "A list of sister cities found recorded in the page of the Ministry of Education is detailed, but it comes from a third source related to the \"Wiki\" environment.",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.apachin.org/conozcanos/visitantes-de-la-republica-popular-de-china/"
+                ],
+                "note": "A list of Paraguayan politicians who visited the PRC between 1989 and 2008 is published on the internet. However, the origin of the funds for carrying out this type of trip is not specified.\n",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The local expert stated that there is no evidence that Paraguayan politicians have visited PRC, but it cannot be ruled out that meetings may have taken place. Mainly because a Paraguayan political party received donations directly from the PRC Consulate in Sao Paulo (Brazil).  ",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Because diplomatic relations are not maintained with the PRC, the possibility of this type of action occurring is remote, both at the central and sub-national government levels.\n",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "The latest report regarding available political financing does not show contributions from the PRC. However, it relates to 2015 and it could be seen that, during the pandemic, the PRC Consulate made a donation to a political party.\n",
+                "evidence_urls": [
+                    "https://www.tsje.gov.py/informes-sobre-contribuciones-y-donaciones.html",
+                    "https://www.lanacion.com.py/politica/2020/06/18/republica-popular-china-envio-la-primera-donacion-a-paraguay-informo-frente-guasu/"
+                ],
+                "note": "The latest report regarding available political financing does not show contributions from the PRC. However, it relates to 2015 and it could be seen that, during the pandemic, the PRC Consulate made a donation to a political party.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.tsje.gov.py/informes-sobre-contribuciones-y-donaciones.html"
+                ],
+                "note": "This type of contribution is not observed in the accountability of the parties.",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.swissinfo.ch/spa/coronavirus-paraguay_senado-paraguayo-rechaza-por-segunda-vez-acercamiento-con-china/46461072"
+                ],
+                "note": "There are no reports of groups with a link to the United Front Work Department (UFWD).",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.swissinfo.ch/spa/coronavirus-paraguay_senado-paraguayo-rechaza-por-segunda-vez-acercamiento-sanitario-con-china/46461058",
+                    "https://aguajero.com/senado-paraguayo-rechaza-por-segunda-vez-acercamiento-sanitario-con-china",
+                    "https://www.efe.com/efe/america/politica/la-iniciativa-de-acercamiento-con-china-es-rechazado-por-el-senado-paraguayo/20000035-4224587"
+                ],
+                "note": "Despite the existence of a proposal to establish relations with the PRC, it was not accepted by the majority in Congress.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "It was not possible to find information about this issue.\n",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.contrataciones.gov.py/buscador/licitaciones.html?nro_nombre_licitacion=&categorias%5B0%5D=41&etapas_licitacion%5B0%5D=ADJ&fecha_desde=01-01-2020&fecha_hasta=31-03-2021&tipo_fecha=ADJ&convocante_tipo=&convocante_nombre_codigo=&codigo_contratacion=&catalogo%5Bcodigos_catalogo_n4%5D=&catalogo%5Bcodigos_catalogo_n4_label%5D=&page=1&order=&convocante_codigos=&convocante_tipo_codigo=&unidad_contratacion_codigo="
+                ],
+                "note": "There are no records of contracting security services offered by private PRC companies on public government procurement lists.",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.economia.gov.py/application/files/3916/1116/3825/RCE_-_Diciembre_2020.pdf",
+                    "https://www.economia.gov.py/application/files/9916/1902/1289/RCE_Marzo_2021.pdf"
+                ],
+                "note": "The PRC is Paraguay's number three trading partner. But if only the imports are taken into consideration, China would lead the ranking.",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.economia.gov.py/application/files/9016/2196/0351/Estadisticas_Deuda_Publica_ABR_2021_version_publicacion_VF_.xlsx"
+                ],
+                "note": "Until 2019 Paraguay had a debt with China trust of Taiwan. Since 2013 Paraguay has issued bonds on international markets.",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.abc.com.py/edicion-impresa/economia/2019/08/24/empresas-chinas-en-asuncion/",
+                    "https://www.eby.gov.py/",
+                    "https://www.itaipu.gov.py/"
+                ],
+                "note": "Representatives from China Harbor Engineering Company Ltd (CHEC) visited Paraguay in 2019 to study investment opportunities in infrastructure. Other companies have also shown interest in participating in different infrastructure projects. One of the hydroelectric plants that operate in Paraguay is entirely owned by the Paraguayan state. There are also two plants jointly owned with Argentina and Brazil.",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/?page=1",
+                    "https://dialogochino.net/es/infraestructura-es/26121-la-franja-y-la-ruta-la-nueva-cara-de-china-en-america-latina/"
+                ],
+                "note": "The list of members of the Belt and Road General Chamber of Commerce could not be accessed.",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "Despite the existence of a large flow of imports from the PRC to Paraguay, there are conditions for certain products to be exported to the PRC.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/politica_edicion_impresa/2019/12/06/china-extorsiona-y-falta-al-respeto-a-un-pais-soberano-como-paraguay/",
+                    "https://www.lanacion.com.py/negocios_edicion_impresa/2019/09/20/exportadores-piden-establecer-relacion-comercial-con-china/",
+                    "https://www.ultimahora.com/productores-piden-apertura-oficina-comercial-china-continental-n2855601.html",
+                    "http://www.apachin.org/extorsion-de-china-al-paraguay/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "Businessmen involved in meat and soy bean production claim that maintaining relations with Taiwan prevents their products from entering the PRC.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/negocios_edicion_impresa/2019/09/20/exportadores-piden-establecer-relacion-comercial-con-china/",
+                    "https://www.ultimahora.com/productores-piden-apertura-oficina-comercial-china-continental-n2855601.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/tratados/public_web/tratados.aspx",
+                    "https://www.economia.gov.py/application/files/6914/6584/2891/01_Convenio_MH-UCITC_Sistema_SIVECA.pdf"
+                ],
+                "note": "Due to the recognition of Taiwan, Paraguay cannot sign treaties with the PRC. When certain interaction is needed, other actors are employed, such as the Paraguayan Cultural, Industrial, Technological and Commercial Union - China.",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.rediex.gov.py/wp-content/uploads/2020/10/GUIA-INVERSIONES-INGLES_BAJA.pdf",
+                    "https://www.abc.com.py/edicion-impresa/economia/2019/08/24/empresas-chinas-en-asuncion/"
+                ],
+                "note": "The Paraguayan government took various measures to encourage FDI. But the Chinese companies are not the main aim, despite the interest shown by some of them.",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.economia.gov.py/application/files/9016/2196/0351/Estadisticas_Deuda_Publica_ABR_2021_version_publicacion_VF_.xlsx"
+                ],
+                "note": "There are no reports on the matter in the public or private sector.",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.conatel.gov.py/conatel/registro-n-s-t/"
+                ],
+                "note": "No entities linked to the PRC are observed.\n",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.ultimahora.com/la-tecnologia-5g-arribaria-al-pais-los-proximos-3-anos-n2831574.html"
+                ],
+                "note": "5G technology does not yet operate in Paraguay. On the other hand, it is appreciated that Huawei has projects with telephone companies in Paraguay.",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "Huawei-related company signed a contract with the National Fiber Optic Network.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/destacado_edicion_impresa/2020/12/04/mec-se-suma-a-compras-huawei-con-licitacion-de-g-46429-millones/",
+                    "http://celexx.com.py/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "It can be seen that a company linked to Huawei signed a contract to provide the National Fiber Optic Plan.\n",
+                "evidence_urls": [
+                    "https://www.lanacion.com.py/destacado_edicion_impresa/2020/12/04/mec-se-suma-a-compras-huawei-con-licitacion-de-g-46429-millones/",
+                    "http://celexx.com.py/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Paraguay does not have diplomatic relations with the PRC, but rather recognises Taiwan. For this reason, this kind of cooperation is not possible.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.roc-taiwan.org/py_es/post/15251.html"
+                ],
+                "note": "There are no reports on this. Although municipalities and governorates have a certain level of autonomy, it would be very strange for them to be related to a country with which the central government has no formal relation. There is evidence of the relationship of organisations linked to Taiwan with sub-national governments.",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "Request to local banks"
+                ],
+                "note": "Paraguayan banks operate with different correspondents. These agents in turn have different links worldwide. But it cannot be verified that Paraguayan banks operate directly with CIPS.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "Due to the nature of the Paraguayan market, the financing of this type of activity is focused on public institutions and cooperation organisations. The emergence of private platforms for this type of activity is also observed, but their development is still incipient.",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "Interviews with people linked to the sector"
+                ],
+                "note": "No reports of this type of collaboration are registered.",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.mitic.gov.py/noticias/el-972-de-la-poblacion-paraguaya-usa-internet-para-mensajeria-instantanea",
+                    "https://elpais.com/internacional/2016/12/30/actualidad/1483055106_448456.html",
+                    "https://www.latamclick.com/estadisticas-de-las-redes-sociales-en-paraguay-2019/"
+                ],
+                "note": "The most popular social networks in Paraguay are WhatsApp, Facebook, Instagram, Twitter and Linkedin. None of them are linked to the PRC.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.argentina.gob.ar/noticias/sistemas-de-navegacion-satelital",
+                    "https://www.lanacion.com.py/gran-diario-domingo/2021/02/28/el-satelite-paraguayo-abre-posibilidades-de-desarrollo-cientifico-incalculables/"
+                ],
+                "note": "There are no reports on this type of collaboration, only on an interaction event between experts in the Latin American area. Satellite development is very incipient in the country.",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "No evidence was found that local groups promote reunification.",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "There are no members and member organisations of the United World Chinese Association in Paraguay.\n",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://undeca.cr/wp-content/uploads/media/uploads/documents/report-of-action-2011-2016_esp_web.pdf"
+                ],
+                "note": "There is no evidence of cooperation or direct exchange. However, the Clasist Trade Union Action of Paraguay and the ACFTU are part of the World Federation of Trade Unions, so the interaction between the two cannot be ruled out.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.adndigital.com.py/ano-nuevo-lunar-el-ano-del-buey/",
+                    "https://www.abc.com.py/tag/ano-nuevo-chino/"
+                ],
+                "note": "It was not possible to find evidence on this link. Reports on traditional Chinese festivals are based on the activities of the Taiwanese Embassy.",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.sindicatodeperiodistas.org.py/somos/",
+                    "http://www.sep.org.py/historia.php"
+                ],
+                "note": "There is no evidence of a direct relationship between the Paraguayan professional organisations and their counterpart in the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.ultimahora.com/ante-aumento-templos-decretan-la-obligacion-registrar-entes-religiosos-n1130769.html",
+                    "https://www.paraguay.com/nacionales/mec-solicita-registrar-entes-religiosos-en-el-viceministerio-de-culto-173511"
+                ],
+                "note": "There are no reports on this. However, it is important to mention that the registry of cults in the country has certain deficiencies.",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "Given the lack of information, It was needed to resort to interviews. The people consulted stated that there is no reference to PRC government or PRC-connected entities distributing entertainment products in Paraguay.",
+                "evidence_urls": [
+                    "Interview with journalist of the important media holding"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.cultura.gov.py/2021/06/es-designado-primer-director-ejecutivo-del-instituto-nacional-del-audiovisual-paraguayo-inap/",
+                    "https://dspace.unila.edu.br/bitstream/handle/123456789/1434/Congresso%20Com_228-237.pdf?sequence=1&isAllowed=y"
+                ],
+                "note": "Paraguayan cultural products, especially audiovisual ones, are very scarce. In this general references to the PRC differences are not appreciated. If \"Chinese\" characters appear, they are considered general stereotypes, without differentiating between the PRC and Taiwan.\n",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://infonegocios.com.py/nota-principal/oscar-acosta-lidera-el-ranking-de-los-periodistas-paraguayos-en-twitter-5-mujeres-en-el-top-10",
+                    "https://starngage.com/app/global/influencer/ranking/paraguay"
+                ],
+                "note": "Paraguayan celebrities are not known to advertise a narrative favorable to the PRC.\n",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There are no reports on this. Although municipalities and governorates have a certain level of autonomy, it would be very strange for them to be related to a country with which the central government has no formal relation. ",
+                "evidence_urls": [
+                    "https://www.cm.gov.py/wp-content/uploads/2020/02/constitucion-nacional-PARA-INCISO-C.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Although there are voices in favor of the relationship with the PRC, there is no evidence about the opinion of the majority of the Paraguayan society on the subject. For this reason, it was decided not to answer the question.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "The imports records and the list of registered official importers are specified.\n",
+                "evidence_urls": [
+                    "https://apps.bcp.gov.py:8444/",
+                    "http://dimabel.mil.py/index.php/download_file/view_inline/343"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://apps.bcp.gov.py:8444/"
+                ],
+                "note": "The records of export are specified.",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://dimabel.mil.py/index.php/institucion/dpto-planta-industrial",
+                    "https://www.paraguay.com/nacionales/se-reactiva-fabrica-de-material-belico-76272"
+                ],
+                "note": "The only ammunition factory is owned by the State. Due to the lack of diplomatic relations with the PRC, this type of link would not be possible.",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.bbc.com/mundo/noticias-america-latina-47414783"
+                ],
+                "note": "There are no reports on the PRC's intentions to establish military bases in Paraguay. This is unlikely because the two countries do not have diplomatic relations. In addition, due to the type of relationship with the United States and in the current context, it is not seen as probable.",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-y-taiwan-celebran-63-anos-de-intenso-y-positivo-relacionamiento-bilateral"
+                ],
+                "note": "Due to the existing link with Taiwan, this is not possible. ",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-y-taiwan-celebran-63-anos-de-intenso-y-positivo-relacionamiento-bilateral"
+                ],
+                "note": "Due to the existing link with Taiwan, this is not possible.",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-y-taiwan-celebran-63-anos-de-intenso-y-positivo-relacionamiento-bilateral"
+                ],
+                "note": "Due to the existing link with Taiwan, this is not possible.",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-y-taiwan-celebran-63-anos-de-intenso-y-positivo-relacionamiento-bilateral"
+                ],
+                "note": "Due to the existing link with Taiwan, this is not possible.",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "It was not possible to find information about this aspect.\n",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "Due to the existing link with Taiwan, this is not possible.",
+                "evidence_urls": [
+                    "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-y-taiwan-celebran-63-anos-de-intenso-y-positivo-relacionamiento-bilateral"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Paraguay does not have diplomatic relations with the PRC, but rather recognizes Taiwan. For this reason, it signs this type of treaty with Taipei.",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Paraguay does not have diplomatic relations with the PRC, but rather recognizes Taiwan. For this reason, it signs this type of treaty with Taipei.",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.hsdl.org/?view&did=440710",
+                    "https://www.refworld.org/docid/42df61642c.html",
+                    "https://cgsc.contentdm.oclc.org/digital/collection/p124201coll1/id/822/rec/6"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.antilavadodedinero.com/fiscales-de-paraguay/",
+                    "https://www.ultimahora.com/fabian-marti-declaro-el-caso-que-investiga-clonacion-lineas-n2890485.html"
+                ],
+                "note": "There are no reports regarding corporate espionage in the country. The latest reported case of espionage is related to political issues.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.cert.gov.py/application/files/7616/1521/7981/Informe_Ciberseguridad_Paraguay_2020_-_final-2.pdf"
+                ],
+                "note": "The main destinations from which cyber attacks come is not the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "evidence": "There are reports that members of the Chinese mafia enter, operate and transit through Paraguay to neighboring countries.",
+                "evidence_urls": [
+                    "https://www.extra.com.py/actualidad/brasil-caen-mafiosos-chinos-made-in-paraguay-n1548732.html",
+                    "https://www.infobae.com/sociedad/2016/11/23/mafia-china-la-insolita-historia-del-capo-de-los-cinco-alias-preso-en-misiones/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Paraguay does not have diplomatic relations with the PRC, but rather recognizes Taiwan. For this reason, this kind of cooperation it is no possible.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "Paraguay does not have diplomatic relations with the PRC, but rather recognizes Taiwan. For this reason, this kind of cooperation it is no possible.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "It was not possible to find information about this aspect.\n",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Paraguay does not have diplomatic relations with the PRC, but rather recognizes Taiwan. For this reason, this kind of cooperation it is no possible.\n",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.embapartwroc.com.tw/convenios_bilaterales_es"
+                ],
+                "note": "There are no reports of this type of action.",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Paraguay has a GDP per capita of US $4,949.75 and a total population of 7.1 million people, with the Chinese population comprising 800 people, or 0.011% of the total population.\u00a0",
+    "description-2": "Paraguay does not have diplomatic relations with the People Republic of China. Paraguay was ranked 100th in Reporters Without Borders\u2019 2021 World Press Freedom Index, and Partly Free in Freedom House\u2019s 2020 Global Freedom Status, with a score of 65/100."
+}

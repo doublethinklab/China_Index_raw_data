@@ -1,0 +1,975 @@
+{
+    "name": "Bosnia and Herzegovina",
+    "partner": "Sinopsis",
+    "year": "2021",
+    "GDP": "$5,913.0",
+    "population": "3.28M",
+    "original": "72/380",
+    "ranking": "34",
+    "overall": "19%",
+    "effect": "16%",
+    "exposure": "24%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "The structure section on the official World Chinese Media website contains no information that any organization from BiH is part of this network. The search in local languages also does not offer any data. Additionally, the only local online news outlet which reports on China (Kina Danas http://www.kina-danas.com/) was contacted, but they never responded to the question if they were members of the network.",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/2015/05/12/56/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Above mentioned media outlets are not popular and/or influential among the local media consumers. The magazine Glas Kine is quite new, its first issue was published in December 2020. \n\nThe online news website Kina Danas was launched in 2015 and it reports on various China related issues. Anyhow, it\u2019s not a daily news website. Also, it has only around 600 followers on their official page on Facebook - which is the most popular social media in the country.\n",
+                "evidence_urls": [
+                    "http://www.kina-danas.com/",
+                    "http://pojasiput.ba/wp-content/uploads/2020/12/GlasKine-01-small-1.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "There isn\u2019t any available online data which could support the claim, so several different organizations and institutions were contacted, including the Chinese embassy in Bosnia and Herzegovina.\n\nThe only organisation which responded to our inquiries is Mediacentar Online(https://media.ba/en), a local organization specialized in different journalism and media training programs. They said that they don\u2019t have any knowledge or data about local journalists, media organizations or online influencers who have attended all-expenses paid media tours in PRC.\n\nThe second answer we have received was from a local online news outlet which reports on China, Kina Danas. They said that, before the Covid-19 pandemic, journalists from Bosnia and Herzegovina \u201cwere occasionally invited for a short visit to China\u201d.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "There isn't any available online data which could support the claim.",
+                "evidence_urls": [],
+                "note": "So several different organizations and institutions were contacted, including the Chinese embassy in Bosnia and Herzegovina.The only organisation which responded to our inquiries is Mediacentar Online, a local organization specialized in different journalism and media training programs. They said that they don't have any knowledge or data about these trainings.",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "Along with the above mentioned news agencies, many local media regularly publish media content produced by Chinese news agency Xinhua. ",
+                "evidence_urls": [
+                    "https://nap.ba/news/38892",
+                    "https://www.capital.ba/potpisan-ugovor-o-saradnji-agencija-srna-i-sinhua/",
+                    "https://www.bljesak.info/vijesti/flash/fena-i-xinhua-potpisale-sporazum-o-saradnji/12670",
+                    "http://www.kina-danas.com/?s=xinhua"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no available data on the claim of ownership. Anyhow, the organization \u201cPojas i put\u201d (the publisher of Glas Kine) has a website section in which several state owned PRC corporations are stated as partners and sponsors of their projects.",
+                "evidence_urls": [
+                    "http://pojasiput.ba/partneri-i-sponzori/poduzeca/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "The media outlets delivering free content from the Chinese state-owned media are Kina Danas and Glas Kine. Their sources are various state-owned media such as Xinhua, China Radio International, Global Times, China Daily and China Global Television Network.",
+                "evidence_urls": [
+                    "http://www.kina-danas.com/prvi-slucaj-covid-19-lokalne-zaraze-u-francuskoj-pojavio-se-vec-se-na-kraju-prosinca/",
+                    "http://www.kina-danas.com/xi-jinping-poziva-politicke-partije-da-preuzmu-odgovornost-za-dobrobit-ljudi/",
+                    "http://www.kina-danas.com/kina-objavila-bijelu-knjigu-o-zaposlenju-i-radnim-pravima-u-autonomnoj-regiji-ujgura-xinjiang/",
+                    "http://pojasiput.ba/wp-content/uploads/2020/12/GlasKine-01-small-1.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "Some advertisement of PRC government owned corporations can be found on the front page of news outlet Kina Danas.",
+                "evidence_urls": [
+                    "http://www.kina-danas.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There is no public data on the claim. The Chinese embassy and several other organizations and institutions were contacted, but we haven\u2019t received any answers to support or deny the claim.\n\nThe only answer we have received was from a local online news outlet which reports on China, Kina Danas (http://www.kina-danas.com/). They said that, in their knowledge, there are no journalists from Bosnia and Herzegovina residing in China, and that they have no record of visa denials or negative experiences from local journalists that have visited China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "There is no available data of such incidents. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "There is no available data on the claim. On the contrary, there are however pundits that do talk about the human rights abuses in China occasionally.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "There is no such parliamentary group listed among the common or other parliamentary bodies.",
+                "evidence_urls": [
+                    "http://parlament.ba/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "Meetings are limited to the visits from/to PRC ambassador in BiH within the given time slot research is addressing.",
+                "evidence_urls": [
+                    "http://www.kina-danas.com/delegacija-sda-bih-na-sastanku-u-ambasadi-narodne-republike-kine-u-sarajevu/",
+                    "https://www.kina-danas.com/covic-i-ji-odrzali-telefonski-sastanak/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "There is no publicly available data indicating this ever happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "There is no publicly available data indicating this ever happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "There is no publicly available data indicating this ever happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "There is no publicly available data indicating this ever happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Since the voting is secret, and there is no mention of B&H\u2019s stances on any of the aforementioned candidates, this question is hard to answer. However, as the question is about \u201cpublic\u201d support for a candidate, I do think the answer 0 is appropriate here as there is no public information indicating that they supported any of the nominees.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "I am giving 2 as a response value not because B&H has remained silent but rather because it has remained neutral. Following the 2016 UNCLOS ruling, the Ministry of Foreign Affairs of B&H had issued a statement saying it hoped that the involved parties would use the ruling as an encouragement to resolve their issues through dialogue, consultations, and negotiations in accordance with the principles of international law all the while respecting the territorial sovereignty and economic interests of everyone involved.",
+                "evidence_urls": [
+                    "https://www.klix.ba/vijesti/bih/i-to-je-moguce-nasa-drzava-vodi-brigu-o-sporu-kine-i-filipina-o-juznom-kineskom-moru/160715082"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "In October 2020, Bosnia and Herzegovina had joined 38 other states in expressing \u201cgrave concerns\u201d over PRC\u2019s policies in Xinjiang, Hong Kong, and Tibet. In June 2021, the Ministry of Foreign Affairs of Bosnia and Herzegovina joined 43 other countries in expressing concerns over reports of human rights abuses in Xinjiang and urging PRC to allow access to independent observers.",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2020/10/06/39-countries-un-express-grave-concerns-about-chinas-abuses",
+                    "https://geneva.usmission.gov/2021/06/22/joint-statement-on-the-human-rights-situation-in-xinjiang/"
+                ],
+                "note": "It is important to keep in mind the fragmented nature of B&H politics reflected in the different priorities held by the representatives of the country\u2019s three dominant ethnic groups. Consequently, while the government has, in tis official capacity expressed concern for the state of human rights in PRC, this does not mean that all the relevant decisionmakers in the government agree with this stance. Namely, when the Ministry of Foreign Affairs of B&H joined 43 other countries in expressing concerns over reports of human rights abuses in Xinjiang and urging PRC to allow access to independent observers, it was criticized by the Bosnian Serb member of the B&H tripartite presidency. Consequently, the official response by PRC was to condemn the Ministry of Foreign Affairs headed by a Bosniak official but at the same time praise the Bosnian Serb member of the tripartite presidency who criticized the Ministry of Foreign Affairs claiming they had no right to join others in expressing concern without the approval of relevant representatives of the Bosnian Serbs.\n",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "The declarations mentioned in answer 9 both relate to Tibet, too. In them, Bosnia and Herzegovina joins others in expressing concern for allegations of widespread human rights violations in Tibet. One declaration is from October 2020, while the other is from June 2021.",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2020/10/06/39-countries-un-express-grave-concerns-about-chinas-abuses",
+                    "https://geneva.usmission.gov/2021/06/22/joint-statement-on-the-human-rights-situation-in-xinjiang/"
+                ],
+                "note": "Please read the supplementary notes for answer 9. Same notes apply in this case.",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "The previously mentioned statement from October 2020, directly mentions the National Security Law on Hong Kong. B&H, alongside 38 other countries, expressed concerns over the law.",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648"
+                ],
+                "note": "Once again, please look at the supplementary note from answer 9. Additionally, it is worth to mention that the Bosnian Serb member of the B&H tripartite presidency wrote a letter directly to PCR\u2019s president expressing his support over the National Security Law. Once again, while there is a decisive policy at the official level of Ministry of Foreign Affairs, the real foreign policy situation is more fragmented with the Bosnian Serb member of the B&H tripartite presidency being supportive of PRC policies unlike the country\u2019s Ministry of Foreign Affairs.",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "There is no evidence of such partnerships existing between Bosnian-Herzegovinian universities and PCR-connected entities, based on Google search of terms related to the question.",
+                "evidence_urls": [],
+                "note": "Huawei did give scholarships to students of the University in Sarajevo (in the period of 2010-2014 http://old.unsa.ba/s/index.php?option=com_content&task=view&id=794&Itemid=348%29%2C and in the University of Banja Luka (since 2010 https://www.unibl.org/sr-lat/univerzitet/donatori/kompanija-huawei , 2018/2019 https://www.hocu.ba/index.php/hocu.priliku/konkurs-za-huawei-stipendije-za-studente-univerziteta-u-banjoj-luci/). The PCR has given scholarships to students as well (2018/2019 https://agro.unibl.org/bs/program-stipendija-kineske-vlade/ , 2019/2020 https://www.unsa.ba/en/node/1930).",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There are two Confucius Institutes in BiH: One opened by the University in Sarajevo (link), the other by the University in Banja Luka (link). Both Institutes hold various activities, one of which is free Mandarin lessons. The Institute in Banja Luka even hosts competitions, and publishes some lessons about the Chinese culture online in the forms of videos, which makes them widely accessible. This Institute holds more activities and works to connect Serbian and Chinese cultures through better promotion. Lessons held at the University of Banja Luka regarding the Chinese history and culture were even broadcasted on Republika Srpska\u2019s television RTRS (25 years of diplomatic relations between PCR and BiH, 2020, p.95). Thus being said, the Institute in Banja Luka shows significant importance, compared to the Sarajevo Institute. ",
+                "evidence_urls": [
+                    "https://www.unsa.ba/novosti/konfucijev-institut-most-izmedu-akademskih-zajednica-bosne-i-hercegovine-i-kine",
+                    "https://www.ki.unibl.org/",
+                    "http://ba.chineseembassy.org/chn/sgxx/sghd/P020200930003905252470.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ba.chineseembassy.org/chn/sgxx/sghd/P020200930003905252470.pdf"
+                ],
+                "note": "Apart from the classes offered by the Confucius Institutes, there are numerous courses on studying the Chinese language, such as BRAVO (https://bravo-bih.com/bravo-online-kurs-kineskog-jezika/) and Interlingua (https://www.interlingua.ba/kursevi/novo-kineski-jezik-a1-a2/) . Within the Faculty of Philosophy in the University in East Sarajevo, there is also the department for Chinese language (https://www.ues.rs.ba/la/filozofski-fakultet-2/).\n\nCertain middle and secondary schools in the entity of Republika Srpska have had experimental classes of Chinese language. The classes were conducted in cooperation with the Confucius Institute in Banja Luka. However, it is unclear whether this cooperation continued after 2019/2020, and whether the books were received free from the PRC (25 years of diplomatic relations between PCR and BiH, 2020, p.74). ",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "In 2018, the Initiative \u201cBelt and Road\u201d (BRI) was formed in BiH. In the Collection \u201c25 years of diplomatic relations between PCR and BiH\u201d, it was explained as the \u201cfirst specialized think-tank organization in BiH which deals exclusively with this initiative from an academic point of view while at the same time providing services to Chinese companies, such as state-owned companies (SOE), as well as small and medium enterprises (SMEs) (p. 74).\u201d \n\nOther than that, BiH is a part of the \u201c17+1\u201d initiative, for which it is said to be \u201ca concrete step for CASS in implementing the spirit of the Central Patry\u2019s directive on strengthening the building of new think tanks\u201d. However, these two are complementary since the \u201c17+1\u201d initiative is simply a mechanism of the BRI for Central and Eastern Europe. \n",
+                "evidence_urls": [
+                    "http://ba.chineseembassy.org/chn/sgxx/sghd/P020200930003905252470.pdf",
+                    "https://www.echo-wall.eu/guanxi-matters/chinas-new-think-tanks-europe"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "The think-tank Initiative \u201cBelt and Road\u201d is financed by numerous PCR-connected entities, such as Cosco Shipping, China Communications Construction Company, PowerChina, etc. ",
+                "evidence_urls": [
+                    "https://pojasiput.ba/partneri-i-sponzori/poduzeca/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There is no evidence that experts from BiH have participated in such programs, based on available data.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "Scholars from the Universities in Sarajevo and Banja Luka have visited the PRC numerous times (25 years of diplomatic relations between PCR and BiH, p.95). Such are the annual so-called \u201cSummer camps of Chinese language\u201d organized by the Confucius Institute in Sarajevo (2017, 2018, 2019)",
+                "evidence_urls": [
+                    "https://fbn.unibl.org/lat/2019/05/27/delegecija-univerziteta-u-banjoj-luci-posjetila-kinu/",
+                    "http://ba.chineseembassy.org/chn/sgxx/sghd/P020200930003905252470.pdf",
+                    "http://old.unsa.ba/s/index.php?option=com_content&task=view&id=3156",
+                    "https://www.unsa.ba/novosti/ljetni-kamp-kineskog-jezika-za-studente-i-srednjoskolce",
+                    "https://www.unsa.ba/index.php/novosti/poziv-za-podnosenje-prijava-za-ljetni-kamp-u-kini-2019"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There is no evidence such a thing is happening, based on the online search and communication with professors from University of Sarajevo.\n\nIn general, there is no reason for such censorship to happen in BiH. Based on the media articles, the society is more likely to support the people who fight against human rights abuses such as those related to the Uyghur population.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no available data to answer this question.",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "There is no available data to answer this question. ",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "There is no evidence that suggests such things have happened, based on Google search, personal experience from studying social studies, and information from professors at the University of Sarajevo. ",
+                "evidence_urls": [],
+                "note": "As stated previously, there is no reason for such a thing to happen, especially because BiH is not involved in these issues. ",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "evidence": "There have been two cases of politicians signing agreements with PRC government or state owned enterprises, but both these agreements were signed before the period this index addresses. However, activities that were defined by them are still rolling out. \nFirst agreement was signed in November 2018 between Minister of Communications and Transport, Ismir Jusko, and Vice President of Associations of companies from Central and Eastern Europe and the Nordic countries, Tian Hua, on cooperation in the field of innovation and technology between China and the countries of Central and Eastern Europe.\nThe second agreement was signed in June 2019 between the Minister of Education and Culture of the Republic of Srpska, Natalija Trivi\u0107, and the Ambassador of China to BiH, Ji Ping. That agreement regulates providing Chinese language teachers for five schools in which Chinese is taught as an elective course.\n",
+                "evidence_urls": [
+                    "https://banjaluka.net/potpisan-sporazum-kina-obezbjedjuje-nastavnike-za-kineski-jezik/",
+                    "https://ba.n1info.com/vijesti/a296093-zavrsen-treci-forum-inovacija-sarajevo-unlimited/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "There are three cities in Bosnia that have twin-city ties with cities in PRC, and those are Sarajevo, Mostar and Prijedor. Their sister-cities are Tianjin, Yinchuan and Ningbo, in that order. ",
+                "evidence_urls": [
+                    "https://www.sarajevo.ba/bs/article/5778/gradovi-pobratimi-spisak",
+                    "https://www.mostar.ba/gradovi-prijatelji.html",
+                    "https://www.prijedorgrad.org/sr-BA/medjunarodna-saradnja.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "There is no data that would prove or deny that PRC-connected individuals or entities paid the trips of the politicians in Bosnia in Herzegovina. Also, due to the COVID-19 pandemic, there haven\u2019t been official trips or visits, and all international meetings and summits were held online.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Links above show meetings that Bosnian and Hezegovinian politicians had with PRC officials. No official visits to the PRC happened in this period, but they were occurring regularly in previous years which following links prove. \n-\thttps://chinaobservers.eu/wp-content/uploads/2020/04/CHOICE_Empty-shell-no-more.pdf pg.29\n-\thttps://www.kina-danas.com/saradnja-bih-i-kine-zvizdic-bo-i-haishan-o-unapredenju-saradnje-u-oblasti-kulture-i-turizma/\n-\thttps://vladars.net/eng/vlada/prime_minister/media/news/Pages/Prime-Minister-Vi%C5%A1kovi%C4%87-met-in-Beijing-with-representatives-of-several-Chinese-companies-.aspx \n",
+                "evidence_urls": [
+                    "http://www.mcp.gov.ba/publication/read/ministrica-civilnih-poslova-bih-ankica-gudeljevic-sa-veleposlanikom-kine-u-bih-ji-pingom?pageId=97&lang=hr",
+                    "https://www.sarajevo.ba/hr/article/12170/karic-ping-sarajevo-i-tianjin-ove-godine-obiljezavaju-40-godina-pobratimskih-veza",
+                    "https://komorabih.ba/b2b-susreti-u-okviru-6-sastanka-poslovnog-vijeca-zemalja-kina-ceec/",
+                    "https://hayat.ba/susret-dzaferovica-i-pinga-dobri-odnosi-bih-i-nr-kine/249585/",
+                    "http://www.kina-danas.com/kineski-ambasador-u-bih-ji-ping-i-milorad-dodik-razgovarali-o-summitu-inicijative-nr-kine-i-17-evropskih-zemalja/ ",
+                    "https://www.parlament.ba/Publication/Read/17664?title=clanovi-grupe-prijateljstva-parlamentarne-skupstine-bih-za-aziju-razgovarali-sa-parlamentarcima-svekineskog-narodnog-kongresa&pageId=238 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "There is no publicly available data or information.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Political entities are obliged to submit reports on the financing of political parties to the Central Election Commission. Inspecting the financial statements, we did not find any official evidence to support the claim that politicians or political parties receive campaign donations that originate in the PRC.",
+                "evidence_urls": [
+                    "https://izbori.ba/Default.aspx?CategoryID=60&Lang=3&Mod=4 ",
+                    "http://www.izbori.ba/Documents/2018/09/03/Praktikum_za_finansiranje_izborne_kampanje_i_politickih_stranaka-bos.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "There is no publicly available data or information.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "There is no publicly available data or information.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "The ruling political parties in Bosnia and Herzegovina: the Alliance of Independent Social Democrats (SNSD https://snsd.org/), the Party of Democratic Action (SDA https://www.sda.ba/) and the Croatian Democratic Union (HDZ BiH https://www.hdzbih.org/), have signed an official Memorandum of cooperation with the Communist Party of China. Mutual cooperation, among other things, implies the obligation to strengthen exchanges and experiences in state governance.",
+                "evidence_urls": [
+                    "https://archive.ph/wip/YvCpJ",
+                    "https://archive.vn/wip/pbBPM",
+                    "https://archive.vn/wip/gxAFS  / https://archive.vn/wip/mNyJ2 (background)",
+                    "https://archive.vn/DuusZ ",
+                    "https://archive.vn/wip/UMbeW "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Although there are certain indications in the public regarding the influence trade by politicians or that politicians have received direct or deferred benefits from PRC-connected individuals or entities covertly (tender procedures in the first place) when it comes to energy projects, the IT sector, trade and the wood sector etc. we have no concrete evidence to substantiate these allegations.",
+                "evidence_urls": [
+                    "https://archive.vn/wip/0ar6x"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "3",
+                "evidence": "Republic of Srpska Government (Bosnia's Serb-dominated entity Republika Srpska) is in the process of concluding a contract or has already concluded several contracts in the segment of security services, health care, education and services with the China-Europe Association for Technical & Economic Cooperation Constitution (CEATEC)",
+                "evidence_urls": [
+                    " https://archive.vn/wip/AKbmH"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "According to the Agency for Statistics of Bosnia and Herzegovina (B&H), Germany was Bosnia and Herzegovina\u2019s biggest trading partner in 2019 and 2020. The trade with Germany accounted for 12.95 % and 13.47 % of total trade in 2019 and 2020, respectively. PRC is B&H\u2019s 7th biggest trading partner.",
+                "evidence_urls": [
+                    "http://www.fipa.gov.ba/informacije/statistike/izvoz_uvoz/Statistika%20vanjske%20trgovine%202020%20veljaca%202021.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "According to the Ministry of Finance and Treasury of Bosnia and Herzegovina, the country\u2019s total debt as of the first quarter of 2021 is 12.45 billion Bosnian convertible marks (BAM).[1] Of that debt 8.81 billion BAM is external while 3.6 billion BAM is internal. The biggest creditor of external debt is the European Investment Bank (EIB) at 2 billion BAM, followed by World Bank International Development Association (WBIDA) at 1.6 billion BAM, World Bank - International Bank for Reconstruction and Development (WBIBRD) at 1.15 billion BAM, International Monetary Fund at 912 billion BAM, and The Paris Club at 549 billion BAM.",
+                "evidence_urls": [
+                    "https://www.mft.gov.ba/bos/images/stories/javni_dug/vanjski/2021/Quarterly%20overview%20of%20public%20debt%20of%20BIH%20-%20I%20quarter%20of%202021.pdf",
+                    "https://www.mft.gov.ba/bos/images/stories/javni_dug/informacije/2021/april/Quarterly_report_on_external_debt_of_BH_I_quarter_of_2021._-_EN.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "According to the Agency for Statistics of Bosnia and Herzegovina report for 2019, the biggest importer of raw materials from Bosnia and Herzegovina was Slovenia at 89.4 million USD. PRC is not listed among the top 20 importers.",
+                "evidence_urls": [
+                    "https://bhas.gov.ba/data/Publikacije/Bilteni/2020/ETR_00_2019_TB_0_HR.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "While PRC-related entities are part of many infrastructure project in B&H, they do not own any of the infrastructure. Moreover, it should be noted that the majority of those projects are still in progress. Radio Free Europe, in June 2019, wrote about all the critical infrastructure projects in B&H in which PRC-related entities took part in. The private thermal power plant close to the city of Doboj in Republika Srpska (the majority Serb entity of Bosnia and Herzegovina) was the only infrastructure project that was completed at the time. 70 % of the funds (around 350 million EUR) came via the China Development Bank loan. The only critical infrastructure which may eventually fall under full control by a PRC-related entity is related to a lignite mine close to the city of Doboj. Namely, The Chinese Development Bank can take over full concession over this mine in case the current business group, owned by a Serbian businessman Vuk Hamovi\u0107, cannot make the loan payments.\n\nPRC-related entities have a number of contracts signed with the authorities in Bosnia and Herzegovina regarding upcoming infrastructure projects. There is a 297 million Euro worth contract signed in 2018 with the Republika Srpska entity of Bosnia and Herzegovina regarding the building of a 40 kilometer stretch of highway between Banja Luka and Prijedor. The other major infrastructure project, the building of \u201cBlok 7\u201d of the Tuzla power plant, is in major danger of falling through due to the inability of the PRC-controlled entity to fulfill the obligations from the contract it signed with the government of the entity of Federation of Bosnia and Herzegovina. The reason for their inability to fulfill the stipulations from the contract stems from General Electric\u2019s pulling out of the project. ",
+                "evidence_urls": [
+                    "https://www.slobodnaevropa.org/a/bih-china-interest-investments/30023757.html"
+                ],
+                "note": "Since the question asks regarding the potential ownership of critical infrastructure by PRC-related entities, I think the appropriate answer is \u201cNO\u201d as there is no evidence of existing direct ownership of critical infrastructure. While PRC-related entities are involved in numerous infrastructure projects, there is no evidence that they own any of those. Nonetheless, if the \u201coperate\u201d part of the question should include their participation in ongoing infrastructure projects as companies conducting the construction work, then the answer should be changed to \u201cYES\u201d since there is plentiful evidence of them being involved in major infrastructure projects. Moreover, the contract signed regarding the building of 40 kilometers of highway is based on the understanding that the PRC-related entity would operate it for a period of time once it is completed. However, my judgment here was that since the project has not been completed yet, it should be treated as an infrastructure project that is substantially controlled or operated by a PRC-related entity. In case I have misunderstood the wording of the indicator, I would be willing to change the influence measure if it is supposed to include unfinished and future projects (or projects where PRC-related entities are taking part in as contractors).",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "According to the list available on the website of the Asian Infrastructure Investment Bank, as of June 28th, 2021, Bosnia and Herzegovina is neither a regional member, non-regional member, or a prospective member of this organization.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Supporting evidence: Members of the Silk Road Chamber of International Commerce include Foreign Trade Chamber of Bosnia and Herzegovina. The members of the Foreign Trade Chamber of Bosnia and Herzegovina include \"companies, banks, insurance companies and other legal entities registered to conduct business with foreign countries in Bosnia and Herzegovina\".",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/",
+                    "https://www.komorabih.ba/clanovi-komore-su/"
+                ],
+                "note": "No Info",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "There is no evidence of any sanctions or economic coercion on the part of PRC targeted at Bosnia and Herzegovina or business entities in Bosnia and Herzegovina.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "There has been no notable evidence of any businesses in Bosnia and Herzegovina that have taken a stance on any of the issues deemed unacceptable by the PRC government. Hence, no harassment, threats, or boycott ever took place.",
+                "evidence_urls": [],
+                "note": "Bosnia and Herzegovina lacks internationally recognizable businesses and/or brands which might be pressured into potentially making a stance on the issues stated in this question. Moreover, the business community in the country does not have a strong tradition of taking stances on matters of social issues of geopolitical relevance, especially those that are perceived as \u201cfar\u201d and \u201cunrelated\u201d to Bosnia and Herzegovina.",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "According to the PRV Ministry of Commerce, there is no FTA between PRC and Bosnia and Herzegovina. Their website lists all FTAs, both active ones and those currently in the process of negotiations, that PRC signed/is negotiation with other countries. Bosnia and Herzegovina cannot be found on either list.",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "While PRC-connected entities are involved in infrastructure project in Bosnia and Herzegovina, only one of those projects has been fully completed. Consequently, there was little room for PRC-connected entities to requisition infrastructure or land. There is only one critical infrastructure project which may eventually fall under full control by a PRC-related entity and it is related to a lignite mine close to the city of Doboj.[2]",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "Three most known telecom companies in Bosnia and Herzegovina are still, in their biggest parts, state-owned, while the other parts of their ownership structures have no connection with PRC, as evident by the information from the link above.\nOther important telecom services provider, Telemach, is a part of United Group(https://united.group/), owned by BC Partners(https://www.bcpartners.com/), British international investment firm. \nOther, less popular telecom services providers have no connection to the PRC-connected entities, nor their subsidiaries.\n",
+                "evidence_urls": [
+                    "https://inforadar.ba/za-i-protiv-privatizacije-bh-telecoma-kako-ce-zavrsiti-stranacka-zlatna-koka-ciji-se-profit-godinama-topi/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "Provided links show that two of the most popular telecoms, BH Telecom and Telemach (referred as United, it\u2019s parent company), have used Huawei\u2019s products in development of their 5G cellular network infrastructures.\n\nThere are no sources that would prove or deny that telecom service providers other than these two have adopted hardwareres or technical specifications of 4G or 5G cellular networks produced by PRC enterprises.\n",
+                "evidence_urls": [
+                    "https://www.sarajevotimes.com/bh-telecom-claims-it-is-technologically-ready-to-launch-5g-network/",
+                    "https://www.reuters.com/article/us-unitedgroup-huawei-idUSKBN2B21WO"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "There is no evidence that would prove or deny this, but the company that produces, delivers and integrates telecommunication and information systems for the telecoms in Bosnia and Herzegovina has a partnership with Huawei (link 1 shows the list of the company's partners). \nAdditionally, there is evidence that the BH Telecom, one of the largest telecoms in Bosnia, uses Huawei's products in their telecommunication infrastructure that is not 4G/5G cellular network (link number 2).\nPreviously attached Reuters article (third link) thematized United Group's (Telemach) connection to Huawei. Given that they provide a wide array of telecommunication services, it is quite possible that their internet/wi-fi infrastructure projects use hardware or technical specifications by PRC-connected entities, but there is no publicly available evidence that would prove nor deny such connection.\n",
+                "evidence_urls": [
+                    "https://archive.ph/BwBBF",
+                    "https://archive.ph/kcNOL",
+                    "https://www.reuters.com/article/us-unitedgroup-huawei-idUSKBN2B21WO"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "All of the public procurement documents lead to local companies as authorized vendors of tech related equipment to official institutions.",
+                "evidence_urls": [],
+                "note": "All the publicly available documents show that authorised vendors to supply tech related equipment and services to government, military or security services are local companies whose connection to the PRC cannot be traced.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "First three links show that local governments have adopted hardwares involving biometrics achieved by AI, whilst fourth link proves donation by PRC government of such hardware to Border Police. That donation has been made in 2019.\nAdditionally, Republika Srpska Ministry of Interior received an acknowledgement for its surveillance project from Dahua Technology. Social media posts by Dahua Technology Bosna i Hercegovina serve as another proof that Republika Srpska Ministry of Interiors surveillance project used Dahuas\u2019 products/services. \n",
+                "evidence_urls": [
+                    "http://www.centar.ba/novost/16356/opcina-centar-nabavila-termalne-kamere-za-zdravstvene-ustanove",
+                    "http://msb.gov.ba/vijesti/najave/default.aspx?id=18958&langTag=bs-BA",
+                    "https://avaz.ba/kantoni/sarajevo/563053/opcina-centar-donirala-granicnoj-policiji-bih-termalne-kamere",
+                    "http://www.granpol.gov.ba/data/documents/pdf/Brosura%20za%202019.godinu.pdf (pg. 17)",
+                    "https://mup.vladars.net/lat/index.php?vijest=22871&vrsta=saopstenja",
+                    "https://www.facebook.com/dahuatechnologybosnaihercegovina/posts/992464518160755"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Provided links show that in 2018 a Memorandum of Understanding between the City of Sarajevo and Huawei Technologies d.o.o. was signed by (now former) Sarajevo Mayor, Abdulah Skaka, and Huawei Technologies Director, Chen Chen. This joint statement defined the building of a smart and safe city. Even though these links are old, there has been no further data on this topic, so the activities defined by that Memorandum are presumably still ongoing. ",
+                "evidence_urls": [
+                    "https://ba.n1info.com/vijesti/a296093-zavrsen-treci-forum-inovacija-sarajevo-unlimited/",
+                    "http://vijeceministara.gov.ba/home_right_docs/default.aspx?id=29765&langTag=bs-BA (pg. 7, light-blue box)"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "There is no available online data that would prove or deny the use of China Cross-Border Interbank Payment System (CIPS) in Bosnia and Herzegovina.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "There is no available data that would prove PRC-connected investments in technology start-ups. Additionally, a recent media article that focused on PRC\u2019s influence on Balkans claims that \u201cIn Bosnia, for the time being, only infrastructure projects are implemented with Chinese money\u201d.",
+                "evidence_urls": [
+                    "https://archive.ph/oikza"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "Provided links show partnerships that companies from Bosnia and Herzegovina have established with PRC-connected entities. ",
+                "evidence_urls": [
+                    "https://archive.ph/BwBBF",
+                    "https://its.ba/2021/01/15/novo-partnerstvo-sa-dahua-technology/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "We had trouble identifying top five popular social media/messaging apps in Bosnia and Herzegovina between January 2020 and March 2021. The link provided above shows currently (July 2021) most downloaded social media apps. Number one on that list is TikTok, while TikTok Lite is number five on that same list. \nThose numbers might have been different in the period crucial for this indey, but taking in account TikTok\u2019s popularity, one of them for sure was in the top five between January 2020 and March 2021.\n",
+                "evidence_urls": [
+                    "https://appfigures.com/top-apps/google-play/bosnia-and-herzegovina/social"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "The provided link shows that the use of Beidou satellite navigation system is in the process of being approved by The Institute for Standardization of Bosnia and Herzegovina. Unfortunately that is the only source that connects this satellite navigation system and Bosnia and Herzegovina, and does not say whether any level of government collaborated with the PRC on endorsing Beidou\u2019s use in Bosnia & Herzegovina.",
+                "evidence_urls": [
+                    "https://isbih.gov.ba/en/plan-rada/view/102807"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There is no evidence that such organizations exist in BiH, based on available data.\n\nAs it is stated in the \u201c25 years of diplomatic relations between PCR and BiH\u201d, page 75, these topics are usually seen in the media with a negative context towards the PCR. There is not enough support amongst people for the Chinese reunification and similar domestic problems. ",
+                "evidence_urls": [
+                    "http://ba.chineseembassy.org/chn/sgxx/sghd/P020200930003905252470.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "Based on the available data, nobody from BiH is a member of the United World Chinese Association.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Based on the available data, labor unions from BiH and the PRC do not cooperate in such way. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "Chinese diaspora community organises different events, such as the celebration of the Lunar New Year in 2018 in Banja Luka, and the Mid-Autumn Festival celebrated in Sarajevo; however, in the articles, it is not stated whether anybody from the present people are linked to the UFWD, nor was is able to acquire such information via Google. ",
+                "evidence_urls": [
+                    "https://bhrt.ba/u-banjaluci-proslava-kineske-nove-godine/",
+                    "http://www.kina-danas.com/fotou-sarajevu-obiljezen-kineski-festival-sredine-jeseni/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "Based on available data, there are no such associations closely related to similar associations in BiH. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "The Chinese Embassy in Sarajevo has in March 2020 donated equipment in the value od 30.000 KM (cc. 18.000 USD) for the Center for Support for families with children and persons with difficulties in development \"Cilibri\"; in May 2021 the Embassy donated desinfectants in the value od 15.000 KM to the Islamic Community in BiH; Childer\u2019s Choir of the Chinese city of Wuxi donated 42.000 masks to BiH in June 2020. \n\nThere are also several reports from previous years which support the claim, such as: food packages for people who use Red Cross\u2019 kitchen from the Chinese Embassy in Sarajevo in 2016; Embassy donated 40.000 USD for people who were hit by floods in 2011 and 10.000 KM in 2012; Association of Chinese Entrepreneurs donated clothing and toys in 2005 for children from socially endangered families, where the value of the donation was around 320.000 KM.",
+                "evidence_urls": [
+                    "http://www.centar.ba/novost/16242/vrijedna-donacija-ambasade-nr-kine-za-djecu-sa-poteskocama-u-razvoju",
+                    "https://www.islamskazajednica.ba/index.php/vijesti/aktuelno/29896-ambasada-kine-islamskoj-zajednici-donirala-dezinfekciona-sredstva",
+                    "https://www.sarajevotimes.com/162874-2/",
+                    "https://mrsri.ks.gov.ba/aktuelno/novosti-sa-vlade/donacija-ambasade-nr-kine-paketi-sa-hranom-za-korisnike-centralne-kuhinje",
+                    "https://ckfbih.ba/pomo-crvenog-krstakria-narodne-republike-kine-stanovnitvu-u-bih-pogoenom-poplavama/",
+                    "https://www.sarajevo.ba/hr/article/1247/za-socijalno-ugrozenu-djecu-sarajeva-donacija-kineskih-privrednika"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "There is no available data to support the claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Local production of cultural products such as films and TV shows is at the moment very modest. In addition to that, it doesn\u2019t typically reflect or is connected to portrayals of China or Chinese people. Therefore, the question cannot be answered with yes nor with no.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "There is no available public data on the claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "Though local governments do have good relations with the PRC, and there are statements of support to the PRC, it cannot be seen as propaganda.",
+                "evidence_urls": [],
+                "note": "Some of the examples of politician's statements of support for PRC include:\n\n-\tThe Presidency of BiH did not reach an agreement regarding the accession of BiH to the statement on the alleged violation of human rights in China. The unilateral moves of the Ministry of Foreign Affairs, which are nothing but interference in China's internal affairs, are inadmissible, unacceptable and result in serious disruption of good and friendly relations with China - Milorad Dodik, member of the Presidency of BiH (22.6.2021 https://avaz.ba/vijesti/bih/661071/dodik-podrska-kini-sda-se-predstavlja-kao-zastitnica-muslimana)\n\n-\tIn a very short time, you have achieved impressive results in alleviating and eradicating poverty and thus made a great contribution to the fight against poverty globally. I would like to take this opportunity to thank your country for supporting us in the most difficult times. Your help has always been timely, concrete, without conditions, but above all sincere and fraternal. - Milorad Dodik, member of the Presidency of BiH (9.2.2021 https://www.bljesak.info/vijesti/politika/dodik-kinezima-o-buducnosti/338246)\n\n-\tAlthough we have been given opportunities to learn more about China through various media and technologies, I want to go there to feel that wealth, the wealth in every sense. It will be an exceptional experience for me, especially considering that I come from a smaller, different country. A visit to Beijing, Shanghai or any other city will give me the opportunity to witness a growth trend. China has succeeded in this in a very short period of time. It has made great progress in the last 50 years. That can serve as a lesson to us. - Dragan \u010covi\u0107, former member of the Presidency of BiH (27.8.2015 http://www.kina-danas.com/covic-nas-posjet-kini-otvorit-ce-mnoga-vrata-za-suradnju/)\n",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no data and/or surveys which can support or deny the claim.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "There has been a donation of engineering machines and vehicles to the Armed Forces of BiH in March 2021, I am not sure whether this counts as an import. ",
+                "evidence_urls": [
+                    "http://os.mod.gov.ba/vojni-portal/default.aspx?id=35186&langTag=bs-BA&template_id=181&pageIndex=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Foreign Trade Chamber of BiH claims that in 2020 BiH exported weapons only to South Africa among the BRICS countries. ",
+                "evidence_urls": [
+                    "https://www.akta.ba/kapital/pregled-zemalja-gdje-bih-izvozi-oruzje-i-municiju-/125021"
+                ],
+                "note": "Inquiry sent to the Foreign Trade Chamber of BiH, no answer received. ",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "The PRC government has, however, donated vaccines, protective masks, etc. ",
+                "evidence_urls": [
+                    "https://www.slobodnaevropa.org/a/kina-vakcine-bih-donacija-sinofarm/31229832.html",
+                    "http://www.msb.gov.ba/vijesti/saopstenja/default.aspx?id=18933&langTag=bs-BA"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "1) Agreement on Legal Assistance in Criminal Matters between Bosnia and Herzegovina and the PRC, dated 18.12.2012. (\"Official Gazette of BiH - International Agreements\" number: 18/13, entered into force on October 12, 2014);\n2) Extradition Agreement between Bosnia and Herzegovina and PRC, dated 18.12.2012. (\"Official Gazette of BiH - International Agreements\" number: 18/13, entered into force on October 12, 2014);\n3) Agreement on Legal Assistance in Civil and Commercial Matters between Bosnia and Herzegovina and PRC, dated 18.12.2012. (\"Official Gazette of BiH - International Agreements\" number: 18/13 entered into force on October 12, 2014).\n",
+                "evidence_urls": [
+                    "http://www.mpr.gov.ba/organizacija_nadleznosti/medj_pravna_pomoc/bilateralni_ugovori/ugovori/default.aspx?id=3813&langTag=bs-BA"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "A review of signed cooperation agreements (bilateral agreements between Bosnia and Herzegovina and the PRC) was performed on the official website of the Ministry of Justice of Bosnia and Herzegovina.",
+                "evidence_urls": [
+                    "http://www.mpr.gov.ba/organizacija_nadleznosti/medj_pravna_pomoc/bilateralni_ugovori/ugovori/default.aspx?id=3813&langTag=bs-BA",
+                    "http://www.vijeceministara.gov.ba/saopstenja/sjednice/zakljucci_sa_sjednica/Archive.aspx?langTag=bs-BA&pageIndex=1"
+                ],
+                "note": "In order to check whether cooperation was initiated we made an insight into all held Sessions of the Council of Ministers of BiH (for the period January 2020 to March 2021).",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "There are no official (publicly available) security or intelligence reports on this issue in Bosnia and Herzegovina.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "There are no official (publicly available) security or intelligence reports on this issue in Bosnia and Herzegovina.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "There are no official (publicly available) security or intelligence reports on this issue in Bosnia and Herzegovina.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence suggesting that.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "In 2018, the Border Police of Bosnia and Herzegovina, with a donation from the PRC in the amount of 9.5 million KM, renewed a part of the specialist equipment for surveillance and border checks. This equipment is still in use.",
+                "evidence_urls": [
+                    "http://www.granpol.gov.ba/data/documents/pdf/Brosura%20za%202019.godinu.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Bosnia and Herzegovina has not signed any agreements on joint police patrols.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Official judicial authorities and the Border Police did not report such detentions between January 2020 and March 2021.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "The official judicial authorities, Border police or Service for foreigner's affairs did not report such detainees in the period January 2020 to March 2021.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "The official judicial authorities did not report such detainees in the period January 2020 to March 2021.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Bosnia and Herzegovina has a GDP per capita of US $5,913 and a total population of 3.28 million people.",
+    "description-2": "Bosnia and Herzegovina established diplomatic relations with the People Republic of China in 1995. Bosnia and Herzegovina was ranked 58th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 53/100."
+}

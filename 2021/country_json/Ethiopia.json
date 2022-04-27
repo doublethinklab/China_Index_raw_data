@@ -1,0 +1,884 @@
+{
+    "name": "Ethiopia",
+    "partner": "Code for Africa",
+    "year": "2021",
+    "GDP": "$936.3",
+    "population": "109M",
+    "original": "96/384",
+    "ranking": "29",
+    "overall": "25%",
+    "effect": "26%",
+    "exposure": "28%",
+    "pressure": "12%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "During the research period there was no indication of anyone belonging to the network.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "There is no evidence suggesting that journalists or media organisations belong to either of these organisations.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "There is no evidence of media tours in the PRC for the research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "There is no evidence for the reporting period, but there is evidence from 2017 that indicates it had happened previously. https://frontpageafricaonline.com/diaspora/china-launches-studies-exchange-program-for-african-journalists/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "There is no evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "There is no evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "There is no evidence suggesting state-media advertisements, however, there is Chinese investors in Ethiopia that place advertisements in local media outlets.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There is no evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "skip",
+                "evidence": "The comment does not have a link to evidence, however the reviewer indicated that state media would avoid views critical to the PRC as the Ethiopian government is seeking to boost relations with them.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "There is no evidence suggesting this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "No evidence to include ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "evidence": "There were no meetings and training sessions during the research period, but there were meetings and training sessions between EPRDF officials (former key political party) between 2011 and 2016 https://www.brookings.edu/blog/africa-in-focus/2016/07/05/political-party-training-chinas-ideological-push-in-africa/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.sdx.sh.cn/html/xw/xyfxxw/108123.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "The country has kept silent.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://english.cctv.com/2016/07/13/ARTIXztdqwTanQcf0TFc95zd160713.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.news-europe.com/the-70-countries-supporting-chinas-national-security-law-for-hong-kong/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.china.org.cn/world/2021-06/02/content_77542746.htm;",
+                    "https://e.huawei.com/en/case-studies/global/2019/201903291147"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.ieeip.cn/bbx/1071727-1123792.html?id=27381&newsid=712719"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2018-08/26/c_137420265.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence to include in this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://tuckmagazine.com/2018/12/11/ethiopia-addis-sister-cities/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1119447/china-is-training-africas-next-generation-of-leaders/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2018-11/14/c_137606105.htm",
+                    "http://www.xinhuanet.com/english/2021-03/06/c_139790042.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence to suggest",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-03/25/c_139835292.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/eth",
+                    "https://wits.worldbank.org/countrysnapshot/en/ETH"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pri.org/stories/2020-11-27/ethiopia-s-civil-conflict-intensifies-future-chinese-investment-uncertain"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "The top extractive in Ethiopia is gold and the main buyer is the UAE.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Ethiotelecom has a Huawei data centre in Addis Ababa https://www.capacitymedia.com/articles/3828634/ethio-telecom-opens-huawei-built-modular-data-centre\n\nChinese company owns a 23.5% stake in the Port of Djibouti, which serves Ethiopia https://www.globalconstructionreview.com/news/china-merchants-signs-deal-3bn-expansion-djibouti-/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Ethiopia joined in 2017.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://journals.sagepub.com/doi/full/10.1177/1868102621993487"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "China has established themselves as a key economic partner, with investments in key infrastructural developments; the Ethiopia-Djibouti railway, the port of Djibouti, the establishment of SEZ's, and upgrading terminals at Bole International Airport.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "Ethiopia has long maintained a monopoly system in its telecoms sector. \nIn May 2020, Ethiopia granted a telecoms license to a consortium led by Safaricom (Kenya), Vodafone and Sumitomo(Japan) https://www.reuters.com/world/africa/ethiopias-ethio-telecom-launch-mobile-money-service-2021-05-07/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Ethiotelecom, the current monopoly telecom operator, relies on Huawei and ZTE https://www.datacenterdynamics.com/en/news/ethio-telecom-opens-new-huawei-built-modular-data-center-in-addis-ababa-ethiopia/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "No evidence to include here.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://journals.sagepub.com/doi/pdf/10.1177/0306422019876445"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=_3z9Rc5joVE"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Doublethink Lab Review]:\n\nLocal expert has provided: \"As Shenzhen companies look to Africa for new consumer markets, African entrepreneurs are turning to Shenzhen for manufacturing partners to turn their ideas into reality. https://ethiopiansoftware.com/how-shenzhen-is-fueling-ethiopias-burgeoning-startup-scene/4313/\".\n\nHowever, we didn't found the evidence to link those manufacturer in Shenzhen as PRC-connected entities.",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "The top five social media media/messaging apps are WhatsApp, FaceBook, Instagram, Twitter, LinkedIn",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://eurasiantimes.com/chinas-beidou-has-surpassed-american-gps-in-over-165-countries-reports/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.chinaja.org.cn/2019-03/27/c_137943365.htm",
+                    "ttp://www.womenofchina.cn/womenofchina/html1/special/belt/1812/8410-1.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2021-06/11/c_1310001463.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Many Ethiopian movies within the comedy genre portray China negatively in the areas of poor quality products and behaviour. A film 'Made in China' is one of such movie in Amharic. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-03/25/c_139835292.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "There is a relative negative sentiment.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://armstrade.sipri.org/armstrade/page/trade_register.php"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "China has established a military base in Djibouti, which serves as a key access point to landlocked Ethiopia https://news.usni.org/2021/04/20/africom-chinese-naval-base-in-africa-set-to-support-aircraft-carriers",
+                "evidence_urls": [
+                    "https://news.usni.org/2021/04/20/africom-chinese-naval-base-in-africa-set-to-support-aircraft-carriers"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.china.org.cn/world/Off_the_Wire/2017-05/03/content_40742111.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.theverge.com/2018/1/29/16946802/china-african-union-spying-hq-cybersecurity-computers-backdoors-espionage",
+                    "https://www.reuters.com/article/ethiopia-african-union-cyber-exclusive-idUKKBN28Q1EB"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "No evidence within the research period, but it's been ongoing since 2014.",
+                "evidence_urls": [
+                    "https://www.csmonitor.com/World/Passcode/2014/0325/With-new-Chinese-cyber-tools-Ethiopia-more-easily-spies-on-its-people"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Ethiopia has a GDP per capita of US $936.3 and a total population of 109,224,414 people.",
+    "description-2": "Ethiopia established diplomatic relations with the People Republic of China in 1970. Ethiopia was ranked 101st in Reporters Without Borders' 2021 World Press Freedom Index, and Not Free in Freedom House's 2020 Global Freedom Status, with a score of 23/100."
+}

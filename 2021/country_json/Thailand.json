@@ -1,0 +1,1184 @@
+{
+    "name": "Thailand",
+    "partner": "Rayyan Hassan",
+    "year": "2021",
+    "GDP": "$7,187.0",
+    "population": "69.95M",
+    "original": "226/384",
+    "ranking": "3",
+    "overall": "59%",
+    "effect": "52%",
+    "exposure": "70%",
+    "pressure": "23%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "China, As Told by China: Beijing\u2019s Influences Reach Thai Media and Beyond: \u2026China has long maintained a presence in Thai media. Xinhua and China Radio International (now part of the supercluster China Media Group) both run Thai-language content accessible to Thai audience. The English-language Nation also regularly publishes China Daily content because they both belong to the same news sharing network\u2026. https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond\nChinese Propaganda Finds a Thai Audience https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/",
+                "evidence_urls": [
+                    "https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond",
+                    "https://worldchinesemedia.com/2015/05/12/56/",
+                    "https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/",
+                    "https://www.thaienquirer.com/7301/thai-media-is-outsourcing-much-of-its-coronavirus-coverage-to-beijing-and-thats-just-the-start/",
+                    "https://www.japantimes.co.jp/opinion/2020/06/19/commentary/world-commentary/chinas-global-media-influence-grows-pushback/"
+                ],
+                "note": "Unprecedented effort from Chinese state-owned news agencies is there to influence the contents of the Thai media. Some Thai newspapers are producing same news contents from the Xinhua. \n",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "For members of Belt and Road Media Community (BRMC), local respondents can check the following link: http://brmc.chnpec.com/en/member.shtml \n\nFor members of B&R TV Networks, local respondents can check the following link: http://en.videochina.org.cn/2017/0417/4741.shtml \n\nFor committee of Beld and Road New Network (BRNN), local respondents can check the following link: http://cn.brnn.com/414904/414908/index.html \n\nThai PBS (https://www.thaipbsworld.com/)\nThai CCTV (http://www.tcctv.co.th/ the website was not reachable at the time of visit) https://www.facebook.com/thaicctvthailand/ this channel is not active and its ownership info is unavailable.\nList of members of BRNA is available at https://brnalink.com/members.html",
+                "evidence_urls": [
+                    "https://www.thaipbsworld.com/",
+                    "http://www.tcctv.co.th/ ",
+                    "https://www.facebook.com/thaicctvthailand/ ",
+                    "https://brnalink.com/members.html",
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "http://en.videochina.org.cn/2017/0417/4741.shtml ",
+                    "http://cn.brnn.com/414904/414908/index.html "
+                ],
+                "note": "List of members of BRNA is available at https://brnalink.com/members.html",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "2",
+                "evidence": "Sakchai Pruedthipak, president of the Thai social media website www.salika.co, said the performances demonstrated the Chinese government's efforts in conserving ethnic tradition and cultures. (http://en.ce.cn/main/latest/201907/23/t20190723_32700397.shtml)\n\n(https://xueshu.baidu.com/usercenter/paper/show?paperid=182708x0xa700ej0vb1f0rb0f2111868) CLOSER NEIGHBORS Thai new media delegation visits China\nThai-Chinese Journalists Association reps has frequent visits and interactions with Chinese authorities. (http://www.chinaembassy.or.th/eng/sgxw/t1545775.htm, http://www.tcjapress.com/tcja-about-us/)",
+                "evidence_urls": [
+                    "https://www.khaosodenglish.com/author/teeranai/ ",
+                    "https://xueshu.baidu.com/usercenter/paper/show?paperid=182708x0xa700ej0vb1f0rb0f2111868",
+                    "http://www.chinaembassy.or.th/eng/sgxw/t1545775.htm",
+                    "http://www.tcjapress.com/tcja-about-us/"
+                ],
+                "note": "It is difficult to find the posts/news to get information on this. As there are formal registered organisations like TCJA are there, this type of visits are more likely. ASEAN-China Centre also aims to extend cooperation in media sector in addition to trade, tourism etc. which makes easier in providing trainings etc. to the selected",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "China boosts soft power by training foreign journalists (https://www.chinadaily.com.cn/china/2016-10/17/content_27077588.htm)\nTraining courses for journalists (https://www.tja.or.th/view/activities/media-movements/13564)\n\nThere are often cooperation training projects between Thai organizations and PRC-connected entities. For example, the training programme new understanding with China\u2019 that managed by Thai journalist\u2019s society and the embassy of PRC in Bangkok.   \nhttps://www.dailynews.co.th/news/846975/\n\n",
+                "evidence_urls": [
+                    "https://www.dailynews.co.th/news/846975/",
+                    "https://mgronline.com/china/detail/9480000078477 ",
+                    "https://www.chinadaily.com.cn/china/2016-10/17/content_27077588.htm",
+                    "https://www.businessinsider.com/china-taught-foreign-countries-journalists-how-to-restrict-speech-2018-11",
+                    "https://www.tja.or.th/view/activities/media-movements/13564"
+                ],
+                "note": "The son of owner Manager Online, the Thai major media, graduated from BLCU and has a great connection with Chinese media and PRC officers both in Thailand and PRC. \nhttps://mgronline.com/china/detail/9480000078477 \n\nGiven the interest of China in SEA, I find that it is intensely trying to influence the contents of the media in Thailand. Many of the newspapers have same contents as contents in the China . https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "Sing Sian Yer Pao owned by by Nanfang Media Group of the People's Republic of China (please check if I am correct https://en.wikipedia.org/wiki/Sing_Sian_Yer_Pao). \n\nThai Central Chinese Television Group Co., Ltd. (http://www.tcctv.co.th/) If this is correct, the response in question number 1 needs to be rechecked.\n\n\u2026Khaosod and two other publications under Matichon Group announced a groundbreaking partnership with China\u2019s Xinhua News Agency on Thursday. The cooperation grants Khaosod, Prachachat and Matichon unlimited access to the Thai edition of Xinhua\u2019s news materials and rights to republish them\u2026. \nhttps://www.khaosodenglish.com/news/2019/07/25/khaosod-signs-partnership-with-chinas-xinhua/ \n\nChinese Propaganda Finds a Thai Audience:\u2026Khaosod English ran news wire copy from China\u2019s propaganda flagship, Xinhua.  Khaosod, meaning \u201cfresh news,\u201d is a staple of Thai current affairs with a moderate-to-liberal bent and an approximate daily circulation of 900,000 along with 13 million Facebook followers\u2026 \nhttps://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/ \n\nIn 2014, the Thai News Network entered an agreement with Xinhua to broadcast the latter\u2019s China Report program in Thailand on a daily basis. (https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone#footnote35_w09z9tq)\n\nWebsite of CRI in Thai language: http://thai.cri.cn/\nFacebook of Chinese-Thai news : https://web.facebook.com/JeenThaiNews",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Sing_Sian_Yer_Pao",
+                    "http://www.tcctv.co.th/",
+                    "https://www.khaosodenglish.com/news/2019/07/25/khaosod-signs-partnership-with-chinas-xinhua/ ",
+                    "https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/ ",
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone#footnote35_w09z9tq",
+                    "http://thai.cri.cn/",
+                    "https://web.facebook.com/JeenThaiNews"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Sing Sian Yer Pao\nUnited Daily News Group \nhttps://www.cfr.org/blog/thailands-press-warms-chinese-state-media this link is important in understanding how extensively Chinese state-owned media have influenced local-national media houses in Thailand.\n\nThe program appears to be successful. In an initiative taken in 2015, Xinhua signed an MOU with an obscure news site called OPT News. As of the latest information available in November, at least 12 media now have MOUs with Xinhua. ( https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond )\n\nThai-Chinese Journalists Association (TCJA) website : http://www.tcjapress.com/\n(TCJA is supported by the China Media Group Group Asia Pacific, Xinhua News Agency Bangkok, China international broadcasting network, etc) \n",
+                "evidence_urls": [
+                    "https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%A0%B1%E7%B3%BB",
+                    "https://www.cfr.org/blog/thailands-press-warms-chinese-state-media ",
+                    "https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond ",
+                    "http://www.tcjapress.com/"
+                ],
+                "note": "(a few but insignificant is the response but the Chinese state-owned media houses have MoU with the local media houses to copy/share/disseminate information which tries to dismantle the concept about China created by the Western media. They do not need to open the outlets as local media houses are supporting them.)\n\u2026.The most common method is memorandums of understanding (MOUs) that allow Thai media to republish content, including multimedia like photos and videos, from the Chinese news sources for free.\n\nUnited Daily News Group is based in Taiwan\u2014the inclusion of this news outlet suggests that China is influencing Thailand via a Taiwanese-based media.\n",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "\u2022\tBased on the sources shared in 4, 5 and 6 questions, this trend is widely found in Thailand.\n\nIn an initiative taken in 2015, Xinhua signed an MOU with an obscure news site called OPT News. As of the latest information available in November, at least 12 media now have MOUs with Xinhua. (https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond)\n\n\u2026 Yet this reputation for quality, independent journalism did not stop Khao Sod and Matichon Group from partnering with state media from a country with one of the most repressive media environments in the world. In 2019, as Foreign Policy has reported, Khao Sod and Matichon announced a partnership with Xinhua, and Khao Sod began running Xinhua articles. (https://www.cfr.org/blog/thailands-press-warms-chinese-state-media)\n\nKhaosod, meaning \u201cfresh news,\u201d is a staple of Thai current affairs with a moderate-to-liberal bent and an approximate daily circulation of 900,000 along with 13 million Facebook followers\u2026 https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/\n\nHowever, this indicator measures whether local media outlets broadcast news, video clips, or other contents provided by PRC state-fund media. The phenomenon can be observed via footages of content pieces. Therefore, press statement from PRC governmental agencies do not fall into the category of contents provided by PRC state-fund media.  \n",
+                "evidence_urls": [
+                    "https://th.boell.org/en/2019/12/28/china-told-china-beijings-influences-reach-thai-media-and-beyond",
+                    "https://www.cfr.org/blog/thailands-press-warms-chinese-state-media",
+                    "https://foreignpolicy.com/2019/08/28/chinese-propaganda-finds-a-thai-audience/"
+                ],
+                "note": "Chinese Propaganda Finds a Thai Audience:\u2026Khaosod English ran news wire copy from China\u2019s propaganda flagship, Xinhua.",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "no evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Sa-nguan Kumrungroj was banned from PRC after criticizing China in the Tian An Men tragedy. ",
+                "evidence_urls": [
+                    "https://www.matichon.co.th/prachachuen/news_436166"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "2",
+                "evidence": "China blocks Twitter and Facebook but its official media and diplomats use the platforms to spread Chinese views and combat critics. https://www.rfa.org/english/news/china/thailand-infowars-05132021072939.html",
+                "evidence_urls": [
+                    "https://www.rfa.org/english/news/china/thailand-infowars-05132021072939.html"
+                ],
+                "note": "I am unable to access Asia Nikkei and South China Morning Post where some indicative information are found. More info may be available in the local media.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "no evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Thailand-China Parliamentarians Friendship Group paid a courtesy call on Ambassador of the People\u2019s Republic of China to Thailand to exchange their views about the diplomatic relations between Thailand and China.https://www.parliament.go.th/ewtadmin/ewt/parliament_parcy/download/article/article_20180705160850.pdf)",
+                "evidence_urls": [
+                    "http://th.china-embassy.org/eng/dszl/dshd/t1578950.htm  , ",
+                    "https://www.parliament.go.th/ewtadmin/ewt/parliament_parcy/download/article/article_20180705160850.pdf",
+                    "https://www.thaigov.go.th/news/contents/details/49681"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "These have frequently meeting between Thai politicians, high officers, and high bureaucrats with representatives of the PRC. \nhttps://www.thairath.co.th/news/politic/2286318\nhttps://www.thaigov.go.th/news/contents/details/49681\nhttps://www.posttoday.com/politic/news/668522\nhttps://thaishanghai.thaiembassy.org/th/content/\nhttps://www.matichon.co.th/foreign/news_2768885\n\nPrayut\u2019s government is also well-known for close ties with PRC. \nhttps://www.bangkokpost.com/thailand/general/1668208/regime-talks-up-china-ties-on-visit-to-beijing-for-belt-and-road-forum\nhttps://www.bangkokpost.com/thailand/general/468332/thailand-china-bolster-military-ties-as-us-relations-splinter",
+                "evidence_urls": [
+                    "https://www.idcpc.org.cn/english/news/202104/t20210430_145794.html",
+                    "https://www.idcpc.org.cn/english/news/202104/t20210427_145740.html",
+                    "https://www.idcpc.org.cn/english/news/201911/t20191111_101792.html",
+                    "https://www.idcpc.org.cn/english/news/201909/t20190924_101397.html",
+                    "https://www.idcpc.org.cn/english/news/201909/t20190924_101396.html",
+                    "https://www.parliament.go.th/ewtadmin/ewt/parliament_parcy/ewt_news.php?nid=15373&filename=index",
+                    "https://www.thairath.co.th/news/politic/2286318",
+                    "https://www.thaigov.go.th/news/contents/details/49681",
+                    "https://www.posttoday.com/politic/news/668522",
+                    "https://thaishanghai.thaiembassy.org/th/content/",
+                    "https://www.matichon.co.th/foreign/news_2768885",
+                    "https://www.bangkokpost.com/thailand/general/1668208/regime-talks-up-china-ties-on-visit-to-beijing-for-belt-and-road-forum",
+                    "https://www.bangkokpost.com/thailand/general/468332/thailand-china-bolster-military-ties-as-us-relations-splinter"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "It has undertaken projects commissioned by various Chinese and foreign government institutes such as the International Department of the Central Committee of CPC, Overseas Chinese Affairs Office of the State Council, Chinese Academy of Governance, Civil Service Commission of Thailand and Civil Service College Singapore\u2026 SAI is not only successful in training public leaders, but is also an example of good public management in Shanghai. The purpose of the delegation to Shanghai was to allow the senior and middle-level Thai civil servants to acquaint themselves with Shanghai\u2019s pioneering ideas in economic development and public management and improve their leadership skills. The purpose has been fulfilled with the courses at SAI. The delegates have learned tremendously. They will return to Thailand with the experience and enhance the development of Thailand.\n\nhttp://www.sdx.sh.cn/html/home/news/110322.html \n\nNational Academy of Public Administrant delegation participates in IIAS and IASIA conference 2016 in China https://www1.napa.vn/en/national-academy-of-public-administrant-delegation-participates-in-iias-and-iasia-conference-2016-in-china.napa\n\nChinese language training scholarships at Huachiew University xiamen city People's Republic of China (15th edition) \n\nThai-Chinese Culture and Economic Association, together with Huaqiao University in Xiamen, provided learning Chinese language scholarships for civil servants every year. \n\nhttps://www.thaizhong.org/\n\nKing Prajadhipok\u2019s Institute, the academic organization under the control of the Thai president of parliament, supports and provides many training programmes in Chinese study and the Chinese language. These programmes include the exchange between Thai and Chinese civil servants and study in China scholarship for Thai civil servants. \n\nhttps://ops.moe.go.th/search-result/?_sft_category=news&sf_paged=2",
+                "evidence_urls": [
+                    "http://www.sdx.sh.cn/html/home/news/110322.html ",
+                    "https://www1.napa.vn/en/national-academy-of-public-administrant-delegation-participates-in-iias-and-iasia-conference-2016-in-china.napa",
+                    "https://www.fad.go.th/th/news/73236-%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99-%E0%B8%93-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B8%99-%28%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-15%29 ",
+                    "https://www.thaizhong.org/",
+                    "https://ops.moe.go.th/search-result/?_sft_category=news&sf_paged=2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "1",
+                "evidence": "\u2026Wang\u2019s visit to the three Mekong countries follows Washington\u2019s recent launch of a new U.S.-Mekong Partnership along with Thailand, Myanmar, Cambodia, Laos and Vietnam, which is designed to counter China\u2019s rising influence in the lower Mekong nations. (https://thediplomat.com/2020/10/chinese-fm-embarks-on-diplomatic-drive-in-southeast-asia/)\n\u2026 It underscored the long-tested friendship between China and Thailand, calling the two \u201cone family.\u201d Further, in a Thai-language version, it recalled the motto that \u201cChina and Thailand are not others, but brothers\u201d (Chin Thai chai uen klai phinong kan). (https://thediplomat.com/2020/05/will-the-milk-tea-war-have-a-lasting-impact-on-china-thailand-relations/)\nThailand has been a treaty ally of the United States since 1954, but its political direction since 2006 \u2014 amid warming strategic ties with Beijing \u2014 is placing serious pressure on the alliance. (https://www.eastasiaforum.org/2020/05/14/thai-domestic-politics-threatens-to-derail-its-diplomacy/)",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/chinese-fm-embarks-on-diplomatic-drive-in-southeast-asia/",
+                    "https://thediplomat.com/2020/05/will-the-milk-tea-war-have-a-lasting-impact-on-china-thailand-relations/",
+                    "https://www.eastasiaforum.org/2020/05/14/thai-domestic-politics-threatens-to-derail-its-diplomacy/"
+                ],
+                "note": "Unable to find source that shows PRC\u2019s direct role in pressurising Thai diplomats to change their stances.",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "\u2022Cambodia and Thailand, which do not have direct interests in this issue, sided with China. \n\nThailand 'supports' China's efforts to maintain maritime peace (https://www.reuters.com/article/asean-summit-southchinasea-thailand-idUSL3N1BJ27A)\nIn 2016, Thailand wanted to remain neutral (https://thediplomat.com/2016/07/who-supports-china-in-the-south-china-sea-and-why/)",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/asean-summit-southchinasea-thailand-idUSL3N1BJ27A",
+                    "https://www.ide.go.jp/library/English/Research/Region/Asia/pdf/201209_suzuki.pdf",
+                    "http://www.xinhuanet.com/english/2019-02/16/c_137827172.htm",
+                    "https://thediplomat.com/2016/07/who-supports-china-in-the-south-china-sea-and-why/",
+                    "https://www.thairath.co.th/content/662186"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "\u2026 \u201cDo you want us to keep them for ages until they have children for three generations?\u201d asked Prayuth Chan-ocha, Thailand\u2019s military-backed Prime Minister. Prayuth\u2019s question, however, elided a key consideration: Thailand needs China\u2019s support, and China wanted the Uighurs back. (https://www.theatlantic.com/international/archive/2015/07/thailand-china-uighur-refugees/398318/)\nThailand condemned for repatriation of 109 Uighurs to China (https://apnews.com/article/299f00fdcd734a028f40c13d504efa33)\nThailand was not a party of a letter which was signed by 35 countries to defend China re letter submitted to UNHRC..( https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights/)",
+                "evidence_urls": [
+                    "https://www.theatlantic.com/international/archive/2015/07/thailand-china-uighur-refugees/398318/",
+                    "https://apnews.com/article/299f00fdcd734a028f40c13d504efa33",
+                    "https://www.dw.com/en/rights-groups-slam-thailands-uighur-repatriation/a-18573559",
+                    "https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights/",
+                    "https://www.reuters.com/article/us-thailand-uighurs-china-idUSKCN0PJ0E120150709"
+                ],
+                "note": "Though these acts by the government represent their stance, it is understood that they are accepting PRC\u2019s request irrespective of various HR regulations etc. Since the Thai government has not spoken on this issue formally, these acts of repatriation may reflect their support in PRC\u2019s will. \n\n--\n\nThailand doesn\u2019t directly express her voice in supporting PRC\u2019s stance. However, Thai government sent back 100 more Uyghur immigrants to China in 2015.\nhttps://www.reuters.com/article/us-thailand-uighurs-china-idUSKCN0PJ0E120150709\n",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Since Thailand support one China policy, its position regarding Tibet is not found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Prayut, Thai Prime Minister, said when Carrie Lam visited Thailand in 2019 that \u2018Thailand knows that Hong Kong government has a good intention for Hong Kong citizen and Thailand hopes Hong Kong government will resolve the protests problem in nearest future with peaceful way.\u201d The prime minister did not obviously announce that he supports Carrie Lam, however, we can see from his statement that he prefers PRC governs Hong Kong than Hong Kong citizens govern themself. \n\nhttps://workpointtoday.com/hongkong-thai/\n\n",
+                "evidence_urls": [
+                    "https://workpointtoday.com/hongkong-thai/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Huawei has collaborated with leading Thai universities such as Chulalongkorn University, Thammasat University, Kasetsart University, and KMITL University. (https://www.huawei.com/en/sustainability/win-win-development/social-contribution/seeds-for-the-future/thailand)\nHuawei Partners with Chiang Mai University to Develop the 5G Smart University (https://www.bangkokpost.com/thailand/pr/2088903/huawei-partners-with-chiang-mai-university-to-develop-the-5g-smart-university) \u2022\thttps://www.bangkokpost.com/thailand/pr/1963279/chulalongkorn-engineering-signs-mou-with-huawei\nHuawei Technologies (Thailand) has signed a Memorandum of Understanding (MoU) on 5G smart hospital with the Faculty of Medicine of Siriraj Hospital under Thailand's Mahidol University\u2026 (http://www.xinhuanet.com/english/2020-12/03/c_139560678.htm) \u2022\thttps://www.universityworldnews.com/post.php?story=20190125061623487\nThe 5G testbed, which is located at Kasetsart University\u2019s Sri Racha campus, has attracted global telecom giants such as Nokia and Ericsson and also many Thai telecom operators. (https://internationalfinance.com/huawei-picks-thailand-5g-ecosystem-development-se-asia/)\nAlibaba Group and the Government of Thailand Enter into Strategic Partnership in Support of Thailand 4.0 (https://en.prnasia.com/releases/apac/alibaba-group-and-the-government-of-thailand-enter-into-strategic-partnership-in-support-of-thailand-4-0-208147.shtml)\nFirst time in Thailand, Mahidol University cooperates with Alibaba Cloud for information of digital technology on cloud computing exchange to support academic field and national economy (https://mahidol.ac.th/2020/alibaba-cloud/)",
+                "evidence_urls": [
+                    "https://www.huawei.com/en/sustainability/win-win-development/social-contribution/seeds-for-the-future/thailand",
+                    "https://www.bangkokpost.com/thailand/pr/2088903/huawei-partners-with-chiang-mai-university-to-develop-the-5g-smart-university",
+                    "https://www.bangkokpost.com/thailand/pr/1963279/chulalongkorn-engineering-signs-mou-with-huawei",
+                    "http://www.xinhuanet.com/english/2020-12/03/c_139560678.htm",
+                    "https://www.universityworldnews.com/post.php?story=20190125061623487",
+                    "https://internationalfinance.com/huawei-picks-thailand-5g-ecosystem-development-se-asia/",
+                    "https://en.prnasia.com/releases/apac/alibaba-group-and-the-government-of-thailand-enter-into-strategic-partnership-in-support-of-thailand-4-0-208147.shtml",
+                    "https://mahidol.ac.th/2020/alibaba-cloud/",
+                    "https://workpointtoday.com/huawei-sign-mou-des/",
+                    "https://www.bangkokpost.com/thailand/pr/2159959/huawei-asean-academy-and-eec-host-online-workshop-for-digital-talent-collaboration-in-the-eec",
+                    "https://th.alibabanews.com/",
+                    "https://mahidol.ac.th/th/2020/alibaba-cloud/",
+                    "https://www.bangkokbiznews.com/tech/726836"
+                ],
+                "note": "Huawei signed MOU with Thailand Ministry of Digital Economy and Society for developing Thai public servant\u2019s digital skill. \nhttps://workpointtoday.com/huawei-sign-mou-des/\n\nHuawei ASEAN Academy on 3 August 2021 hosted \u201cTechnology Seeker vs Competence Development Workshop\u201d in cooperation with the Eastern Economic Corridor Office (EECO) and Burapha University\nhttps://www.bangkokpost.com/thailand/pr/2159959/huawei-asean-academy-and-eec-host-online-workshop-for-digital-talent-collaboration-in-the-eec\n\nAlibaba cooperates with Burapha University, Thai Department of Industry Promotion, and Thai Department of International Trade Promotion for establishing \u201cGlobal E-commerce Talent\u201d. \nhttps://th.alibabanews.com/\n\nMahidol University cooperates with Alibaba group in exchange digital technology. \nhttps://mahidol.ac.th/th/2020/alibaba-cloud/\n\nUniversity of the Thai Chamber of Commerce signed MOU with Alibaba group for being a Centre of E-commerce training. \nhttps://www.bangkokbiznews.com/tech/726836",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "Thailand has 16 Confucius Institutes\nhttps://www.dpu.ac.th/msrci/index.php\n\n2018: The Confucius Institutes have been established in Thailand for 12 years. Currently, the 16 Confucius Institutes throughout Thailand perform the main role as a bridge and platform for promoting collaboration, communication, and Chinese language and culture education among the local people.( https://en.mfu.ac.th/en-news/en-news-detail/detail/News/1577.html)\n\u2026 The Thai and Chinese universities are jointly responsible for CI operations. The host universities in Thailand provide working space, including offices, libraries, classrooms, and meeting rooms. The hosts also provide the salaries of Thai staffs and provide Chinese volunteer teachers with direct financial inputs such as assistance with water and electricity bills, sanitation and security services, lodging and lunch fees. (http://www.vijaichina.com/sites/default/files/The%20Embrace%20of%20China%E2%80%99s%20Soft%20Power%20A%20Case%20study%20of%20Confucius%20Institute%2C%20Chiang%20Mai%20University%2C%20Thailand_Non%20Naprathansuk_19%20August%202016.pdf)\nThere are 23 Confucius Institutes and Confucius Classrooms in Thailand, scattering in leading universities. (https://www.academia.edu/27918602/Confucius_Institutes_in_Thailand_Why_Thailand_Embraces_Chinas_Soft_Power_Initiatives)\n",
+                "evidence_urls": [
+                    "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/1577.html",
+                    "http://www.vijaichina.com/sites/default/files/The%20Embrace%20of%20China%E2%80%99s%20Soft%20Power%20A%20Case%20study%20of%20Confucius%20Institute%2C%20Chiang%20Mai%20University%2C%20Thailand_Non%20Naprathansuk_19%20August%202016.pdf",
+                    "https://www.academia.edu/27918602/Confucius_Institutes_in_Thailand_Why_Thailand_Embraces_Chinas_Soft_Power_Initiatives",
+                    "https://so04.tci-thaijo.org/index.php/abc/article/download/165588/168460/",
+                    "https://www.dpu.ac.th/msrci/index.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "(in primary education we did not find it taught as a foreign language but in the higher level it is taught. https://www.chula.ac.th/en/impact/6070/).\n\nNot in primary level but most of high school have Chinese program for student to choose, not required.\n",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "1.\tChulalongkorn University, \n2.\tMahidol University, \n3.\tKasetsart University, \n4.\tMae Fah Luang University\n5.\tChiang Mai Rajabhat University (CMRU)\nare the member of University Consortium of the 21st Century Maritime Silk Road. (http://www.ucmsr.com/route)\n\n \u2026The Mae Fah Luang University delegation led by Associate Professor Dr. Vanchai Sirichana, President of Mae Fah Luang University participated in the inaugural ceremony of the University Consortium of the 21st Century Maritime Silk Road and University Presidents Forum at Xiamen University from 19-21 October 2018.( https://global.mfu.ac.th/index.php?id=5230&L=4&tx_news_pi1%5Bnews%5D=3015&tx_news_pi1%5Bday%5D=25&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2018&cHash=4e63aed3fc33d8a10c1ce61ed96a8b4e)\nAIT Inaugurates the Belt & Road Research Centre (https://www.ait.ac.th/2019/11/ait-inaugurates-the-belt-road-research-centre/)",
+                "evidence_urls": [
+                    "https://global.mfu.ac.th/index.php?id=5230&L=4&tx_news_pi1%5Bnews%5D=3015&tx_news_pi1%5Bday%5D=25&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2018&cHash=4e63aed3fc33d8a10c1ce61ed96a8b4e",
+                    "https://www.ait.ac.th/2019/11/ait-inaugurates-the-belt-road-research-centre/",
+                    "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/5186.html",
+                    "http://www.esilks.org/about/members",
+                    "http://www.brsn.net/list/zhikujigou_en/index.html",
+                    "http://www.ucmsr.com/route"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "Universities and Scientific Institutions in Thailand Actively Participate in Lancang-Mekong Cooperation (On 8 December 2020, Mr. Yang Xin, Charg\u00e9 d\u2019affaires of the Embassy of the People\u2019s Republic of China in the Kingdom of Thailand, and Professor Sirirurg Songsivilai, Permanent Secretary of the Ministry of Higher Education, Science, Research and Innovation of the Kingdom of Thailand, signed in Bangkok the Memorandum of Understanding on the Cooperation on Projects of the Lancang-Mekong Cooperation Special Fund 2020. In accordance with the agreement, China will support Thailand\u2019s universities and scientific institutions in such projects as haze management, Mekong River ecological protection and cassava industry transformation and upgrading.) (http://www.chinaembassy.or.th/eng/sgxw/t1838805.htm)",
+                "evidence_urls": [
+                    "http://www.chinaembassy.or.th/eng/sgxw/t1838805.htm",
+                    "https://www.chula.ac.th/en/news/43383/"
+                ],
+                "note": "I went through some research centres of some universities to see if support from PRC is mentioned. Since most of the reputed universities in Thailand are members of the PRC projects, getting financial support is more likely so it seems significant to me.\n\n[2nd respondent]: Most Thai academic research centers receive research funds from Japan or USA. Most fund from China is limited only to language study. However, individuals can apply for the PRC fund if they are willing to. Thai academic institute also supports Thai researchers to reach for international financial support, including funds from PRC. ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "National Research Council of Thailand (NRCT) has initiated research cooperation projects with PRC, such as the National Research Science Foundation of China (NSFC), Chinese Academic of Social Science (CASS), Huaqiao University (HQU). These programs are not PRC talent recruitment programs, however, they are recruiting Thai academic staff by Thai research council and sending them to PRC. \nhttps://www.nrct.go.th/scholar/mou",
+                "evidence_urls": [
+                    "https://www.nrct.go.th/scholar/mou"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "Thai academics under the affiliation with cooperation with China often visit China for visiting programs. \n\nRungsit University staff in Kunming \nhttps://www2.rsu.ac.th/sarnrangsit-online-detail/RSU\n\nRajamangala Khungthep staff and students in Chongqing\nhttps://www.rmutk.ac.th/?p=1752",
+                "evidence_urls": [
+                    "http://www.ed.ecnu.edu.cn/en/?p=387",
+                    "https://mahidol.ac.th/2018/mu-china/",
+                    "https://www2.rsu.ac.th/sarnrangsit-online-detail/RSU",
+                    "https://www.rmutk.ac.th/?p=1752"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "No supporting evidence are found on the English based search. The relation between Chinese Students and Scholars Association and Chinese Students Association Thailand is also not formally know. Therefore, response is zero 0\n\n[2nd respondent] As far as I know, most scholars or staff who have responsibilities related to Chinese people do self-censor their own speech and expression. Thai staff want to avoid problems with the Chinese and don\u2019t want to get involved in the Taiwan-PRC conflict. ",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "Krirk University was taken over by a Chinese property business group. \nhttps://news.thaipbs.or.th/content/275128\n\nIt\u2019s said, lack of confirming evidence, the PRC Chinese business group are interesting in Thai university industry. Since more and more young Chinese try to escape PRC national examination, high school children and parents looking at Thailand as second place for continuing undergraduate studies level. Therefore, it is a good opportunity for Chinese businessmen in investing Thai universities. \n",
+                "evidence_urls": [
+                    "https://news.thaipbs.or.th/content/275128"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "I can\u2019t find the evidence on internet. However, based on my experience, Thai academics always avoid the political topic with staff from PRC. It was last year that one of our political science lecturers mentioned the Taiwan issue. The exchanged PRC staff expressed anger toward him and complained this issue to the head of institute. ",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "Siam Cement Group (SCG), the company's major shareholder is King Vajiralongkorn, cooperating with BYD auto industry signed a Memorandum of Understanding on \u201cEducation and Business Development of Electric Vehicles\u201d.\nhttps://techsauce.co/news/scg-byd-mou-electric-vehicle\n\nSCG established a partnership with Chinese Academy of Sciences: CAS.\nhttps://www.beartai.com/news/it-thai-news/376714\n\nAt \u2018Thailand-China Business Forum 2018: Comprehensive Strategic Partnership through the Belt and Road Initiative and the EEC \u2019, Thai government encourages cooperation projects between Thai-Chinese business partners. Thai government also supports Chinese investment in Eastern Economic Corridor (EEC), the new special economic zone of Thailand.\nhttps://thainews.prd.go.th/th/news/detail/WNECO6108240010024\n\nLast year, EEC and GBA working together to intensify Thailand-Guangdong Cooperation.\nhttps://www.eeco.or.th/en/news/370\n",
+                "evidence_urls": [
+                    "https://techsauce.co/news/scg-byd-mou-electric-vehicle",
+                    "https://www.beartai.com/news/it-thai-news/376714",
+                    "https://thainews.prd.go.th/th/news/detail/WNECO6108240010024",
+                    "https://www.eeco.or.th/en/news/370"
+                ],
+                "note": "(I went through websites of Phuket City Municipality, Chiang Mai Province office, Bangkok Metropolitan Administration etc. but did not find their bilateral agreement or any MoU with PRC. It seems to me that all the agreements on behalf of town, township, province is done through the central government. (https://www.mfa.go.th/en/content/5d5bcfe715e39c306001c3cd?page=5f29237ab10cf72f1d4a6547&menu=5d5bd3dd15e39c306002ab1d)",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "Thai provinces have sister-city ties with 71 cities in PRC\nhttp://www.fad.moi.go.th/index.php/blogsister\n\nBangkok: Beijing, Chaozhou, Chengdu, Chonqing, Dalian, Guangzhou, Wuhan, Shangdong, Shanghai, Shenzhen, Tianjin (https://en.wikipedia.org/wiki/Bangkok#Sister_cities)\nChiangmai has 5 sister cities in China. These cities include Shanghai, Chengdu, Chongqing, Kunming and Tsingtao. (http://www.icdi.cmu.ac.th/Research/SCRC.aspx#:~:text=In%20Global%20Network%20Civilization%2C%20Chiangmai,%2C%20Chongqing%2C%20Kunming%20and%20Tsingtao.)\nPattaya, Hubei sign sister-city agreement (https://www.pattayamail.com/news/pattaya-hubei-sign-sister-city-agreement-42546)\nIn 2013, Leshan and Prachuap Khiri Khan became sister cities (http://www.china.org.cn/travel/Wild_Sichuan/2016-09/02/content_39195066.htm)",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Bangkok#Sister_cities",
+                    "http://iad.bangkok.go.th/en/showsister_cities?id=31",
+                    "http://www.icdi.cmu.ac.th/Research/SCRC.aspx#:~:text=In%20Global%20Network%20Civilization%2C%20Chiangmai,%2C%20Chongqing%2C%20Kunming%20and%20Tsingtao",
+                    "https://www.pattayamail.com/news/pattaya-hubei-sign-sister-city-agreement-42546",
+                    "https://www.zhangjiajietravel.com/old/travel-news/Zhangjiajie-to-Establish-Sister-City-Relationship-with-Pattaya-of-Thailand.html",
+                    "http://www.china.org.cn/travel/Wild_Sichuan/2016-09/02/content_39195066.htm",
+                    "http://www.fad.moi.go.th/index.php/blogsister"
+                ],
+                "note": "Thai provinces have sister-city ties with 71 cities in PRC\nhttp://www.fad.moi.go.th/index.php/blogsister",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "Princess Maha Chakri Sririndhod frequently visits China as the representative of Thai state. Princess Sririndhod and Princess Chulaporn have always been symbols of the relationship between Thailand and PRC. Even during the time of the Winter Olympic boycott, Princess Sririndhod continued her schedule to attend Winter Olympic opening ceremony. \n\nAlthough the princess not be considered a politician, however, Thai royal house plays a crucial role in Thai political history. \n\nhttps://www.bangkokpost.com/thailand/general/2258451/princess-to-attend-beijing-opener\nhttps://www.globaltimes.cn/page/202107/1228416.shtml",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/thailand/general/2258451/princess-to-attend-beijing-opener",
+                    "https://www.globaltimes.cn/page/202107/1228416.shtml"
+                ],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "Princess Sririndhon and Princess Chulaporn often visit PRC officials, research centres, and think tanks. \nhttp://www.oir.pku.edu.cn/info/1162/3225.htm\nhttps://www2.cri.or.th/announcement/president/2009_news/2009_02_27_china\n\nThai senior and influential diplomat, Don Pramudwinai, support the strong ties of Sino-Thai relationship. He refused in meeting with Western diplomats in recent years. \nhttps://www.khaosodenglish.com/politics/2020/08/21/mfa-welcomes-chinas-initiative-in-tackling-mekong-issues/\n\nGuo Yezhou Meets with Deputy Head of Democratic Party and Deputy Minister of Interior of Thailand (https://www.idcpc.org.cn/english/news/201911/t20191111_101792.html)\nCPC official eyes closer ties with Thailand (https://www.idcpc.org.cn/english/news/201411/t20141118_73518.html)\nofficial visit to the People's Republic of China as a guest of the National People's Congress of the People's Republic of China of Mr. Chai Chidchob, the President of the National Assembly and the Speaker of the House of Representatives and the Thai National Assembly. Between 1 - 16 January 2010 https://dl.parliament.go.th/handle/lirt/426995 ",
+                "evidence_urls": [
+                    "https://www.idcpc.org.cn/english/news/202009/t20200917_139856.html",
+                    "https://www.idcpc.org.cn/english/news/202104/t20210430_145794.html",
+                    "https://www.idcpc.org.cn/english/news/201911/t20191111_101792.html",
+                    "https://www.idcpc.org.cn/english/news/201503/t20150302_73520.html",
+                    "https://www.idcpc.org.cn/english/news/201411/t20141118_73518.html",
+                    "https://dl.parliament.go.th/handle/lirt/426995 ",
+                    "http://www.oir.pku.edu.cn/info/1162/3225.htm",
+                    "https://www2.cri.or.th/announcement/president/2009_news/2009_02_27_china",
+                    "https://www.khaosodenglish.com/politics/2020/08/21/mfa-welcomes-chinas-initiative-in-tackling-mekong-issues/"
+                ],
+                "note": "Many meeting with CPC in PRC is an indication of other obvious meeting with think tanks and officials.",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "China, Thailand to enhance law enforcement, security cooperation (\u2026China and Thailand will enhance law enforcement and security cooperation to ensure the safety of the people and their property, according to senior Chinese and Thai officials http://www.xinhuanet.com/english/2019-06/01/c_138106912.htm)\n\nThailand was the first country to sign an extradition treaty with China (https://thediplomat.com/2015/07/after-uyghur-controversy-china-praises-law-enforcement-co-op-with-thailand/)\n\nChinese training course for law enforcement officials from Northeastern Thailand\" at the Confucius Institute (https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1599835.shtml)\n\nThe RPCA has Vietnamese, Cambodian and Myanmar nationals studying alongside Thais, while it has sent a number of Thai students to attend training in China, Vietnam, the Philippines, Indonesia, Germany, Australia and Japan. (https://www.bangkokpost.com/thailand/general/1450602/a-police-academy-where-humility-is-taught)",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-06/01/c_138106912.htm",
+                    "https://thediplomat.com/2015/07/after-uyghur-controversy-china-praises-law-enforcement-co-op-with-thailand/",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1599835.shtml",
+                    "https://www.bangkokpost.com/thailand/general/1450602/a-police-academy-where-humility-is-taught"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Unable to find the supporting evidence. It is difficult to find as it is not done formally.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "The United Front Work Department Goes Global: The Worldwide Expansion of the Council for the Promotion of the Peaceful Reunification of China (https://jamestown.org/program/the-united-front-work-department-goes-global-the-worldwide-expansion-of-the-council-for-the-promotion-of-the-peaceful-reunification-of-china/)",
+                "evidence_urls": [
+                    "https://jamestown.org/program/the-united-front-work-department-goes-global-the-worldwide-expansion-of-the-council-for-the-promotion-of-the-peaceful-reunification-of-china/",
+                    "https://www.jstor.org/stable/26996200",
+                    "https://www.mcu.ac.th/news/detail/21105",
+                    "https://www.mcu.ac.th/news/detail/13888",
+                    "https://finance.yahoo.com/news/2021-south-china-sea-buddhism-162200163.html"
+                ],
+                "note": "This event isn\u2019t about fund raising/support etc but shows UFWD\u2019s presence in Thailand. Without having support from the government/locals events could not be held.\n\n[2nd respondent]: Not the political party, but UFWD has a strong influence on another essential part of Thai society. It\u2019s evidence that UFWD uses Buddhist organizations as adjuncts to BRI in mainland Southeast Asia. \nhttps://www.jstor.org/stable/26996200\nThe Mahachulalongkornrajavidyadaya University, Buddhist University in Thailand, have a good relationship with PRC Buddhist organizations, for example, Spead the Mahayana Buddhism project, a joint study program between Mahachula University and China Center for Cultural Exchange and International Studies, etc. Thai monks often participate in international conferences that PRC Buddhist organizations hold. \nhttps://www.mcu.ac.th/news/detail/21105\nhttps://www.mcu.ac.th/news/detail/13888\nhttps://finance.yahoo.com/news/2021-south-china-sea-buddhism-162200163.html",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Supporting evidence not found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "(\"They\u2019re turning to China, saying we don\u2019t have to be a democracy, we don\u2019t have to respect human rights, we don\u2019t have to uphold the rights of freedom of speech in order to be prosperous -- we can be like China,\" Mr Thanathorn said. https://www.bangkokpost.com/thailand/politics/1531714/thai-politicians-criticise-china-as-election-comes-into-focus)\n\n[2nd respondent] Thai politicians, especially the member of Prayuth Chan-O-cha\u2019s party, often express their admiration and gratitude toward PRC. Since they are a military coup government, Prayuth\u2019s government are lacking western support. Therefore, Prayuth is seeking a powerful alliance apart from USA and the EU. The politician from Prayuth\u2019s party frequently cheers on PRC policy and strategy. \nhttps://time.com/5318224/exclusive-prime-minister-prayuth-chan-ocha-thailand-interview/\nhttps://www.bangkokpost.com/thailand/general/2099383/anutin-puts-his-faith-in-chinese-vaccines\nhttps://thailand.opendevelopmentmekong.net/news/somkid-deepens-eec-china-push/",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/thailand/politics/1531714/thai-politicians-criticise-china-as-election-comes-into-focus",
+                    "https://time.com/5318224/exclusive-prime-minister-prayuth-chan-ocha-thailand-interview/",
+                    "https://www.bangkokpost.com/thailand/general/2099383/anutin-puts-his-faith-in-chinese-vaccines",
+                    "https://thailand.opendevelopmentmekong.net/news/somkid-deepens-eec-china-push/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Zhao Wei is the chairman of the Kings Romans Group, which in 2007 was granted a 99-year lease over what became known as the Golden Triangle Special Economic Zone (GTSEZ), a gambling and tourism enclave in a remote pocket of the country\u2019s northwest, close to the point where the borders of Laos, Myanmar, and Thailand converge. (https://thediplomat.com/2021/04/chinese-casino-magnates-empire-set-to-expand-in-laos/) Can this be checked in local media to track something?\nThe zone where Laos, Thailand and Myanmar meet is described by critics as virtually a Chinese colony, with the casino, hotels and restaurants catering mainly to tourists from China and operating largely outside the reach of Lao law. \u2026.China is Laos\u2019 largest foreign investor and aid provider, and its second-largest trade partner, after Thailand. (https://www.rfa.org/english/news/laos/port-10072020195319.html)\n\n[2nd respondent]: Dhanin Chearavanont (\u8c22\u56fd\u6c11), the Thai business mogul and prominent royalist who has a high position in the Thai political area, is the owner of the first multinational conglomerate registered in Shenzhen Received registration number 0001 for animal feed production and distribution business. Dhanin has strong ties with CCP and become Xi Jinping's key economic alliance.  He also has an honoured seat at the UFWD meeting back in 2018. Even though he doesn\u2019t position in the Thai government, his opinion and funding for political parties can determine the government\u2019s decision making.\n\nhttps://www.scmp.com/news/asia/southeast-asia/article/3007402/chearavanonts-thailands-richest-family-are-getting-richer\nhttps://asia.nikkei.com/Business/First-mover-in-China-advantage \nhttps://www.sohu.com/a/317303747_481645\n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2021/04/chinese-casino-magnates-empire-set-to-expand-in-laos/",
+                    "https://www.rfa.org/english/news/laos/port-10072020195319.html",
+                    "https://www.scmp.com/news/asia/southeast-asia/article/3007402/chearavanonts-thailands-richest-family-are-getting-richer",
+                    "https://asia.nikkei.com/Business/First-mover-in-China-advantage ",
+                    "https://www.sohu.com/a/317303747_481645"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Chinese Private Security Contractors: New Trends and Future Prospects: (\u2026The development of Chinese private security companies (PSC) has been shaped by tragic incidents involving Chinese nationals abroad. First emerging in the 1990s, Chinese PSCs became more prominent after 2004, when 11 Chinese construction workers were killed in Afghanistan by the Taliban (China.org.cn, June 10, 2004). Following a series of subsequent incidents in East Timor, Chad, Lebanon, Solomon Islands, Tonga, Thailand, Haiti, and later Libya and Egypt, the necessity to protect Chinese nationals abroad became a more pressing necessity. These incidents involving Chinese nationals resulted in the rapid rise of the Chinese PSC industry.) (https://jamestown.org/program/chinese-private-security-contractors-new-trends-and-future-prospects/)\n\nChina\u2019s Private Military And Security Companies: \u2018Chinese Muscle\u2019 And Reasons For US Engagement (https://www.eurasiareview.com/07072020-chinas-private-military-and-security-companies-chinese-muscle-and-reasons-for-us-engagement-analysis/)",
+                "evidence_urls": [
+                    "https://jamestown.org/program/chinese-private-security-contractors-new-trends-and-future-prospects/",
+                    "https://www.eurasiareview.com/07072020-chinas-private-military-and-security-companies-chinese-muscle-and-reasons-for-us-engagement-analysis/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "\u2022\tMarket 11.95% China followed by US 11.14%\n\nExporter 20.05% China followed by Japan 14.15 https://wits.worldbank.org/countrysnapshot/en/THA \n",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/countrysnapshot/en/THA ",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-04/22/c_139898157.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pdmo.go.th/en/public-debt/debt-source-fund"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "(Most of Thailand\u2019s gold is destined for Cambodia (38.7%), followed by Switzerland (34.3%, and Singapore (15.6%). Thailand\u2019s refined petroleum is primarily destined for Singapore (28.5%), Cambodia (19.9%), Vietnam (13.6%), and Laos (11%). https://commodity.com/data/thailand/ https://opendevelopmentmekong.net/topics/extractive-industries/#:~:text=Extractive%20industries%20are%20generally%20divided,drilling%20platform%20near%20Phuket%2C%20Thailand.",
+                "evidence_urls": [
+                    "https://commodity.com/data/thailand/ https://opendevelopmentmekong.net/topics/extractive-industries/#:~:text=Extractive%20industries%20are%20generally%20divided,drilling%20platform%20near%20Phuket%2C%20Thailand."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "SF Holding company is the biggest shareholder of Kerry Express which is the major logistics company in Thailand. \nhttps://www.bangkokpost.com/business/2066163/sf-holding-to-buy-kln-stake \n\nThailand has 3 BRI infrastructure projects with a 0.37 million $ investment. ",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/business/2066163/sf-holding-to-buy-kln-stake ",
+                    " https://www.boi.go.th/index.php?page=seaports"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Membership date: June 20, 2016 https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "International Chamber of Commerce Thailand (ICC Thailand) is a member of Silk Road Chamber of Commercial Alliance. \nhttps://srcic.org/silk-road-members/?page=2\n",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/?page=2"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "\u2026The China-Thailand FTA was signed in June 2003 and came into effect four months later in October 2003. It is an \"early harvest agreement\" on farm trade alone, whereby both countries opened their agricultural markets before the broader China-ASEAN FTA comes into force in 2010\u2026. https://www.bilaterals.org/?-china-thailand-#:~:text=The%20China%2DThailand%20FTA%20was,comes%20into%20force%20in%202010., https://aric.adb.org/fta/peoples-republic-of-china-thailand-free-trade-agreement,   \u2022\tASEAN-China FTA is also there)\n",
+                "evidence_urls": [
+                    "https://www.bilaterals.org/?-china-thailand-#:~:text=The%20China%2DThailand%20FTA%20was,comes%20into%20force%20in%202010",
+                    "https://aric.adb.org/fta/peoples-republic-of-china-thailand-free-trade-agreement"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "general policy  https://www.bangkokpost.com/thailand/pr/1996243/thai-government-has-initiated-many-incentive-programs-to-attract-investment-in-sez\n\n[2nd respondent]\n\nThe EEC persuades PRC investors to visit and collaborate with Thai industrial development projects. \nhttps://eeco.or.th/en/news/eec-welcomes-chinese-business-group-visiting-thailand-and-collaborating-in-the-development-of-industry-4-0\n",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/thailand/pr/1996243/thai-government-has-initiated-many-incentive-programs-to-attract-investment-in-sez",
+                    "https://eeco.or.th/en/news/eec-welcomes-chinese-business-group-visiting-thailand-and-collaborating-in-the-development-of-industry-4-0"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "TrueMove H,  https://www.reuters.com/article/us-true-corporation-chinamobile-idUSKBN0EK0QA20140609\n\n[2nd respondent] \n\nChina Mobile is operating under the guideline of the Thailand Board of Investment and Telecom Public Company Limited in developing SD-WAN within bureaucratic organizations. \nhttps://mgronline.com/cyberbiz/detail/9630000124288",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-true-corporation-chinamobile-idUSKBN0EK0QA20140609",
+                    "https://mgronline.com/cyberbiz/detail/9630000124288"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "https://www.prnewswire.com/news-releases/zte-and-true-corporation-announce-collaboration-to-build-a-commercial-5g-network-in-thailand-301101872.html (True, a fully licensed operator in Thailand, with a 30% market share in the mobile market of the country, will adopt ZTE's 5G RAN products and services to build a commercial 5G network in Thailand.)\nTrue selects China\u2019s ZTE to build 5G network in Thailand (https://www.telecomlead.com/5g/true-selects-chinas-zte-to-build-5g-network-in-thailand-96134)\nThailand launches Huawei 5G test bed (https://news.cgtn.com/news/3d3d674e3467544e32457a6333566d54/index.html)\n\n[2nd respondent]\n\nThai government signs MOU with Huawei for establishing Huawei ASEAN academy in EEC with the goal of boosting ICT industry\u2019s development. This project also includes the increasing capacity of 5G network in Thailand.  \nhttps://www.eeco.or.th/th/news/327\nChina's ZTE partners with AIS and Suranaree University of Technology to facilitate implementation of 5G technology in Thai factories.\nhttps://www.bangkokpost.com/thailand/pr/2123183/chinas-zte-partners-with-ais-and-suranaree-university-of-technology-to-facilitate-implementation-of-5g-technology-in-thai-factories-\n\n",
+                "evidence_urls": [
+                    "https://www.prnewswire.com/news-releases/zte-and-true-corporation-announce-collaboration-to-build-a-commercial-5g-network-in-thailand-301101872.html",
+                    "https://www.zte.com.cn/global/about/news/351228.html",
+                    "https://www.telecomlead.com/5g/true-selects-chinas-zte-to-build-5g-network-in-thailand-96134",
+                    "https://www.bangkokpost.com/business/1148629/zte-targets-50-revenue-boost-in-2017",
+                    "https://news.cgtn.com/news/3d3d674e3467544e32457a6333566d54/index.html",
+                    "https://www.eeco.or.th/th/news/327",
+                    "https://www.bangkokpost.com/thailand/pr/2123183/chinas-zte-partners-with-ais-and-suranaree-university-of-technology-to-facilitate-implementation-of-5g-technology-in-thai-factories-"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "Adoption of compatible technical specification is obvious as most of the telecom hardware are from PRC connected entities. Therefore, few but significant is the influence measure. \u2022\thttps://oxfordbusinessgroup.com/analysis/closer-home-china-and-japan-are-helping-develop-thailand%E2%80%99s-rail-infrastructure\n\u2026 From the start, it was supposed to be a wholly China-owned project, like the numerous deals that Beijing had successfully completed in other countries. As the bilateral negotiations deepened, domestic opposition was getting stronger, targeting the lack of transparency and shared benefits, forcing Prayut Chan-o-cha's government to retreat. Forceful voices from some academic circles also argued that the country's bargaining power had been compromised due to the government's decision to pick China as the investor to transform Thailand into Asean's transportation hub. (https://www.bangkokpost.com/opinion/opinion/1665560/engaging-with-china-on-infrastructure)\n\n[2nd respondent]\n\nCAT, Thailand's national telecom operator, and Huawei announced that they will build Southeast Asia\u2019s first OTN premium private line network.\n\n",
+                "evidence_urls": [
+                    "https://oxfordbusinessgroup.com/analysis/closer-home-china-and-japan-are-helping-develop-thailand%E2%80%99s-rail-infrastructure",
+                    "http://www.vijaichina.com/sites/default/files/5.2_PPT_Ms.Chulaporn%2CPh.D._China%20Roles%20in%20Thailand.pdf",
+                    "https://www.bangkokpost.com/opinion/opinion/1665560/engaging-with-china-on-infrastructure",
+                    "https://www.huawei.com/en/news/2020/2/cat-huawei-southeast-asia-international-otn-premium-private-line-network#:~:text=%5BLondon%2C%20UK%2C%20February%2021,government%20agencies%20and%20finance%20customers"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Since 2018, China Shipbuilding Industry Corporation (CSIC), a Chinese government entity, agreed to jointly develop military equipment and technology with the Royal Thai Army.\nhttps://www.posttoday.com/world/547312\n",
+                "evidence_urls": [
+                    "https://www.posttoday.com/world/547312",
+                    "https://chinatechmap.aspi.org.au/#/homepage/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Taking into account the timing of the blossoming relationship between China and Thailand and the Thai military\u2019s recently developed systems for surveillance, it is possible that the Thai military may be receiving aid in the form of assistance from China concerning surveillance technology and spying techniques\u2026 https://thediplomat.com/2021/02/thailands-creeping-digital-authoritarianism/ ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2021/02/thailands-creeping-digital-authoritarianism/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "\u2026The Eastern Economic Corridor (EEC) smart city initiative is likely to be the second development project involving collaboration with China and Japan, following the high-speed rail network linking the three main airports of Don Mueang, Suvarnabhumi and U-tapao. (https://www.bangkokpost.com/business/1673272/china-japan-to-join-eec-smart-city-plan) Current status needs to be checkedSmart cities and digital innovation with help from China \u2026The agreement covers support for a range of innovations from digital parks, smart cities and the Internet of Things to local tech start-ups and national broadband infrastructure. Phuket, Chiang Mai and Khon Kaen have been identified as the first places to launch smart city initiatives while a digital park will be built in Sri Racha, in Chonburi province. (https://www.nationthailand.com/perspective/30319095)\n\n[Second respondent]\n\nShenzhen\u2019s municipal government recently signed a memorandum of understanding with Thailand\u2019s Digital Economy and Society Ministry to enhance Thailand\u2019s digital economy. The agreement covers support for a range of innovations from digital parks, smart cities and the Internet of Things to local tech start-ups and national broadband infrastructure. Phuket, Chiang Mai and Khon Kaen have been identified as the first places to launch smart city initiatives while a digital park will be built in Sri Racha, in Chonburi province.\n\nhttps://www.nationthailand.com/perspective/30319095\n",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/business/1673272/china-japan-to-join-eec-smart-city-plan",
+                    "https://www.nationthailand.com/perspective/30319095",
+                    "https://www.nationthailand.com/perspective/30319095"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tracxn.com/d/investor-lists/Venture-Capital-Funds-in-Thailand",
+                    "https://thediplomat.com/2021/01/the-global-reach-of-chinas-venture-capital/",
+                    "https://www.nationthailand.com/business/30369764"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "Huawei to open $22.6M datacenter in Thailand this year (https://w.media/huawei-to-open-datacenter-in-thailand-this-year/)\nHuawei to boost digital transformation in Thailand with cloud, AI and IoT (https://w.media/huawei-to-boost-digital-transformation-in-thailand-with-cloud-ai-and-iot/)\nhttps://www.huaweicloud.com/content/dam/cloudbu-site/archive/hk/en-us/securecenter/security_doc/Thailand_BoT_and_OSEC_User_Guide_Intl_en.pdf (HUAWEI CLOUD User Guide to Financial Services Regulations & Guidelines in Thailand)\n\n[Second respondent]\n\nThe Ministry of Digital Economy and Society of Thailand (MDES) and Huawei Technologies (Thailand) Co., Ltd. today signed a MOU to continuously deepen the cooperation between MDES and Huawei in Government Cloud to improve the operation effectiveness of digital government.\nhttps://www.ryt9.com/en/prg/256484\n\nAlibaba Cloud plans to launch its first data centre in Thailand to capture surging demand for cloud usage in the country.\nhttps://www.bangkokpost.com/tech/2204563/alibaba-preps-thai-data-centre\nhttps://th.alibabacloud.com/campaign/thailand-services\n",
+                "evidence_urls": [
+                    "https://w.media/huawei-to-open-datacenter-in-thailand-this-year/",
+                    "https://w.media/huawei-to-boost-digital-transformation-in-thailand-with-cloud-ai-and-iot/",
+                    "https://www.huaweicloud.com/content/dam/cloudbu-site/archive/hk/en-us/securecenter/security_doc/Thailand_BoT_and_OSEC_User_Guide_Intl_en.pdf",
+                    "https://www.bangkokpost.com/business/1999027/huawei-rolls-out-cloud-and-ai-to-support-adoption",
+                    "https://www.ryt9.com/en/prg/256484",
+                    "https://th.alibabacloud.com/campaign/thailand-services"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "\u2026Back in January, app analytics platform Sensor Tower reported that TikTok was the most-downloaded non-game application worldwide, followed by WhatsApp, Facebook and Instagram. Fast forward to April and TikTok had been downloaded more than 2 billion times. Meanwhile, between 2018 and 2019, Thailand ranked in the top three in terms of TikTok users in Southeast Asia\u2026 https://www.bangkokpost.com/tech/1928660/how-tiktok-won-our-hearts?view_comment=1 \n\n\u2026Back in January, app analytics platform Sensor Tower reported that TikTok was the most-downloaded non-game application worldwide, followed by WhatsApp, Facebook and Instagram. Fast forward to April and TikTok had been downloaded more than 2 billion times. Meanwhile, between 2018 and 2019, Thailand ranked in the top three in terms of TikTok users in Southeast Asia\u2026 https://www.bangkokpost.com/tech/1928660/how-tiktok-won-our-hearts?view_comment=1 \n\n\n[Second respondent]:\nTop five messaging apps in Thailand are Line, Messenger, Messenger Lite, WhosCall, Discord\nhttps://www.similarweb.com/apps/top/google/store-rank/th/communication/top-free/\n\nTop five social media apps in Thailand are Facebook, Instagram, twitter, Facebook Lite, VK. \nhttps://www.similarweb.com/apps/top/google/app-index/th/social/top-free/ \n",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/tech/1928660/how-tiktok-won-our-hearts?view_comment=1 ",
+                    "https://www.similarweb.com/apps/top/google/store-rank/th/communication/top-free/",
+                    "https://www.similarweb.com/apps/top/google/app-index/th/social/top-free/ ",
+                    "https://sensortower.com/android/rankings/top/mobile/cambodia/overall?locale=zh-CN&iap=all&watch_enabled=&rankings_type=free&min_cost=0&max_cost=&date=2021-06-12&show_store_dat=true"
+                ],
+                "note": "Top messaging apps LINE, messenger, messenger lite, whatApp etc.\nSocial media apps: Facebook, Instagram, Twitter, Facebook lite, Bigo live then TikTok\nTikTok\n\nData on number of downloads, uses is difficult to trace from trustworthy online portal.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "Thailand is Beidou navigation network's first overseas client Deal will see China's home-grown navigation network challenging dominance of US' GPS https://www.scmp.com/news/china/article/1206567/thailand-beidou-navigation-networks-first-overseas-client,  https://un-spider.org/news-and-events/news/beidou-thailand-becomes-first-overseas-client, \nAround 120 countries including Pakistan and Thailand are using Beidou's services for port traffic monitoring, to guide rescue operations during disasters and other services, according to Chinese state media. https://www.bangkokpost.com/tech/1939624/china-launches-final-satellite-to-complete-rival-to-gps)\n\n[Second respondent]:\n\nChina National Radio said a 2 billion yuan (9.5 billion baht) agreement to promote the use of Beidou in Thailand's public sector was signed in Bangkok last week. The system will be used in disaster relief, power distribution and transport, among other areas. \nhttps://www.bangkokpost.com/thailand/politics/343896/thailand-to-use-china-home-made-beidou-sat-nav-network",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/article/1206567/thailand-beidou-navigation-networks-first-overseas-client",
+                    "https://un-spider.org/news-and-events/news/beidou-thailand-becomes-first-overseas-client",
+                    "https://www.bangkokpost.com/tech/1939624/china-launches-final-satellite-to-complete-rival-to-gps",
+                    "https://www.bangkokpost.com/thailand/politics/343896/thailand-to-use-china-home-made-beidou-sat-nav-network",
+                    "http://www.beidou.gov.cn/zt/gjhz/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "Asia Association for the Promotion of Peaceful National Reunification of China Council Convened in Thailand (http://www.cm-ecd.org/dynamic/view.aspx?id=1182&lan=en)\n\n[Second respondent]:\n\nThere has an organization named \u6cf0\u56fd\u4e2d\u56fd\u548c\u5e73\u7edf\u4e00\u4fc3\u8fdb\u4f1a.\nhttps://baike.baidu.com/item/%E6%B3%B0%E5%9B%BD%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E4%BF%83%E8%BF%9B%E4%BC%9A/5366193\n\nAmorn Apithanakoon, known in Chinese as Wang Zhimin, is a Thai-Chinese businessman and pro-Beijing political operative in Bangkok. The CEO of one of Thailand\u2019s biggest entertainment companies, Wang is also an officer in several Thai-Chinese \u201ccommunity organizations\u201d that serve as political front groups for the Chinese government in Thailand. He serves as a president of Thailand-China Council for the Promotion of Peaceful National Reunification (Thailand-CCPPNR).\n\nhttps://foreignpolicyblogs.com/2016/04/20/beijings-man-bangkok-wang-zhimin-thai-chinese-soft-power-machine/\nhttps://www.matichon.co.th/prachachuen/interview/news_2296788",
+                "evidence_urls": [
+                    "http://www.cm-ecd.org/dynamic/view.aspx?id=1182&lan=en",
+                    "http://chiangmai.chineseconsulate.org/eng/news/t1833334.htm",
+                    "https://baike.baidu.com/item/%E6%B3%B0%E5%9B%BD%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E4%BF%83%E8%BF%9B%E4%BC%9A/5366193",
+                    "https://foreignpolicyblogs.com/2016/04/20/beijings-man-bangkok-wang-zhimin-thai-chinese-soft-power-machine/",
+                    "https://www.matichon.co.th/prachachuen/interview/news_2296788",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "Info of this association is difficult to track. The information found on the baidu.com shows they have designated someone to look after the Thailand as assistant to the executive vice president of UWCA. https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E5%8D%8E%E4%BA%BA%E5%8D%8F%E4%BC%9A/4161963?fr=aladdin. There is The united Chinese clans association of Thailand. I am sure about its connection with UWCA)",
+                "evidence_urls": [
+                    "https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E5%8D%8E%E4%BA%BA%E5%8D%8F%E4%BC%9A/4161963?fr=aladdin",
+                    "https://www.uwca-uob.net/leader",
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "Unable to find connections, exchanges among Labour Congress of Thailand (LCT), National Congress Private Industrial of Employees (NCPE), State Enterprises Workers' Relations Confederation (SERC), Thai Trade Union Congress (TTUC) with ACFTU",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "Since Dhanin Chearavanont (Thai-Chinese business tycoon) is a member of Shantou United Front, his appearances at Chinese diaspora community events and activities also can be considered as the representative of UFWD participants in Thai-Chinese diaspora community events. ",
+                "evidence_urls": [
+                    "http://sttzb.shantou.gov.cn/sttzb/hwcr/201401/3e0bb1c6f3ce40bf8ea7ffbb821a9439.shtml",
+                    "https://mgronline.com/business/detail/9620000120306",
+                    "https://thestandard.co/thailand-richest-man-calls-peace/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "evidence": "Thai-Chinese media relations exchange program, Mongkhon Bangprapha, Executive Vice President and Secretary-General of the Association Is the head of the delegation of 6 representatives from the Journalists Association of Thailand visiting the People's Republic of China (https://www.tja.or.th/view/about-us/activities-report/14025)\nThe Deputy Prime Minister met the Chinese media committee to emphasize the EEC project linked to the BRI. (https://www.tja.or.th/view/activities/media-movements/13904)\nChinese journalists visit Thailand to connect two national media (https://www.tja.or.th/view/activities/media-movements/13901)\nTraining courses for journalists (https://www.tja.or.th/view/activities/media-movements/13564)\n\n[Second respondent]:\n\nThere has been a long relationship between Thai Journalist Association and All-China Journalists Association.\nhttp://www.xinhuanet.com/zgjx/2015-02/15/c_133997099.htm\n\nChina Artists Association frequently joins Thai-Chinese artist activities. \nhttp://www.tycc.org/index.php?langtype=cn&pageid=cn_10&add=view&id=1370\n\nThai-Chinese Culture and Economic Association organized an award ceremony and presented awards for Chinese writers from China Writers Association. This indicated the good relationship between the two organizations. \nhttps://m.zimplifyit.com/n1/2019/0110/c404090-30514065.html\n\nThe Thai-Chinese Association (since 1988) continues its connector role between Thai and Chinese women associations.\nhttps://www.fmprc.gov.cn/ce/ceth/th/sgxw/t1642489.htm\nhttps://siamrath.co.th/n/66745",
+                "evidence_urls": [
+                    "https://www.tja.or.th/view/activities/media-movements/14200",
+                    "https://www.tja.or.th/view/about-us/activities-report/14025",
+                    "https://www.tja.or.th/view/activities/media-movements/13904",
+                    "https://www.tja.or.th/view/activities/media-movements/13901",
+                    "https://www.tja.or.th/view/activities/media-movements/13564",
+                    "https://www.tja.or.th/view/activities/media-movements/13416",
+                    "http://www.xinhuanet.com/zgjx/2015-02/15/c_133997099.htm",
+                    "http://www.tycc.org/index.php?langtype=cn&pageid=cn_10&add=view&id=1370",
+                    "https://m.zimplifyit.com/n1/2019/0110/c404090-30514065.html",
+                    "https://www.fmprc.gov.cn/ce/ceth/th/sgxw/t1642489.htm",
+                    "https://siamrath.co.th/n/66745"
+                ],
+                "note": "Engagement of journalists is found extensive followed by artistic exchanges. Writers and women\u2019s delegation, visits and exchanges are less than the media and art.",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "PRC Chinese always donate money and other subsidies for Thai in the time of natural disaster. \n\nhttps://www.posttoday.com/politic/news/115932\nhttps://thaiembbeij.org/th/activity/\n\nChinese Buddhism Religion Associations donate money to Thai Buddhist organizations. \nhttps://thaiembbeij.org/th/activity/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4/",
+                "evidence_urls": [
+                    "https://www.posttoday.com/politic/news/115932",
+                    "https://thaiembbeij.org/th/activity/",
+                    "https://thaiembbeij.org/th/activity/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4/"
+                ],
+                "note": "(No supporting evidence found but it is likely that Buddhist temples get donations from multiple sources. Chequebook Buddhism: Threat to Buddhism in Thailand? (https://www.bangkokpost.com/learning/advanced/523603/chequebook-buddhism-threat-to-buddhism-in-thailand",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "evidence": "According to the agreement, WeTV Thailand, Tencent Video, and Mello, Channel 3\u2019s own OTT platform, will be the only three platforms that are allowed to synchronously stream Channel 3 TV drama content this year. (http://chinafilminsider.com/headlines-from-china-tencent-wetv-bec-thai-dramas/)\nTencent Thailand targets capturing 500,000 users this year (https://www.bangkokpost.com/business/1695436/wetv-launches-into-ott-crowd)\nThe company\u2019s biggest rival in China, Tencent Video is already moving in the same direction. Tencent gave a soft launch to a VoD service in Thailand in November last year. It formally launched its Thai service last month under the name WeTV, with a mix of Chinese, Thai, Korean and U.S. content. (https://variety.com/2019/digital/asia/china-ott-streaming-giants-south-east-asia-expansion-1203197624/)\n\n[Second respondent]:\n\nWeTv or \u817e\u8baf\u89c6\u9891 is getting more popular among Thai young. \nhttps://brandinside.asia/key-success-of-wetv-thailand/\n\niQIYI is another PRC media entertainment application that is becoming familiar among Thai. \nhttps://www.ryt9.com/s/prg/3270873",
+                "evidence_urls": [
+                    "http://chinafilminsider.com/headlines-from-china-tencent-wetv-bec-thai-dramas/",
+                    "https://www.bangkokpost.com/business/1695436/wetv-launches-into-ott-crowd",
+                    "https://www.thedrum.com/news/2020/07/14/why-china-s-entertainment-giants-are-turning-their-focus-south-east-asia",
+                    "https://variety.com/2019/digital/asia/china-ott-streaming-giants-south-east-asia-expansion-1203197624/",
+                    "https://brandinside.asia/key-success-of-wetv-thailand/",
+                    "https://www.ryt9.com/s/prg/3270873"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Young Chinese increasingly drawn to Thai pop culture and traditions https://www.globaltimes.cn/content/1089128.shtml\nChinese Hit Comedy \u2018Lost in Thailand\u2019 Generating Mixed Returns for Thai Economy https://www.hollywoodreporter.com/news/general-news/chinese-hit-comedy-lost-thailand-420445/\n9 Thai Dramas That Are Popular In China https://www.thaiupdate.info/9-thai-dramas-that-are-popular-in-china/\n\u2026Thailand and China have a long history of film and television exchanges and cooperation. China (including Hong Kong, Macao and Taiwan) film and television dramas entered Thailand on a large scale earlier and has maintained a high ratings.\u201dLegend of the Sword and Fairy\u201d,\u201dHuang Feihong\u201d,\u201dPainted Skin\u201d,\u201dReturning Pearls\u201d,\u201dMeteor Garden\u201d,\u201dShanghai Beach\u201d,\u201dJourney to the West\u201d,\u201dBao Qingtian\u201d,\u201dScary Step by Step\u201d,\u201dThe Couple of Condor Heroes\u201d, etc. Thailand\u2019s hits, among which TV series such as\u201dReturning Pearls and Gege\u201d and\u201dThree Lives III Ten Miles of Peach Blossoms\u201d have also been remakes in Thailand. Generally speaking, Thailand is an important overseas market for Chinese TV dramas, and TV dramas of various themes are welcomed by Thai audiences\u2026. https://www.yqqlm.com/2020/08/the-spread-of-chinese-tv-series-with-different-themes-in-thailand/ ",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/content/1089128.shtml",
+                    "https://www.hollywoodreporter.com/news/general-news/chinese-hit-comedy-lost-thailand-420445/",
+                    "https://www.thaiupdate.info/9-thai-dramas-that-are-popular-in-china/",
+                    "https://www.yqqlm.com/2020/08/the-spread-of-chinese-tv-series-with-different-themes-in-thailand/ "
+                ],
+                "note": "These contents may not be evident to prove that positive image is portrayed in most of the TV shows but as they are famous and liked by most of the people, it can be the case.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No supporting evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thairath.co.th/tags/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B9%E0%B8%95%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "[Second respondent]:\n\nActually, it depends on the political view of each person. Most Thai royalists favour PRC because of Princess Sirindhon\u2019s supportive attitude toward PRC. Pro junta government people also stand with PRC since PRC is backing the Prayuth government. In contrast, the pro-democratic group often criticize PRC due to its authoritarian friendship with the Thai junta and PRC role in Mekong Basin crisis. ",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\u2026US-Thai relations soured after Gen Prayut led a military coup in 2014, triggering American laws that restrict defence ties until democracy is restored. China quickly filled the void, stepping up military exercises and signing 10 major arms deals including Thailand\u2019s largest defence purchase ever: $1.03 billion for three diesel-electric submarines and 48 battle tanks, according to the Stockholm International Peace Research Institute.  (https://www.bangkokpost.com/business/1807664/china-competes-with-us-for-weapons-sales-to-thailand, \nHow China is replacing US as Thailand\u2019s main defence partner and arms supplier https://www.scmp.com/news/asia/southeast-asia/article/3040311/how-china-replacing-us-thailands-main-defence-partner-and \nThailand plans joint arms factory with China https://www.reuters.com/article/us-thailand-defence-idUSKBN1DG0U4 )\n\u2026Since 2014, the Royal Thai Armed Forces has procured a range of other products from China, including 34 armored personnel carriers, armored command vehicles, artillery locating radar and surface-to-air missiles\u2026. https://news.cgtn.com/news/2019-11-03/There-s-more-than-growing-military-ties-to-Sino-Thai-relations-LiMJV1MZ9K/index.html ",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/business/1807664/china-competes-with-us-for-weapons-sales-to-thailand",
+                    "https://www.scmp.com/news/asia/southeast-asia/article/3040311/how-china-replacing-us-thailands-main-defence-partner-and ",
+                    "https://www.reuters.com/article/us-thailand-defence-idUSKBN1DG0U4",
+                    "https://news.cgtn.com/news/2019-11-03/There-s-more-than-growing-military-ties-to-Sino-Thai-relations-LiMJV1MZ9K/index.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "\u2022\t(discussion on joint production facility between Thailand and PRC is there  but no export evidence found.)  https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "\u2026Need to know the current state of agreement on joint production facility, establishing factory in northeastern province of Khon Kaen, and for the domestic consumption only.  https://www.reuters.com/article/us-thailand-defence-idUSKBN1DG0U4)",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-thailand-defence-idUSKBN1DG0U4"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "DEFMIN DENIES CLAIM OF CHINA EYEING MILITARY BASE IN THAILAND https://www.khaosodenglish.com/politics/2020/09/09/defmin-denies-claim-of-china-eyeing-military-base-in-thailand/\nWhat\u2019s With the New China-Thailand Military Facility? https://thediplomat.com/2017/11/whats-with-the-new-china-thailand-military-facility/\nChina eyes military footing in Thailand, Myanmar and Pakistan: US https://asia.nikkei.com/Politics/International-relations/China-eyes-military-footing-in-Thailand-Myanmar-and-Pakistan-US",
+                "evidence_urls": [
+                    "https://www.khaosodenglish.com/politics/2020/09/09/defmin-denies-claim-of-china-eyeing-military-base-in-thailand/",
+                    "https://thediplomat.com/2017/11/whats-with-the-new-china-thailand-military-facility/",
+                    "https://asia.nikkei.com/Politics/International-relations/China-eyes-military-footing-in-Thailand-Myanmar-and-Pakistan-US"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "HARD-X exercise has taken place in Thailand in which PRC, US, Japan, Malaysia, Singapore, South Korea and some CSOs participated. https://www.pacom.mil/Media/News/News-Article-View/Article/1449465/cobra-gold-18-humanitarian-assistance-and-disaster-relief-exercise/",
+                "evidence_urls": [
+                    "https://www.pacom.mil/Media/News/News-Article-View/Article/1449465/cobra-gold-18-humanitarian-assistance-and-disaster-relief-exercise/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "4",
+                "evidence": ".",
+                "evidence_urls": [
+                    "https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "As the US reduced its defence engagement activities with Thailand, the junta pro-actively approached China to deepen existing military cooperation. Sensing an opportunity to increase its influence in the Kingdom, and undermine the US-Thai alliance, China responded positively to the junta\u2019s overtures. https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf\nPLA trains military officers from around the world, boosting ties and understanding https://www.globaltimes.cn/content/1135963.shtml\n",
+                "evidence_urls": [
+                    "https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf",
+                    "https://www.globaltimes.cn/content/1135963.shtml",
+                    "https://www.airuniversity.af.edu/Portals/10/CASI/Books/CASI_Academic_Institutions_Encyclopedia_web_final.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "Since the coup, the number of RTARF officers enrolled in military courses in China increased to approximately 30 to 50 per year. \u2026 China has also offered the RTARF slots on its United Nations Staff Officers Course at its Peacekeeping Training Centre in Beijing. https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-09/18/c_139376725.htm",
+                    "https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2019_43.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "skip",
+                "evidence": "\u2022\tSupporting evidence not found. But this may very well be happening in secrecy.\n\n\u2022\tI can\u2019t find the information on the internet. However, it is known that high-ranking retired military will have positions in leading energy or food conglomerates. In addition, the Thai energy and food industries benefit from PRC economy or CCP policy. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "Given the current inclination towards China and China\u2019s interest in the SEA region as well as the evidences shared above, these must be the outcomes of the advocacy done by the people at the decision making.",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "\u2026 China and Thailand will hold joint exercises beginning this month, China\u2019s Ministry of Defence said on Friday, in another sign of improving relations since the Thai military seized power in 2014\u2026 https://www.reuters.com/article/us-china-thailand-idUSKCN0Y417U \n\u2026In addition, top-level Thai officials have been visiting military educational institutions affiliated with the People's Liberation Army (PLA) of China. Both sides have also conducted military drills together for both navy and air forces on an annual basis\u2026 https://news.cgtn.com/news/2019-11-03/There-s-more-than-growing-military-ties-to-Sino-Thai-relations-LiMJV1MZ9K/index.html \nWhat\u2019s in China\u2019s Military Exercise with Malaysia and Thailand? https://thediplomat.com/2018/10/whats-in-chinas-military-exercise-with-malaysia-and-thailand/ \nJoint Military Drills: China, Thailand and Malaysia to conduct military exercise https://news.cgtn.com/news/356b444f78494464776c6d636a4e6e62684a4856/share_p.html \nChina, Thailand Joint Air Force Exercise Highlights Warming Ties https://jakartaglobe.id/news/china-thailand-joint-air-force-exercise-highlights-warming-ties/ \n\u2026 In May 2019, China and Thailand held the amphibious landing section of the Blue Commando-2019 joint naval drills in the Honghai Bay\u2026 https://www.globaltimes.cn/content/1206994.shtml ",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-thailand-idUSKCN0Y417U ",
+                    "https://news.cgtn.com/news/2019-11-03/There-s-more-than-growing-military-ties-to-Sino-Thai-relations-LiMJV1MZ9K/index.html ",
+                    "https://thediplomat.com/2018/10/whats-in-chinas-military-exercise-with-malaysia-and-thailand/ ",
+                    "https://news.cgtn.com/news/356b444f78494464776c6d636a4e6e62684a4856/share_p.html ",
+                    "https://jakartaglobe.id/news/china-thailand-joint-air-force-exercise-highlights-warming-ties/ ",
+                    "https://www.globaltimes.cn/content/1206994.shtml "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "\u2026 19 May 2009 TREATY BETWEEN THE KINGDOM OF THAILAND AND THE PEOPLE\u2019S REPUBLIC OF CHINA ON EXTRADITION http://www.thailawforum.com/database1/Treaty-of-China.html ",
+                "evidence_urls": [
+                    "http://www.thailawforum.com/database1/Treaty-of-China.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "(ASEAN is cooperating with China, Japan and the Republic of Korea under the ASEAN+3 process of East Asia cooperation to address the threats of terrorism and transnational crimes.  The first ASEAN+3 Consultation was held in June 2003 in Ha Noi, Viet Nam, and will be followed by the AMMTC+3, in early January 2004, in pursuance to the decision of the 6th ASEAN+3 Summit held in Phnom Penh in November 2002.\nThe Consultation agreed that the ASEAN Secretariat would draft a concept paper on SOMTC Plus Three cooperation to combat transnational crime identifying the convergence in interest of ASEAN and the Plus Three Countries and outlining the next steps required.  https://asean.org/?static_post=asean-efforts-to-combat-terrorism-by-spushpanathan\n\n[Second respondent]:\n\nChina and some Southeast Asian countries, including Thailand, have signed cooperation agreements and held joint anti-terrorism exercises.\nFor example: Anti-terrorism cooperation between China and Southeast Asian countries under the APEC mechanism, Interaction and Confidence Building Measures in Asia (CICA), The Mekong River Joint Patrol Agreement, etc. China and Thailand have also established good relations to counter terrorism. Both states have established joint mechanism for anti-terrorism cooperation. The best example of their cooperation is the joint anti-terrorism trainings of the People\u2019s Liberation Army and the Royal Thai Amy (Special Forces).\nhttps://mesbar.org/chinas-cooperation-with-southeast-asian-countries-in-the-fight-against-terrorism/#ftnt24\n",
+                "evidence_urls": [
+                    "https://asean.org/?static_post=asean-efforts-to-combat-terrorism-by-spushpanathan",
+                    "https://mesbar.org/chinas-cooperation-with-southeast-asian-countries-in-the-fight-against-terrorism/#ftnt24"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "(\u2026Bangkok was similarly the killing ground of choice for Macau's 14K triad. Last year it was locked in a bitter turf war with the Shui Fong mob over casinos in Macau and Cambodia. The conflict spilled over into Thailand when 14K gunmen executed three Shui Fong members gangland-style on Bangkok's airport expressway. Since the harsh 1950s suppression of Chinese secret societies in Bangkok's Chinatown by military strongman Phibun Songkram, the triads have never enjoyed a power base in Thailand http://edition.cnn.com/ASIANOW/asiaweek/magazine/2000/1013/nat.thailand.html)\nTHE CHINESE TRIADS IN SOUTHEAST ASIA : FROM A &LAQUO; TOTAL SOCIAL PHENOMENON&RAQUO; TO A TRANS-NATIONAL CRIMINAL ORGANISATION? http://www.gis-reseau-asie.org/en/chinese-triads-southeast-asia-total-social-phenomenon-trans-national-criminal-organisation  \nTransnational activities of Chinese crime organizations https://link.springer.com/article/10.1007/s12117-002-1011-4\nMuay Thai group leader and wife arrested for laundering HK$267 million https://www.scmp.com/news/hong-kong/law-crime/article/2059165/muay-thai-group-leader-and-wife-arrested-laundering-hk267\n\n[Second respondent]:\n\nThai-Chinese  \u9ed1\u5e2eor \u4e09\u5408\u4f1a has a long history in Thailand. \nRecently, the phone scammers network in Thailand is organized by PRC nationals. They are operating in Cambodia. \nhttps://www.bangkokpost.com/thailand/general/2236687/39-thais-held-in-cambodia-call-scam-raids\nhttps://www.bangkokpost.com/thailand/general/2284622/phone-scammers-raided-in-cambodia-thais-arrested\n\nThe Chinese hybrid scam cryptocurrency fraud in Chonburi. \nhttps://mgronline.com/crime/detail/9640000072198 ",
+                "evidence_urls": [
+                    "http://edition.cnn.com/ASIANOW/asiaweek/magazine/2000/1013/nat.thailand.html",
+                    "http://www.gis-reseau-asie.org/en/chinese-triads-southeast-asia-total-social-phenomenon-trans-national-criminal-organisation  ",
+                    "https://link.springer.com/article/10.1007/s12117-002-1011-4",
+                    "https://www.scmp.com/magazines/post-magazine/long-reads/article/3119713/fast-not-furious-hong-kongs-toyota-ae86-owners",
+                    "https://www.scmp.com/news/hong-kong/law-crime/article/2059165/muay-thai-group-leader-and-wife-arrested-laundering-hk267",
+                    "https://www.bangkokpost.com/thailand/general/2236687/39-thais-held-in-cambodia-call-scam-raids",
+                    "https://www.bangkokpost.com/thailand/general/2284622/phone-scammers-raided-in-cambodia-thais-arrested",
+                    "https://mgronline.com/crime/detail/9640000072198"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No supporting evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "According to CNBC, cyber hacker group Naikon is targeting countries including Australia, Indonesia, Philippines, Vietnam, Thailand, Myanmar and Brunei. https://www.cnbc.com/2020/05/07/chinese-hacking-group-naikon-reportedly-spying-on-asia-governments.html ... Spotted by Isreali cybersecurity firm Check Point, the hacker group known as \"Naikon\" is attacking governments in Australia, Indonesia, Philippines, Vietnam, Thailand, Myanmar and Brunei -- targeting foreign affairs, science and technology ministries with an aim to gather \"geo-political intelligence,\"\u2026\nContent from the Kaspersky also supports this group. https://www.kaspersky.com/resource-center/threats/naikon-targeted-attacks\n\nPresence of Chinese hackers in Thailand and some of their illegal activities are found on the net. But cyber-attack targeting govt etc. is not found. \n\nAs part of the campaign, different groups of Chinese hackers have compromised telecoms operators in countries including Turkey, Kazakhstan, India, Thailand and Malaysia, the four sources said. Those countries are frequently used as transit routes by Uighurs to travel between Xinjiang and Turkey in what human rights activists say is an attempt to escape state persecution. https://www.reuters.com/article/us-china-cyber-uighurs-idUSKCN1VQ1A5\nChinese hackers using Thailand as a base nabbed https://www.nationthailand.com/in-focus/30379819",
+                "evidence_urls": [
+                    "https://www.cnbc.com/2020/05/07/chinese-hacking-group-naikon-reportedly-spying-on-asia-governments.html",
+                    "https://www.kaspersky.com/resource-center/threats/naikon-targeted-attacks",
+                    "https://www.reuters.com/article/us-china-cyber-uighurs-idUSKCN1VQ1A5",
+                    "https://www.nationthailand.com/in-focus/30379819"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "\u2026Since the beginning of the 1980s, the Triads are back. Freshly re-imported from China and from Taiwan, they appear henceforth as nothing more than petty criminal groups, sometimes extremely violent. Far from helping the Chinese immigrants, who are disembarking once again in relatively large numbers in Bangkok and in the northern provinces, they doubly exploit them, first by asking for exorbitant sums of money to help them enter the country clandestinely and then by taking advantage of their questionable status\u2026 http://www.gis-reseau-asie.org/en/chinese-triads-southeast-asia-total-social-phenomenon-trans-national-criminal-organisation\n\n[Second respondent]:\n\nHowever, it\u2019s happen in world war time. Nowadays this kind of crime not exist anymore. ",
+                "evidence_urls": [
+                    "http://www.gis-reseau-asie.org/en/chinese-triads-southeast-asia-total-social-phenomenon-trans-national-criminal-organisation"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.bangkokpost.com/tech/1801074/watch-this-china-surveillance-tech-seeks-to-go-global ",
+                    "https://www.bangkokpost.com/tech/2103251/china-starts-large-scale-testing-of-its-internet-of-the-future"
+                ],
+                "note": "China surveillance tech seeks to go global \u2026With 89 out of 1,100 companies demonstrating their wares at the Milipol security trade fair, China is the best represented of the 53 nations present save for host nation France\u2026. \u2026The firm has already sold a model to Thailand for use in monitoring forest fires, but the GDU says the drones are capable of tracking up to 30 targets while the cameras can feed systems that identify licence plates or faces\u2026 https://www.bangkokpost.com/tech/1801074/watch-this-china-surveillance-tech-seeks-to-go-global \n\n.. The outreach aims to expand the influence of China's most advanced information infrastructure to neighbouring countries including Cambodia, Laos, Myanmar and Thailand, the researcher said. https://www.bangkokpost.com/tech/2103251/china-starts-large-scale-testing-of-its-internet-of-the-future\n",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "Only border patrol along Mekong river countries found.   China starts joint patrols along Mekong River with Laos, Myanmar and Thailand http://en.people.cn/102774/7672263.html, \nA joint drill is conducted by border police forces from China, Laos, Thailand and Myanmar on the Mekong River https://www.chinadailyhk.com/article/122507, \nSeven years on, joint patrols on Mekong stabilize region http://www.xinhuanet.com/english/2018-11/21/c_137620350_2.htm)\n\n[Second respondent]:\n\nNot occur normally, in 2011, the PRC send representatives of police force to investigate Mekong River Massacre in Thailand and Lao. \nhttps://www.bbc.com/news/world-asia-19671446\n\nHowever, I believe that there have more crime that PRC police force has investigates in Thai territory. \n\n",
+                "evidence_urls": [
+                    "http://en.people.cn/102774/7672263.html, ",
+                    "https://www.chinadailyhk.com/article/122507",
+                    "http://www.xinhuanet.com/english/2018-11/21/c_137620350_2.htm",
+                    "https://www.bbc.com/news/world-asia-19671446"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "Hong Kong activist Joshua Wong detained in Thailand 'at China's request' \u2013 reports https://www.theguardian.com/world/2016/oct/05/hong-kong-activist-joshua-wong-detained-thailand-china-deportation\nHong Kong activist Joshua Wong barred from entering Thailand https://www.bbc.com/news/world-asia-china-37558908",
+                "evidence_urls": [
+                    "https://www.theguardian.com/world/2016/oct/05/hong-kong-activist-joshua-wong-detained-thailand-china-deportation",
+                    "https://www.bbc.com/news/world-asia-china-37558908",
+                    "https://www.theguardian.com/world/2015/jul/10/thailand-defends-uighur-deportation-to-china-we-didnt-send-them-all-back"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "evidence": "Thailand to send 25 Taiwanese suspects to China https://www.taiwannews.com.tw/en/news/3217018\nThailand Bucks Trend by Repatriating Taiwanese Fraud Suspects to Taiwan https://international.thenewslens.com/article/74618",
+                "evidence_urls": [
+                    "https://www.taiwannews.com.tw/en/news/3217018",
+                    "https://international.thenewslens.com/article/74618"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "Dong Guangping and Jiang Yefei fled with their families to Thailand in 2015 and were granted refugee status by the UNHCR office in Bangkok. They were handed over to China by the Thai police, in a move that drew strong criticism from the U.N.\nhttps://www.benarnews.org/english/news/thai/dissident-freed-09212018164707.html",
+                "evidence_urls": [
+                    "https://www.benarnews.org/english/news/thai/dissident-freed-09212018164707.html"
+                ],
+                "note": "There has been rumors within military personnel of sending some Uyghur individuals and Taiwanese individuals back to PRC, but no official evidence can be presented",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Thailand has a GDP per capita of US $7,187 and a total population of 69,950,850 people.",
+    "description-2": "Thailand established diplomatic relations with the People Republic of China in 1975. Thailand was ranked 137th in Reporters Without Borders' 2021 World Press Freedom Index, and Not Free in Freedom House's 2020 Global Freedom Status, with a score of 29/100."
+}

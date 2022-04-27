@@ -1,0 +1,1057 @@
+{
+    "name": "Mexico",
+    "partner": "Fundaci\u00f3n Andr\u00e9s Bello - Centro de Investigaci\u00f3n Chino Latinoamericano",
+    "year": "2021",
+    "GDP": "$8,329.0",
+    "population": "128.64M",
+    "original": "150/396",
+    "ranking": "20",
+    "overall": "38%",
+    "effect": "34%",
+    "exposure": "44%",
+    "pressure": "17%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://dusselpeters.com/CECHIMEX/libroDirectorio2014.pdf",
+                    "https://web.archive.org/web/20211203042221/https://www.mohuatang.com/",
+                    "http://site.onemex.com/class.php?column_id=6&class_id=32"
+                ],
+                "note": "This question wasn\u2019t completely clear to me. \nThe following China 's media organizations are established in Mexico: Agencia de Noticias Xinhua, Diario del Pueblo, Radio Internacional de China, Revista China hoy y Siente China.\nIf the question refers to \u201cThe World Chinese Media\u201d, there\u2019s a small piece of information in its page. There\u2019s just one link for Mexico, and redirect the page to:\u58a8\u534e\u5802 - \u8ba4\u771f\u5730\u751f\u6d3b\u5728\u58a8\u897f\u54e5 (http://site.onemex.com/class.php?column_id=6&class_id=32).\nWhen I was looking for information about this page, I found two other pages:\n\u58a8\u897f\u54e5 - \u58a8\u897f\u54e5\u534e\u4eba\u7f51\u5740\u5bfc\u822a_\u58a8\u897f\u54e5\u7f51\u7ad9\u5927\u5168_\u58a8\u897f\u54e5\u8d2d\u7269\u7f51\u5740_\u58a8\u897f\u54e5\u65c5\u884c\u793e_\u58a8\u534e\u7f51 (http://site.onemex.com/class.php?column_id=6&class_id=32 ) In this one, there\u2019s a section called \u201cChina media organizations, but just one of the links opens. (mohuatang.com)\nand \n\u6ce8\u518c\u514d\u8d39\u900148\u5143-\u535a\u58f9\u8bba\u575b\u514d\u8d39\u767d\u83dc\u5927\u5168-\u535a\u58f9\u8bba\u575b\u514d\u8d39\u767d\u83dc\u5927\u5168 (http://chinomx.com/byf.php) (be careful with this last page, it has malware).",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html",
+                    "The Belt and Road Media Cooperation Union. (2017).  http://upload.videochina.org.cn/2017/0417/1492407544734.pdf",
+                    "http://en.brnn.com/n3/2020/0226/c415019-9662060.html"
+                ],
+                "note": "In Mexico, no media organization belongs to the Belt and Road News Alliance, nor the Belt and Road Media Cooperation Union.\nAlthough Mexico is not a member of the Belt and Road News Alliance nor the Belt and Road Media Cooperation Union. The Mexican State News Agency (NOTIMEX) is a Council Member of the Belt and Road News Network (BRNN).\n",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://clubprimeraplana.com.mx/periodistas-mexicanos-del-club-primera-plana-visitan-china-e3Te35OTe33e3A.html",
+                    "https://www.e1debatecolima.com/posts/fapermex-en-china"
+                ],
+                "note": "In Mexico, there are groups of journalists (Club Primera Plana (CPP), Federaci\u00f3n Nacional de Periodistas Mexicanos (FAPERMEX)), working to be a bridge to increase the journalist visits and exchanges with China. All the known visits were for those organizations, and their journalists.\nThose organizations have collaborated with China under an agreement for the cultural exchange between Mexico and China.\nThe FAPERMEX is working so the CONALIPE (Colegio Nacional de Licenciados en Periodismo) be included by the Asociaci\u00f3n de Periodistas de la Rep\u00fablica Popular de China under the initiative for the creation of the International Federation of Journalist of the Road and Belt.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://espanol.cri.cn/news/china/1019/20191203/388644.html",
+                    "https://macroeconomia.com.mx/ocho-periodistas-mexicanos-viajan-a-china/",
+                    "https://cimacnoticias.com.mx/noticia/mexico-china-un-intercambio-para-la-comunicacion/"
+                ],
+                "note": "We could corroborate many trips to China by Mexican journalists paid by the PRC, but none specifically for training.",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://issuu.com/chinahoymx",
+                    "https://www.facebook.com/watch/live/?v=1098221623995358&ref=watch_permalink",
+                    "https://www.facebook.com/watch/?v=2051395258335945"
+                ],
+                "note": "The last link, I couldn\u2019t find any information about this influencer, and if she is supported by the Chinese government. I put it because if there\u2019s a relation between the influencer and the Chinese government, it will change the influence in Mexico, because Imagen radio and excelsior.com.mx have more influence.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://rsf.org/sites/default/files/en_rapport_chine_web_final.pdf",
+                    "https://freebeacon.com/national-security/mexican-radio-beam-chinese-propaganda/"
+                ],
+                "note": "There\u2019s evidence that in 2018, the radio station XEWW-AM 690, located in Rosarito, Mexico, was sold by Grupo Latino de Radio (Prisa\u2019s Radio subsidiary) to Phoenix TV, which is a Pro-Beijing subsidiary.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Canal 6Tv, la televisi\u00f3n de Oriente, is the media outlet that has delivered content provided by PRC under a news\u2019 segment called \u201cDe China para M\u00e9xico\u201d. This segment is done under the collaboration of China Media Group (CMG).\nThis media outlet has its own web page: https://www.canal6tv.com/\nIt also has a presence in Facebook, Twitter, and Youtube. \nAccording to Facebook, it is a TV channel that covers the most relevant events in the eastern zone of Estado de Mexico (one of the state members of the Mexican Federal Republic), and it has 289 871 followers. Canal 6 Tv | Facebook\nOn Twitter, it has 9480 followers https://twitter.com/canal6tv?lang=es , and finally, on youtube, it has 34200 subscribers. https:// www.youtube.com/channel/UCgJa0SnqfGipe6hs1-rv1Fg\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/watch/live/?v=220764559823397&ref=watch_permalink",
+                    "https://www.facebook.com/watch/live/?v=1098221623995358&ref=watch_permalink"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.facebook.com/watch/?v=1167884737024675",
+                    "http://espanol.cri.cn/videos/culture/1032/20210413/642291.html"
+                ],
+                "note": "This program has published several spots in excelsior.com.mx, it isn\u2019t clear the connection with the PRC state-media, but I found that some of these spots have been also aired by: China Viva: \u00bfCu\u00e1nto tardar\u00edas en recorrer la Gran Muralla China?-Espanol (cri.cn)",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that this indicator has appeared in Mexico.",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that this indicator has appeared in Mexico.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "There\u2019s a great quantity of evidence that shows that media personalities have seen these actions as human right abuses.\n1.\t(30) Campos de concentraci\u00f3n en China, con Zumret Isaac | Revista de la Universidad - YouTube\n2.\tCampos de concentraci\u00f3n en China (razon.com.mx)\n3.\tONG denuncia construcci\u00f3n de 380 campos de concentraci\u00f3n en China desde 2017 | Aristegui Noticias\n4.\t\"China cometi\u00f3 genocidio y cr\u00edmenes de lesa humanidad\", afirma administraci\u00f3n Trump (notipress.mx) \n",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=84_14s_aUp0",
+                    "https://www.razon.com.mx/opinion/columnas/leonardo-nunez-gonzalez/campos-concentracion-china-399078",
+                    "https://aristeguinoticias.com/2409/mundo/ong-denuncia-construccion-de-380-campos-de-concentracion-en-china-desde-2017/",
+                    "https://notipress.mx/actualidad/china-genocidio-crimenes-lesa-humanidad-administracion-trump-6219"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www5.diputados.gob.mx/index.php/camara/Grupo-de-Amistad-Mexico-China/Actas",
+                    "https://diputadosmorena.org.mx/instalan-en-la-camara-de-diputados-grupo-de-amistad-mexico-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://spanish.xinhuanet.com/2021-04/20/c_139893892.htm",
+                    "http://www.chinadaily.com.cn/a/202104/21/WS607f6714a31024ad0bab9303.html",
+                    "https://embamex.sre.gob.mx/china/index.php/es/ver-mas/164-com1519"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://inap.mx/wp-content/uploads/2021/04/Programa-Seminario-Beijing-Completo.pdf",
+                    "https://www.fmprc.gov.cn/ce/cemx/esp/sgjs/t1497217.htm",
+                    "https://www.gob.mx/policiafederal/articulos/cuerpo-academico-y-funcionarios-de-la-academia-de-gobernacion-de-china-visitan-instalaciones-de-la-division-cientifica-de-la-policia-federal"
+                ],
+                "note": "There\u2019s evidence that proves that civil servants have been invited to take training from the Chinese Academy of Governance. The INAP (Instituto Nacional de Administraci\u00f3n P\u00fablica)  is a Mexican educational organization that has the purpose to improve public governance. Recently, it has released a convocatory for a Virtual Training on Public Governance. The training opened on May 10 and it closes on May 30, 2021. It is all paid by Chinese Ministry of Commerce, the Chinese Academy of Governance and China's National Institute for Public Administration.",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://expansion.mx/nacional/2011/09/10/la-reunion-entre-felipe-calderon-y-el-dalai-lama-molesta-a-china",
+                    "https://www.fmprc.gov.cn/ce/cemx/esp/xw/t1503965.htm"
+                ],
+                "note": "Uno de los pocos episodios en los cuales las autoridades de la RPC criticaron las posturas oficiales de M\u00e9xico en asuntos internos de la China continental, fue luego del episodio de la visita del Dalai Lama a M\u00e9xico en 2011. Si bien desde entonces no ha habido nuevos roces diplom\u00e1ticos por este asunto entre ambos pa\u00edses, las autoridades chinas expresaron su malestar en caso de que se repitiese una situaci\u00f3n como la visita del Dalai Lama en 2011.",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico.",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    ".http://mx.china-embassy.org/esp/sgjs/t1758934.htm",
+                    "https://www.iri.edu.ar/images/Documentos/Boletines_IRI/135/mexico_china_declaracion_conjunta.pdf "
+                ],
+                "note": "A pesar de la presi\u00f3n ejercida por la Oficina comercial de Taiw\u00e1n en M\u00e9xico, en lo relativo a su participaci\u00f3n en la OMS (https://www.eluniversal.com.mx/opinion/armando-cheng/la-respuesta-de-taiwan-un-ejemplo-que-omite-la-oms), las autoridades de este pa\u00eds no han manifestado su apoyo a la isla. Al contrario, han manifestado un claro apoyo a China en la lucha contra el COVID-19.",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fuhem.es/2019/08/29/fao-y-el-nuevo-liderazgo-de-qu-dongyu/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://mx.china-embassy.org/esp/sn/t1381755.htm"
+                ],
+                "note": "There\u2019s no evidence of a Mexican government position about the territorial claims. \nThere\u2019s just evidence of a meeting between Mexico\u2019s General Director for Foreign Relations of Asia Pacific Countries and the Chinese ambassador. \n",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iri.edu.ar/images/Documentos/Boletines_IRI/135/mexico_china_declaracion_conjunta.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.elfinanciero.com.mx/politica/refrenda-mexico-respeto-al-principio-de-una-sola-china/",
+                    "https://www.iri.edu.ar/images/Documentos/Boletines_IRI/135/mexico_china_declaracion_conjunta.pdf"
+                ],
+                "note": "El gobierno de M\u00e9xico estableci\u00f3 desde el a\u00f1o 2013 su apego al principio de \u201cUna sola China\u201d, raz\u00f3n por la cual evita realizar declaraciones sobre las cuestiones de Taiw\u00e1n, Hong Kong y el T\u00edbet. De manera puntual, cabe destacar que el gobierno mexicano neg\u00f3 la recepci\u00f3n al Dalai Lama en 2013, luego que este l\u00edder religioso fuese recibido en 2011 por el entonces presidente Felipe Calder\u00f3n (https://www.fmprc.gov.cn/esp/xwfw/fyrth/t857941.shtml).",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iri.edu.ar/images/Documentos/Boletines_IRI/135/mexico_china_declaracion_conjunta.pdf"
+                ],
+                "note": "El gobierno de M\u00e9xico estableci\u00f3 desde el a\u00f1o 2013 su apego al principio de \u201cUna sola China\u201d. raz\u00f3n por la cual evita realizar declaraciones sobre las cuestiones de Taiw\u00e1n, Hong Kong y el T\u00edbet.",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.forbes.com.mx/unam-huawei-laboratorio-inteligencia-artificial/",
+                    "https://transferencia.tec.mx/2018/06/20/el-tec-y-china-se-unen-para-intercambiar-tecnologias/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://mx.china-embassy.org/esp/zmgx/t1248625.htm ",
+                    "http://www.uadyglobal.uady.mx/index.php?modulo=contenido&id=143"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.excelsior.com.mx/opinion/columnista-invitado-global/2016/08/26/1113246",
+                    "https://dusselpeters.com/CECHIMEX/20180901_CECHIMEX_Inclusion_de_estudiantes_chinos_al_sistema_educativo_mexicano_Jessica_da_Costa_Dantas.pdf"
+                ],
+                "note": "There isn\u2019t a lot of information, but I can say, it seems to be a pilot test. The Hanban Mexico sends some Chinese Voluntary teachers to elementary schools in Mexico.",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    ".http://www.brsn.net/list/zhikujigou_en/index.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.redalc-china.org/v21/es-es/",
+                    "https://www.redalc-china.org/v21/es-es/quienes-somos/2015-09-28-13-33-23/instituciones"
+                ],
+                "note": "En el programa del m\u00e1s reciente Seminario Internacional sobre China y ALC, organizado por unos de los Think Tanks m\u00e1s importantes sobre este tema en M\u00e9xico, la Red China ALC se deja constancia de la participaci\u00f3n institucional del Development Research Center del Consejo de Estado de China. Cabe destacar que la participaci\u00f3n institucional implica el pago de una cuota anual. ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://en.ses.ustc.edu.cn/7415/list.htm"
+                ],
+                "note": "No hay informaci\u00f3n oficial sobre el reclutamiento de estudiantes o profesionales mexicanos en la p\u00e1gina web de ambos programas",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.economia.unam.mx/cechimex/index.php/en/scholarship-program",
+                    "https://www.gob.mx/sre/prensa/166624"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://china.unam.mx/2015/07/28/la-unam-recibe-al-45-de-los-universitarios-chinos-que-estudiaran-en-mexico-este-ano/"
+                ],
+                "note": "En primer lugar, cabe destacar que aun cuando existen una importante cantidad de estudiantes chinos (ver link), no existe evidencia sobre la existencia de una Asociaci\u00f3n de Estudiantes y Profesores Chinos en M\u00e9xico. Por tal motivo, al no existir dicha organizaci\u00f3n en M\u00e9xico, se estima que la respuesta a esta pregunta es \u201c0\u201d",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia que compruebe la cancelaci\u00f3n o negaci\u00f3n de visas a acad\u00e9micos o investigadores mexicanos para viajar a China ",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dusselpeters.com/CECHIMEX/20210421_CECHIMEX_Instituto_Confucio_UNAM_condiciones_retos_Jenny_Acosta.pdf",
+                    "http://www.economia.unam.mx/cechimex/chmxExtras/seminarios/Public_electric_22.10.2012/Seminario%2040%20anhios/Mesa%204/Lingyan%20Zhou.pdf "
+                ],
+                "note": "Aunque no existe evidencia de una influencia de organismos conectados a la RPC sobre temas hist\u00f3ricos o econ\u00f3micos, s\u00ed podemos asegurar que a trav\u00e9s de los Instituto Confucio de M\u00e9xico se promueven e incentivan actividades curriculares favorables a la RPC.",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.mexicoylacuencadelpacifico.cucsh.udg.mx/index.php/mc/article/view/602",
+                    "http://pueaa.unam.mx/multimedia/etnia-uigur-la-busqueda-de-la-libertad-y-la-identidad-de-los-musulmanes-en-la-republica-popular-de-china",
+                    "https://repositorio.colmex.mx/concern/theses/9019s277n?locale=es"
+                ],
+                "note": "Contrario a lo que se pueda pensar, en diversos centros universitarios de M\u00e9xico se han realizado estudios superiores, art\u00edculos o art\u00edculos de opini\u00f3n criticando la situaci\u00f3n de la etnia Uighur en la provincia de Xinjiang",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomista.com.mx/estados/Tres-empresas-chinas-confirman-inversiones-en-NL-20191210-0126.html",
+                    "https://coordinacionpolitica.sre.gob.mx/index.php/entidades/145-hidalgo",
+                    "http://www.redalc-china.org/monitor/informacion-por-pais/busqueda-por-pais/20-mexico"
+                ],
+                "note": "A pesar de que los acuerdos en materia comercial deben ser firmados por la Secretar\u00eda de Relaciones Exteriores de M\u00e9xico y no por los gobernadores, existe informaci\u00f3n que permite saber de las inversiones de empresas chinas en M\u00e9xico, las cuales han sido realizadas a partir de acuerdos de cooperaci\u00f3n realizados entre las entidades subnacionales y sus contrapartes chinas, as\u00ed como tambi\u00e9n las empresas de este pa\u00eds.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://coordinacionpolitica.sre.gob.mx/index.php/entidades/145-hidalgo",
+                    "https://coordinacionpolitica.sre.gob.mx/index.php/entidades/79-queretaro",
+                    "https://coordinacionpolitica.sre.gob.mx/index.php/entidades/159-nuevo-leon"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.proceso.com.mx/nacional/2019/4/24/viajaron-china-yeidckol-polevnsky-gerardo-fernandez-norona-223850.html ",
+                    "https://web.archive.org/web/20220322072338/https://pri.org.mx/ElPartidoDeMexico/SaladePrensa/Nota.aspx?y=24604"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.elfinanciero.com.mx/nacional/polevnsky-se-reune-en-beijing-con-miembros-del-partido-comunista-de-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://aplicaciones.sre.gob.mx/tratados/muestratratado_nva.sre?id_tratado=1237&depositario="
+                ],
+                "note": "La \u00fanica referencia encontrada vinculada con este tipo de colaboraci\u00f3n en materia ha sido el Tratado sobre Asistencia Jur\u00eddica Mutua en materia Penal que firmaron ambos pa\u00edses en el a\u00f1o 2005 (Link 1), aun cuando esto no implica per se alg\u00fan tipo de entrenamiento. A nivel subnacional (link 2) no se observa la existencia de alg\u00fan tipo de entrenamiento en este \u00e1mbito.",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://aristeguinoticias.com/0911/mexico/la-casa-blanca-de-enrique-pena-nieto/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://lopezobrador.org.mx/2018/11/10/marcelo-ebrard-concluye-visita-de-trabajo-a-china-es-un-pais-clave-en-la-estrategia-economica-del-presidente-electo/",
+                    "https://www.fmprc.gov.cn/ce/cemx/esp/sn/t1407523.htm",
+                    "https://www.eloccidental.com.mx/local/consolidar-lazos-tema-entre-el-gobernador-y-embajador-de-china-en-mexico-6289921.html",
+                    "https://www.youtube.com/watch?v=pcdjCP8D07k"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://aristeguinoticias.com/0911/mexico/la-casa-blanca-de-enrique-pena-nieto/"
+                ],
+                "note": "El caso de mayor significancia en este sentido fue el caso de la llamada \u201cCasa Blanca\u201d en el cual se destap\u00f3 una trama de corrupci\u00f3n que benefici\u00f3 al entonces presidente Enrique Pe\u00f1a Nieto. Ahora bien, no se observ\u00f3 ninguna consideraci\u00f3n sobre el fen\u00f3meno de las \u201cpuertas giratorias\u201d entre funcionarios mexicanos y la RPC.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico.",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarCuadroAnalitico&idCuadro=CA7&locale=es",
+                    "https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarCuadroAnalitico&idCuadro=CA6&locale=es"
+                ],
+                "note": "El primer socio comercial de M\u00e9xico es Estados Unidos de Am\u00e9rica.",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomista.com.mx/economia/Deuda-Externa-de-Mexico-A-quien-le-debe-Mexico-Cuanto-debe-20181126-0053.html",
+                    "https://www.dusselpeters.com/146.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/countrysnapshot/es/MEX"
+                ],
+                "note": "El principal comprador de productos extractivos mexicanos es EEUU.",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.redalc-china.org/monitor/informacion-por-pais/busqueda-por-pais/20-mexico",
+                    "https://hutchisonportslct.com/conoce-lctpc/grupo-hph/"
+                ],
+                "note": "Desde el a\u00f1o 2000 en adelante, la RPC ha venido haciendo una serie de inversiones directas (tanto proyectos nuevos como fusiones y adquisiciones) en territorio mexicano, lo cual le ha llevado a tener control accionario o incluso operar algunos puertos del pa\u00eds, as\u00ed como tambi\u00e9n una serie de empresas que prestan servicios el\u00e9ctricos en el este pa\u00eds lationamericano. La base de datos de la Red China- Am\u00e9rica Latina espec\u00edfica estas transacciones.",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/?page=1",
+                    "https://www.bricaistanbul.com/overview/brica-members/ ",
+                    "https://www.brgcc.hk/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No existe ning\u00fan tipo de evidencia sobre acciones coercitivas de China en contra de M\u00e9xico en el \u00e1mbito econ\u00f3mico descrito en la pregunta. Al contrario, ambos pa\u00edses mantienen una excelente relaci\u00f3n en este aspecto.",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.roc-taiwan.org/mx_es/post/13.html ",
+                    "https://www.roc-taiwan.org/mx_es/index.html"
+                ],
+                "note": "A pesar de que M\u00e9xico reconoce a la RPC como el leg\u00edtimo gobierno de China, todav\u00eda mantiene relaciones econ\u00f3micas y culturales con Taiw\u00e1n. Inclusive M\u00e9xico ha colocado parte de sus emisiones de bonos en el mercado de valores taiwan\u00e9s. Adem\u00e1s, empresas mexicanas y entidades subnacionales realizan negocios con sus contrapartes taiwanesas sin que esto perjudique su relaci\u00f3n con la RPC.\n",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomista.com.mx/estados/AMLO-pone-fin-a-Zonas-Economicas-Especiales-20190426-0026.html ",
+                    "https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/recuadros/%7B20867F6A-F174-04D0-9A04-BB846DB7EFC3%7D.pdf ",
+                    "https://www.france24.com/es/20200201-mexico-t-mec-reto-crecimiento-comercial "
+                ],
+                "note": "A pesar de que el gobierno de Enrique Pe\u00f1a Nieto decret\u00f3 la conformaci\u00f3n de siete zonas econ\u00f3micas especiales para atraer inversi\u00f3n directa, (de este pa\u00eds asiatico y de otros) el actual gobierno de Andr\u00e9s Manuel L\u00f3pez Obrador revirti\u00f3 esta medida. Quedando como marco comercial entre ambos pa\u00edses el tratado sobre inversiones firmado por Felipe Calder\u00f3n en 2006.(https://www.gob.mx/cms/uploads/attachment/file/2288/SE_China_esp-firma.pdf). Adicionalmente, con la firma del nuevo TMEC, M\u00e9xico se adhiere a un marco que dificulta nuevas inversiones de China en la zona de Am\u00e9rica del Norte.",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dusselpeters.com/146.pdf (buscar art\u00edculo sobre M\u00e9xico, p\u00e1gina 373)"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.jornada.com.mx/2020/11/26/economia/035n2eco",
+                    "https://www.forbes.com.mx/filial-de-china-telecom-planea-inversion-en-mexico/",
+                    "https://www.eleconomista.com.mx/empresas/China-Telecom-y-la-red-compartida-de-Mexico-un-tema-geopolitico-20150122-0045.html "
+                ],
+                "note": "No existe prueba de que alguna de las empresas de telecomunicaciones que pertenecen a la RPC est\u00e9n prestando servicio en M\u00e9xico. Se conoce que en el 2015, China Telecom planeaba hacer una oferta de servicios, pero \u00e9sta no avanz\u00f3. Luego, durante la presidencia de Donal Trum en EEUU presion\u00f3 a M\u00e9xico para que no aceptar\u00e1 ning\u00fan tipo de ayuda en esta materia por parte de China. En resumen, se puede afirmar que las empresas de telecomunicaciones p\u00fablicas de China no operan en el pa\u00eds.",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.america-retail.com/mexico/mexico-huawei-va-por-5g-en-el-pais-este-ano/ ",
+                    "https://www.elsoldemexico.com.mx/finanzas/christopher-landau-landau-llama-al-gobierno-e-industria-unirse-al-movimiento-red-limpia-5g-6059367.html",
+                    "https://www.elsoldemexico.com.mx/finanzas/la-red-5g-pisa-el-freno-en-mexico-tecnologia-telefonia-infraestructura-velocidad-red-carlos-slim-america-movil-5756334.html",
+                    "https://expansion.mx/tecnologia/2021/02/23/no-tener-5g-en-mexico-traera-mas-pobreza-telecomunicaciones",
+                    "http://spanish.xinhuanet.com/2021-04/27/c_139909249.htm",
+                    "https://www.prnewswire.com/news-releases/huawei-construye-una-red-elte-iot-para-la-red-el%C3%A9ctrica-mexicana-840600473.html"
+                ],
+                "note": "En M\u00e9xico, la empresa Huawei ha estado haciendo presi\u00f3n sobre la principal instituci\u00f3n reguladora de telecomunicaciones, con el prop\u00f3sito de avanzar en la construcci\u00f3n de la red 5G. Sin embargo, la presiones de EEUU asi como la tardanza en las concesiones de las frecuencias de las redes han impedido su desarrollo. La decisi\u00f3n final sobre la adopci\u00f3n del 5G en M\u00e9xico a\u00fan puede considerarse posible si tomamos en cuenta las declaraciones de los funcionarios mexicanos y la reuni\u00f3n con los representantes de Huawei y el Senado Mexicano.",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.elsoldemexico.com.mx/finanzas/huawei-gobierno-de-amlo-internet-a-zonas-rurales-cumbre-negocios-cancun-4348095.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lapoliticaonline.com.mx/nota/132055-el-pentagono-pide-a-militares-mexicanos-evitar-compras-de-software-de-seguridad-chino/",
+                    "http://spanish.xinhuanet.com/2016-10/28/c_135788505.htm"
+                ],
+                "note": "A pesar de que en el a\u00f1o 2016 el exsecretario de defensa Salvadro Cienfuegos admiti\u00f3 p\u00fablicamente que M\u00e9xico podr\u00eda avanzar hacia una mayor cooperaci\u00f3n militar con China, durante el gobierno de L\u00f3pez Obrador esta propuesta no ha sido desarrollada, entre otras cosas por la presi\u00f3n del gobierno de Estados Unidos de Am\u00e9rica.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "https://cambiopesodolar.com.mx/sistema-pagos-internacionales-china/",
+                    "https://www.cips.com.cn/cipsen/7052/7057/index.html",
+                    "https://www.banxico.org.mx/payment-systems/d/%7B611C4F2A-0CE2-03E3-081D-CB7A03A246C9%7D.pdf"
+                ],
+                "note": "Even when there\u2019s HSBC in Mexico. According to what I have reviewed, it hasn\u2019t been used in Mexico.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://transferencia.tec.mx/2021/02/02/quieres-llevar-tu-startup-a-china/",
+                    "https://marketing4ecommerce.mx/las-startups-chinas-apuestan-latinoamerica-la-tierra-la-oportunidad/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://transferencia.tec.mx/english/innovation/tec-de-monterrey-and-china-join-forces-to-exchange-technologies/",
+                    "https://www.eluniversal.com.mx/ciencia-y-salud/mexico-y-china-fortalecen-relacion-traves-de-desarrollo-cientifico"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "https://www.eluniversal.com.mx/techbit/tiktok-tu-nueva-red-social-favorita",
+                    "https://www.eleconomista.com.mx/tecnologia/Mexico-22.7-millones-de-usuarios-unicos-en-TikTok-avance-de-5900-20210324-0076.html"
+                ],
+                "note": "In Mexico, there is just one top five popular social media (TikTok) developed by China, but it is amazing the growth of this social media in Mexico.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No hay evidencia de esto para el caso de M\u00e9xico.\n",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There are no organizations with the words \u201cPromotion of Peaceful Reunification\u201d. Instead, we have several organizations who fight for Tibet\u2019s human rights, as Derechos Humanos | Fundaci\u00f3n Casa del Tibet de Barcelona (casadeltibetbcn.org)\n",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no information available for this indicator.\n",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tecnoempresa.mx/index.php/2017/11/10/sindicatos-de-china-y-mexico-intercambiaran-experiencias-laborales/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mexchina.org/es/2019/07/02/celebramos-el-70-aniversario-de-la-fundacion-de-la-republica-popular-china-las-presentaciones-culturales-a-gran-escala/",
+                    "https://www.youtube.com/watch?v=IDwNuJWXrfw"
+                ],
+                "note": "There are no local reports of personnel linked to the UFWD, but in Mexico there are a good number of Chinese associations, and they have said that the ones recognized by the Chinese Embassy in Mexico are linked to China.",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://candelero.com.mx/2020/03/18/reconocimiento-de-la-plataforma-de-cooperacion-de-periodistas-de-la-franja-y-la-ruta-al-club-primera-plana-por-su-apoyo-y-solidaridad-con-china/",
+                    "https://themazatlanpost.com/2019/09/15/mexican-artists-arrive-in-beijing/",
+                    "https://www.womenofchina.cn/womenofchina/html1/about/1911/4556-1.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that shows that PRC-individuals or entities have donated money to religious communities and charities. The only evidence is that they donate money for the pandemic, and for reconstruction after the 2017\u2019s earthquake",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.chinadailyglobal.com/a/201912/21/WS5dfd97d9a310cf3e3557fb97.html",
+                    "https://www.eluniversal.com.mx/english/celebrate-chinese-new-year-mexico-city"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Until now, Mexican cultural products don\u2019t portray the PRC. There\u2019s just one movie in which the main character is studying Chinese to travel to China. There was a collaboration between the Chinese government and the production, there was a gift (a travel for two to China)  http://www.ccchinamexico.org/es/Events/Detail/1530048719",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Mexican celebrities do not share propaganda narratives from the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "Local governments do not publish propaganda narratives from the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/fact-tank/2020/01/10/around-the-world-more-see-the-u-s-positively-than-china-but-little-confidence-in-trump-or-xi/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eluniversal.com.mx/mundo/mexico-eu-y-otros-7-paises-de-america-compraron-armas-rusia",
+                    "https://heraldodemexico.com.mx/opinion/2021/5/25/china-la-venta-de-armas-299326.html"
+                ],
+                "note": "Mexico bought military equipment in 2004, but since that time hasn\u2019t bought any more military equipment from China.",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomista.com.mx/politica/Cuando-armas-salen-del-pais-de-manera-legal-20190811-0073.html",
+                    "https://tradingeconomics.com/mexico/exports/china"
+                ],
+                "note": "Even when Mexico doesn\u2019t export to China military equipment or components' equipment. Mexico exports supplies that can be employed for arms production such as iron and steel. ",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2016/11/04/noticia-china-mexico-firman-memorando-entendimiento-materia-militar.html",
+                    "https://rcabanas.com/?s=China&post_type=product",
+                    "https://www.manufacturastrejo.com/historia.html"
+                ],
+                "note": "The first link seems to support that there\u2019s technological cooperation between China and Mexico through the Colegio de Defensa Nacional, but I think that this cooperation is mostly in training and not in the development of military technology.\nMexico has just the following organizations for the arm\u2019s production: Direcci\u00f3n general de F\u00e1bricas de la Defensa Nacional, Insutrias Caba\u00f1as, Armas Trejo and Productos Mendoza, and there\u2019s no evidence that any of these are working in cooperation with China. \n",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "https://www.lapoliticaonline.com.mx/nota/117047-estados-unidos-le-avisa-a-videgaray-y-ebrard-que-preocupa-la-instalacion-de-bases-chinas-en-la-region/",
+                    "https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/tropas-extranjeras-en-mexico/"
+                ],
+                "note": "Mexico has always been a USA\u2019s influence zone, this complicates the possibility for China to establish a military base. \n",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=TWeoFipSYWg",
+                    "https://www.forbes.com.mx/noticias-china-destaca-solidaridad-mexicana-en-apoyo-a-la-pandemia-jamas-olvidaremos/",
+                    "https://aristeguinoticias.com/2709/mexico/19s-china-envia-a-mexico-1-millon-de-dolares-en-efectivo-y-7-millones-en-materiales/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "It seems that this indicator does not apply to Mexico.\n",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20220322073023/http://webcache.googleusercontent.com/search?q=cache%3ARuZjABY4jwkJ%3Atransparencia.sedena.gob.mx%2Fpdf%2FInforme_de_Logros%2FInforme_Avance_y_Resultados_2020_SEDENA.pdf",
+                    "http://gaceta.diputados.gob.mx/Gaceta/63/2017/sep/Sedena-20170912.pdf",
+                    "http://mx.china-embassy.org/esp/sgjs/t1581578.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s just one link from October 2016 ( https://www.globaltimes.cn/content/1014572.shtml), that talks about peacekeeping, but as the administration changed, there\u2019s no recent information about this topic.",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "This indicator has not appeared in Mexico yet.",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "http://gaceta.diputados.gob.mx/Gaceta/63/2017/sep/Sedena-20170912.pdf"
+                ],
+                "note": "There\u2019s evidence that high-ranking militaries have taken training in China as you can see in the link, but there\u2019s no conclusive evidence that they advocate for more coordination with the PLA. ",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=DcU3K0RV1hQ",
+                    "https://web.archive.org/web/20210524174428/http://eng.chinamil.com.cn/view/2016-10/28/content_7331725.htm"
+                ],
+                "note": "This indicator seems to be beginning to appear. This connection was done during the last administration (Pe\u00f1a Nieto), it seems it could increase during this administration.\n",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://aplicaciones.sre.gob.mx/tratados/muestratratado_nva.sre?id_tratado=1393",
+                    "https://aplicaciones.sre.gob.mx/tratados/ARCHIVOS/CHINA-Extradicion0001.pdf",
+                    "https://www.senado.gob.mx/64/gaceta_del_senado/documento/23110"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dipublico.org/tratados-y-documentos-internacionales-2/mexico-tratados-y-doc-int/",
+                    "https://www.gob.mx/se/prensa/mexico-y-china-firman-14-acuerdos-bilaterales"
+                ],
+                "note": "Mexico hasn\u2019t signed any cooperation agreements with the PRC on combating terrorism. There are 17 agreements but are not related to terrorism.\n",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.infobae.com/america/mexico/2019/05/03/como-los-carteles-mexicanos-se-unieron-a-la-mafia-de-hong-kong-para-dominar-el-trafico-mundial-de-drogas/",
+                    "https://www.thesun.co.uk/news/8984097/mexican-cartels-teaming-triads-dominate-world-drugs-trade/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence of economic espionage targeting the private sector.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomista.com.mx/tecnologia/Grupos-chinos-han-realizado-ciberespionaje-contra-Mexico-Mandiant-20190326-0015.html",
+                    "https://teleinformatica.mx/2020/07/ataques-ciberneticos-provienen-de-china-y-rusia/",
+                    "http://dnf.com.mx/ataques-ciberneticos-provienen-de-china-y-rusia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "The triads have connected with narcotic cartels in Mexico, so Mexican Cartels are on the visible side, and they usually used violence, but there\u2019s no evidence that this violence has been used to coerce, intimidate or punish Chinese dissidents.",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.chinacelacforum.org/esp/zgtlmjlbgjgx_2/t1556027.htm",
+                    "https://www.eleconomista.com.mx/politica/Vigilancia-biometrica-el-tortuoso-camino-de-Coahuila-hacia-el-reconocimiento-facial-20201211-0046.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that Mexico has done joint patrols with China. Mexico has also refused to joint patrols with the USA.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that this indicator has appeared in Mexico.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://portales.segob.gob.mx/work/models/PoliticaMigratoria/CEM/Estadisticas/Sintesis_Graficas/Sintesis_2019.pdf",
+                    "http://portales.segob.gob.mx/work/models/PoliticaMigratoria/CEM/Estadisticas/Sintesis_Graficas/Sintesis_2020.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There\u2019s no evidence that Mexico has extradited or deported individuals to the PRC, even though Mexico has an extradition treaty with China.\n",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Mexico has a GDP per capita of US $8,329 and a total population of 128,649,565 people.",
+    "description-2": "Mexico established diplomatic relations with the People Republic of China in 1972. Mexico was ranked 143rd in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 60/100."
+}

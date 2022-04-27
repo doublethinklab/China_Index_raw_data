@@ -1,0 +1,999 @@
+{
+    "name": "Brazil",
+    "partner": "Data Privacy Brasil",
+    "year": "2021",
+    "GDP": "$6,796.84",
+    "population": "212.5M",
+    "original": "136/384",
+    "ranking": "22",
+    "overall": "35%",
+    "effect": "21%",
+    "exposure": "46%",
+    "pressure": "15%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "There are two active sites in Brazil linked to World Chinese Media. The first is the South American Overseas Chinese News Network, located in the city of S\u00e3o Paulo. The second is the Brazilian Chinese Network, also with an office in the city of S\u00e3o Paulo. Information available on the World Chinese Media website (Reference 1).\n",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/",
+                    "http://www.br-cn.com/",
+                    "https://www.brasilcn.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "On the Belt and Road News Alliance website there is no Brazilian media organization in its membership list. On the Belt and Road Media Cooperation Alliance/Union website there is also nothing in relation to Brazil. In local sources too there is no evidence of participation of a Brazilian media organization in the Bealt and Road News Alliance or in the Belt and Road Media Cooperation Alliance/Union.\n",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.uol.com.br/tilt/noticias/redacao/2019/08/11/harmonyos-1-aparelho-com-sistema-da-huawei-e-tv-para-nao-so-ver-tv.htm",
+                    "https://canaltech.com.br/mercado/huawei-mira-em-expansao-fora-da-china-com-70-mil-lojas-de-varejo-ate-2017-40117/"
+                ],
+                "note": "It was found the case of the reporter Helton Sim\u00f5es Gomes, from the UOL news portal, who, according to the report, traveled to the city of Dongguan (China) at the invitation of Huawei. The same with the reporter Rafael Romer, from the Canal Tech portal, who also traveled to Shenzhen, according to a report, at the invitation of Huawei. More evidence was looked for, first through search engines and later on Brazilian media sites, on the official press site of Brazil, Di\u00e1rio Oficial da Uni\u00e3o, and on the website of reporters without borders, but no concrete evidence of journalists, influencers or a media group that traveled with expenses paid by China was found. In the journalistic environment, invitations from foreign companies and governments are a common practice in Brazil. In this sense, we found examples from IBM, Apple, Samsung.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "It was searched for evidence first through search engines and later on Brazilian media sites (O Globo, Folha de S\u00e3o Paulo and Estad\u00e3o), on the official Brazilian press website, Di\u00e1rio Oficial da Uni\u00e3o, and on the website of reporters without borders, but no evidence was found of journalists, influencers or media groups receiving training in China. In addition, Empresa Brasil de Comunica\u00e7\u00e3o (EBC) was asked, through the Brazil's Access to Information Law, about sending personnel to receive training in China. In response, the EBC informed that despite the partnership with the China Media Group (CMG) there was no exchange of personnel for training neither from Brazil to China nor from China to Brazil.\n",
+                "evidence_urls": [
+                    "Law on Access to Information"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "There are cooperation agreements between China Media Group (CMG) and Brazilian media organizations such as Bandeirantes group, Globo group and Empresa Brasil de Comunica\u00e7\u00e3o (EBC). The agreement with the EBC provides for the exchange of content and technology, joint productions, cooperative broadcasts and personnel training. The three agreements were signed in 2019 and are aimed, above all, at presenting Chinese culture to the Brazilian public. News from Chinese sources, such as Xinhua, does not appear in the major Brazilian media. On the other hand, CCTV has a partnership with BAND, which broadcasts CCTV Latin America reports in Portuguese.\n",
+                "evidence_urls": [
+                    "https://agenciabrasil.ebc.com.br/en/geral/noticia/2019-11/brazils-and-chinas-communication-firms-expand-cooperation",
+                    "https://bandnewsfm.band.uol.com.br/2019/11/11/grupo-bandeirantes-assina-parceria-com-o-china-media-group-maior-grupo-de-midia-do-pais-asiatico/",
+                    "https://cdn.cfr.org/sites/default/files/pdf/trevisan-cfr-cebri-paper_0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no information on media groups in Brazil that belong to the Chinese media and there was also no evidence of Chinese capital participation in Brazilian media organizations. On the other hand, according to chapter V, article 222, paragraph 2 of the Brazilian Constitution, the editorial responsibility and the activities of selection and direction of the programming broadcast in Brazil are exclusive to native Brazilians or naturalized for more than 10 years, in any medium of Social Communication. In addition, evidence was sought from sources of the Brazilian government, at the Ministry of Communications, through the Brazil's Law on Access to Information, and no record of Chinese capital participation in radio and open TV broadcast vehicles was found.\n",
+                "evidence_urls": [
+                    "http://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+                    "Law on Access to Information"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence was found on cheap or free contents provided by PRC state-fund media in Brazil.",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "It was searched for evidence first through search engines and later on Brazilian media sites (O Globo, Folha de S\u00e3o Paulo and Estad\u00e3o), on the official Brazilian press website, Di\u00e1rio Oficial da Uni\u00e3o, and on the website of reporters without borders, but no evidence of PRC propaganda in Brazil in printed newspapers, news portals or on social media was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence was found of journalists in the country who have come under pressure from the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence was found of Brazilian media that have censored criticism of the PRC government.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No local figures were found who cast doubts on human rights abuses in the digital repository of the main Brazilian newspapers.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "There is a parliamentary group Brazil - PRC, composed of 32 Brazilian deputies. The parliamentary group was founded in 1993. In the Brazilian senate there is also a parliamentary group, created in 2004.\n",
+                "evidence_urls": [
+                    "https://www2.camara.leg.br/legin/int/rescad/1993/resolucaodacamaradosdeputados-47-30-junho-1993-321226-norma-pl.html",
+                    "https://legis.senado.leg.br/norma/592946/publicacao/15678637"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "In September 2020, representatives of the PSB, PCdoB, PCB and PT debated virtually with representatives of the Chinese Communist Party on Covid-19's control and prevention strategies. The meeting was promoted by the Chinese Communist Party. In February 2021 there was another virtual meeting between the Workers' Party (PT) and the Chinese embassy in Brazil.\n",
+                "evidence_urls": [
+                    "http://www.psb40.org.br/noticias/em-encontro-promovido-pelo-partido-comunista-chines-psb-debate-estrategias-de-controle-e-prevencao-do-coronavirus/",
+                    "https://pt.org.br/em-reuniao-com-embaixada-partidos-de-oposicao-reforcam-parceria-brasil-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "Through an international cooperation agreement between the Government of the State of Goi\u00e1s and the Province of Gans\u00fa, in 2019, two state employees were selected for an internship, training and capacity building program in China. About the diplomats, the MRE was questioned, through the Brazil's Law on Access to Information, but so far, no response has been received.  \n",
+                "evidence_urls": [
+                    "https://www.goias.gov.br/servico/25-executivo/118217-governo-de-goi%C3%A1s-sorteia-servidores-que-far%C3%A3o-interc%C3%A2mbio-na-china.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "The Chinese ambassador to Brazil, Yang Wanming, responded to comments by Federal Deputy Eduardo Bolsonaro, in which the deputy accused China and Chinese companies of engaging in espionage and, in addition, the deputy supported the clean network initiative (to ban Huawei from 5G of Brazil). In response, the Chinese ambassador said: \"they will bear the negative consequences and bear the historic responsibility of disturbing the normality of the China-Brazil partnership.\" In addition, tensions arose over an decisive issue, which is 5G and the technological dispute between the United States and China. Ambassador Yang Wanming responded in another episode again to federal deputy Eduardo Bolsonaro, then leader of the Committee on Foreign Affairs and National Defense of the Chamber of Deputies, after the Brazilian parliamentarian blamed the Chinese government for the Covid-19 pandemic. In this reply, which was given via Twitter, the Chinese representative in Brazil strongly repudiated the comment from Eduardo Bolsonaro and demanded an apology. It should also be noted that the Chinese ambassador's responses were reactions to attacks by Brazilian parliamentarians.\n",
+                "evidence_urls": [
+                    "http://br.china-embassy.org/por/sghds/t1835292.htm",
+                    "https://twitter.com/WanmingYang/status/1240441812105519109"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence was found of visas being denied to Brazilian citizens, or of episodes of hostile treatment by China for political reasons. The research was carried out on search engines and in the main newspapers in Brazil (O Globo, Estad\u00e3o and Folha de S\u00e3o Paulo).\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "There was no statement from the Brazilian government regarding Taiwan's participation in the WHO. The research was carried out on search engines and in the main newspapers in Brazil (O Globo, Estad\u00e3o and Folha de S\u00e3o Paulo). However, Taiwan's foreign ministry has issued a thank you note to some countries for supporting Taipei's candidacy to join WHO as an observer. Among the countries, the note mentions Brazil. On the Brazilian side, the Ministry of Foreign Affairs of Brazil was asked about the country's position in relation to Taiwan's participation as an observer at the WHO. The response was: \"Brazil does not oppose the participation of Taiwanese experts at the technical level in WHO meetings, with prior knowledge of the Chinese government, but does not support the participation of Taiwanese political representatives as WHO observers. Whenever the topic is debated at WHO, Brazil follows the Chinese position. In this context, it is necessary to bear in mind the World Health Assembly Resolution 25.1, dated May 1972 (which decided to expel Taiwan from the WHO), as well as the practice of the AMS, as consolidated in past sessions.\"\n",
+                "evidence_urls": [
+                    "https://nspp.mofa.gov.tw/nsppe/content_tt.php?unit=2&post=177381&unitname=Taiwan-Today&postname=MOFA-thanks-Latin-America%E2%80%99s-Formosa-Club-for-supporting-WHO-bid",
+                    "Law on Access to Information"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "3",
+                "evidence": "In 2019, Brazil voted for the Chinese representative for the post of director-general of FAO. The Chinese candidate was elected. In 2013 Brazil also supported the re-election of Li Yong as director general of UNIDO (United Nations Industrial Development Organization).\n",
+                "evidence_urls": [
+                    "https://g1.globo.com/economia/agronegocios/noticia/2019/06/20/brasil-apoia-candidato-chines-para-substituir-graziano-lideranca-da-fao.ghtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "According to a survey by The Diplomat portal, Brazil remained silent in 2016 about the dispute in the South China Sea. Furthermore, while Brazil's traditional position is one of support for China's territorial integrity, the country tends to remain silent. In addition, no evidence was found of a manifestation by Brazil on other territorial issues of the PRC.\n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2016/07/who-supports-china-in-the-south-china-sea-and-why/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No evidence was found of denunciation or support from the Brazilian government on the Uighur issue. Therefore, it is assumed that Brazil remained silent. The research was carried out on search engines, in the main newspapers in Brazil (O Globo, Estad\u00e3o and Folha de S\u00e3o Paulo) and on the website of the Brazilian Ministry of Foreign Affairs.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence was found of denunciation or support from the Brazilian government on the Tibet issue, at least in the last 10 years. The research was carried out on search engines, in the main newspapers in Brazil (O Globo, Estad\u00e3o and Folha de S\u00e3o Paulo) and on the website of the Brazilian Ministry of Foreign Affairs.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No evidence was found of criticism from the Brazilian government on the impositions brought by the the National Security Law in Hong Kong. The research was carried out on search engines and in the main newspapers in Brazil (O Globo, Estad\u00e3o and Folha de S\u00e3o Paulo).\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Since 2016, the University of S\u00e3o Paulo (USP) has had a scientific technical cooperation agreement with Huawei do Brasil. In 2017, the University of Bras\u00edlia signed a similar partnership. Huawei has partnerships with other Brazilian universities, such as the Federal University of Campina Grande (UFCG), Federal University of Alagoas (UFAL) and the Pontifical Catholic University of Rio Grande do Sul (PUC-RS). In addition, through a partnership with Capes (Coordination for the Improvement of Higher Education Personnel), a foundation linked to the Ministry of Education, Brazil is part of Huawei's global program \"Seeds for the Future\", which aims to train university students in advanced information and communication technologies. In addition, Huawei's global program provides travel for an exchange period in China for selected Brazilian students, with all expenses paid by Huawei. Until 2019, around 100 Brazilian students participated in this Huawei exchange.\n",
+                "evidence_urls": [
+                    "http://ibe.usp.br/2016/05/16/usp-firma-acordo-de-cooperacao-tecnico-cientifica-com-huawei-do-brasil-telecomunicacoes/",
+                    "https://noticias.unb.br/publicacoes/76-institucional/1749-unb-e-huawei-assinam-memorando-de-entendimento",
+                    "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-anuncia-programa-de-estagio-com-multinacional-chinesa"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "According to Luis Antonio Paulino (2019), Brazil is the country with the largest presence of the Confucius Institute in Latin America and the Caribbean. Of the 41 Confucius Institutes that exist in Latin America and the Caribbean, 10 are in Brazil.\n",
+                "evidence_urls": [
+                    "https://ieei.unesp.br/index.php/IEEI_MundoeDesenvolvimento/article/view/44"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "According to Resolution No. 3, of November 21, 2018, of the National Council of Education, which updates the National Curriculum Guidelines for Secondary Education, English must be offered, and the teaching of other foreign languages of optional character may be included, Spanish is preferable. However, the Professor Fernando Duarte Rabelo State Center for Full Time, in the state of Esp\u00edrito Santo, offers Mandarin classes in partnership with a Confucius Institute in Brazil. Classes are taught by Chinese teachers. The state of Esp\u00edrito Santo bears the costs of teachers.\n",
+                "evidence_urls": [
+                    "https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/51281622",
+                    "https://g1.globo.com/es/espirito-santo/noticia/2019/02/17/mandarim-passa-a-integrar-curriculo-de-escola-publica-no-es.ghtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No evidence was found of think tanks or research centers that are linked to Chinese networks or associations. It was first looked for on a search engine for specific terms. Then, It was searched by think tanks or research centers in Brazil on the websites of the Silk Road Think Tank Association, Silk Road Think Tank Network, Belt and Road Studies Network, University Alliance of the Silk Road, University Consortium of the 21st Century Maritime Silk Road, but no evidence was found of an institution in Brazil that belongs to these networks affiliated to the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No evidence was found of think tanks or academic research centers that have received financial support from the PRC. A search was carried out, using these same terms, on the websites of CEBRI, Funda\u00e7\u00e3o Instituto Fernando Henrique Cardoso, FGV and IPEA, four large think tanks in Brazil, and also found no evidence of financial support from the PRC. Other than that, in October of 2019, through Capes, Brazil signed an international collaboration agreement with the National Natural Science Foundation of China (NSFC), China's innovation promotion and research agency. FGV also has partnerships with Chinese think tanks, but there is no mention of financial support.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "No concrete/official evidence of recruitment of Brazilians was found, nor a recruiting list on the Thousand Talents Program websites. The Changjiang Scholars Program website was down. However, it was found the name of a Brazilian academic who in his curriculum states that he was selected by the Thousand Talents Program.\n",
+                "evidence_urls": [
+                    "http://lattes.cnpq.br/9745050077461951"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://br.china-embassy.org/por/whjy/t1681754.htm",
+                    "https://direitorio.fgv.br/noticia/pedro-steenhagen-pesquisador-do-nucleo-de-estudos-brasil-china-e-admitido-no-phd-da"
+                ],
+                "note": "For the 2019/2020 academic year, the China Scholarship Council granted, through the Embassy of China in Brazil, 14 scholarships (full grant) for Brazilian students in China. According to the China Scholarship Council website, China's embassies in the countries are the ways to apply for their scholarships. Also, in 2021, Pedro Steenhagen was approved, with a full scholarship from the China Scholarship Council (CSC), in the Ph.D. in International Politics of the School of International Relations and Public Affairs (SIRPA) of the Fudan University. However, we are not sure if the scholarship include paid trip. In addition to that, we know about trips paid by the PRC to scholars, especially from Funda\u00e7\u00e3o Getulio Vargas, but we do not have any evidences on it.",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "The reason for denying a visa is Chinese administrative data. The searches found no evidence of academics that had been denied visas to China. ",
+                "evidence_urls": [],
+                "note": "It may be interesting to review this indicator, considering that this type of information is confidential to China.\n",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence was found of Chinese entities involved in the elaboration or revision of academic or school curricula in Brazil. The partnerships of Chinese entities with Brazilian universities evaluated do not cover curricular issues, being focused on partnerships/cooperation in research/extension.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "The contract between the government of Paran\u00e1 and the Chinese state-owned pharmaceutical company Sinopharm took place amidst the race for immunization against Covid-19, which demonstrates the relevance of the approximation. The contract between the Chinese consortium, which has a state-owned company China Communications Construction Company, and the government of the state of Bahia for the construction of a bridge with an estimated cost of R$7.7 billion. The contract between the state of S\u00e3o Paulo and SinoVac laboratory was not considered, as it is a private Chinese company.\n",
+                "evidence_urls": [
+                    "http://www.seti.pr.gov.br/Noticia/Governo-assina-termo-para-producao-de-vacina-contra-Covid",
+                    "https://www.pge.ba.gov.br/procurador-geral-acompanha-assinatura-do-contrato-para-construcao-da-ponte-salvador-itaparica/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "Porto Alegre, the capital of the state of Rio Grande do Sul, has the Chinese city of Suzhou as its sister city. The capital of China, Beijing, is a sister city of S\u00e3o Paulo and Rio de Janeiro. Curitiba has had Hangzhou as its sister city since 1999. According to the Brazil-China Chamber of Commerce and Industry, more than 20 Brazilian cities have Chinese cities as sister cities.\n",
+                "evidence_urls": [
+                    "http://www2.portoalegre.rs.gov.br/expo2010/default.php?p_noticia=127905",
+                    "http://legislacao.prefeitura.sp.gov.br/leis/lei-14471-de-10-de-julho-de-2007",
+                    "https://leismunicipais.com.br/a/rj/r/rio-de-janeiro/lei-ordinaria/2015/591/5919/lei-ordinaria-n-5919-2015-dispoe-sobre-a-consolidacao-da-legislacao-municipal-referente-as-cidades-irmas-da-cidade-do-rio-de-janeiro-e-da-outras-providencias"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "In 2019, there were two trips by representatives of the legislative power from Brazil to China, with expenses paid by the Chinese government. A delegation of senators visited Huawei. The delegation of PSL deputies (supporters of the Bolsonaro government) represented a step on the part of the Chinese government towards closer ties with Brazil, despite the alignment of these deputies with the Brazilian foreign policy agenda of Bolsonaro of closer ties with the United States.\n",
+                "evidence_urls": [
+                    "https://legis.senado.leg.br/diarios/ver/102062?sequencia=31&sequenciaFinal=40",
+                    "https://www1.folha.uol.com.br/mercado/2019/01/bancada-do-psl-vai-a-china-importar-sistema-que-reconhece-rosto-de-cidadaos.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "There was no evidence of a meeting of Brazilian politicians who visited the PRC and had meetings with PRC officials and also with think tanks. However, considering only a visit to China with a meeting with PRC officials, in 2019 there was a trip by a group of senators (already informed in the previous indicator), paid for by the PRC. According to a report on the Uol portal, the senators also met with representatives of the Chinese Communist Party. There was also the visit of vice president Hamilton Mour\u00e3o in May 2019, with the meeting of the Brazilian vice president with the president of the PRC, Xi Jinping. Also in 2019, in October, the president of Brazil, Jair Bolsonaro, was in China and also met with Xi Jinping. \n",
+                "evidence_urls": [
+                    "https://economia.uol.com.br/noticias/bloomberg/2019/10/08/viagem-a-china-com-tudo-pago-impressiona-parlamentares.htm",
+                    "https://www.gov.br/planalto/pt-br/conheca-a-vice-presidencia/agenda-vice-presidente/2019-05-24",
+                    "https://agenciabrasil.ebc.com.br/politica/noticia/2019-10/bolsonaro-se-encontra-com-presidente-chines-para-assinatura-de-acordos"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "evidence": "In March 2019, a total of 16 police officers from S\u00e3o Paulo participated of a training at the Department of Public Security of China, being 8 Police Delegates and 7 Military Police Officers. This course took place in Jiangsu Province and lasted 15 days. In 2017, the civil police of the state of Minas Gerais carried out exchanges with the PRC police in the city of Xuzhou. Similar examples of bilateral and multilateral cooperation were found between the Public Security Secretariat of the State of S\u00e3o Paulo, in partnership with the New York City Police (USA) and the Ministry of Justice and Public Security of Brazil with Interpol, for example.\n",
+                "evidence_urls": [
+                    "https://www.policiacivil.sp.gov.br/portal/faces/pages_home/noticias/noticiasDetalhes?contentId=UCM_044799&collectionId=358412565221033554&rascunhoNoticia=0&_afrLoop=343180767870765&_afrWindowMode=0&_afrWindowId=null#!%40%40%3F_afrWindowId%3Dnull%26collectionId%3D358412565221033554%26_afrLoop%3D343180767870765%26contentId%3DUCM_044799%26rascunhoNoticia%3D0%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dihoty01zm_4",
+                    "https://www.detran.mg.gov.br/sobre-o-detran/sala-de-imprensa/noticias/pcmg-realiza-intercambio-com-a-policia-chinesa-e-assina-memorando-de-cooperacao-policial"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "The Brazilian Constitution, in article 17, prohibits political parties from receiving financial resources from a foreign entity or government. Still, a survey was carried out on PRC donations to politicians or political parties in Brazil and found no evidence.\n",
+                "evidence_urls": [
+                    "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence was found of groups linked to United Front Work Department (UFWD) that organized fundraising campaigns or provided other forms of support to local politicians or parties.\n",
+                "evidence_urls": [
+                    "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence was found of groups linked to United Front Work Department (UFWD).\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "The president of Brazil, Jair Bolsonaro, was the protagonist in several episodes of accusations directed at the Chinese government. The more pro-China wing, especially Vice President Hamilton Mour\u00e3o, has, at times, a more pragmatic stance, but does not publicly express properly positive views of China. Mour\u00e3o is more concerned with maintaining the normality of relations, above all, trade between China and Brazil.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "No evidence was found of Brazilian politicians who have received benefits from individuals or entities linked to the PRC overtly or secretly. It is known that Brazilian politician Eduardo Paes was vice president of BYDmotors in Latin America, a Chinese manufacturer of electric cars. However, there is no evidence on the criteria for hiring Eduardo Paes. In addition, it should be noted that BYD motors is a private company headquartered in Shenzhen. We found on some non-renowned websites and on Revista Veja (reference 1) the information that the former president Michel Temer was formally hired by Huawei to prepare a legal opinion on the company's entry into the Brazilian market to dispute concessions around 5G transmission networks. Informally, according to a news report, the former president was also hired because \"he maintains good relations with President Jair Bolsonaro\".",
+                "evidence_urls": [
+                    "https://veja.abril.com.br/blog/radar-economico/que-tipo-de-servico-michel-temer-prestou-a-huawei/",
+                    "https://oglobo.globo.com/rio/derrotado-nas-urnas-eduardo-paes-reassume-cargo-executivo-em-fabricante-chinesa-de-veiculos-eletricos-23362273"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.rj.gov.br/secretaria/NoticiaDetalhe.aspx?id_noticia=13091&pl=governo-do-rio-e-huawei-debatem-parcerias-tecnol%C3%B3gicas",
+                    "https://www.ceara.gov.br/2019/04/25/china-governo-do-ceara-firmara-parceria-com-gigante-da-tecnologia-em-seguranca/"
+                ],
+                "note": "The State of Rio de Janeiro hosted Huawei representatives to build a partnership agenda covering public safety issues. However, no contract negotiations were closed. Along the same lines, the government of Cear\u00e1 has been approaching the Chinese company Dahua Technology to supply video surveillance products and services, but so far, no negotiations have been closed. Both are pilot projects.",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "Since 2009, China has been Brazil's main trading partner.\n",
+                "evidence_urls": [
+                    "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2019/11/china-e-maior-parceiro-comercial-do-brasil-no-mundo",
+                    "http://comexstat.mdic.gov.br/pt/geral/34723",
+                    "http://comexstat.mdic.gov.br/pt/geral/34725"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "The biggest creditor is the BIRD (International Bank for Reconstruction and Development) with a 26.6% share of Brazil's external debt (page 5).\n",
+                "evidence_urls": [
+                    "https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:37089"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "China is the main destination for Brazilian exports of iron ore and oil.\n",
+                "evidence_urls": [
+                    "https://valor.globo.com/brasil/noticia/2020/08/14/china-e-maior-mercado-de-7-dos-10-principais-itens-exportados-pelo-brasil.ghtml",
+                    "https://balanca.economia.gov.br/balanca/mes/2021/BCE020A.xlsx"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "In 2018, the terminal operator China Merchants Port (CMPort) purchased the Port of Paranagu\u00e1 and is expected to operate and control 90% of the container terminal. In 2017, the S\u00e3o Sim\u00e3o Hydroelectric Power Plant was auctioned by SPIC Pacific Energy. Since then, the plant has been operated by the Chinese company.\n",
+                "evidence_urls": [
+                    "https://www12.senado.leg.br/noticias/materias/2018/02/22/parceria-com-empresa-chinesa-para-controle-de-porto-e-firmada-no-congresso",
+                    "http://www.aneel.gov.br/home?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=%2F&_101_assetEntryId=15767152&_101_type=content&_101_groupId=656877&_101_urlTitle=hidreletrica-sao-simao-e-arrematada-pela-chinesa-spic-pacific-energy&inheritRedirect=true",
+                    "https://www.gov.br/mme/pt-br/assuntos/noticias/leilao-concede-todas-as-quatro-usinas-com-bonus-de-r-12-13-bi"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Brazil integrates the AIIB as a non-regional member.\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                    "https://agenciabrasil.ebc.com.br/en/internacional/noticia/2015-03/brazil-join-asian-infrastructure-bank"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "A list of members of the Belt and Road Industrial and Commercial Alliance (BRICA) can be found on the website of the China Federation of Industrial Economics. In this list, the National Confederation of Industry of Brazil (CNI) is included as a member. However, it is worth mentioning that in local sources, and especially on the CNI website, there is no mention to BRICA. The CNI was then asked about this partnership with BRICA. CNI responded that: \"although CNI is part of BRICA, there has been no relevant participation in any initiative since 2017. We have been focusing our agenda within the scope of the BRICS Business Council, which has efficiently met the demands of the Brazilian private sector\".\n",
+                "evidence_urls": [
+                    "http://www.cfie.org.cn/index/information/show/id/1666.html",
+                    "Confedera\u00e7\u00e3o Nacional da Ind\u00fastria  (National Industry Confederation)"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "Since 2019, China has imposed an anti-dumping tariff on Brazilian chicken imports. The measure is expected to last 5.\n",
+                "evidence_urls": [
+                    "https://economia.estadao.com.br/noticias/geral,china-anuncia-tarifas-de-ate-32-4-ao-frango-brasileiro-por-5-anos,70002722443"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence of boycott, harassment or threats by the Chinese government was found in response to any corporate support for causes considered sensitive to China.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "The possibility of a free trade agreement between Brazil and China was raised, however this type of approximation encounters internal resistance in Brazil and also depends on Mercosur. Since 2019, there has been no further news about this supposed agreement that was being negotiated, according to Minister Paulo Guedes. In addition, on the website of SisComex (Federal Government Foreign Trade Systems), there is no listed trade agreements between Brazil and China.\n",
+                "evidence_urls": [
+                    "http://siscomex.gov.br/acordos-comerciais/",
+                    "https://economia.estadao.com.br/noticias/geral,guedes-fala-sobre-possibilidade-de-area-de-livre-comercio-com-a-china,70003087943"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "The searches found no evidence that the Brazilian government removed or relaxed regulatory restrictions or established special economic zones to attract Chinese investment. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence was found of PRC-connected entities that requested infrastructure or \"land\" for the payment of debts.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "It is known that China Telecom in 2019 showed interest in buying Oi, but the interest did not materialize in the purchase. In addition, according to Decree 2,617, of June 5, 1998, in its article 1: \"Concessions, permissions and authorizations for the exploitation of telecommunications services of collective interest may be granted or issued only to companies incorporated under Brazilian law , with registered office and administration in the country, in which the majority of the shares or shares with voting rights belong to natural persons resident in Brazil or to companies incorporated under Brazilian law and with registered office and administration in the country\u201d. Even so, it was searched in Anatel's Raking (National Telecommunications Agency), with data from March 2021, on the operators with the largest number of subscribers of telecommunications services (Fixed Broadband, Mobile Telephony, Pay TV and Fixed Telephony ). In this Ranking, the main companies in the telecommunications market in Brazil are: Oi, Claro, Vivo, Tim and SKY/AT&T. None of these four companies are controlled by Chinese companies.\n",
+                "evidence_urls": [
+                    "https://informacoes.anatel.gov.br/paineis/acessos",
+                    "http://www.planalto.gov.br/ccivil_03/decreto/d2617.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Huawei has been operating in Brazil since 1998 and is the largest supplier of telecommunications equipment, including 4G.\n",
+                "evidence_urls": [
+                    "https://www.istoedinheiro.com.br/banir-huawei-sera-custoso-e-atrasara-rede-de-5g-no-pais/",
+                    "https://economia.estadao.com.br/noticias/geral,brasil-deve-manter-huawei-em-leilao,70003020906"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "At least on the local government level, Brazilian government allow Huawei to become their 5G partner. ",
+                "evidence_urls": [
+                    "https://www.storm.mg/article/1731610",
+                    "https://globalvoices.org/2021/05/28/why-huawei-was-almost-excluded-from-the-5g-race-in-brazil/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "No law has been found to restrict PRC connected entities from providing technological equipment or services to the Brazilian government in the areas of military or security services. More than that, in 2019, for example, the telecommunications company Oi participated in a pilot project with the Public Security Secretariat of the state of Rio de Janeiro to use Huawei's facial recognition cameras. Campinas and Salvador also use this technology. We looked for evidence of technological equipment that the Brazilian army could use, for example, but we didn't find anything.\n",
+                "evidence_urls": [
+                    "https://oglobo.globo.com/rio/big-brother-da-vida-real-sistema-de-reconhecimento-facial-da-pm-comeca-ser-testado-na-sexta-em-copacabana-23481555"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "Pilot projects were found among some city halls for the deployment of Huawei's facial recognition cameras. As the question talks about collaboration, we considered the experimental projects of the municipality of Campinas and the Public Security Department of Bahia. We believe this is significant because, as highlighted in the comment on Domestic Politics indicator 11, the State of Rio de Janeiro and Cear\u00e1 have already mobilized to acquire video surveillance equipment from Chinese companies. There is an expectation that these pilot projects in Brazil will move towards the effective implementation of these technologies, especially for public security issues.\n",
+                "evidence_urls": [
+                    "https://www1.folha.uol.com.br/tec/2018/10/chinesa-huawei-faz-parceria-com-oi-para-cameras-de-reconhecimento-facial.shtml",
+                    "https://www.campinas.sp.gov.br/noticias-integra.php?id=35659",
+                    "http://www.ssp.ba.gov.br/2019/05/5695/Bahia-apresenta-resultado-do-Reconhecimento-Facial-na-China.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Smart cities encompass video surveillance systems, in addition to many other elements dependent on IoT, 5G and artificial intelligence structures. It should also be noted that Brazil is still in the process of approving a notice for the 5G auctions. The issue of smart cities, which is quite comprehensive, is on the horizon, but still does not appear on the agenda with prominence on the national scene. Objectively, we consider the previous indicator to answer this one, since video surveillance systems make up smart cities systems. Still, evidence was sought that focused on other elements of smart cities. Thus, we return to reference the examples of the city of Rio de Janeiro, Campinas and the state of Bahia that used Huawei's facial recognition cameras. Thus, partnerships for video surveillance systems are considered as a smart cities system. It is also noteworthy that representatives of the state of Bahia and the city of Campinas attended the Smart City Forum, held in the Chinese city of Shenzhen in 2019. As there are 3 large cities, we chose the answer \"Few, but significant\".\n",
+                "evidence_urls": [
+                    "https://www1.folha.uol.com.br/tec/2018/10/chinesa-huawei-faz-parceria-com-oi-para-cameras-de-reconhecimento-facial.shtml",
+                    "https://www.campinas.sp.gov.br/noticias-integra.php?id=35659",
+                    "http://www.ssp.ba.gov.br/2019/05/5695/Bahia-apresenta-resultado-do-Reconhecimento-Facial-na-China.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence was found of financial institutions in Brazil using the China Cross-Border Interbank Payment System (CIPS). The search results indicate that in Brazil, international transfer operations are carried out by the Society for Worldwide Interbank Financial Telecommunication (SWIFT). There is an order from 2018, from the Central Bank of Brazil, confirming that two Brazilian civil servants attended a meeting at the Central Bank of China and \"watch a presentation on the Chinese experience with the Cross\" border Interbank Payment System\".\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "In 2017, DiDi Chuxing, the company that owns the largest transport app in China, invested in 99 (Taxi). In October 2018, Tecent invested US$ 180 million in Brazilian fintech NuBank. These are two big investments confirmed in Brazil.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-tencent-holdings-nubank-m-a-idUKKCN1MI20L",
+                    "https://www.investe.sp.gov.br/noticia/didi-chuxing-da-china-investe-no-aplicativo-de-taxis-99/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "Only one MOU was found between Huawei and BioTIC S.A for the implementation of the first permanent 5G-test space, on national soil, with Huawei technology signed in June 2019. \n",
+                "evidence_urls": [
+                    "https://www.huawei.com/br/news/br/2019/junho/mou-para-fomentar-o-ambiente-da-inovacao-em-5g",
+                    "https://www.agenciabrasilia.df.gov.br/2021/05/06/impulso-tecnologico-por-uma-brasilia-mais-moderna/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "According to a survey by the Mobile Time portal, the main messaging apps in Brazil in February 2021 are: Whatsapp, Instagram, Facebook Messenger, Telegram and Signal. However, when it comes to social media apps, Tik Tok appears in fourth position in a survey released by the Mobile Time portal in December 2020.\n",
+                "evidence_urls": [
+                    "https://www.mobiletime.com.br/pesquisas/mensageria-no-brasil-fevereiro-de-2021/",
+                    "https://www.mobiletime.com.br/pesquisas/uso-de-apps-no-brasil-dezembro-de-2020/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "The Brazilian government has already manifested itself in favor of BeiDou in the context of the VII BRICS Summit in 2015, held in the city of Uf\u00e1, Russia. According to the Ufa declaration (2015): \"We recognize that our [BRICS members] countries can benefit from opportunities for space cooperation in order to promote the application of relevant technologies for peaceful purposes. We will intensify our cooperation in areas of joint application of space technologies, satellite navigation, including GLONASS and Beidou, and space science\". In addition, it is known that in 2014 the first Brazilian Station for Monitoring the Chinese Beidou Satellite Positioning System was installed on the campus of the National Observatory (ON), in Rio de Janeiro. Another detail, in 2018 a servant of the Brazilian Space Agency (AEB) was sent to participate in a technology conference organized by the National Center for Remote Sensing of China (NRSCC) which focused on the technology and applications of the BeiDou system.\n",
+                "evidence_urls": [
+                    "https://www.gov.br/mre/es/canales_servicio/prensa/notas-a-la-prensa/vii-cupula-do-brics-declaracao-de-ufa-ufa-russia-9-de-julho-de-2016",
+                    "https://www.gov.br/aeb/pt-br/assuntos/noticias/estacao-no-on-fornece-dados-de-satelites-a-brasileiros-e-chineses",
+                    "http://www.portaltransparencia.gov.br/viagens/42726337"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "In Brazil, there is the Brazilian Association for the Promotion of the Peaceful Reunification of China, the Hongmen Do Brasil Association (in S\u00e3o Paulo), the Association of Overseas Chinese in Brazil for the Promotion of the Peaceful Reunification of China and the China Pro-Reunification Association (in Rio de Janeiro).\n",
+                "evidence_urls": [
+                    "http://portuguese.people.com.cn/n3/2017/0616/c309809-9229587.html",
+                    "https://ccbcbr.org/zh-CN/post/ccbc-participou-do-simposio-da-comunidade-chinesa-do-discurso-de-xi-jinping-sobre-taiwan",
+                    "http://portuguese.cri.cn/1721/2017/07/04/1s233860.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "Brazil is not on the list of countries with members of the United World Chinese Association. The consultation was made on the official website of the United World Chinese Association. In addition, no evidence of membership of the United World Chinese Association was found.\n",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "In 2018, representatives of the Brazilian Workers' Center (CTB) participated in a course for training Latin American youth in China. The course was promoted by the World Trade Union Federation (WSF) with the Chinese trade union center ACFTU. In previous years, the CTB had already participated in other events in China, as well as having received ACFTU personnel who visited the Brazilian union. This was the most recent case found in the survey. But in 2014, for example, the CUT (Single Workers Center), the largest union center in Brazil, and the UGT (General Union of Workers) carried out visits to the ACFTU.\n",
+                "evidence_urls": [
+                    "https://ctb.org.br/noticias/internacional/ctb-participa-de-curso-de-formacao-para-jovens-latino-americanos-na-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "As occurred in indicators 7 and 8 of domain 4 (Domestic Politics) there was no evidence of anything that relates the United Front Work Department (UFWD) with Brazil.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "At the end of 2018, the FENAJ (National Federation of Journalists) signed a cooperation agreement with ACJA \u2013 All-China Journalists Association, for the exchange of information with Chinese journalists on the economic and cultural initiative of the New Silk Road. On the FENAJ website, no other evidence was found. As for the China Artists Association, China Writers Associations and All-China Women Federation, no evidence was found of Brazilian professional associations closely connected with these associations.\n",
+                "evidence_urls": [
+                    "https://fenaj.org.br/associacao-chinesa-vai-premiar-jornalistas-por-microvideos-e-fotos-sobre-a-pandemia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "In May 2020, the Municipal Secretariat for Social Assistance and Human Rights (SMASDH) of the city of Rio de Janeiro received a donation of 2,000 basic food baskets from the Chinese Community of Rio de Janeiro. In May 2020, the city of Rio also received a donation of 150,000 masks from the Chinese community. Another example, in 2018, the Manaus city hall received a donation of 100 stoves from the Amazonas China Association in Brazil, plus shoes and clothes to be delivered to families who were victims of a fire in the Educandos neighborhood, in the eastern region of the capital of Amazonas.\n",
+                "evidence_urls": [
+                    "https://prefeitura.rio/cidade/prefeitura-recebe-2-mil-cestas-basicas-comunidade-doadas-pela-comunidade-chinesa-do-rio-de-janeiro/",
+                    "https://prefeitura.rio/cidade/crivella-recebe-doacao-de-150-mil-mascaras-da-comunidade-chinesa-para-distribuir-a-populacao/",
+                    "https://www.manaus.am.gov.br/noticia/doacao-fogoes-associacao-chinesa-amazonas/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence was found that PRC or PRC-connected entities distributed entertainment products or OTT streaming platform for free or for a low price.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "National cultural productions that reproduce elements related to the PRC are quite uncommon. Thus, we consider that we do not have enough subsidies to respond to the indicator.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence was found of celebrities in Brazil who published or shared advertisements with PRC narratives.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence was found of local government in Brazil having published or shared Chinese narrative advertisements.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "According to LatinoBar\u00f3metro data for 2018, around 57.6% of Brazilians interviewed consider Brazil-China relations \"rather good\". Also according to data from the LatinoBar\u00f3metro 2018 on the respondent's opinion about China, about 50% of Brazilians interviewed have a good opinion about China and 15% have a very good opinion about China. For comparison, in relation to the opinion of respondents about the US, for example, around 47% have a good opinion of the US and 22% have a very good opinion of the US.\n",
+                "evidence_urls": [
+                    "https://www.latinobarometro.org/latOnline.jsp"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "According to data from the Foreign Trade Secretariat, in 2020 Brazil imported around US$ 3.8 million in arms and ammunition (such as air or other gas pistols, pistols and truncheons) from China. In addition, there are some public safety pilot projects in Brazil that use Huawei's facial recognition cameras.\n",
+                "evidence_urls": [
+                    "http://comexstat.mdic.gov.br/pt/geral/33936"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "According to data from the Stockholm International Peace Research Institute (SIPRI) there is no record of negotiations for the export of arms from Brazil to China in the period from 2005 to 2021. In addition, no evidence was found of Brazilian exports to China of military equipment or law enforcement equipment or components. The search was carried out by search engines and on the SIPRI website.\n",
+                "evidence_urls": [
+                    "https://armstrade.sipri.org/armstrade/page/trade_register.php"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence of partnership for the development or production of military or law-enforcement equipment between Brazil and China was found. Through the Access to Information Law, this information was requested from the Ministry of Defense. \n",
+                "evidence_urls": [
+                    "Law on Access to Information"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence was found that the PRC expressed its intention or even mobilized to establish a base in Brazilian territory.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence was found that Brazil received humanitarian aid from the PLA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "There was no evidence of military presence of PLA personnel on Brazilian soil.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "In 2020 three Brazilian Army officers completed a course at the International College of Defense Studies (ICDS) of the National Defense University (NDU) of China. The course lasted for 1 year. Also in 2020, another Brazilian army officer completed a General Staff course at the China People's Liberation Army (PLA) Land Force Command School. In 2019, another Brazilian army officer also completed the General Staff course at the Command School of the Land Force of the People's Liberation Army of China (PLA).\n",
+                "evidence_urls": [
+                    "http://www.eb.mil.br/web/noticias/noticiario-do-exercito/-/asset_publisher/MjaG93KcunQI/content/id/11883242",
+                    "https://www.eb.mil.br/web/noticias/noticiario-do-exercito/-/asset_publisher/MjaG93KcunQI/content/id/11882558#:~:text=Nanjing%20(China)%20%E2%80%93%20O%20Tenente,Popular%20de%20Liberta%C3%A7%C3%A3o%20da%20China.",
+                    "https://www.eb.mil.br/web/noticias/noticiario-do-exercito/-/asset_publisher/MjaG93KcunQI/content/diplomacao-em-curso-de-estado-maior-na-china-2019/8357041#:~:text=Publicado%20em%3A%2015%20ago%202019,Popular%20de%20Liberta%C3%A7%C3%A3o%20da%20China."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No more recent references to the indicator were found. In 2017 a Brazilian Army Major, instructor from the Joint Center for Peace Operations of Brazil (CCOPAB) attended the UN Peacekeeping Staff Membership Course (UNSOC), held at the Peace Operations Center Ministry of Defense of China in the city of Beijing (http://www.ccopab.eb.mil.br/pt/noticias-do-centro/145-2017/985-curso-na-china-tem-a-participacao-de-instrutor-do-ccopab?highlight=WyJjaGluYSJd%29. ",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No comments yet",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence was found of a Brazilian official (active or reserve) and/or an ABIN agent who advocated closer approximation and/or coordination with the PLA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence was found that Brazil cooperated with the PLA in military exercises or war games. The search was carried out first by Google's search engine and later on the website of the Ministry of Defense, of Brazil, and on the websites of three major Brazilian newspapers. The intention was to find evidence of the practice of Brazil-PLA cooperation. On the other hand, it is known that in 2011 the Brazilian government signed an agreement with China on cooperation in defense matters. This agreement provides, for example: \"military instruction and training, joint military exercises, as well as the exchange of information related to these matters\". Still, no evidence of cooperation in practical military exercises was found. Through the Access to Information Law, this information was requested from the Ministry of Defense, that informed that no records were found related to military cooperation or exercises with the PLA.\n",
+                "evidence_urls": [
+                    "http://antigo.itamaraty.gov.br/pt-BR/notas-a-imprensa/2565-atos-assinados-por-ocasiao-da-visita-da-presidenta-dilma-rousseff-a-republica-popular-da-china-pequim-12-de-abril-de-2011#ato1"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "Brazil and China have an extradition treaty in force since 8/16/2014. In 2019, the governments of Brazil and China signed an agreement to transfer convicted persons.\n",
+                "evidence_urls": [
+                    "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/D8431.htm",
+                    "https://concordia.itamaraty.gov.br/detalhamento-acordo/5247?page=11&s=china&tipoPesquisa=1",
+                    "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2019/11/conheca-os-acordos-firmados-entre-brasil-e-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence was found of a cooperation agreement to combat terrorism signed between Brazil and China.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "According to a report, in 2017, 14 members of the Chinese mafia were arrested. The Chinese mafia is strongest in the central region of the city of S\u00e3o Paulo, where most of the Chinese community in Brazil is also concentrated. We find no concrete evidence of this \"Chinese Mafia\" expressly linked with the Triads.\n",
+                "evidence_urls": [
+                    "https://agenciabrasil.ebc.com.br/geral/noticia/2017-03/policia-civil-prende-14-integrantes-da-mafia-chinesa-em-sao-paulo",
+                    "http://www.ssp.sp.gov.br/noticia/LeFotos.aspx?id=8674",
+                    "http://www.ssp.sp.gov.br/LeNoticia.aspx?ID=39235"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence was found of cases of economic espionage targeting the Brazilian private sector.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No evidence of cyber attacks directed at the Brazilian government, critical infrastructure apparatus or companies suspected of originating from the PRC was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence was found of Triades, or \"Chinese mafia\", who threatened or used violence to coerce, intimidate or punish Chinese dissidents. The presence of the Chinese mafia in Brazil is mainly concentrated in the city of S\u00e3o Paulo and evidence was found that this mafia charges fees from Chinese traders in the central region. Another activity of the Chinese mafia in S\u00e3o Paulo is smuggling. Issues of threats or the use of violence to punish Chinese dissidents seems to us to be out of Brazil's reality. The Chinese mafia, according to evidence found in the survey, practices extortion, threats and uses violence with compatriots in case of non-payment of \"protection fees\". The mafia charges these fees so that Chinese merchants can maintain their trading activity.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "The state government of Bahia implemented a public security pilot project using Huawei's face recognition system. Campinas also has a public security pilot project that uses the same technology from Huawei. ",
+                "evidence_urls": [
+                    "http://www.ssp.ba.gov.br/2019/05/5695/Bahia-apresenta-resultado-do-Reconhecimento-Facial-na-China.html",
+                    "https://www.campinas.sp.gov.br/noticias-integra.php?id=35530"
+                ],
+                "note": "This has already been highlighted in previous indicators.\n",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of a joint patrol carried out between China and Brazil was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence was found on the detention of a fellow citizen at the request of the PRC for the appointed reasons.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence of deportation of Taiwanese from Brazil to China was found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence has been found of extradition or deportation of individuals to China under criticism from local politicians or foreign NGOs.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Brazil has a GDP per capita of US $6,796.84 and a total population of 212.5 million people, with the Chinese population comprising 26,078 people , or 0.012% of the total population.\u00a0",
+    "description-2": "Brazil established diplomatic relations with the People Republic of China in 1974. Brazil was ranked 111th in Reporters Without Borders\u2019 2021 World Press Freedom Index, and Free in Freedom House\u2019s 2020 Global Freedom Status, with a score of 74/100."
+}

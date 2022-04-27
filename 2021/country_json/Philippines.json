@@ -1,0 +1,1103 @@
+{
+    "name": "Philippines",
+    "partner": "Rayyan Hassan",
+    "year": "2021",
+    "GDP": "$3,298.0",
+    "population": "109M",
+    "original": "204/380",
+    "ranking": "6",
+    "overall": "54%",
+    "effect": "43%",
+    "exposure": "58%",
+    "pressure": "56%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sec.gov/rules/other/4-460list.htm#c"
+                ],
+                "note": "Supplementary notes: There are no trace of World Chinese Media in articles in the Philippines compared to other such as CNTV. WCM is also not listed in SEC. However, there is limited information on foreign investors since SEC only publishes list of registered companies. ",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "People\u2019s Television Network based in Quezon City is an official member of BRNA as seen in its website https://brnalink.com/members.html and PNA website \nPhilippine News Agency (PNA) (under the PH government) is part of the BRNA according to their article https://www.pna.gov.ph/articles/1076194",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html and PNA website ",
+                    "https://www.pna.gov.ph/articles/1049571",
+                    "https://www.pna.gov.ph/articles/1076194"
+                ],
+                "note": " Major broadcasting and television networks such as ABS-CBN, GMA, and TV5 (or popular newspapers such as Philippine Daily Inquirer, Philippine Star, Manila Bulletin, BusinessWorld, BusinessMirror) which has greater follower and wider reach coverage has yet to be become a member of Belt and Road News Alliance. Filipinos rarely visit PNA website to search for news given its biased reporting history.",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "Most of those who attended the China-funded training for Filipino journalists were journalists from Philippine state media. They have less reach than their counterparts in the mainstream media. There were also some journalists from regional mainstream media in the training (Cebu, Pampanga, Cavite).",
+                "evidence_urls": [
+                    "https://www.pna.gov.ph/articles/1026842",
+                    "https://www.philstar.com/headlines/2020/01/16/1985293/us-think-tank-wary-china-funded-training-filipino-journalists"
+                ],
+                "note": "[Doublethink Lab]: We skip this indicator as no evidence that indicates they've received paid-trip or gifts so far. (\u843d\u5730\u62db\u5f85)",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "Media officials and prominent journalists from the Philippines visited China for two weeks in May 2018 to learn about \u201cnew media development\u201d and \u201csocialist journalism with Chinese characteristics.\u201d https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone.\n\nThe Presidential Communications Operations Office (PCOO) currently has multiple bilateral media and communications agreements with the Chinese government, covering commitments to pursue personnel exchanges, workshops, seminars, information exchanges, rebroadcasts, joint production, and mutual visits. https://www.pna.gov.ph/articles/1085444",
+                "evidence_urls": [
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone",
+                    "https://www.pna.gov.ph/articles/1085444",
+                    "https://www.pna.gov.ph/articles/1070144",
+                    "https://www.ifj.org/fileadmin/user_upload/IFJ_ChinaReport_2020.pdf"
+                ],
+                "note": "[Second respondent]: \n\nJust 2019 alone, there are at least 36 journalists and media executives that went to China on all-expenses paid media tours. The number 30 came from this article, https://www.pna.gov.ph/articles/1070144, while the 6 came from my own count based on my interviews with colleagues in the media industry. Also in July 2017, I was one of 10 Filipino journalists who joined an all-expense paid trip to Beijing, Xiamen, Fuzhou. China chose the \u201cperfect timing\u201d \u2013 the first anniversary of the historic Hague Ruling\u2019s vs their 9-dash claim. hehe\n \nAccording to an IFJ 2020, there were some journalists from Mindanao, where the population is mostly Muslim, who were taken to Xinjiang and wrote \u201cstories praising China for cracking down on terrorists.\u201d https://www.ifj.org/fileadmin/user_upload/IFJ_ChinaReport_2020.pdf",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "Dubbed \u201cChinese News TV\u201d, or CNTV, the news program will be the first regular show reporting international and local headlines in Mandarin Chinese as the principal language, with English and Filipino as supporting languages. https://businessmirror.com.ph/2017/09/17/chinatown-tv-launches-news-program-for-chinoys/\nWow China is highlighted as a light \u201ccultural program\u201d that focuses on China and Philippines\u2019 tradition, culture, and history, as well as the differences and similarities between the two countries. China Radio International (CRI) maintains websites and broadcasts shows in several languages, including Filipino. https://www.rappler.com/nation/things-to-know-wow-china-radio-show\nCGTN and CCTV broadcast in English and other languages along the Maritime Silk Road, including in Sri Lanka, Pakistan, Thailand, Indonesia, and the Philippines. (Page 32) https://asiasociety.org/sites/default/files/2020-09/Weaponizing%20the%20Belt%20and%20Road%20Initiative_0.pdf",
+                "evidence_urls": [
+                    "https://businessmirror.com.ph/2017/09/17/chinatown-tv-launches-news-program-for-chinoys/",
+                    "https://www.rappler.com/nation/things-to-know-wow-china-radio-show",
+                    "https://asiasociety.org/sites/default/files/2020-09/Weaponizing%20the%20Belt%20and%20Road%20Initiative_0.pdf"
+                ],
+                "note": ": Wow China uses both Filipino and English language in its content.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": " Article XVI Section 11(1) of the 1987 PH constitution states that \u201cthe ownership and management of mass media shall be limited to citizens of the Philippines, or to corporations, cooperatives or associations, wholly-owned and managed by such citizens.\u201d https://www.officialgazette.gov.ph/constitutions/the-1987-constitution-of-the-republic-of-the-philippines/the-1987-constitution-of-the-republic-of-the-philippines-article-xvi/",
+                "evidence_urls": [
+                    "https://www.officialgazette.gov.ph/constitutions/the-1987-constitution-of-the-republic-of-the-philippines/the-1987-constitution-of-the-republic-of-the-philippines-article-xvi/"
+                ],
+                "note": "Limited data. Although prohibited by the 1987 constitution, double citizenship may serve as a loophole for PRC citizen or corporations to wholly or partly own local media outlets.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "An article about the Philippines under China\u2019s expanding media influence \u2014 report https://globalnation.inquirer.net/183231/philippines-under-chinas-expanding-media-influence-report\n\nWebsite of Chinese Embassy in the country: http://ph.chineseembassy.org/eng/zt/117/\n\n[Second respondent]: \n\nThere\u2019s the content-sharing agreement between Xinhua/CGTN/other China state media with Philippine state media PTV4, online Philippine News Agency, and joint production between China Radio International and Philippine Radio. These also extend to Philippine state media\u2019s online platforms.\n\nOn top of these, there\u2019s the major daily Manila Bulletin that also publishes Xinhua articles.\n",
+                "evidence_urls": [
+                    "http://www.shangbao.com.ph/",
+                    "https://thediplomat.com/2021/02/chinas-soft-power-grows-in-the-philippines/",
+                    "https://globalnation.inquirer.net/183231/philippines-under-chinas-expanding-media-influence-report",
+                    "http://ph.chineseembassy.org/eng/zt/117/",
+                    "https://www.pna.gov.ph/articles/1049571",
+                    "https://www.ifj.org/fileadmin/user_upload/IFJ_Report_2020_-_The_China_Story.pdf"
+                ],
+                "note": "Chinese Commercial News with Shangbao, it is the Philippines' oldest existing Chinese-language newspaper, and the country's third-oldest existing newspaper overall. There is no article on how it was being circulated nowadays but it can be access anytime for free. ",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "A Chinese News TV owned by a Filipino-Chinese company aims to \u201cpromote shared Filipino-Chinese culture\u201d and \u201cspread the One Belt One Road advocacy,\u201d China's initiative that aims to link the economic circles in East Asia and Europe, connecting China \u2013 on land and over water \u2013 to partners in Asia, Europe, and Africa. It started airing last 12 April 2021. \n\n[Second respondent]:\n\nThey were published on two major national newspapers for an extended period of time. These were weekly full page ads/features. Also, according to two business journalists, Belt and Road Initiative advertorials also appeared in major business national paper BusinessWorld in 2019.",
+                "evidence_urls": [
+                    "https://www.rappler.com/nation/chinese-news-tv-airs-abs-cbn-channel",
+                    "https://www.rappler.com/nation/national-news/abs-news-chief-reyes-response-chinatown-news-abs-cbn-channel"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2021/04/chinese-navy-harasses-boat-carrying-filipino-journalists-report/",
+                    "https://www.rappler.com/newsbreak/inside-track/military-gives-award-after-calling-out-journalist-provoking-chinese-ships-west-philippine-sea",
+                    "https://news.abs-cbn.com/ancx/culture/spotlight/04/18/21/interview-with-chiara-zambrano-im-not-out-there-for-the-thrill-im-out-there-for-the-voices"
+                ],
+                "note": "With the ongoing issue regarding the West Philippines Sea, Chinese vessels had been surrounding the area he tensions gets intense when a Filipino journalist tried to go there and cover the story.",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "An article about the Philippines accusing Facebook of censoring pro-government content: https://www.reuters.com/article/us-philippines-duterte-facebook-idUSKBN26K1AU",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-philippines-duterte-facebook-idUSKBN26K1AU",
+                    "https://www.reuters.com/world/china/philippines-duterte-defends-purchase-chinese-covid-19-vaccine-2021-01-13/",
+                    "https://www.aljazeera.com/news/2021/4/29/dutertes-mix-message-on-south-china-sea-dispute-draws-criticism"
+                ],
+                "note": " A network of accounts traced back from China and Philippines was banned by Facebook when \u201ca coordinated inauthentic behaviour\u201d was detected which was accounted as a support to the anti-communism stance. There are also multiple events where critical claim towards PRC were defended by the government officials, some issues include the West Philippine Sea, COVID vaccine, and travel ban of people coming from China among others.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "IDSI, a thinktank that parrots Chinese narratives and even shares false information on its Facebook page. It has regular columns in a national daily, The Manila Times. Here\u2019s an example: https://www.manilatimes.net/2021/04/04/opinion/columnists/another-big-lie-by-the-west-xinjiang-genocide/859909\n\nAnother one is this Manila Times\u2019 columnist: https://www.manilatimes.net/2021/06/13/opinion/columns/the-chinese-tit-for-tat/1803009\n \nhttps://www.manilatimes.net/2020/06/21/opinion/columnists/topanalysis/survey-says-china-most-democratic/733193\n",
+                "evidence_urls": [
+                    "https://www.manilatimes.net/2021/04/04/opinion/columnists/another-big-lie-by-the-west-xinjiang-genocide/859909",
+                    "https://www.manilatimes.net/2021/06/13/opinion/columns/the-chinese-tit-for-tat/1803009"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": " No agreements, information or data indicating joint parliamentary friendship group or committee with PRC ",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Both sides will encourage exchange of visits of high-ranking governmental delegations and leaders at the local level, legislative organs, political parties, and civil organizations, and increase interactions and communications. (Joint Statement of the Republic of the Philippines and the People's Republic of China (2016)) https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china\nBoth sides will encourage exchange of visits of high-ranking governmental delegations and leaders at the local level, legislative organs, political parties, and civil organizations, and increase interactions and communications. (Joint Statement of the Republic of the Philippines and the People's Republic of China (2016)) https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china",
+                "evidence_urls": [
+                    "https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china",
+                    "https://www.thinkchina.sg/chinas-cpc-deepens-ties-philippine-political-parties"
+                ],
+                "note": "None ",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "Over the past 40 years, Philippines-China bilateral relations are multi-faceted and involve the three branches of government \u2013 executive, legislative and judiciary, and the various sectors of society. Since 1975, the two countries have concluded almost 100 bilateral agreements that cover a wide spectrum \u2013 political, defense, trade and investments, judicial cooperation\u2026 consular cooperation\u2026 people to people exchanges. https://beijingpe.dfa.gov.ph/84-phl-chn-relations\nBoth sides will encourage exchange of visits of high-ranking governmental delegations and leaders at the local level, legislative organs, political parties, and civil organizations, and increase interactions and communications. (Joint Statement of the Republic of the Philippines and the People's Republic of China (2016)) https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china\nVisiting President Xi Jinping has called on legislative bodies from China and the Philippines to further exchange experience in state governance and push forward multilevel, multiform cooperation for the development of the two nations' bilateral ties. http://www.xinhuanet.com/english/2018-11/21/c_137622120.htm",
+                "evidence_urls": [
+                    "https://beijingpe.dfa.gov.ph/84-phl-chn-relations",
+                    "https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china",
+                    "http://www.xinhuanet.com/english/2018-11/21/c_137622120.htm"
+                ],
+                "note": "none",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "Philippine President Rodrigo Duterte surprised some observers when he announced during a state visit to China in October 2016 that he has \u201cseparated\u201d from the US to be \u201cdependent\u201d on China \u201cfor a long time.\u201d It would also help the Philippines avoid becoming a collateral damage following an intensified China-US rivalry in the South China Sea. https://www.fsi.gov.ph/the-philippines-pivot-to-china-a-review-of-perspectives/\nDuterte\u2019s pivot to China has commercial considerations with total of $24 billion in economic deals put on the table. https://www.cfr.org/blog/duterte-and-china",
+                "evidence_urls": [
+                    "https://www.fsi.gov.ph/the-philippines-pivot-to-china-a-review-of-perspectives/",
+                    "https://www.cfr.org/blog/duterte-and-china"
+                ],
+                "note": "At the outset, Philippine President Duterte has been vocal about the change in PH foreign policy in consideration of building better bilateral relations with China and securing funds for PH infrastructure projects. The evidence suggests towards Duterte taking positions in media moving away from US allegiance towards implied preference of China. On the South China Sea dispute while the international tribunal ruling has been in favour of Philippines, Duterte has not taken serious measures to stop Chinese occupation of the contested islands.",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are few cases of Filipinos being illegally detained in China for isolated cases from political issues. There are no case or news that pertains to hostage diplomacy as Philippines enjoy relatively good bilateral relations with China unlike US, Canada, EU, and Australia. ",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "Philippine president-elect Rodrigo Duterte has welcomed the government\u2019s \u201cnew southbound policy\u201d and said he hopes that Taipei and Manila can deepen bilateral exchanges. http://www.taipeitimes.com/News/taiwan/archives/2016/06/19/2003648971\nIn 2017, the Philippines and Taiwan inked an updated investment deal in Makati, the Philippines\u2019 financial hub. The PRC government filed protests against the Philippines to stop the agreements, nonetheless, the agreements were signed on schedule. A poll in 2017 noted a huge increase in Filipino support towards Taiwanese independence from mainland China. https://thediplomat.com/2017/12/taiwans-new-southbound-policy-scores-win-in-the-philippines/",
+                "evidence_urls": [
+                    "http://www.taipeitimes.com/News/taiwan/archives/2016/06/19/2003648971",
+                    "https://thediplomat.com/2017/12/taiwans-new-southbound-policy-scores-win-in-the-philippines/"
+                ],
+                "note": "No specific information on whether Philippines voted against Taiwan\u2019s right to participate in the WHO. History has shown that PH maintained favourable bilateral cooperation with Taiwan as provided in supporting evidence. 70% on confidence rating as Philippine government is careful in directly acknowledging Taiwan as separate state with China.",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "1",
+                "evidence": "Philippines backed PRC candidate at the International Court of Justice.",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/asia/article/3108968/philippines-back-chinas-candidate-world-court",
+                    "https://www.pna.gov.ph/articles/1121143"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "The Philippines refused to recognize China's \"unilateral imposition\" of a \"fishing moratorium\" in the South China Sea (SCS) from May 1-Aug. 16, 2021, the Department of Foreign Affairs (DFA) said in a statement. https://www.manilatimes.net/2021/05/18/news/ph-refuses-to-recognize-china-fishing-ban-in-disputed-sea/873937/\nThe Philippines asserts ownership of the Spratly archipelago and the Scarborough Shoal, which is now occupied and controlled by China. https://theaseanpost.com/article/megaphone-diplomacy-and-south-china-sea\nAfter four years of flip-flopping, the Philippine President voiced strong support for a Hague ruling rejecting most of China\u2019s claims to disputed waters. https://thediplomat.com/2020/09/in-un-speech-duterte-stiffens-philippines-stance-on-the-south-china-sea/",
+                "evidence_urls": [
+                    "https://www.manilatimes.net/2021/05/18/news/ph-refuses-to-recognize-china-fishing-ban-in-disputed-sea/873937/",
+                    "https://theaseanpost.com/article/megaphone-diplomacy-and-south-china-sea",
+                    "https://thediplomat.com/2020/09/in-un-speech-duterte-stiffens-philippines-stance-on-the-south-china-sea/"
+                ],
+                "note": "None",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "On Friday a diverse group of states \u2014 including Russia, Saudi Arabia, Nigeria, Algeria and North Korea -- replied on Beijing's behalf. \"We commend China's remarkable achievements in the field of human rights,\" said the letter, also signed by Myanmar, the Philippines, Zimbabwe and others. Echoing China's defense of the camps, Friday's letter described them as \"vocational education and training centers.\" https://news.abs-cbn.com/overseas/07/13/19/philippines-36-other-countries-defend-china-over-xinjiang-in-un-letter",
+                "evidence_urls": [
+                    "https://news.abs-cbn.com/overseas/07/13/19/philippines-36-other-countries-defend-china-over-xinjiang-in-un-letter"
+                ],
+                "note": "While Filipino social media users, academics and civil organization has shown negative stance against China\u2019s treatment of Uyghurs, the PH government signing the letter shows a substantial evidence supporting China.",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "The delegate from the Philippines in the UN General Assembly declared: \"[I]t is clear that on the eve of the invasion in 1950, Tibet was not under the rule of any foreign country.\" https://www.culturalsurvival.org/publications/cultural-survival-quarterly/legal-status-tibet",
+                "evidence_urls": [
+                    "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/legal-status-tibet"
+                ],
+                "note": "Article dates back to 1988, thus current stance may not be the same. There are no articles showing more current views of PH on China\u2019s treatment of Tibet",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "China, Antigua and Barbuda, Bahrain, Belarus, Burundi, Cambodia, Cameroon, Central African Republic, Comoros, Congo-Brazzaville, Cuba, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Gabon, Gambia, Guinea, Guinea-Bissau, Iran, Iraq, Kuwait, Laos, Lebanon, Lesotho, Mauritania, Morocco, Mozambique, Myanmar, Nepal, Nicaragua, Niger, North Korea, Oman, Pakistan, Palestine, Papua New Guinea, Saudi Arabia,  Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Suriname, Syria, Tajikistan, Togo, UAE, Venezuela, Yemen, Zambia and Zimbabwe. Opposing: Australia, Austria, Belgium, Belize, Canada, Denmark, Estonia, Finland, France, Iceland, Ireland, Germany, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Marshall Islands, Netherlands, New Zealand, Norway, Palau, Slovakia, Slovenia, Sweden, Switzerland, and the U.K. https://www.axios.com/countries-supporting-china-hong-kong-law-0ec9bc6c-3aeb-4af0-8031-aa0f01a46a7c.html",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2020-07-03/More-countries-support-China-s-national-security-legislation-for-HKSAR-ROQbNU2PK0/index.html",
+                    "https://www.axios.com/countries-supporting-china-hong-kong-law-0ec9bc6c-3aeb-4af0-8031-aa0f01a46a7c.html"
+                ],
+                "note": "Philippines has not publicly announced its stance on National Security Law on Hong Kong",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ac.upd.edu.ph/",
+                    "https://www.panpacificu.edu.ph/philippines-china-education-research-institute/",
+                    "https://www.dost.gov.ph/23-announcements/1810-2020-joint-research-project-call-for-proposal-ph-china-2020-05-04.html",
+                    "https://up.edu.ph/public-lecture-on-change-continuity-in-chinas-foreign-policy/"
+                ],
+                "note": "There are many university and academe in the Philippines that have research partnership with PRC. Most of them have their own department and studies specific for PRC. ",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There are Confucius Institutes in the premier Philippine universities including University of the Philippines and Ateneo De Manila University. There are also Cis in top regional universities including the Ateneo De Davao University, Bulacan State University, and Angeles University Foundation in Pampanga. More universities are planning to set up one including the Mariano Marcos State University. Cis are influential in the Chinese language education and training in the country. For instance, Cis in universities are used as a platform to train language teachers from grade school to college as well as sponsor study trips of Filipino students to China.",
+                "evidence_urls": [
+                    "https://upd.edu.ph/confucius-institute-takes-root-at-up/",
+                    "https://ateneoconfucius.com",
+                    "https://bulsu.edu.ph/confucius/home2.html",
+                    "http://confucius.auf.edu.ph/aboutus.php",
+                    "http://international.addu.edu.ph/?p=5506",
+                    "https://www.pna.gov.ph/articles/1115230",
+                    "https://www.atlantis-press.com/proceedings/icsshe-19/125915864"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "There is no known K12 or primary education that offers Chinese as a foreign language, only Chinese School have Chinese language subjects. In the Philippines, it was way back 2015-2016 when senators and lawmakers proposed the inclusion of Chinese language to the K12 curriculum; however, no trace of implementation yet.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://cnnphilippines.com/news/2020/3/23/China-research-stations-West-Philippine-Sea.html",
+                    "https://www.fsi.gov.ph/chinas-belt-and-road-initiative-implications-for-the-philippines/",
+                    "https://www.fsi.gov.ph/the-belt-and-road-initiative-and-philippine-participation-in-the-maritime-silk-road/"
+                ],
+                "note": "China builds a research stations in the West Philippine Sea, however this action was controversial as there is a dispute since the WPS is owned by the Philippines. In addition, Philippines joined in the China\u2019s Belt and Road Initiative (BRI) in 2017 as announced by Chinese Vice Foreign Minister Liu Zhien Min.",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gmanetwork.com/news/scitech/science/777305/dost-most-china-approve-8-research-projects-for-funding-in-2021/story/#:~:text=Philippines%2C%20China%20approve%208%20research%20projects%20for%20funding%20in%202021,-Published%202021%2D02&text=According%20to%20the%20DOST%2C%20the,annual%20fund%20of%20P1%20million"
+                ],
+                "note": "There is some recent funding from China to Philippine Research though there is a very limited references regarding this.",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There are no traces of evidence of PRC talent recruitment programs such as Thousand Talents or Changjiang Scholars in the Philippines.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ph.china-embassy.org/eng/sgdt/t1688576.htm",
+                    "https://ched.gov.ph/wp-content/uploads/Chinese-Government-Scholarship-Program-for-Academic-Year-2020-2021.pdf",
+                    "https://www.wemakescholars.com/scholarships-for-filipinos-students-to-study-in-china"
+                ],
+                "note": "To improve their relationship and also share the Chinese culture, PRC offered a lot of scholarship opportunities for the Filipino students.",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2017/08/18/world/asia/cambridge-university-press-academic-freedom.html",
+                    "https://www.studyinternational.com/news/academic-censorship-china-global-issue/",
+                    "http://afics.weebly.com/about-us.html ",
+                    "https://www.pacs.ph/",
+                    "https://www.dlsu.edu.ph/students/international/international-student-oriented-organizations/"
+                ],
+                "note": "There are a lot of Chinese Student Associations established in the Philippines there are a few evidences that they are involved in attempts to censor staff or students regarding harassing students protesting human rights abuses in the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.oversixty.com.au/entertainment/movies/5-actors-who-are-banned-from-china"
+                ],
+                "note": "There are some famous people banned in entering China due to racial discrimination act and some who discussed issues (such human rights violation) happening in China, on the other hand, there is no record of scholars or academics banned in China from my country. ",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": " there are no evidence that PRC was involved in designing overseas curriculum such as courses about East Asian history. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rappler.com/nation/la-salle-professors-slam-failure-government-west-philippine-sea"
+                ],
+                "note": "As a democratic country, there is no censorship when speaking their opinion towards the PRC. In most cases, teachers and professors are vocal with their comments and discussing it publicly. There is no known record that there are persons from the academe censoring topics that are against China.\n\n[Second respondent]: \nI personally know senior and junior scholars, with frequent travel and research trips to China, avoiding discussion of sensitive political issues (Taiwan, West Philippine Sea) in classes, conferences, and other public activities. They also usually advise graduate students to adopt the same level of cautiousness to ensure they will have access to China as researchers.\n",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": " A case of illicit investments is the illegal extraction and smuggling of minerals. In the Philippines, these investments funded artisanal small-scale mining (ASM) infrastructures because of the South China Sea dispute and the weak regulatory capacity of Philippine institutions. In broad terms, other foreign investors and Chinese entities can have illicit capital ventures in logging, agriculture, and many other sectors. It is still possible to infer that illicit capital proliferated because local governments were given the power to oversee ASM licensing and safeguarding. https://www.nature.com/articles/s41599-017-0033-0",
+                "evidence_urls": [
+                    "https://www.nature.com/articles/s41599-017-0033-0"
+                ],
+                "note": "None",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "On December 3, 2019, Ilocos Sur, Philippines and Hubei Province, China established Sister-Province relations in Vigan, Ilocos Sur Province. http://laoag.china-consulate.org/eng/yhwl/spc/t339056.htm\nBoth existing sister cities from the People\u2019s Republic of China, namely, Jinjiang Municipal People\u2019s Government and Nanning Municipal People\u2019s Government were prompt to send medical and personal protective equipment to Davao City. https://www.davaocity.gov.ph/covid-19/sister-cities-help-bodes-well-in-davao-citys-foreign-ties/\n\nOn August 13, 1982, Baguio City, Philippines and Hangzhou City, China established Sister-City relations in Hangzhou.\nOn October 20, 2002, Ilocos Norte, Philippines and Shandong Province, China established Sister-Province relations in Jinan, Shandong Province.\nOn October 25, 2005, Laoag City, Ilocos Norte and Laibing City, Guangxi Zhuang Autonomous Region established Sister-City relations in Nanning.\nOn August 21, 2009, Pangasinan, Philippines and Sichuang Province, China established intent of Sister-Province relations in Sichuang Province.\nThe local government of Quezon City and Shenyang Municipal People\u2019s Government of China renewed their sister-city ties on Monday (May 20 2019) at the Bulwagang Amoranto in Quezon City Hall. https://pia.gov.ph/news/articles/1022401\nThe Sangguniang Panlungsod (SP) passed a resolution authorizing Mayor Jose Espinosa to sign the agreement for and on behalf of the Iloilo city government to forge a friendly relationship with China\u2019s Quanzhou City in Fujian Province. https://www.pna.gov.ph/articles/1042517\n",
+                "evidence_urls": [
+                    "http://laoag.china-consulate.org/eng/yhwl/spc/t339056.htm",
+                    "https://www.davaocity.gov.ph/covid-19/sister-cities-help-bodes-well-in-davao-citys-foreign-ties/"
+                ],
+                "note": "None",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "Ruling party PDP-Laban made an agreement with the Communist Party of China to send party officials and members to China for policy training and party education. Then Senate President Aquilino Pimentel III, along with other members of PDP-Laban, attended the CPC provincial party school in Fujian. Since 2016 to present, they have also attended several gatherings of CPC-allied parties in China. This is the first formalized party-to-party relationship between the Philippines and PRC.\n",
+                "evidence_urls": [
+                    ".https://globalnation.inquirer.net/158865/pdp-laban-learn-ideology-communist-party-china",
+                    "https://www.pna.gov.ph/articles/1088178",
+                    "https://www.iseas.edu.sg/wp-content/uploads/2021/03/ISEAS_Perspective_2021_53.pdf"
+                ],
+                "note": "No accessible data available",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Since Duterte took office in 2016, the Philippines\u2019 ties with China have been warming. Duterte\u2019s visit to China \u2014 from Aug. 28 to Sept. 1 \u2014 is his fifth in three years. https://www.cnbc.com/2019/08/28/philippines-duterte-in-china-meets-xi-jinping-to-talk-south-china-sea.html\n\nVISITS TO CHINA BY PHILIPPINE PRESIDENTS:\nPresident Ferdinand E. Marcos:   7 June 1975\nPresident Corazon C. Aquino: 14 April 1988\nPresident Fidel V. Ramos: 25 April 1993\nPresident Joseph E. Estrada: 16 May 2000\nPresident Gloria Macapagal-Arroyo:  29 October 2001;\n\u2022\t1-3 September 2004;  27 October-2 November 2006;\n\u2022\t21 April 2007; 5-6 June 2007; 1-2 October  2007; 30 March -1 April 2008,\n\u2022\t7-10 August 2008; 23-27 October 2008, 8-9 June 2010\nPresident Benigno S. Aquino III, 30 August \u2013 2 September 2011; 9-11 November 2014 (APEC Economic Leaders' Week)\nPresident Rodrigo Roa Duterte,\n\u2022\tState Visit,18-21 October 2016\n\u2022\tBelt and Road Forum for International Cooperation, 13-15 May 2017\n\u2022\tBo\u2019ao Forum for Asia Annual Conference, 08-11 April 2018\n\u2022\t2nd Belt and Road Forum for International Cooperation, 25-27 April 2019\n\u2022\tOfficial Visit, 28-30 August 2019\n\nVISITS TO THE PHILIPPINES BY CHINESE PRESIDENTS/ PREMIERS:\nPremier Zhao Ziyang:6 August 1981\nPremier Li Peng:13 December 1990\nPresident Jiang Zemin:23 November 1996\nPremier Zhu Rongji: 26 November 1999\nPresident Hu Jintao: 26-28 April 2005\nPremier Wen Jiabao: 15-16 January 2007\nPresident Xi Jinping:   17-19 November 2015 (APEC Economic Leaders' Week)\nPremier Li Keqiang: 15-16 November 2017\nPresident Xi Jinping: 20-21 November 2018\nhttps://beijingpe.dfa.gov.ph/phl-china-relations\n",
+                "evidence_urls": [
+                    "https://www.cnbc.com/2019/08/28/philippines-duterte-in-china-meets-xi-jinping-to-talk-south-china-sea.html"
+                ],
+                "note": "None ",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "China and Philippines agree to resume the Foreign Ministry Consultations, Consular Consultations, Joint Commission on Economic and Trade Cooperation, Annual Defense Security Talks, combat transnational crimes, including telecommunications fraud, on-line fraud, cybercrimes, drug trafficking, trafficking in persons and wildlife trafficking. https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china\nSince 1975, China and Philippines have concluded almost 100 bilateral agreements that cover a wide spectrum \u2013 political, defense, trade and investments,  judicial cooperation\u2026 https://beijingpe.dfa.gov.ph/84-phl-chn-relations\nAgreement on Cooperation Between the National Prosecution Service of the Department of Justice of the Republic of the Philippines and the Supreme People\u2019s Procuratorate of the People\u2019s Republic of China. Signed in Beijing in October 2000. https://beijingpe.dfa.gov.ph/84-phl-chn-relations\nASEAN-China Cooperation on law enforcement. https://asean.org/storage/2012/05/ASEAN-Document-Series-on-Transnational-Crime-FINAL-with-link2.pdf",
+                "evidence_urls": [
+                    "https://dfa.gov.ph/newsroom/dfa-releases/10748-joint-statement-of-the-republic-of-the-philippines-and-the-people-s-republic-of-china",
+                    "https://beijingpe.dfa.gov.ph/84-phl-chn-relations",
+                    "https://beijingpe.dfa.gov.ph/84-phl-chn-relations",
+                    "https://asean.org/storage/2012/05/ASEAN-Document-Series-on-Transnational-Crime-FINAL-with-link2.pdf"
+                ],
+                "note": "None",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Chinese-Filipino businessmen funded campaign of Duterte. https://news.abs-cbn.com/focus/12/05/16/p334m-from-only-13-donors-funded-dutertes-presidency\n\nThere are allegations of China-funded campaigns however there are no accessible or recorded data on sources of campaign funds from foreign government in the Philippines.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "China\u2019s party-to-party ties with Philippine party precedes the current administration. Since the early 2000s, the CPC has already engaged, albeit informally, with the biggest and most influential parties in the Philippines including: Liberal Party (LP), Lakas-Christian Muslim Democrats (Lakas-CMD), Nationalist People\u2019s Coalition (NPC), Laban ng Demokratikong Pilipino (LDP), and the Partido ng Masang Pilipino (PMP). There is limited information, however, on the nature of the exchange and support attached to these party-to-party ties.\n",
+                "evidence_urls": [
+                    "https://globalnation.inquirer.net/21671/chinese-communist-party-says-it-has-disowned-local-rebels#ixzz6lz9YxykU",
+                    "https://www.iseas.edu.sg/wp-content/uploads/2021/03/ISEAS_Perspective_2021_53.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no articles or information showing public statements from UFWD. Given the tensions between China and Philippines in the disputed SCS, Filipinos are exhibiting anti-Chinese sentiment.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Philippine President Rodrigo Duterte announced his \u201cseparation\u201d from the United States on Thursday, declaring he had realigned with China as the two agreed to resolve their South China Sea dispute through talks. \u201cI\u2019ve realigned myself in your ideological flow and maybe I will also go to Russia to talk to (President Vladimir) Putin and tell him that there are three of us against the world - China, Philippines and Russia. It\u2019s the only way,\u201d Duterte told his Beijing audience. https://www.reuters.com/article/us-china-philippines-idUSKCN12K0AS\nDuterte jested in a speech at the Fiesta Pavilion of Manila Hotel \u201cIf you want, you can make us a province like Fujian, Philippine province of China, then there will be no problem. https://globalnation.inquirer.net/164413/rodrigo-duterte-jest-making-ph-chinese-province\nPresident Rodrigo Duterte rejected an expletive-laced tweet by Foreign Affairs Secretary Teodoro Locsin Jr. demanding China remove its ships from Philippine-claimed territories in the South China Sea. \u201cChina remains our benefactor,\u201d Duterte said in a televised address on Monday. \u201cWe have many things to thank China for \u2014 their help in the past and their help now.\u201d https://www.arabnews.com/node/1853726/world\nEnrile (Former Senator) supported Duterte\u2019s bilateral approach to resolve the maritime dispute with China \u2013 a turnaround from the former senator\u2019s position when he backed former president Benigno Aquino III\u2019s decision to internationalize the issue. https://www.rappler.com/newsbreak/in-depth/juan-ponce-enrile-political-comeback-2021",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-philippines-idUSKCN12K0AS",
+                    "https://globalnation.inquirer.net/164413/rodrigo-duterte-jest-making-ph-chinese-province",
+                    "https://www.arabnews.com/node/1853726/world",
+                    "https://www.rappler.com/newsbreak/in-depth/juan-ponce-enrile-political-comeback-2021"
+                ],
+                "note": ": None ",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no articles or information on former politicians benefitting from PRC connected individuals. But this may have happened indirectly without evidence in the public domain.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Any bilateral agreement with China regarding contracting security services would have media coverage.  ",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://boi.gov.ph/cifit-2020-philippines-china-business-relations/#:~:text=In%202018%2C%20China%20ranked%20first,US%24%2047%20Million%20in%202017.&text=Top%20export%20products%20to%20China,bananas%2C%20pineapples%20and%20marine%20products."
+                ],
+                "note": "Based on the data from Board of Investments (BOI) PRC is the number one trading partner of the country. ",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rappler.com/newsbreak/in-depth/duterte-loans-coronavirus-why-philippines-might-need-more",
+                    "https://www.dof.gov.ph/data/outstanding-public-sector-debt/",
+                    "https://globalnation.inquirer.net/196359/what-do-we-owe-china",
+                    "https://www.rappler.com/business/philippine-government-debt-february-2021",
+                    "https://www.dof.gov.ph/govt-taps-p58-4-billion-from-multilateral-lenders-for-covid-19-vaccines/"
+                ],
+                "note": "The country has been borrowing to aid the covid pandemic. These borrowing mostly came from international banks. Philippines owes most of its debts to World Bank ($1.3 billion). The country also borrowed from other financial institute such as China\u2019s Asian Infrastructure Investment Bank ($750 million), Japan International Cooperation Agency ($458.9 million), Agence Fran\u00e7aise de D\u00e9veloppement ($275.7 million) and to global funds ($2.35 billion).",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dti.gov.ph/uncategorized/exports/#:~:text=Japan%20ranked%20first%20among%20the,%2C%20Singapore%2C%20US%24298%20million",
+                    "https://www.worldstopexports.com/philippines-top-10-exports/",
+                    "https://wits.worldbank.org/countrysnapshot/en/phl",
+                    "https://tradingeconomics.com/philippines/exports/china"
+                ],
+                "note": "Japan is the top exporter of the country with highest export value followed by US, Hong Kong, China, and Singapore.",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.manilatimes.net/2021/03/05/business/business-top/dti-to-china-firms-invest-more-in-ph/847494/",
+                    "https://www.manilatimes.net/2021/03/05/business/business-top/dti-to-china-firms-invest-more-in-ph/847494/",
+                    "https://www.rappler.com/business/dito-telecommunity-services-available-metro-manila-may-17-2021",
+                    "https://www.lightreading.com/asia/china-backed-incomer-dito-starts-service-in-philippines/d/d-id/767969",
+                    "http://www.peza.gov.ph/index.php/press-release/128-peza-board-approves-26-new-investments-in-ph-worth-p13-1-billion-amid-covid-crisis"
+                ],
+                "note": "PRC\u2019s owns the new telecom party in the Philippines which is DITO Telecom. It is now operating in many parts of the country including the capital region which is the NCR - Metro Manila. There are many articles and website that discussed infrastructure and business investment and ownership of China in the Philippines. They are also one of the top investors of PEZA (A government owned and controlled corporations) that provides incentives to foreign investors in the creation of Economic zones in the country.",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fsi.gov.ph/the-asian-infrastructure-investment-bank-considerations-for-the-philippines-by-andrea-chloe-a-wong-vol-ii-no-11-may-2015/#:~:text=In%20October%202014%2C%20the%20Asian,the%20AIIB%20as%20founding%20members.",
+                    "https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-USD750-M-Loan-to-the-Philippines-for-COVID-19-Response.html"
+                ],
+                "note": "The Philippines is a member and also a co-founding member along with 20 other countries through a signed the Memorandum of Understanding on the establishment of the AIIB.",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.psricc.com/en/#:~:text=The%20Philippine%20Silk%20Road%20International,Duterte%20in%20October%2013%2C%202016",
+                    "https://www.psricc.com/en/belt-and-road-initiative/cooperation-mechanisms",
+                    "https://www.tandfonline.com/doi/abs/10.1080/10971475.2020.1809817?journalCode=mces20",
+                    "http://ph.china-embassy.org/eng/sgdt/t1653564.htm"
+                ],
+                "note": "In my country a lot of businesses are members of the Silk Road Chamber of International Commerce, Belt and Road Industrial and Commercial Alliance, and Belt and Road General Chamber of Commerce. There are many articles that mentioned Philippines as a member and beneficiary of the said alliance. This is to boost economic and foreign relationship with other countries such as PRC.",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/south-china-sea-dragons-deployment-of-coercive-economic-measures-to-prop-up-its-position/",
+                    "https://www.bloomberg.com/news/articles/2021-05-19/philippines-protests-china-s-fishing-ban-in-south-china-sea",
+                    "https://www.bloomberg.com/news/articles/2021-05-19/philippines-protests-china-s-fishing-ban-in-south-china-sea"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://globalnation.inquirer.net/195173/ph-biz-groups-to-china-stop-acting-like-colonizer",
+                    "https://www.scmp.com/week-asia/politics/article/3132259/philippine-diplomat-says-sorry-twitter-rant-against-china-told",
+                    "https://www.pna.gov.ph/articles/1120146"
+                ],
+                "note": "There is no known event that local businesses in the country were harassed due to their opinion that is unacceptable to PRC government. A lot of people has been vocal regarding to their concerns such as the increasing number of Chinese workers who are \u2018stealing\u2019 jobs from the locals and dispute on the South China Sea. There has been a high ranking government official who apologised to China for posting a comment against them on social media.  ",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://beijingpe.dfa.gov.ph/list-of-bilateral-agreements/84-phl-chn-relations",
+                    "https://www.aseanbriefing.com/news/philippines-and-china-sign-six-agreements/#:~:text=The%20Philippines%20and%20China%20signed,the%20Philippines'%20largest%20trading%20partners",
+                    "https://www.prnewswire.com/il/news-releases/dito-leverages-whale-cloud-s-telecom-solutions-to-expand-its-market-in-the-philippines-831493960.html",
+                    "https://www.brookings.edu/articles/chinas-digital-services-trade-and-data-governance-how-should-the-united-states-respond/"
+                ],
+                "note": "Despite the West Philippines Sea issue between China and the Philippines, they have a long history of free-trade agreement between from goods and services to digital products such as the DITO Telecom.",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://psa.gov.ph/psa-press-release-tags/foreign-investments#:~:text=in%20Q1%202019-,Total%20foreign%20investments%20(FI)%20approved%20in%20the%20first%20quarter%20of,the%20Authority%20of%20the%20Freeport",
+                    "https://boi.gov.ph/investments-promotion/map-of-ipas/",
+                    "http://www.peza.gov.ph/index.php/press-release/139-peza-s-investment-promotion-global-links-widens"
+                ],
+                "note": "There are around 19 Investment Promotion Agencies in the Philippines including PEZA and BOI among others. These agencies provide special incentives for foreign investors. China is one of the top foreign investors among others in the country.",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cnnphilippines.com/news/2021/3/3/Philippines-debt-trap-pandemic-China-AIIB.html",
+                    "https://www.rappler.com/business/lambino-rejects-china-debt-trap-fears",
+                    "https://www.dof.gov.ph/provisions-in-phl-china-loan-accords-standard-in-all-other-agreements/"
+                ],
+                "note": "There is no known scenario where PRC connected entities requisitioned infrastructure or land due to failure to pay debts in a timely manner. There are agreement signed by China and the Philippines that are standard in all other loan accords and is similar even with multilateral institutions such the World Bank and the Asian Development Bank (ADB).",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Business/Telecommunication/China-backed-telco-launches-service-to-take-on-Philippine-duopoly",
+                    "https://www.pna.gov.ph/articles/1113235"
+                ],
+                "note": "The DITO Telecom is owned by Dennis Uy and China Telecom. It was formerly known as Mindanao Islamic Telephone Company, Inc. during 1998-2019. DITO began its commercial operation last March 08, 2021.",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cfr.org/blog/china-huawei-5g",
+                    "https://www.fvaconsultancy.com/best-pocket-wifi-in-the-philippines/"
+                ],
+                "note": "There are few articles that disclosed where Telecom providers in the country get their hardware or technical specifications of 4G or 5G cellular network. However, most of the Telecom player in the Philippines such as Smart and Globe get their gadgets from China such as Huawei, ZTE and other PRC enterprises. At present most of the technology is 4G compatible and Globe has deployed 5G capabilities through their internet broadband service.",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dict.gov.ph/ph-to-improve-telco-services-to-meet-new-normal-demands/",
+                    "https://business.inquirer.net/269921/ph-china-firms-to-launch-nationwide-wi-fi-digital-tv-services"
+                ],
+                "note": "DITO Telecom which started operating in the country was a PRC-connected entities that provide internet/wifi infrastructure projects. For a few months since DITO started operating, it is now expanding its coverage from Mindanao to Luzon where that National Capital Region is located.",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/asia/chinas-backdoors-in-philippine-military-camps-inquirer-columnist",
+                    "https://www.reuters.com/article/philippines-security-telecoms-idUSL4N2H42CY"
+                ],
+                "note": "The DITO Telecom is one of the most controversial project in the Philippines supported it explaining that the risk of China spy in the country is very low. As what they said, telecom firm part-owned by a Chinese state company posed no national security threat, and said equipment it will install in army camps will be tightly scrutinised.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pna.gov.ph/articles/1127882"
+                ],
+                "note": "There are twelve projects are under implementation, in which the Philippine-Sino Center for Agricultural Technology-Technical Cooperation Program Phase III, two China-aid bridges project over the Pasig River and the Chico River Pump Irrigation Project is expected to be completed by the end of 2021. On the other hand, very few articles mentioned government collaboration with China such as data collection or exchange agreement, or adoption of related hardware.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ifsec.events/philippines/visit/news-and-updates/itemized-list-ph-projects-covered-chinas-15-b-investment-pledges-duterte",
+                    "https://www.adb.org/sites/default/files/publication/673441/sdwp-071-smart-city-pathways-developing-asia.pdf",
+                    "http://www.peza.gov.ph/index.php/press-release/171-peza-to-celebrate-26th-anniversary-with-state-of-peza-address-to-build-partnerships-with-bsp-and-banks-for-credit-facilities-for-ecozones"
+                ],
+                "note": "There are cities who signed contracts with PRC related entities to established smart city systems. They were mostly registered with BCDA and PEZA, both a government owned controlled corporations.",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bsp.gov.ph/PaymentAndSettlement/FAQ_PhilPaSS.pdf",
+                    "https://news.cgtn.com/news/2021-01-17/RMB-clearing-bank-launched-in-the-Philippines-X7qjlqEZEs/index.html"
+                ],
+                "note": "There are different system used on the country, but there are no direct information that shows that CIPS is currently being used.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://businessmirror.com.ph/2021/02/28/phls-chinas-st-agencies-launch-8-joint-rd-projects/",
+                    "https://business.inquirer.net/313538/china-emerges-as-phs-most-important-source-of-investments",
+                    "https://asiasociety.org/sites/default/files/2020-09/Weaponizing%20the%20Belt%20and%20Road%20Initiative_0.pdf"
+                ],
+                "note": "PRC is one of the TOP foreign investors in the country and one their focus is the technology sector. There are many projects in partnership with PRC and Philippines through Department of Science and Technology (DOST) and China\u2019s Ministry of Science and Technology (MOST) Joint Research Program (JRP) which covers health, agriculture and renewable energy.",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://beijingpe.dfa.gov.ph/list-of-bilateral-agreements/84-phl-chn-relations"
+                ],
+                "note": "There are many MOUs signed between the country and PRC however, there are no recent data showing that there are companies who publicly announced that they had signed MOUs to collaborate on technological development. ",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://digitalmarketingphilippines.com/comprehensive-look-on-the-top-7-social-media-platforms/",
+                    "https://technoladyinmanila.wordpress.com/tag/filipino-women-wechat-users/#:~:text=The%20Philippines%20is%20in%20the,over%20100%20million%20registered%20accounts.&text=%E2%80%9CThe%20Philippines%20is%20a%20hyper%20social%20community.",
+                    "https://www.onenews.ph/tiktok-still-the-most-downloaded-entertainment-app-in-phl-retains-global-popularity-despite-controversies"
+                ],
+                "note": "Most of the top social media used in the country is not from China such as Yuotube and Facebook. However, there are still many China-based social media app used in the country like Wechat, Tiktok and iQIYI. Despite the data privacy controversy, Tiktok remains the most downloadable app not only in the Philippines but also in the global users.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-11/27/c_139547563.htm"
+                ],
+                "note": "Companies from different ASEAN countries including the Philippines signed three agreements outlining cooperation in the application of the BDS system. It was also reported that the Apple giant will be using Beidou system on their new Iphone 12 which is also a big seller brand in the country.",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": " No articles on such organizations ",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No information on organizations in PH associated with UWCA",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no articles indicating labor union exchnages to ACFTU.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "Visiting personnel from the \u201cOverseas Chinese Affairs Bureau\u201d (Qiaowu Shiwu Ju, \u4fa8\u52a1\u4e8b\u52a1\u5c40)\u2014newly organized as the Tenth Bureau of the CCP United Front Work Department\u2014meet with representatives of an educational center for ethnic Chinese during a visit to the Philippines, November 2018 https://jamestown.org/program/reorganizing-the-united-front-work-department-new-structures-for-a-new-era-of-diaspora-and-religious-affairs-work/",
+                "evidence_urls": [
+                    "https://jamestown.org/program/reorganizing-the-united-front-work-department-new-structures-for-a-new-era-of-diaspora-and-religious-affairs-work/"
+                ],
+                "note": " Limited data ",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No articles, website, or information ",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Catholics in mainland China have collected US$84,000 to buy rice and other food for the poor in slum areas of Philippine capital Manila who are struggling because of the Covid-19 lockdown. \u2026Most donations have come from the Diocese of Wenzhou, while others came from Catholics in Guangzhou, Tianjin and Fujian\u2026. https://www.ucanews.com/news/chinese-catholics-give-food-to-pandemic-hit-filipinos/87678#\nOur Filipino-Chinese community, especially the FFCCCII, has been actively coordinating with the Chinese Embassy through Ambassador Huang Xilian for the Philippines\u2019 traditional friend and ancient trade partner China to send us their humanitarian assistance of medical supplies donations whether from the Chinese government, companies like Huawei or TikTok and philanthropists like Jack Ma. https://www.manilatimes.net/2020/04/20/weekly/expat-diplomats/chinese-filipino-organizations-raise-p265-m-to-help-fight-covid-19/716106",
+                "evidence_urls": [
+                    "https://www.ucanews.com/news/chinese-catholics-give-food-to-pandemic-hit-filipinos/87678#",
+                    "https://www.manilatimes.net/2020/04/20/weekly/expat-diplomats/chinese-filipino-organizations-raise-p265-m-to-help-fight-covid-19/716106"
+                ],
+                "note": "None",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tribune.net.ph/index.php/2021/01/31/chinese-dramas-gaining-viewership-in-the-philippines/",
+                    "Since officially commencing its global expansion in June 2019, iQIYI has attracted a large number of global users' in Malaysia, Thailand, Singapore, Indonesia, the Philippines, Vietnam, North America and other regions. https://www.prnewswire.com/news-releases/iqiyi-becomes-one-of-the-first-chinese-streaming-platforms-to-receive-iso27701-global-data-privacy-certification-301199587.html",
+                    "https://www.prnewswire.com/news-releases/iqiyis-reality-show-youth-with-you-season-3-becomes-global-hit-topping-twitter-trending-lists-in-multiple-countries-301264726.html"
+                ],
+                "note": "No exact number on followers of China entertainment product. ",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "Caroline Hau, a prominent Japan-based scholar of overseas Chinese in Southeast Asia, notes the intimate link between the changing representations of Chinese and China in cultural products in the Philippines and the rise of PRC. She notes the popularity of films and TV shows portraying Filipino-Chinese as well as their networks in China in a positive light. This is a recent change considering that many of the cultural products on the Filipino-Chinese and their families in China tend to portray them negatively or stereotypically. Elite families, especially the Filipino-Chinese, have also put up cultural shows (exhibits, gallery, etc.) showing/discovering/tracing their roots to mainland China. In short, Hau generally finds evidence  that the rising strength of PRC spurred a revival of Chineseness in the Philippines including in culture.\n",
+                "evidence_urls": [
+                    "https://www.spot.ph/newsfeatures/50270/cinema-china-10-pinoy-movies-go-chinese",
+                    "https://brill.com/view/book/9789401207089/B9789401207089-s008.xml",
+                    "https://www.jstor.org/stable/42633851",
+                    "https://nuspress.nus.edu.sg/products/the-chinese-question"
+                ],
+                "note": "Most films or tv shows in the Philippines made use of Chinese themes due to the long history and culture of the Chinese and Chinese-Filipinos in the country. It is by no means made to portray China in a positive light.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no Filipino celebrities sharing Chinese propaganda narratives.",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no accessible data showing local government units in the Philippines sharing Chinese propaganda. ",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "When asked which country to support if ASEAN were forced to support either US or China, the Philippines chose US from 2020 and 2021 at 82.5% and 86.6%, respectively. https://www.iseas.edu.sg/wp-content/uploads/2021/01/The-State-of-SEA-2021-v2.pdf\n59.7% of the Philippine respondents viewed China as revisionist power and intend to turn Southeast Asia into its sphere of influence. https://www.iseas.edu.sg/wp-content/uploads/2021/01/The-State-of-SEA-2021-v2.pdf",
+                "evidence_urls": [
+                    "https://www.iseas.edu.sg/wp-content/uploads/2021/01/The-State-of-SEA-2021-v2.pdf",
+                    "https://www.iseas.edu.sg/wp-content/uploads/2021/01/The-State-of-SEA-2021-v2.pdf"
+                ],
+                "note": "None ",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "China has also supplied the Philippines with small arms on favourable terms (Balana and Ramos, 2016), and since 2016 at least USD 22 million worth of small arms have been transferred to the Philippines from China (Zheng, 2017), including at least 6,000 assault rifles, hundreds of sniper rifles, 30 rocket-propelled grenade launchers, ammunition, and other unspecified small arms. Despite these overtures the AFP rejected these weapons and they were passed to the police (Fonbuena, 2017; Mogato, 2018). (Page 67) http://www.smallarmssurvey.org/fileadmin/docs/S-Trade-Update/SAS-Trade-Update-2019.pdf\nIn May 2017 a letter of intent was signed with China on possible orders worth up to $500 million. This was followed in June by a Chinese aid shipment of 3000 rifles worth PHP 370 million pesos ($7.3 million), as the Philippine armed forces fought rebel forces over Marawi City (Page 33 and 35) https://www.sipri.org/sites/default/files/2019-12/1912_arms_flows_to_south_east_asia_wezeman.pdf",
+                "evidence_urls": [
+                    "http://www.smallarmssurvey.org/fileadmin/docs/S-Trade-Update/SAS-Trade-Update-2019.pdf",
+                    "https://www.sipri.org/sites/default/files/2019-12/1912_arms_flows_to_south_east_asia_wezeman.pdf"
+                ],
+                "note": " None",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "China is a very important market for the Philippines. Electronic products are the major exports of the Philippines to China. More specifically, they are automatic data-processing machines (Standard International Trade Classification (SITC) product no. 752), cathode valves and tubes (SITC 776), and accessories for office machines and data-processing machines (SITC 759). (Page 116) https://journals.sagepub.com/doi/pdf/10.1177/186810341203100305",
+                "evidence_urls": [
+                    "https://journals.sagepub.com/doi/pdf/10.1177/186810341203100305"
+                ],
+                "note": "Automatic data-processing machines, cathode valves and tubes are usual components of military and law enforcement equipment",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "The Armed Forces of the Philippines (AFP) is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Indonesia, South Korea, and the US (2020) https://www.cia.gov/the-world-factbook/field/military-equipment-inventories-and-acquisitions/",
+                "evidence_urls": [
+                    "https://www.cia.gov/the-world-factbook/field/military-equipment-inventories-and-acquisitions/"
+                ],
+                "note": "There are no accessible data showing that Philippines and China collaborated on the development of military or law enforcement equipment.",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "The dispute erupted last month when Manila lodged a diplomatic protest with Beijing and demanded the withdrawal from the Julian Felipe (Whitsun) Reef of more than 200 Chinese maritime militia vessels. The military reported that 44 of them were still moored at the reef last week and nearly 200 more were scattered around other reefs and Pag-asa (Thitu), the biggest island occupied by Filipinos within the country\u2019s 370-kilometer EEZ. https://newsinfo.inquirer.net/1414787/dnd-chief-china-intent-on-occupying-west-ph-sea",
+                "evidence_urls": [
+                    "https://newsinfo.inquirer.net/1414787/dnd-chief-china-intent-on-occupying-west-ph-sea"
+                ],
+                "note": "China is forcing its way to SCS by building bases within the EEZ of the Philippines without bilateral agreement between two parties.",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "After Typhoon Haiyan (also referred to as Typhoon Yolanda) struck the Philippines in 2013, Beijing\u2019s response included dispatching the PLA\u2019s Peace Ark hospital ship, although it initially only offered a small aid contribution and waited until international pressure mounted before extending any offer of relief personnel or equipment. Most observers linked the minimal and delayed response to tensions with Manila over South China Sea sovereignty claims. The deployment of the Peace Ark, with its 300 hospital beds and more than 120 medical personnel, was the first time China had sent any naval ship on a disaster relief mission abroad. https://www.uscc.gov/sites/default/files/Research/USCC%20Staff%20Report_The%20Chinese%20Military%E2%80%99s%20Role%20in%20Overseas%20Humanitarian%20Assistance%20and%20Disaster%20Relief_7.11.19.pdf\n",
+                "evidence_urls": [
+                    "https://www.uscc.gov/sites/default/files/Research/USCC%20Staff%20Report_The%20Chinese%20Military%E2%80%99s%20Role%20in%20Overseas%20Humanitarian%20Assistance%20and%20Disaster%20Relief_7.11.19.pdf",
+                    "https://www.cnbc.com/2013/11/11/china-yet-to-deploy-substantial-navy-to-aid-philippines.html"
+                ],
+                "note": "None ",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no agreement with Philippines and China on establishing a base and deployment of PLA.",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no accessible data  ",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no data  ",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no accessible information on retired military officers receiving benefits from China in the Philippines. ",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no articles showing Philippine high-ranking retired or current military and/or intelligence officials advocate for more coordination with the PLA",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "China-ASEAN Joint Maritime Exercise in 2018 with Singapore, Thailand, Brunei, Vietnam, the Philippines, Cambodia, Indonesia, Malaysia, Burma Page 25 https://fas.org/man/eprint/dod-china-2019.pdf\nChina's armed forces have sent military personnel to participate in multilateral engagements including the ADMM-Plus Experts' Working Group Table-Top Exercise on Peacekeeping Operations in the Philippines in February 2014/ http://www.xinhuanet.com/english/2020-09/18/c_139376725.htm",
+                "evidence_urls": [
+                    "https://fas.org/man/eprint/dod-china-2019.pdf",
+                    "http://www.xinhuanet.com/english/2020-09/18/c_139376725.htm"
+                ],
+                "note": "None",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.scmp.com/topics/china-philippines-relations",
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39787494.pdf",
+                    "http://legacy.senate.gov.ph/15th_congress/treaties/ratification_of_treaty_rp_china_mutual_legal_assistance_criminal_matters.pdf"
+                ],
+                "note": "There are treaties that are currently maintain by China and the Philippines like the Legal Assistance in Criminal Matters between Hong Kong, China and the Philippines. Even with the West Philippines Sea issue, China still vows to continue providing assistance in the country amidst the pandemic.",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.researchgate.net/profile/Michael-Logan/publication/338843062_Terrorism_in_the_Philippines_and_Its_Influence_on_Great_Powers/links/5e2f21594585152d156daa75/Terrorism-in-the-Philippines-and-Its-Influence-on-Great-Powers.pdf",
+                    "https://www.doj.gov.ph/news_article.html?newsid=671",
+                    "https://www.scmp.com/week-asia/politics/article/3094433/criticising-china-could-be-terrorism-under-philippines-anti"
+                ],
+                "note": "There are some signed cooperation between the two countries against combatting terrorism. In recent event, The Philippines congress passed the Anti-Terror Bill address the issue of terrorism and all allied activities. The critics of the bill argued that this will be subject to abused of power and that it be can used for China\u2019s advantage as it was observed that the current administration favours them. ",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tandfonline.com/doi/full/10.1080/1369801X.2020.1863839",
+                    "https://www.scmp.com/week-asia/economics/article/3043542/chinese-crime-wave-hits-dutertes-philippines-pogos-grow",
+                    "https://www.aa.com.tr/en/asia-pacific/triads-behind-drug-trade-in-philippines-duterte/920361"
+                ],
+                "note": "During the pre-pandemic in the Country, one of the biggest issue is the war on drugs. The increasing number of POGO grows unchecked and become the \u2018haven for Chinese criminals and criminal syndicates\u2019.",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://business.inquirer.net/321952/imported-medical-wear-cost-3500-local-jobs",
+                    "https://www.reuters.com/world/china/philippines-duterte-defends-purchase-chinese-covid-19-vaccine-2021-01-13/",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-02/22/c_139758425.htm"
+                ],
+                "note": "Amidst the COVID pandemic and increasing debts of the country. It was controversial that the government choose to import medical equipment and even vaccine from China. The purchase of PPEs and testing kits cost a lot more than the locally made and resulted to loss of jobs to many local manufacturers. Another issue is that there was a delay in the purchase of vaccine. And even If other brands offered a lower cost for the covid vaccine, the administration still choose to still get those manufactured from China even if China itself will not used the same vaccine.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.manilatimes.net/2017/05/25/news/national/china-vietnam-behind-cyber-attacks-ph-asia/329196",
+                    "https://manilastandard.net/business/economy-trade/347961/cyberattacks-from-china-threaten-ph-economic-interests.html"
+                ],
+                "note": "The Philippines already filed about 60 diplomatic protests against China under the Duterte administration. Cyberattacks from China along with its growing business influence and military presence in the Philippines are posing a threat to the Philippines\u2019 economic interests. The main concern of Senator Grace Poe is the government\u2019s questionable capability to counter Chinese cyberattacks especially with the new DITO Telecom operating in the country which is co-owned by a Chinese national",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rappler.com/newsbreak/iq/fast-facts-chinese-triads-organized-crimes"
+                ],
+                "note": "There are no available public information discussing triad action in the Philippines recently. However, the triad influence is still rampant in the country which has been the suspect for many criminal activities.",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.brookings.edu/wp-content/uploads/2020/04/FP_20200428_china_surveillance_greitens_v3.pdf",
+                    "https://www.reuters.com/article/philippines-telecoms/china-backed-telecom-firm-says-wont-spy-on-philippines-idINL4N2GE1IN ",
+                    "2019 article regarding the government use of Chinese equipment for internet surveillance system: https://cnnphilippines.com/news/2019/11/22/DILG-Chinese-CCTV-Manila-Safe-Philippines.html"
+                ],
+                "note": "Even during the pre-pandemic situation, there is a tight tie between China and the Philippines wherein the country has been using the China provided surveillance and security system. The recent project was the DITO Telecom that aims to provide completion to the telecom duopoly in the country. Even with criticism, the government and even China assures that the communications equipment it will install at military camps will be used no be used for spying.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Article from 2019 regarding proposal to have PRC police force in the country: https://www.scmp.com/week-asia/geopolitics/article/3024757/police-philippines-china-plan-collaboration-foil-casino",
+                "evidence_urls": [
+                    "https://www.scmp.com/week-asia/geopolitics/article/3024757/police-philippines-china-plan-collaboration-foil-casino"
+                ],
+                "note": "There has been a proposal that the Philippines and China will collaborate to solve crimes committed by Chinese nationals against their compatriots but there are no news or article discussing that the plan was pushed through especially since the pandemic hits the country.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/asia/southeast-asia/article/3134131/philippines-coronavirus-missteps-could-make-it-asias",
+                    "https://www.rappler.com/nation/hillary-clinton-fears-philippines-become-heavily-influenced-china",
+                    "https://www.theguardian.com/world/2020/jun/15/maria-ressa-rappler-editor-found-guilty-of-cyber-libel-charges-in-philippines"
+                ],
+                "note": "There are no known or direct request from PRC to detained a Filipino citizen for being involved on movements or activism against Hong Kong or Xinjiang. However, Maria Ressa, the co \u2013owner and founder of Rappler has been found guilty of cyber libel was very vocal about his criticism about the government\u2019s \u201ccorruption and extra judicial killings\u201d and for being in favour of China. In addition, a giant tv network that shares news and opinions opposing the current administration\u2019s action and how it seems to be favourable towards China\u2019 administration despite many allegations was also been targeted resulting to the cancel of its licence and franchise to operate.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/news/2020/4/30/philippines-backs-down-on-demand-for-taiwan-to-deport-worker",
+                    "https://www.vice.com/en/article/wxew4z/filipino-caregiver-taiwan-deportation-duterte-critic-democracy"
+                ],
+                "note": "There are no known public records and proofs that the Philippines deported Taiwan citizen to the PRC to face prosecution. Although, the opposite has happened when the current administration wanted Taiwan to deport a Filipino citizen for criticising the Duterte administration and which Taiwan as a democratic country decline.",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://newsinfo.inquirer.net/1324905/moreno-seeks-deportation-for-2-chinese-owners-of-items-tagging-manila-as-part-of-china",
+                    "https://news.abs-cbn.com/news/08/21/20/isko-wants-2-chinese-deported-for-province-of-china-tag",
+                    "https://www.onenews.ph/philippines-province-of-china-is-fake-news-roque-says"
+                ],
+                "note": "Manila\u2019s current mayor has requested for the deportation of 2 Chinese business owners because of the label in their products stating Philippines as a province of China. This was national concern when the President commented and \u201cjoke\u201d that why not make the country a province of China wayback in 2018.",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Phillipines has a GDP per capita of US $3,298 and a total population of 109,035,343 people.",
+    "description-2": "Phillipines established diplomatic relations with the People Republic of China in 1975. Phillipines was ranked 138th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 55/100."
+}

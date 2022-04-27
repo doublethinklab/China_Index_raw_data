@@ -1,0 +1,986 @@
+{
+    "name": "United States",
+    "partner": "National Bureau Of Asian Studies",
+    "year": "2021",
+    "GDP": "$63,543.58",
+    "population": "329.4M",
+    "original": "159/376",
+    "ranking": "15",
+    "overall": "42%",
+    "effect": "23%",
+    "exposure": "41%",
+    "pressure": "91%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "Some of these media may have some influence within the Chinese diaspora in the U.S. and among Chinese- Americans, but they would have virtually no influence on mainstream media or politics.",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/2015/05/12/56/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Two media groups, Rakuten Viki USA and National Geographic Channel are associated with the Belt and Road Media Community (BRMC).",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/member.shtml "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "Research indicates that these all-expenses paid media tours are geared towards journalists from developing countries.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/china/2016-10/17/content_27077588.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "evidence": "Other than China Daily, major party-state media like CGTN, Xinhua, People\u2019s Daily and such operate in the U.S.  ",
+                "evidence_urls": [
+                    "http://global.chinadaily.com.cn/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://techcrunch.com/2020/05/27/meet-news-break-the-news-app-trending-in-america-founded-by-a-chinese-media-veteran/ ",
+                    "https://foreignpolicy.com/2017/12/21/one-of-americas-biggest-chinese-language-newspapers-toes-beijings-party-line-china-influence-united-front/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.reuters.com/investigates/special-report/china-radio/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "I\u2019ve seen China Daily paid supplements in the Washington Post, Financial Times, Foreign Policy magazine and other publications. \n\nSee page four in below link.",
+                "evidence_urls": [
+                    "https://www.uscc.gov/sites/default/files/Sarah%20Cook%20May%204th%202017%20USCC%20testimony.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Absolutely yes, and increasingly so.  Not only have many of the best journalists reporting in English from China been expelled from the country, but journalists remaining in China and their locally-engaged Chinese assistants continue to be intimidated by party-state security organs and members of the public.   Intimidation ranges from physical surveillance to physical harassment to online slander and threat.  Moreover, PRC foreign ministry and other officials openly vilify these journalists and their publications by name \u2013 a practice that gives the green light to Chinese citizens to further intimidate the journalists.",
+                "evidence_urls": [
+                    "https://www.voanews.com/press-freedom/us-condemns-harassment-foreign-journalists-china ",
+                    "https://www.nytimes.com/2020/03/17/business/media/china-expels-american-journalists.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "See page 11 in the below link [of USSC].\n\nI would imagine that some publications, writers and academics exercise self-censorship in their treatment of the PRC.  \nhttps://archives.cjr.org/feature/bloombergs_folly.php  \n",
+                "evidence_urls": [
+                    "https://www.uscc.gov/sites/default/files/Sarah%20Cook%20May%204th%202017%20USCC%20testimony.pdf",
+                    "https://archives.cjr.org/feature/bloombergs_folly.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.axios.com/grayzone-max-blumenthal-china-xinjiang-d95789af-263c-4049-ba66-5baedd087df4.html ",
+                    "https://www.codastory.com/disinformation/grayzone-xinjiang-denialism/?stream=china++"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/political-donors-linked-to-china-won-access-to-trump-gop-11592925569"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://wisconsinexaminer.com/2020/04/10/chinese-government-asks-wisconsin-senate-for-a-commendation/",
+                    "https://2017-2021.state.gov/state-legislatures-and-the-china-challenge/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "Somewhere in the neighborhood of 50-80 Americans are believed to be trapped inside the PRC.",
+                "evidence_urls": [
+                    "https://www.rubio.senate.gov/public/index.cfm/2021/4/rubio-markey-reintroduce-legislation-to-counter-chinese-government-policy-banning-americans-from-exiting-china",
+                    "https://www.usatoday.com/story/news/world/2019/09/14/china-increasingly-using-exit-bans-bar-americans-leaving/2269191001/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Possible but not within the last five years",
+                "evidence_urls": [
+                    "See below comment. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.state.gov/fifth-anniversary-of-the-arbitral-tribunal-ruling-on-the-south-china-sea/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/06/trump-signs-uyghur-human-rights-act-into-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.state.gov/reports/2020-report-on-international-religious-freedom/china/tibet/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://2017-2021.state.gov/on-beijings-imposition-of-national-security-legislation-on-hong-kong/index.html",
+                    "https://www.state.gov/marking-one-year-of-hong-kongs-national-security-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "More than a few U.S. universities and think tanks have taken Chinese corporate funds. \n\n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-usa-china-security-universities-insig/u-s-universities-unplug-from-chinas-huawei-under-pressure-from-trump-idUSKCN1PI0GV "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://fas.org/sgp/crs/row/IF11180.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "See page 18 on below link.",
+                "evidence_urls": [
+                    "https://www.hsgac.senate.gov/imo/media/doc/PSI%20Report%20China's%20Impact%20on%20the%20US%20Education%20System.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://www.brsn.net/jgcy-Institutions/zhiku_en/detail/20190701/1005000000038251561964473859540314_1.html ",
+                    "http://uasr.xjtu.edu.cn/About_UASR/Members.htm",
+                    "http://www.ucmsr.com/route "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://uscpf.org/v3/about_us/donors/",
+                    "https://chinaus-icas.org/about-icas/icas-faqs/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "evidence": "Many prominent cases reported in the U.S. media: the Harvard chemistry professor, GE engineers, numerous genetics, biology and bio-medicine figures, etc",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2020/05/11/us/politics/professor-simon-ang-wire-fraud-china.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "Above link references a law professor from Nebraska who travels annually to China paid for by the Confucius Institute.",
+                "evidence_urls": [
+                    "https://www.npr.org/2019/07/17/741239298/as-scrutiny-of-china-grows-some-u-s-schools-drop-a-language-program"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.chicagomaroon.com/article/2021/6/13/hong-kong-activist-alleges-cssa-ccp-control-organization/",
+                    "https://foreignpolicy.com/2018/03/07/chinas-long-arm-reaches-into-american-campuses-chinese-students-scholars-association-university-communist-party/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.npr.org/2019/04/25/716032871/visas-are-the-newest-weapon-in-u-s-china-rivalry "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "Aside from Confucius Institutes, which don\u2019t seem to play a role in developing curriculum for for-credit classes or classes outside of the Confucius Institute itself, research showed no indication of this. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://newrepublic.com/article/150476/american-elite-universities-selfcensorship-china "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "skip",
+                "evidence": "This is unknown, but 75% certain that the agreements exist.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.seattle.gov/oir/sister-cities/seattles-sister-cities/chongqing#:~:text=The%20Seattle%2DChongqing%20Sister%20City,sister%20city%20ties%20in%201983",
+                    "https://sistercitiesofla.org/sister-cities/guangzhou/#:~:text=Guangzhou%20%7C%20Sister%20Cities%20of%20Los%20Angeles",
+                    "https://os.dc.gov/service/dc-sister-cities"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.minnpost.com/political-agenda/2011/10/lt-gov-prettner-solon-heads-china-trade-mission/",
+                    "https://usheartlandchina.org/delegations/fall-2019-mayors-delegation-to-china/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://www.cicir.ac.cn/NEW/en-us/event.html?id=f2569170-56c6-4785-980d-f46b46daef17",
+                    "http://www.cicir.ac.cn/NEW/en-us/event.html?id=0b63f378-0b98-4298-b275-e8ec48d8b577",
+                    "https://www.ciis.org.cn/english/NEWS_183/202102/t20210220_7780.html",
+                    "http://en.ccg.org.cn/archives/69741"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/political-donors-linked-to-china-won-access-to-trump-gop-11592925569"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://ebcitizen.com/2020/12/09/she-came-out-of-nowhere-then-she-was-gone-the-local-angle-on-swalwells-ties-to-an-alleged-chinese-spy/",
+                    "https:/www.axios.com/china-spy-california-politicians-9d2dfb99-f839-4e00-8bd8-59dec0daf589.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "skip",
+                "evidence": "Unclear. Almost all at local level.",
+                "evidence_urls": [],
+                "note": "There is a lot of activity, but providing the direct linkages to confirm the UFWD-connected groups & individuals have made such statements is an analytic endeavor beyond the scope here. \n\nSignificant also would mean that the elections were close enough that Chinese-American community groups provided enough voters to push elections one or another--or at least were sufficiently large to be a key constituency.\n",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No way to get an accurate gauge.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "4",
+                "evidence": "See below links.\n\nThe first link: The Georgetown China Initiative is run by a former senior executive at CIA and NSC Senior Director. It also includes several former officials.\n\nThe second link: The book shows that CPPCC Vice Chairman Tung Chee-hwa's foundation paid/supported Jeffrey Bader who is a former State Department official, ambassador, and NSC senior director.",
+                "evidence_urls": [
+                    "https://www.georgetown.edu/news/10m-gift-will-create-u-s-china-initiative-on-global-issues-at-georgetown/",
+                    "https://books.google.com/books?id=bQyfMmqjf-YC&pg=PR11&lpg=PR11&dq=%22jeffrey+a+bader%22+%22china-us+exchange+foundation%22&source=bl&ots=8mp9OxioF1&sig=ACfU3U1LgxyhYJZbCMVD1Au2fJxOsZscGQ&hl=en&sa=X&ved=2ahUKEwjJupeGnL7xAhXTMlkFHbyYAJYQ6AEwBHoECAUQAw#v=onepage&q=%22jeffrey%20a%20bader%22%20%22china-us%20exchange%20foundation%22&f=false",
+                    "https://wynnresortslimited.gcs-web.com/board-member/clark-randt-jr",
+                    "https://www.itu.int/en/ITU-D/Study-Groups/2014-2018/Documents/meetings/Bio_Andy_Purdy.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.census.gov/foreign-trade/statistics/highlights/toppartners.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.statista.com/statistics/246420/major-foreign-holders-of-us-treasury-debt/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "The below link has multiple entries for data centers in the United States",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.aspi.org.au/report/chinese-communist-partys-coercive-diplomacy"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.aspi.org.au/report/chinese-communist-partys-coercive-diplomacy",
+                    "https://www.rfa.org/english/news/china/xinjiang-cotton-03252021153114.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No, not knowingly",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.uscc.gov/sites/default/files/2020-04/China_Smart_Cities_Development.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Banks in/from my country use CIPS at least inside their China offices: https://www.cips.com.cn/cipsen/7052/7057/33783/33822/index.html",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "Also sourced to proprietary data.",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/chinese-investors-u-s-tech-entrepreneurs-continue-to-make-deals-11572275105",
+                    "https://www.vox.com/recode/2019/5/1/18511540/silicon-valley-foreign-money-china-saudi-arabia-cfius-firrma-geopolitics-venture-capital",
+                    "https://www.npr.org/2018/10/07/654339389/china-makes-a-big-play-in-silicon-valley",
+                    "https://www.ft.com/content/745abeca-561d-484d-acd9-ad1caedf9e9e"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "The link above can be used to filter by country",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://www.nacpu.org/aboutus.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "US members in New York, San Francisco, and Boston",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "The most recent source is from 2013 and there is little evidence that these meetings have continued.  ",
+                "evidence_urls": [
+                    "http://qcpages.qc.cuny.edu/newlaborforum/old/html/11_article61.html#_edn1",
+                    "http://alrexchange.sps.cuny.edu/en/news/project-insider/145",
+                    "http://www.china.org.cn/2007-05/21/content_1211309.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "4",
+                "evidence": "Every Chinese consulate has UFWD staff, not to mention intelligence and counter-intelligence agents, who \u201clook after\u201d the Chinese diaspora and Chinese Americans.  \u50d1\u52d9\u5de5\u4f5c is the phrase, and it\u2019s a Very Big Deal for every Chinese embassy and consulate.   You will have noticed that in the recent turnover of PRC ambassadors in Washington both the departing ambassador and his successor addressed special communications to their \u201ccompatriots\u201d in America.   ",
+                "evidence_urls": [
+                    "http://www.chinaconsulatesf.org/chn/tpxw/t1493277.htm ",
+                    "http://losangeles.china-consulate.org/eng/lghd/t1702499.htm",
+                    "https://chinacenter.umn.edu/news/2018/3/visit-consul-general-hong-lei "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://www.china-embassy.org/eng/zmgxs/zxxx/t814962.htm",
+                    "https://2009-2017.state.gov/s/gwi/rls/other/2011/163356.htm",
+                    "http://english.www.gov.cn/state_council/vice_premiers/2015/06/24/content_281475133582826.htm",
+                    "https://www.eastwestcenter.org/professional-development/seminars-journalism-programs/china-united-states-journalists-exchange",
+                    "http://usa.chinadaily.com.cn/epaper/2012-10/05/content_15797512.htm",
+                    "https://iwp.uiowa.edu/programs/life-of-discovery/2012 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Given the CCP's avowed, sometimes stridently expressed, atheism, not to mention Xi Jinping's various campaigns against both Catholic and Protestant churches in China, I can't imagine any UFWD or other CCP-related monies going into Christian communities or charities in the U.S.  Ditto for Muslim groups, I should think. It's also conceivable to me that in densely populated Chinese emigre communities -- think Canal Street or Flushing or some of the L.A. suburbs -- there might be Buddhist or Taoist \"benevolent associations\" which would get UFWD support to take a public stance on an issue of PRC concern, or to promote a candidate for public office.   In China, the national Buddhist and Taoist associations have been pretty well co-opted by the CCP, much more thoroughly than even the \"Patriotic\" Catholic Church or the \"Three-Self\" Protestants.  The party-state Religious Affairs Bureau sees these Buddhist and Taoist traditions as \"native\" to China, rather than \"foreign\" traditions such as Christianity or Islam.",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "2",
+                "evidence": "\"Companies including Xinhua and CGTN, which claims to reach 1.2 billion people globally, have gone on hiring sprees in cities in the United States and abroad. Beijing has reportedly pressured U.S. cable operators to favor its state media companies\"",
+                "evidence_urls": [
+                    "https://www.cfr.org/in-brief/does-chinese-state-media-pose-threat-united-states"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "To my knowledge, few, if any, mainstream celebrities spout PRC propaganda.  But there are extremist outliers like Steve Bannon, who loved the PRC before he hated it, and influential financial service boosters like Ray Dalio; and the Chinese diaspora media harbor some propaganda megaphones, although the anti-CCP voices seem louder.\n\nIn the below link Ray Dalio argues that \"China's recent regulatory crackdown has been misinterpreted as being anti-capitalist\" and claimed that he was referring to Western observers who have no contact with policymakers and \"don't follow in detail the patterns of the changes\"",
+                "evidence_urls": [
+                    "https://www.cnbc.com/2021/08/03/ray-dalio-on-investing-amid-chinas-crackdown-on-tech-education.html",
+                    "https://www.linkedin.com/pulse/understanding-chinas-recent-moves-its-capital-markets-ray-dalio/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While research indicates there are close ties between local governments and the PRC (see evidence below), we have been unable to find any evidence of local governments publishing or reposting messages from the PRC government or embassies. This question is skipped to a lack of availability evidence.\n\nhttps://twitter.com/MEDC/status/994924513338028033 (retweeted by Rick Snyder, former governor of Michigan)\n\nhttps://www.facebook.com/GovernorRickSnyder/photos/a.102695878358/10153154871088359/\n",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/fact-tank/2021/06/30/chinas-international-image-remains-broadly-negative-as-views-of-the-u-s-rebound/",
+                    "https://www.pewresearch.org/fact-tank/2021/06/30/chinas-international-image-remains-broadly-negative-as-views-of-the-u-s-rebound/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Probably \u201cno\u201d to complete products, but components more likely",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "In the article above: Dennis Wilder is a former senior CIA executive. \n\nJames Green is a former CIA analyst.\n",
+                "evidence_urls": [
+                    "https://www.georgetown.edu/news/10m-gift-will-create-u-s-china-initiative-on-global-issues-at-georgetown/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "high-ranking retired or current military and/or intelligence officials have called for crisis management mechanisms and confidence building measures.",
+                "evidence_urls": [
+                    "https://foreignpolicy.com/2021/05/10/biden-china-xi-jinping-defense-hotline-pentagon/",
+                    "https://www.newsweek.com/us-china-crisis-communications-warnings-election-1543383"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "The third article is about a Triad connected businessman who was a part of the UN bribery scandal involving the PRC and campaign finance problems in Clinton years.\n\nThe Reuters article is the most recent example. There is a history here, but no source says that the Triads or their affiliates left the country. No one seems to be looking.",
+                "evidence_urls": [
+                    "https://www.bostonmagazine.com/2006/05/15/in-the-shadow-of-the-dragon/",
+                    "https://www.ojp.gov/pdffiles1/Digitization/125837NCJRS.pdf",
+                    "https://macaudailytimes.com.mo/profile-a-highly-influential-figure-in-macau-guangdong.html ",
+                    "https://www.reuters.com/investigates/special-report/meth-syndicate/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.justice.gov/opa/pr/phd-chemist-convicted-conspiracy-steal-trade-secrets-economic-espionage-theft-trade-secrets",
+                    "https://www.justice.gov/opa/pr/chinese-citizen-convicted-economic-espionage-theft-trade-secrets-and-conspiracy",
+                    "https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related",
+                    "https://www.cnn.com/2021/04/14/politics/fbi-director-china-investigations-intl-hnk/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2020/09/16/us/politics/china-hackers.html",
+                    "https://www.reuters.com/article/us-cyber-solarwinds-china-exclusive/exclusive-suspected-chinese-hackers-used-solarwinds-bug-to-spy-on-u-s-payroll-agency-sources-idUSKBN2A22K8",
+                    "https://www.justice.gov/opa/pr/two-chinese-hackers-working-ministry-state-security-charged-global-computer-intrusion"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "UNKNOWN (80 that it has been done, but beyond one case I have no confidence)",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-health-coronavirus-amazon-com-cameras/exclusive-amazon-turns-to-chinese-firm-on-u-s-blacklist-to-meet-thermal-camera-needs-idUSKBN22B1AL"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, the United States has a GDP per capita of US $63,543.58 and a total population of 329.4 million people, with the foreign-born Chinese population comprising 2.4 million people and US-born citizens of Chinese heritage/ancestry comprising 3 million people, or 1.6% of the total population.",
+    "description-2": "The United States established diplomatic relations with the People Republic of China in 1844. The United States was ranked 44th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 83/100. "
+}

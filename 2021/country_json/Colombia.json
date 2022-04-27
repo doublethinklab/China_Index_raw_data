@@ -1,0 +1,957 @@
+{
+    "name": "Colombia",
+    "partner": "Fundaci\u00f3n Andr\u00e9s Bello - Centro de Investigaci\u00f3n Chino Latinoamericano",
+    "year": "2021",
+    "GDP": "$5,334.0",
+    "population": "50.539M",
+    "original": "49/392",
+    "ranking": "35",
+    "overall": "12%",
+    "effect": "19%",
+    "exposure": "12%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "There is the presence in Colombia of a Chinese reporter for CGTN, and there are local reporters who support in developing stories for Xinhua and China Daily, but their influence is low and their presence is not felt strongly. There is normally a Chinese reporter for Xinhua, but that slot has not been filled lately.",
+                "evidence_urls": [
+                    "http://spanish.xinhuanet.com/2021-05/01/c_139919034.htm",
+                    "https://www.youtube.com/watch?v=4fuEL9Lr5rw&ab_channel=CGTNenEspa%C3%B1ol"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Colombia is not a BRI member, nor is there a presence from members of the above media alliances in the country.",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "I know personally of at least one instance in 2019 in which expenses were paid for one Colombian journalist to travel to San Jose (Costa Rica) to attend a meeting of the China-CELAC Forum on financial cooperation. There is no other public information on this subject.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "There is little evidence of persistent and successful attempts by China to train Colombian journalists, media organizations, or influencers. What little evidence there is is scarce and from a few years past. It\u2019s likely that people didn\u2019t even apply to the programs, given little interest in the country from the journalistic field.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "Chinese media outlets do publish content in Spanish, including content on events in the country, but their number is limited, mostly focusing on events that occurred (number of COVID-19 cases), and they are not at all consulted widely in the country.",
+                "evidence_urls": [
+                    "http://search.news.cn/?lang=es#search/0/colombia/1/",
+                    "http://search.people.com.cn/language/spanish/getResult.jsp"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No Colombian media outlet is wholly or partly-owned by PRC citizens or companies. Colombian media outlets (at the national and local level) are well-established institutions, with ties to politically powerful families, with little need to receive funds from outside sources.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Thanks to a recent agreement between a Chinese media content producer and the Colombian national TV broadcaster (RTVC), a limited number of Chinese movies and documentaries have been aired in public Colombian TV (Se\u00f1al Colombia), though viewership of said channel is not even in the top 20, so its impact is exceedingly low. There are no other known deals.",
+                "evidence_urls": [
+                    "https://www.rtvc.gov.co/noticia/rtvc-alianza-productora-mundial-bruce-lee",
+                    "https://www.senalcolombia.tv/cultura/gala-ano-nuevo-chino"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "There are no regular attempts by Chinese state-media or the Chinese government to insert advertisement in Colombian newspapers, news websites, or social media. In some instances, Chinese state-owned companies have coordinated with local city governments to promote new joint projects in local media (like the awarding to a Chinese company of the contract to build the Bogota metro), though there\u2019s no record of that advertisement anymore.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There is no record of journalists in Colombia being pressured, publicly denounced, denied visas, or having their ID\u2019s revoked. Instead, there are many articles, columns, and other reports that openly criticize China, including some written by Taiwan authorities.",
+                "evidence_urls": [
+                    "https://www.asuntoslegales.com.co/analisis/gabriel-ibarra-pardo-558821/la-entrega-de-colombia-a-la-republica-popular-china-3082937",
+                    "https://www.semana.com/economia/opinion/articulo/le-conviene-a-colombia-el-ascenso-de-china/202156/",
+                    "https://www.larepublica.co/globoeconomia/es-importante-que-colombia-reabra-la-oficina-de-procolombia-que-habia-en-taipei-2960885"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "There are no known cases of this occurring. Had there been, and given the state of media competition in Colombia, the affected journalist would have likely revealed the pressure in a rival media outlet. Instead, and as mentioned before, Colombian media openly report negative news, opinions, and editorials on China. The referenced academic article above explores how Colombian media has studied China in both a positive and negative light.",
+                "evidence_urls": [
+                    "https://heinonline.org/HOL/LandingPage?handle=hein.journals/chnaquar2012&div=12&id=&page=",
+                    "https://www.asuntoslegales.com.co/analisis/gabriel-ibarra-pardo-558821/la-entrega-de-colombia-a-la-republica-popular-china-3082937"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "There are no Colombian media personalities per se who cast doubts about the human rights situation in China. Instead, there are some low-profile individuals who occasionally publish or comment on these issues, but (1) they are not media personalities or celebrities and (2) their impact is extremely limited.",
+                "evidence_urls": [
+                    "http://spanish.chinatoday.com.cn/2018/zt/2020lh/202005/t20200526_800207340.html",
+                    "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/china-futuro-educativo-de-colombia-column/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "There is such a group at the level of the Senate, but it\u2019s not active, does not speak publicly on matters relevant to the relationship, and there is not even a list of members. Whatever influence it might have, it is very weak.",
+                "evidence_urls": [
+                    "http://co.china-embassy.org/esp/zggx/t769773.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "There have been meetings between congresspeople/political party leaders and the Chinese ambassador in Colombia. These meetings, however, are commonplace, and mostly protocolary. Similar meetings have been had between the same Colombian political figures and ambassadors from other countries, with no implications. Meanwhile, during the period of study (2020-2021), there have been no meetings between China-based PRC officials and congresspeople.",
+                "evidence_urls": [
+                    "https://mp.weixin.qq.com/s/-2PK8pB7snX5zXDPUq9Lhw",
+                    "https://mp.weixin.qq.com/s/oFLFhZRpcGqxmw8yp72pQg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "There are no such programs in place. One likely reason for this is that there are no cooperation agreements to facilitate this, especially on the issue of governance.",
+                "evidence_urls": [
+                    "http://apw.cancilleria.gov.co/tratados/SitePages/BuscadorTratados.aspx?Estado=232&Tipo=B"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "There is no instance of this occurring. One likely reason is that few measures passed by the government directly affect Chinese interests. Instead, there are Colombian politicians who are openly close to the Taiwan authorities, and there appears to be no pressure to change their alignment.",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=Cj81rGkyDLM&ab_channel=ElNodoColombia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "There has been no instance of a \u201chostage diplomacy\u201d type of scenario involving a Colombian national. There are Colombians who are in prison in China, but this is mostly for drug trafficking charges. The two countries recently agreed and ratified an agreement for the repatriation of these prisoners.",
+                "evidence_urls": [
+                    "https://www.eltiempo.com/colombia/cali/el-dramatico-relato-de-caleno-condenado-en-china-por-narcotrafico-449258",
+                    "https://www.semana.com/nacion/articulo/familia-de-colombiano-preso-en-china-pide-su-repatriacion-por-grave-estado-de-salud/202104/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "There has been no statement from the mentioned political figures on the issue. At the same time, no Colombian political figure has shown support for the participation of Taiwan in the WHO.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Colombian authorities did not publicly back any Chinese candidate to be head of a UN agency or other intergovernmental organization, nor did it publicly signal support for any other candidate.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Colombia, like most Latin American countries, has not expressed any opinion on territorial issues involving China, including those of the South China Sea, Aksai Chin, Arunachal Pradesh, or others. One likely reason is that Colombia is in a similar situation as China in a maritime dispute with Nicaragua. Nicaragua has won several legal cases on this issue, but Colombia rejects the findings.",
+                "evidence_urls": [
+                    "https://www.chinadailyasia.com/special/southchinasea/2016-07/13/content_15462953_2.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "This is another issue on which Colombia has remained silent.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "This is another issue on which Colombia has remained silent.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "This is another issue on which Colombia has remained silent.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "There have been cooperation agreements signed between Colombian research institutes/universities and Chinese entities, including state research centers, universities, and companies. However, the number of agreements is low, and their impact has been very limited. In most instances, Colombian entities sign these agreements but do not act on them, partly because of low interest from the Colombian side. ",
+                "evidence_urls": [
+                    "https://www.portafolio.co/tendencias/universidad-distrital-apuesta-por-la-investigacion-533713",
+                    "https://minciencias.gov.co/sala_de_prensa/galerias/firma-del-memorando-entendimiento-entre-colciencias-y-la-academia-ciencias"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "There are three Confucius Institutes in Colombia, two in the capital Bogota and one in Medellin. There are also five Confucius Classrooms in the country. The Institutes and Classrooms have entered into agreements with other academic and state entities to teach Chinese language and culture to non-traditional students. It\u2019s been known that the Institutes are especially attractive for students at the initial levels of Chinese learning, but that few continue on beyond the second level, pointing to limited influence. In some universities, like Universidad de los Andes, the Japanese Center does not only attract more attention but even has a bigger building across from the Confucius Institute; this particular Institute has not had a Chinese director for years.",
+                "evidence_urls": [
+                    "https://www.utadeo.edu.co/es/micrositio/instituto-confucio",
+                    "https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=4411"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "The Chinese language is not taught, nor are there plans to teach it, in the Colombian public educational system. Chinese is offered through Confucius Classrooms, but only in select private institutions.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No Colombian research center belongs to any of the above networks. There may be at least three reasons for this. One, Colombia does not belong to the BRI. Two, there are no research centers specialized in studying China. Three, there are few experts in Colombia dedicated to studying China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "One can find only a few instances in which research centers have been created directly through cooperation agreements with Chinese entities, mainly, the two linked above. In all cases, financial support is never mentioned directly. These centers have had little mediatic or practical impact in Colombian society, implying very low influence. ",
+                "evidence_urls": [
+                    "https://www.revistasmartphone.com/mundo-smartphone/zte-y-la-universidad-javeriana-establecen-un-centro-de-investigacion-de-innovacion-5g-en-colombia-y-anuncian-su-asociacion-en-la-investigacion-de-tecnologia-5g/",
+                    "https://www.portafolio.co/tendencias/universidad-distrital-apuesta-por-la-investigacion-533713"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No Colombian has ever participated in any Chinese talent-recruitment programs. This likely happens given that Colombian researchers and scholars do not delve into areas of interest to the Chinese government.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Some China researchers have been known to participate in academic programs that pay their expenses to the country. These programs, however, are not well publicized or have a big impact in the country.",
+                "evidence_urls": [
+                    "http://iepri.unal.edu.co/2/biografia/diana-andrea-gomez-diaz/",
+                    "http://english.eastday.com/Shanghai/u1ai8636122.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": " No evidence found.",
+                "evidence_urls": [],
+                "note": "There are no CSSA\u2019s or CSSA-like entities in Colombian universities or in Colombian society, most likely given extremely low numbers of Chinese students and scholars in Colombia. ",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "There is no record of this happening. An affected scholar or academic would be expected to denounce this publicly, and that has not been found either.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "This has not occurred in Colombia, partly given very little interest in Colombian academic institutions on East Asian history, issues of concern to China, etc. Even universities that have Confucius Institutes in them have not been known to change their curriculum. A likely reason is that Colombian academic institutions have a strong, long-lasting, and legally-protected principle of upholding the freedom of professors/teachers to choose the content of their classes. Not even higher-level university officials can interfere in these individual choices.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "There are no confirmed reports of this, again, likely in part to very little interest on these subjects in Colombian academic institutions. On a more personal note, and as a research-professor that deals with these issues, I have never been pressured on the content of my classes.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "A few agreements are being signed, though their impact varies. On the one hand, there have been a few sister city and sister departmental/provincial agreements, though these have been more symbolic than substantive. During the pandemic, some of these agreements were activated to provide facemasks from the Chinese side to the Colombian side, but no other substantive results have come out of them. On the other hand, recently, there has been an increasing number of infrastructure agreements with SOE\u2019s, though they are not signed exclusively by sub-national governments, in that the central government also plays a major role in them. Regardless, these agreements have the potential to shape the very way life is lived in the city/department.",
+                "evidence_urls": [
+                    "https://china.embajada.gov.co/node/news/21270/marco-del-proyecto-hermanamientos-entre-colombia-y-china-la-embajada-colombia",
+                    "https://www.mintransporte.gov.co/publicaciones/8669/con-apoyo-de-la-nacion-regiotram-de-occidente-en-cundinamarca-firma-acta-de-inicio-para-sus-obras-de-construccion/",
+                    "https://www.lafm.com.co/colombia/china-dona-20000-tapabocas-para-personas-de-escasos-recursos-en-ibague"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "As mentioned above, these agreements have indeed come into effect, though there are few of them (no more than 10, including sister departmental/provincial agreements) and they have had little impact.",
+                "evidence_urls": [
+                    "https://caracol.com.co/emisora/2019/09/19/sincelejo/1568854940_315829.html",
+                    "https://www.barranquilla.gov.co/desarrolloeconomico/relaciones-internacionales/hermanamientos"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "Colombian congressmen and women have been invited to China for specialized paid visits on relevant topics, like technology. It is notable, however, that these politicians have done much to minimize the impact of the trip. Colombian media also did not cover these visits in a major way. Other than congressmen and women, other kinds of politicians (mayors, ministers, etc.) have not been found to be invited for paid visits.",
+                "evidence_urls": [
+                    "https://twitter.com/horaciojserpa/status/1087355581818646528?lang=da",
+                    "https://www.eltiempo.com/politica/congreso/que-hace-alejandro-chacon-expresidente-de-la-camara-en-china-379246"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "Similar to the above, some Colombian politicians have visited China, but the impact of these visits appears to be low. Other than the visits by some congressmen and women, a notable visit was that done by the President of Colombia and his team in 2019. This visit included meetings with PRC officials and think tanks. Outside of the scope of this visit, there have been a few other visits, at the vice-ministerial and mayoral level, but not by others (ministers, governors).",
+                "evidence_urls": [
+                    "https://www.cancilleria.gov.co/newsroom/news/presidente-duque-presento-shanghai-iniciativa-colombia-china-fortalecer-lazos",
+                    "https://china.embajada.gov.co/node/news/16969/embajada-colombia-acompana-la-viceministra-comercio-exterior-laura-valdivieso-quien",
+                    "https://www.alertatolima.com/noticias/tolima/ibague/alcalde-jaramillo-viaja-la-china-y-se-ausenta-de-la-ciudad-por-10-dias"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "evidence": "Though the evidence is scant, there are reports (provided by Chinese sources themselves, not Colombian ones) that suggest that such training has been provided to members of the national police force. ",
+                "evidence_urls": [
+                    "https://archive.fo/10iVx/a62920c2c56335fe4a5e27fc85b31fef0470dfe3.jpg",
+                    "https://public.opentech.fund/documents/English_Weber_WWW_of_Information_Controls_Final.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "There have been no such reports in Colombia. In fact, Law 1475 of 2011 explicitly prohibits candidates from receiving any kind of foreign support in funds or through other material means.",
+                "evidence_urls": [
+                    "https://www.eltiempo.com/politica/partidos-politicos/la-ley-prohibe-la-financiacion-extrajera-a-candidatos-colombianos-293914"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No group connected to the UFWD has organized such activities or form of support for any politician, in part because of stringent national laws providing such support.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "There has been no such occurrence in Colombia.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Though local Colombian politicians rarely express their views on foreign affairs or other countries, when they have, the comments have indeed been positive.",
+                "evidence_urls": [
+                    "https://www.facebook.com/watch/?v=773973606788404"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "There are no known cases of this happening. Former ambassadors and other politicians somehow connected to China move on to other areas that are considered \u201cmore important\u201d or \u201cmore distinguished\u201d.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Security services per se have not been provided in the way described above. However, there has been at least one known instances in which security technology was acquired and used, this one by the private operator of the capital\u2019s airport. Since the decision was made by the private operator, not by the local or national government, the score above is a 0.",
+                "evidence_urls": [
+                    "https://www.revistamasseguridad.com.mx/aeropuerto-el-dorado-accesos-dahua-thermal-solution/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "China is Colombia\u2019s number two import market and number two export market.",
+                "evidence_urls": [
+                    "https://www.dane.gov.co/index.php/estadisticas-por-tema/comercio-internacional"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": " China is not even in the top 5 foreign holders of Colombian debt.",
+                "evidence_urls": [
+                    "https://www.elespectador.com/economia/en-manos-de-quienes-esta-la-deuda-de-colombia-article/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "China is not the principal export market of any of Colombia\u2019s extractive industry products. In crude petroleum, it is second to the United States.",
+                "evidence_urls": [
+                    "https://oec.world/en/visualize/tree_map/hs92/export/col/all/show/2019/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "There has been Chinese financing for an important electricity generation project, though it has been very limited, with not even mildly significant control. In the past, major Chinese SOE\u2019s have expressed interest in participating in more strategic projects, like the dredging of the Magdalena River, though these expressions of interest have not translated into actual projects.",
+                "evidence_urls": [
+                    "https://www.larepublica.co/economia/powerchina-demuestra-su-interes-en-dragado-a-cormagdalena-2475141",
+                    "https://lacuartavia.com/china-detras-de-hidroituango-es-posible-que-lleguen-a-salvar-el-proyecto-imposible/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "Colombia has not joined nor has it expressed any interest in joining the AIIB.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No Colombian entity has joined nor expressed interest in joining any of the above organizations, likely in part because Colombia does not adhere to the BRI.",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "There has been no instance of economic coercion by China in the form of trade or investment sanctions targeted at Colombia, Colombian entities, or Colombian products.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "There is no instance of this happening, most likely given that Colombian businesses do not express any opinions on these matters.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Colombia has not entered into an FTA with China, although, nearly a decade ago, the previous Colombian administration began negotiations to consider one. More recently, there has been no discussion of an FTA, not even during current President Ivan Duque\u2019s 2019 state visit to China.",
+                "evidence_urls": [
+                    "https://www.americaeconomia.com/economia-mercados/comercio/juan-manuel-santos-no-descarta-tlc-con-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "This has not occurred. There is no economic decentralization that would allow local governments to make such moves, nor have there been any zones created by the national Colombian government for these purposes.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "This has not occurred, in part because Colombia has acquired few loans from China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "As the above list shows, neither these companies nor do their subsidiaries provide such services.",
+                "evidence_urls": [
+                    "https://colombiatic.mintic.gov.co/estadisticas/stats.php?id=4&pres=content&jer=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "1",
+                "evidence": "There is only one known case of this happening, though it\u2019s only at a pilot stage at the moment, and with companies from other countries participating as well.",
+                "evidence_urls": [
+                    "https://www.bnamericas.com/en/news/america-movil-set-to-pilot-5g-in-colombia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "There is only one known case of this happening. It occurred at the level, and 13 years ago, with no significant consequence, nor leading to any long-lasting relationship.",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2008/08/19/emcali-selects-zte-for-mobile-wimax-rollout/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "As recently as 2020, the Minister of Information Technologies and Communications restated that Huawei and other such companies are not banned from participating in bids for the acquisition of these services and products. However, this has not translated into an actual decision on authorizing Huawei or other such companies as official vendors for the government, military, or security services.",
+                "evidence_urls": [
+                    "https://labsnews.com/en/news/technology/colombia-wont-ban-huawei-5g-firm-advances-in-latin-america/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "There are no reports of this occurring.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "There is one such pilot in the country, in a small city outside of Bogota. The pilot started in 2018, and no new reports have emerged since, nor any new pilots in other cities.",
+                "evidence_urls": [
+                    "http://chia-cundinamarca.gov.co/index.php/2899-chia-da-el-primer-paso-para-convertirse-en-una-ciudad-inteligente-y-segura"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "As the link shows, CIPS is not approved for use by Colombian financial institutions.",
+                "evidence_urls": [
+                    "https://www.banrep.gov.co/es/sistemas-de-pago"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "There are no reports of Chinese financial institutions investing in tech start-ups in Colombia.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "Two little-known Colombian companies have partnered with a PRC-connected entity (Uniview) to collaborate on tech development.",
+                "evidence_urls": [
+                    "http://sgcdn.uniview.com/About_Us/Partner/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "The most recent report on use of social media and messaging apps in Colombia shows none in the top 5 to be connected to PRC-connected entities either through equity or development agreements.",
+                "evidence_urls": [
+                    "https://branch.com.co/marketing-digital/estadisticas-de-la-situacion-digital-de-colombia-en-el-2020-2021/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No such endorsement has come about.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There are no such organizations related to or that provide statements on Taiwan, Hong Kong, or Xinjiang. There is a China-Colombia Friendship Association, but it deals mostly with cultural issues that do not touch with these topics.",
+                "evidence_urls": [
+                    "https://colombochina.org.co/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "There are no such organizations or people who belong to the UWCA.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Colombian unions have no formal or informal links with the ACFTU, likely because of their close links to the Catholic Church.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "There are no local reports on such visits, likely in part because the Chinese diaspora is not well-developed in Colombia. When there have been events to commemorate special anniversaries and holidays, no UFWD leader is said to have participated.",
+                "evidence_urls": [
+                    "http://co.china-embassy.org/esp/sghd/t1736610.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "There is no known established presence in Colombia of any of the above organizations.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "There is no known report or knowledge of any PR-connected individuals or entities giving support of any type to religious organizations, likely because this is mostly a Catholic country.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "Thanks to a recent agreement between a Chinese media content producer and the Colombian national TV broadcaster (RTVC), a limited number of Chinese movies and documentaries have been aired in public Colombian TV (Se\u00f1al Colombia), though viewership of said channel is not even in the top 20, so its impact is exceedingly low. There are no other known deals, including related to hardware.",
+                "evidence_urls": [
+                    "https://www.rtvc.gov.co/noticia/rtvc-alianza-productora-mundial-bruce-lee",
+                    "https://www.senalcolombia.tv/cultura/gala-ano-nuevo-chino"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Colombian cultural products simply do not portray Asian characters or landscapes in their content, even less Chinese ones. There are no known cases of outcry over potential portrayals that could be considered racist or denigrating.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Colombian celebrities do not concern themselves with issues outside of the Western world.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "As with celebrities, local governments do not concern themselves with foreign affairs, especially those that fall outside of the Western world. Politicians at that level do not talk about China either negatively or positively.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "The most recent scientific (2017) and non-scientific (2019) surveys point to relatively high favorability toward China among the Colombian public.",
+                "evidence_urls": [
+                    "https://www.slideshare.net/PewResearchCenter/global-attitudes-toward-china-and-the-us",
+                    "http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1684-09332019000200006&lng=es&nrm=iso&tlng=es"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "China does not currently export weapons or law-enforcement equipment to Colombia. The last time this is reported to have happened was in 2005, in a different security scenario for Colombia.",
+                "evidence_urls": [
+                    "https://hoy.com.do/colombia-compra-armas-a-chinos/",
+                    "https://chinapower.csis.org/china-global-arms-trade/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "What little arms Colombia exports are known to go to the Latin America region exclusively.",
+                "evidence_urls": [
+                    "https://www.semana.com/nacion/articulo/colombia-exporta-armas-como-bombas-y-fusiles-a-guatemala-y-emiratos-arabes/632812/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "This has not occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There are no known reports of this having been discussed, partly because of long-lasting and strong ties (including military ones) with the US.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "The PLA has not participated in such assistance.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "There are no known reports of this having happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "While there are no reports of Colombian military personnel receiving military education in China, there are several that point to Chinese military officials and personnel coming to Colombia to exchange information on doctrine and to train jointly. ",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2018/01/12/noticia-colombianota5es-ejercito-china-visita-centro-entrenamiento-ejercito-colombiano.html",
+                    "https://www.webinfomil.com/2017/12/generales-del-ejercito-de-china.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "There are no reports of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "There are no reports of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "Instead of advocating for closer coordination with the PLA, high-ranking retired or current military and/or intelligence officials have expressed fears of China and its influence in the country. ",
+                "evidence_urls": [
+                    "https://www.eltiempo.com/politica/proceso-de-paz/nos-preocupa-que-los-intereses-de-china-y-rusia-desestabilicen-a-colombia-593256"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "There are reports of joint participation in drills, but Chinese participants have only numbered a few dozen.",
+                "evidence_urls": [
+                    "http://www.fuerzasmilitares.org/notas/colombia/ejercito-nacional/7145-tap-50.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "The two countries have two relevant treaties: one on judicial assistance on criminal issues and another on the repatriation of certain Colombian prisoners in China.",
+                "evidence_urls": [
+                    "http://apw.cancilleria.gov.co/tratados/SitePages/BuscadorTratados.aspx?Estado=232&Tipo=B"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "Such cooperation agreements on terrorism do not exist.",
+                "evidence_urls": [
+                    "http://apw.cancilleria.gov.co/tratados/SitePages/BuscadorTratados.aspx?Estado=232&Tipo=B"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "There are no reports of this happening.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "There are no reports of this happening.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "There are no reports of this happening.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "There are no reports of this happening.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "There are no reports of this having happened. It should be noted, however, that Chinese technology companies Dahua Technology and Hikvision have established local subsidiaries.",
+                "evidence_urls": [
+                    "https://q.stock.sohu.com/newpdf/201934732856.pdf",
+                    "https://www.hikvision.com/en/about-us/contact-us/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There are no reports of this having happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "This has not happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "This has not happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "This has not happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Colombia has a GDP per capita of US $5,334 and a total population of 50,539,000 people.",
+    "description-2": "Colombia established diplomatic relations with the People Republic of China in 1980. Colombia was ranked 134th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 64/100."
+}

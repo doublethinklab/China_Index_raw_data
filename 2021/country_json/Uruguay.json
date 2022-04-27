@@ -1,0 +1,971 @@
+{
+    "name": "Uruguay",
+    "partner": "Data Privacy Brasil",
+    "year": "2021",
+    "GDP": "$15,438.41",
+    "population": "3.4M",
+    "original": "123/392",
+    "ranking": "25",
+    "overall": "31%",
+    "effect": "35%",
+    "exposure": "32%",
+    "pressure": "19%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "There is no record that Uruguayan media organizations belong to World Chinese Media. \n",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "There is no record that Uruguayan journalists or media organizations are members of Belt and Road Media Cooperation Alliance or Belt and Road News Alliance.\n",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "http://en.videochina.org.cn/2017/0417/4741.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "There is no record that Uruguayan journalists have been invited to China for media tours.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Workshop at the PRC for journalists with senior positions in major media organizations and founded by the PRC government. Uruguayans journalists have attended the event. \n",
+                "evidence_urls": [
+                    "https://portaldebecas.auci.gub.uy/auci_prod/servlet/com.portal.wpbecasportaltab?f8a00afae65ca6d27e365efd7cb161d6,189a260608799d0fa2aca6b329a3c8f4 ",
+                    "http://manaos.consulado.gob.ve/2019/11/05/seminario-periodistas-latinoamericanos-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "There is no record of CCTV or CGTN distributed in cable TV. \n",
+                "evidence_urls": [
+                    "https://www.directv.com.uy/guia-de-canales#mundos "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no record that  local media outlets wholly or partly owned by PRC citizens or corporations.\n",
+                "evidence_urls": [
+                    "https://library.fes.de/pdf-files/bueros/uruguay/13950.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Apparently, the state channel has delivered contents from CGTV.\n",
+                "evidence_urls": [
+                    "https://www.gub.uy/ministerio-educacion-cultura/comunicacion/noticias/uruguay-china-0  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence of regular PRC state-media or government advertisements inserted within local newspapers.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "The Chinese Embassy replied to journalists that criticized China during the pandemic.\n",
+                "evidence_urls": [
+                    "http://uy.china-embassy.org/esp/xwdts/t1760437.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "After a columnist express critical views on China and the Chinese Embassy replied, the newspaper\u2019s CEO offered apologies to China.\n",
+                "evidence_urls": [
+                    "https://www.uypress.net/Politica/El-Pais-debio-pedir-disculpas-a-la-embajada-de-China-por-articulo-discriminatorio-de-Ricardo-Reilly-uc103240 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "Commentators cast doubt about Chinese regime but not specifically of the uygur situation (Xinjiang is not a topic in our country. Comments are related to human rights in general - autocracy).\n",
+                "evidence_urls": [
+                    "https://www.pantallazo.com.uy/Pantallazo/Alberto-Sonsol-polemico-sobre-China--Estos-tipos-hicieron-algo-para-matar-gente--uc779298",
+                    "http://spanish.peopledaily.com.cn/n3/2020/0331/c31614-9674637.html",
+                    " https://www.elobservador.com.uy/nota/democracia-al-estilo-chino-20214115051",
+                    " https://www.elobservador.com.uy/nota/-y-si-nos-vamos-todos-a-la-china--202082116100",
+                    "https://www.elpais.com.uy/opinion/columnistas/ricardo-reilly-salaverri/dibujos-relatos.html      "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Created in 1992, until 2019 has eleven members. In the new legislature (2020-2024) there is no designation yet but will be soon.\n",
+                "evidence_urls": [
+                    "https://parlamento.gub.uy/camarasycomisiones/asambleageneral/gai/8?Fecha%5Bdate%5D=27-04-2021+"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Many meeting were held with representatives of the PRC from all the parties in the legislature.\n",
+                "evidence_urls": [
+                    "https://www.elpais.com.uy/informacion/parlamento-paga-viaje-tres-legisladores-china.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "Civil servants from Ministry of Education and the Agency of innovation attended seminar in China.\n",
+                "evidence_urls": [
+                    "https://www.gub.uy/ministerio-educacion-cultura/comunicacion/noticias/docentes-uruguay-china "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.taipeitimes.com/News/front/archives/2018/12/07/2003705649"
+                ],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, no events of hostage diplomacy were found. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "There is not explicit document denying Taiwan participation but Uruguay does not support initiatives to include Taiwan in the WHO.\n",
+                "evidence_urls": [
+                    "https://apps.who.int/gb/ebwha/pdf_files/WHA73/Background_on_supplementary_agenda.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "3",
+                "evidence": "Uruguay supports China's candidate as next FAO General Director. \n",
+                "evidence_urls": [
+                    "https://en.mercopress.com/2019/03/28/uruguay-supports-china-s-candidate-as-next-fao-director-general"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Uruguayan officials remain neutral about the issue. The country\u2019s position, found in official documents, is that the  parties need to resolve the disputes in a peaceful manner through dialogue and negotiation\n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/esp/wjdt/gongbao/t1407669.shtml "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Uruguay has remained silent about this topic.\n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/07/which-countries-are-for-or-against-chinas-xinjiang-policies/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "In the past (2008) Uruguayan legislators expressed concern about the situation in Tibet, but the Executive has remained silent about the issue. https://www.lr21.com.uy/politica/303251-blancos-promueven-declaracion-ante-la-violencia-en-el-tibet",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "Uruguay does neither support nor express concern about  PRC\u2019s imposition of the National Security Law on Hong Kong.\n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/which-countries-support-china-on-hong-kongs-national-security-law/ "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "The Universidad de la Rep\u00fablica has supported the Seeds for the Future program from Huawei.\n",
+                "evidence_urls": [
+                    "https://www.fing.edu.uy/es/noticias/area-de-comunicacion/programa-huawei-semillas-del-futuro "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There is only one Confucius Institute in Uruguay, inaugurated in 2017, but it is located in the largest Uruguayan university.\n",
+                "evidence_urls": [
+                    "https://presidencia.gub.uy/comunicacion/comunicacionnoticias/inauguracion-instituto-confucio "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Uruguay include Mandarin Chinese in some public schools in 2020. There is no information about China providing books\n",
+                "evidence_urls": [
+                    "https://www.gub.uy/presidencia/comunicacion/noticias/primaria-culmina-periodo-quinquenal-propuestas-educativas-integrales-fomenta"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "There is no record of Uruguayan think tanks or universities belonging to this networks.\n",
+                "evidence_urls": [
+                    "http://www.ucmsr.com/route "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://portaldebecas.auci.gub.uy/auci_prod/servlet/com.portal.wpbecasportaltab?f8a00afae65ca6d27e365efd7cb161d6,c37c7b6f37e619e11b8b36552a8659ed",
+                    "https://portaldebecas.auci.gub.uy/auci_prod/servlet/com.portal.wpbecasportaltab?f8a00afae65ca6d27e365efd7cb161d6,888ded14e69952de3a961185e44a5f66"
+                ],
+                "note": "Although there is no evidence of PRC funding think tanks in Uruguay (based on interview with academic from the University of the Republic), the PRC government is a relevant fund provider for scholarships to academic research centers. The source links are example of scholarships funded by China to academic research centers. ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There is no record of Uruguayans participating in the Thousand Talents Program.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There is no record of Chinese students associations in Uruguay. They came only for short periods and are only a few.\n",
+                "evidence_urls": [
+                    "https://www.ort.edu.uy/71747/32/desde-china-10-meses-para-conocer-y-aprender.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, no events of academics that have been denied VISA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "There are only a few courses of Asia and China in Uruguay and PRC-connected entities has not been involved in organizing them. \n",
+                "evidence_urls": [
+                    "https://facs.ort.edu.uy/18145/36/evolucion-politica-y-economica-de-asia-oriental.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Professors in Uruguay have freedom to discuss issues considered sensitive to China including Hong Kong, Taiwan or Human Rights.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "Most of the mayors of Uruguayan provinces have visited China and signed cooperation agreements.\n",
+                "evidence_urls": [
+                    "http://www.ci.gub.uy/index.php/2013-06-18-12-04-25/2013-06-18-12-04-50/885-falero-y-la-evaluacion-de-su-presencia-en-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "Many local municipalities have sister-city ties with China.\n",
+                "evidence_urls": [
+                    "https://www.sanjose.gub.uy/falero-firmo-china-hermanamiento-chongqing/",
+                    " https://www.imcanelones.gub.uy/es/noticias/orsi-visito-al-embajador-de-china-en-uruguay-para-afianzar-hermanamientos-entre-los-gobiernos "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "NPC has also invited members of Uruguay's political parties to visit China.\n",
+                "evidence_urls": [
+                    "http://en.people.cn/90883/8278220.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Every Uruguayan president since 1988 have visited China.\n",
+                "evidence_urls": [
+                    "https://www.elpais.com.uy/informacion/politica/intercambio-orientales-primer-tercer-mundo.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "There is no record of donations of Chinese companies to Uruguayan politicians running for public office.\n",
+                "evidence_urls": [
+                    "https://ladiaria.com.uy/politica/articulo/2020/2/quienes-fueron-los-donantes-de-las-formulas-presidenciales/   "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "There is no record of United Front Work Department in Uruguay.\n",
+                "evidence_urls": [
+                    "https://www.uscc.gov/research/chinas-overseas-united-front-work-background-and-implications-united-states "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, no events of UFWD public statements.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "They express positive views related to economic opportunities but there is not a report specifically about positive or negative image. The reference presents results from interviews with legislators about foreign policy issues, including China. \n",
+                "evidence_urls": [
+                    "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/8025/1/TD_LopezCamilo.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, no events of this type were found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "There is no record of PRC companies contracted by national governments but there are donations of security equipment (e.g., surveillance cameras). \n",
+                "evidence_urls": [
+                    "https://www.gub.uy/agencia-uruguaya-cooperacion-internacional/comunicacion/noticias/china-dona-equipos-de-video-vigilancia"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "Since 2013 China is the main trade partner of Uruguay.\n",
+                "evidence_urls": [
+                    "https://www.uruguayxxi.gub.uy/uploads/informacion/cd5856bbb60333f1900f664106f777443aad60ea.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Interview with an economist from Santander Bank in Uruguay supports the information from Bloomberg's website. \n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "In Uruguay extractive industries are not as economic relevant as other sectors. ",
+                "evidence_urls": [
+                    "https://ucu.edu.uy/sites/default/files/facultad/fce/dnii/uruguay-china_-_ene_mar_2021.pdf "
+                ],
+                "note": "But China is main partner in key agricultural industries for the country (soybeans, wood pulp and beef).\n",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Data Centers, Ports, energy and sensitive sectors are dominated by national companies or foreign companies (but not Chinese).\n",
+                "evidence_urls": [
+                    "https://datacentercatalog.com/uruguay "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "In 2020 Uruguay become part of AIIB.\n",
+                "evidence_urls": [
+                    "https://www.uruguayxxi.gub.uy/es/noticias/articulo/uruguay-se-convirtio-en-miembro-del-banco-asiatico-de-inversion-en-infraestructura/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "There is no record of major business members of those chambers.\n",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/?page=1 ",
+                    "http://www.ccmn.net/news-detail-9182.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "There is no record of economic coercion like sanctions related to China.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, no events of boycott were found. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Uruguay has interests in signing trade-related agreement with China, but Mercosur rules impose restrictions: https://www.presidencia.gub.uy/sala-de-medios/audios/audios-breves/nin-comercio-china\n",
+                "evidence_urls": [
+                    "http://www.sice.oas.org/ctyindex/URY/URYAgreements_s.asp "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "There is an agreement to promote investments. Free zones are not only for Chinese investment because is open to all investments from around the world. However, free zones export 25% to China.\n",
+                "evidence_urls": [
+                    "https://www.efe.com/efe/america/cono-sur/uruguay-firma-acuerdo-con-china-para-promover-las-relaciones-comerciales/50000553-2738801"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Through an online search no events of requisition for failed to pay were found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "There are not Chinese telecommunication companies operating in Uruguay.\n",
+                "evidence_urls": [
+                    "http://www.uruguay.enlineados.com/resultados.php?estado=1&pais=uruguay&c1=internet&c2=proveedores_de_internet "
+                ],
+                "note": "This area has been the most difficult (Technology). The questions are not entirely clear and the information is very difficult to access.",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "There is a MOU on the topic, but no decisions were taken yet. \n",
+                "evidence_urls": [
+                    " http://www.xinhuanet.com/english/2019-08/27/c_138342414.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Could not find reliable information about the topic. ",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "The PRC and the Huawei supplied the Uruguayan government with digital cameras to be used for security services. Although the equipment were donated, services such as maintenance is provided by the company. ",
+                "evidence_urls": [
+                    "https://www.gub.uy/presidencia/comunicacion/noticias/ministerio-del-interior-presento-sistema-2100-camaras-seguridad-se-colocan",
+                    "https://www.minterior.gub.uy/index.php?option=com_content&view=article&id=6516"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": ".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Uruguayan officials show interest on the topic, but no decisions were taken yet to establish Chinese smart city systems.\n",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2018-04/29/c_137145165.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bcu.gub.uy/Comunicaciones/Paginas/Swift_set2014.aspx ",
+                    "Interview with BBVA Bank employee.  "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "Chinese investments in technology startups is not large in Uruguay.\n",
+                "evidence_urls": [
+                    "https://www.elobservador.com.uy/nota/wang-gang-las-inversiones-chinas-en-uruguay-dejan-mucho-que-desear--202122612317 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "Through an online search, it was not found MOUs to collaborate on technological development with PRC-connected entities.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "In an official report there is no record of Chinese companies, but only WhatsApp, Youtube, Instagram, Facebook.\n",
+                "evidence_urls": [
+                    "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/2020-09/Informe%20EUTIC%2009%202020.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Through an online search, there is no record of central or local government(s) that has collaborated with the PRC on the use of Beidou.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There are Chinese associations in Uruguay but none related to use the expression Promotion of Peaceful Reunification.\n",
+                "evidence_urls": [
+                    "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/23299/1/TMFCS_BritoJuliaValeria.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "The Chinese community in Uruguay is small. Additionally, the official UWCA's official website does not mention Uruguay.  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "Labor union representatives have traveled to China but there are no specific records about meetings with ACFTU in that trip, except in previous exchanges/official visits.\n",
+                "evidence_urls": [
+                    "https://www.pitcnt.uy/novedades/noticias/item/1768-pit-cnt-en-china-junto-al-presidente-vazquez-en-busca-de-nuevas-oportunidades-para-el-uruguaySINDICATOS%20CONTACTO%20CHINA "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "In informal conversation with members of the local community, they did not report of personnel linked to UFWD.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, there is no record of this associations.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "Not donations to religious communities or charity.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, there is no record of Chinese entertainment products.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "There are a few films or TV shows produced in Uruguay and there is no relevant references to China.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "Celebrities in Uruguay do not speak about China but there are a few people that live in China and brings a Chinese narrative.\n",
+                "evidence_urls": [
+                    "https://radiouruguay.uy/en-el-sur-de-china-la-crisis-por-coronavirus-disminuye-informo-jana-rodriguez/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "Local governments only promotes Chinese studies.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "According to Latinobarometro, 58% of the Uruguayan people share a positive view of the PRC government (2018).\n",
+                "evidence_urls": [
+                    "https://www.latinobarometro.org/latOnline.jsp"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2020/11/17/noticia-china-material-militar-uruguay-millones-dolares.html"
+                ],
+                "note": "\n",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Uruguay does not exports military equipment to China.\n",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/ury "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2020/11/17/noticia-china-material-militar-uruguay-millones-dolares.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "Such decisions are not compatible with Uruguay's political tradition.\n",
+                "evidence_urls": [
+                    "Interview with academic specialized in defense issues from Universidad de la Rep\u00fablica"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "There are no foreign armies participating in assistance due to humanitarian disasters in Uruguay.\n",
+                "evidence_urls": [
+                    "https://www.humanitarianresponse.info/en/operations/uruguay/hdx-datasets#table/1 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "There is no record of Chinese military personnel in Uruguay.\n",
+                "evidence_urls": [
+                    "https://idsa.in/strategicanalysis/35_5/chinasmilitarydiplomacy_pksingh   "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "More than 50 Uruguayans military officials have attended courses in China.\n",
+                "evidence_urls": [
+                    "Interview with academic specialized in defense issues from Universidad de la Rep\u00fablica"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "China and Uruguay have a agreement about peacekeeping training, but there is no register of training yet. \n",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2019/12/27/noticia-ministerio-defensa-uruguay-homologa-acuerdos-cooperacion-defensa-china.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "The interviewee has never heard of anything similar and thinks it would not be likely.\n",
+                "evidence_urls": [
+                    "Interview with academic specialized in defense issues from Universidad de la Rep\u00fablica"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "There is an intention to cooperate more with China in terms of defense.\n",
+                "evidence_urls": [
+                    "https://www.gub.uy/ministerio-defensa-nacional/comunicacion/noticias/ministerio-defensa-recibio-donacion-materiales-militares-republica-popular "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "There were not military exercises with China.\n",
+                "evidence_urls": [
+                    "https://www.emerald.com/insight/content/doi/10.1108/AEDS-08-2019-0121/full/html "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "In 2020 the legislative approved  extradition treaty with the PRC.\n",
+                "evidence_urls": [
+                    "https://parlamento.gub.uy/documentosyleyes/ficha-asunto/147596 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "Uruguay signed an agreement to cooperate on combatting terrorism.\n",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/latam/2019/12/27/noticia-ministerio-defensa-uruguay-homologa-acuerdos-cooperacion-defensa-china.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "There are registers of PRC connected gangs in Argentina but not in Uruguay. Based on an interview with an expert of transnational crime.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, there is no record of Chinese economic espionage.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "There are no reports/ suspicion of cyber attack initiated from China.\n",
+                "evidence_urls": [
+                    "https://www.elobservador.com.uy/nota/uruguay-gasto-us-960-mil-en-resolver-ciberataques-de-alto-impacto-en-el-primer-semestre-202012315500 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "Chinese community is very small in Uruguay and there is no presence of triads. Based on an interview with an expert of transnational crime.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Uruguay uses video or internet surveillance systems from the PRC.\n",
+                "evidence_urls": [
+                    "https://carnegieendowment.org/files/WP-Feldstein-AISurveillance_final1.pdf ",
+                    "https://www.gub.uy/agencia-uruguaya-cooperacion-internacional/comunicacion/noticias/china-dona-equipos-de-video-vigilancia "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic journals, there is no record of joint patrols.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic  journals, there is no record of those type of detentions.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic  journals, there is no record of deported Taiwan Citizens.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "Through an online search, major newspapers and academic  journals, there is no record of deported to China.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Uruguay has a GDP per capita of US $15,438.41 and a total population of 3.4 million people, with the Chinese population comprising 226 people, or 0.007% of the total population.\u00a0",
+    "description-2": "Uruguay established diplomatic relations with the People Republic of China in 1988. Uruguay was ranked 18th in Reporters Without Borders\u2019 2021 World Press Freedom Index, and Free in Freedom House\u2019s 2020 Global Freedom Status, with a score of 98/100.\u00a0\u00a0"
+}

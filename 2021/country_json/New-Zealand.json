@@ -1,0 +1,981 @@
+{
+    "name": "New Zealand",
+    "partner": "Doublethink Lab",
+    "year": "2021",
+    "GDP": "$41,127.0",
+    "population": "4.8M",
+    "original": "145/376",
+    "ranking": "18",
+    "overall": "39%",
+    "effect": "26%",
+    "exposure": "45%",
+    "pressure": "37%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/uOj4J"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/kFLvL"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/DmWUW"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/hBxt0"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/SXnMj",
+                    "https://archive.ph/wip/M60tb"
+                ],
+                "note": "Fairfax also has significant holdings in New Zealand.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Fairfax also has significant holdings in New Zealand.",
+                "evidence_urls": [
+                    "https://archive.ph/wip/s8bZh",
+                    "https://archive.ph/wip/RIRnW"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/SXnMj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/Was1Y",
+                    "https://archive.ph/lmEsJ"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/s8bZh",
+                    "https://archive.ph/wip/RIRnW"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/471Eb"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.wilsoncenter.org/sites/default/files/media/documents/article/magic_weapons.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/xVano"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/TFL7f"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/8WgEl"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/J2Sbk",
+                    "https://archive.ph/r6FOG",
+                    "https://archive.ph/wip/NAiCi"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/mBz7T"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/NAiCi"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/KdEUq",
+                    "https://archive.ph/h4S1Z",
+                    "https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/2020-07-HoldingAPenInOneHand-Brady.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/nyCVg",
+                    "https://archive.ph/IdDuJ",
+                    "https://archive.ph/MTzk"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No publicly available evidence to support this claim. Think tanks do no always have to disclose their finances making it hard to confirm either way.",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/64qi1",
+                    "https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/2020-07-HoldingAPenInOneHand-Brady.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/2020-07-HoldingAPenInOneHand-Brady.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/1MHzj",
+                    "https://archive.ph/wip/ncmUI",
+                    "https://archive.ph/MxUjP"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No publicly available evidence to support this claim. This claim is hard to verify as school and universities would not make this information available.",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/mlm5Z",
+                    "https://archive.ph/wip/kZY0W",
+                    "https://archive.ph/wip/tlg6u",
+                    "https://archive.ph/wip/6PVJd"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/nAIco"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/u9pHL",
+                    "https://archive.ph/kZY0W"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/cCVsi",
+                    "https://archive.ph/wip/prAEY",
+                    "https://archive.ph/wip/CgfRE"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "skip",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/lsewu",
+                    "https://archive.ph/wip/L8dWx",
+                    "https://archive.ph/wip/qFxzX"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/4sFM5",
+                    "https://archive.ph/wip/mqjXq"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/xmIv6",
+                    "https://archive.ph/wip/nQ0rL",
+                    "https://archive.ph/EfYJx"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/to5lb"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/to5lb"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/qTh23",
+                    "https://archive.ph/wip/d4CQn",
+                    "https://archive.ph/wip/Oriq1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/X7YBC"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/VzGe9",
+                    "https://archive.ph/wip/MkcWx"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/YvNNP",
+                    "https://archive.ph/wip/MJNBQ"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/hB3hl",
+                    "https://archive.ph/wip/HfnGH"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/UcwG0",
+                    "https://archive.ph/wip/HfnGH"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "skip",
+                "evidence": "No evidence found. ",
+                "evidence_urls": [],
+                "note": "No publicly available evidence to support this claim. Private business transactions like this would not necessarily be made public.",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/utTSm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No publicly available evidence to support this claim. As telecoms are private compaies this is hard to verify.",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/h4S1Z"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/8uZrh"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.vn/H7FmF",
+                    "https://archive.ph/wip/ZLr8X",
+                    "https://archive.ph/LoXKT"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/pzlC4",
+                    "https://archive.ph/wip/0FW93"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/ecgLs"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/1KKVw",
+                    "https://archive.ph/wip/xlkkG",
+                    "https://archive.ph/wip/LcEx3"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/kGUoJ",
+                    "https://archive.ph/wip/Yby1s"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/2fRVE",
+                    "https://archive.ph/wip/zypka"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/RsWqf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/RsWqf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "The New Zealand extradition treaty with Honk Kong has been suspended. ",
+                "evidence_urls": [
+                    "https://archive.ph/wip/6vprW",
+                    "https://archive.ph/wip/zgITn"
+                ],
+                "note": "The New Zealand extradition treaty with Honk Kong has been suspended. ",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/hneqR",
+                    "https://archive.ph/wip/ZMs2H",
+                    "https://archive.ph/wip/BbND2"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/G82DQ",
+                    "https://archive.ph/wip/IbHEx",
+                    "https://archive.ph/wip/OrFIH"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/jijbw",
+                    "https://archive.ph/wip/VKiNy",
+                    "https://archive.ph/wip/mqidB"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/wip/xh7cw"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/vzQ4a"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No publicly available evidence to support this claim in the affirmative.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://archive.ph/b1rzL"
+                ],
+                "note": "A case is currently before the New Zealand supreme court which could change this.",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, New Zealand has a GDP per capita of US $41,127 and a total population of 4.8 million people, with the Chinese population comprising 231,386 people, or 4.9% of the total population.",
+    "description-2": "New Zealand established diplomatic relations with the People Republic of China in 1972. New Zealand was ranked 8th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 99/100."
+}

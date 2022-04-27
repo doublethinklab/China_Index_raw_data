@@ -1,0 +1,975 @@
+{
+    "name": "South Korea",
+    "partner": "National Bureau Of Asian Studies",
+    "year": "2021",
+    "GDP": "$31,489.12",
+    "population": "51.7M",
+    "original": "175/388",
+    "ranking": "12",
+    "overall": "45%",
+    "effect": "37%",
+    "exposure": "46%",
+    "pressure": "60%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "One of the largest and most influential entertainment companies, CJ ENM, is a member of the Belt and Road Media Community. TV Chosun and SBS are also part of the BRNA. That said, it\u2019s not clear what the criteria of significance is. ",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html",
+                    "http://brmc.chnpec.com/en/member.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "The South Korean government has occasionally helped organize these tours itself, such as a 2019 tour of Huawei\u2019s campus for Korean journalists and officials cosponsored by the Ministry of Foreign Affairs. Other examples are numerous. ",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-huawei-tech-usa-samsung-analysis-idUSKCN1SZ0AG"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://www.journalist.or.kr/news/section3.html?p_num=2",
+                    "https://www.hankyung.com/society/article/2020030469531"
+                ],
+                "note": "There are plenty of programs that send journalists and others to China for training or short-term education program, and these days, there are so many Korean college students that get trained or study in China, some of who become journalists or online influencers.  ",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "evidence": "PRC state online media is available in Korean but are not really read by the general public. ",
+                "evidence_urls": [
+                    "http://kr.xinhuanet.com/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There are no local media outlets wholly or partly owned by PRC citizens or corporations that I am aware of. I can\u2019t say for maybe small, online-based media outlets, but all established outlets are owned by Koreans. ",
+                "evidence_urls": [
+                    "https://www.leejeonghwan.com/4579"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "There is no evidence local media outlets delivered cheap or free contents provided by PRC state-funded media directly, unless they are some unknown, minor media outlets. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "Occasional PRC government advertisements have appeared in Korean newspapers, but they are by no means a regular or dominant feature of advertising in Korea. ",
+                "evidence_urls": [
+                    "http://www.the-pr.co.kr/news/articleView.html?idxno=32657"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There may have been some cases, but no evidence so far, at least no major cases that made the headlines. The most notable recent incident was of two South Korean photojournalists covering President Moon\u2019s visit to China being beaten by security guards in China. ",
+                "evidence_urls": [
+                    "https://rsf.org/en/news/south-korean-journalists-beaten-during-moon-visit-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "Though there have been constant accusations (article 1) that the Moon government is restricting free speech through the legislation of several fake news-related bills, Korea was still ranked #1 (article 2) in Asia in freedom of speech. I don\u2019t think there are overt censoring that takes place, but I would be surprised if there is absolutely no implicit pressure from senior members of media groups and the government. It would be hard to locate hard evidence of the existence of such pressure. \n\nAmid heightened anti-China sentiment in Korea, there have been a lot of media reports (article 3) critical of the Chinese government and China in general, so there isn\u2019t any widespread, active censoring of anti-Chinese gov\u2019t reporting. \n",
+                "evidence_urls": [
+                    "https://www.mk.co.kr/news/politics/view/2021/08/790904/",
+                    "http://www.mediatoday.co.kr/news/articleView.html?idxno=213020",
+                    "https://www.hankookilbo.com/News/Read/A2021072214120000180"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "In South Korea, the most prominent voices denying human rights violations in China are Chinese celebrities active in South Korea, such as Chinese members of K-pop groups. These celebrities often go on the defensive, taking pro-Chinese stances on Chinese social media over issues like Hong Kong and Xinjiang. However, they mostly avoid doing this on Korean social media. While there are only a few Chinese celebrities active in Korea, the number is growing and they have become more vocal in recent years. ",
+                "evidence_urls": [
+                    "https://koreajoongangdaily.joins.com/2021/04/08/entertainment/kpop/Xinjiang-Uyghur-Autonomous-Region-Uighur-Uyghur/20210408172300404.html",
+                    "http://sports.khan.co.kr/entertainment/sk_index.html?art_id=202104011633003&pt=nv+",
+                    "https://thediplomat.com/2021/05/how-chinese-fans-enforce-chinese-nationalism-on-the-world",
+                    "https://www.voanews.com/east-asia-pacific/chinese-k-pop-stars-publicly-back-beijing-hong-kong",
+                    "https://www.koreatimes.co.kr/www/art/2021/04/732_306582.html ",
+                    "https://www.voanews.com/east-asia-pacific/chinese-k-pop-stars-publicly-back-beijing-hong-kong"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://m.mcnews.kr/66613"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.assembly.go.kr/assm/notification/news/news01/bodo/bodoView.do?bbs_id=ANCPUBINFO_04&bbs_num=45239&no=5382&CateGbn=&Gbntitle=$paramMap.Gbntitle"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.chosun.com/international/china/2021/07/16/SY3PWHO4VVGPJBFDA6JAN5RDXI/",
+                    "https://mb.ntdtv.kr/news/society/381.htm#_enliple"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.hani.co.kr/arti/society/society_general/532744.html",
+                    "https://m.joseilbo.com/news/view.htm?newsid=352149"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Korea was not active in supporting Taiwan's WHO membership",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.hankookilbo.com/News/Read/A2020091009540001473"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://news.joins.com/article/24025957"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://m.khan.co.kr/world/china/article/200804061833255",
+                    "https://news.joins.com/article/6764473",
+                    "http://www.newscj.com/news/articleView.html?idxno=835583"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.chosun.com/site/data/html_dir/2020/05/28/2020052800256.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.sedaily.com/NewsVIew/1S3JCKPHME"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://weekly.chosun.com/client/news/viw.asp?ctcd=C07&nNewsNumb=002663100015"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "The second link  says increasing number of Korean learn Chinese.  Some of them learn Chinese from Confucius Institute.  Chinese government provides text books of Confucius Institute.",
+                "evidence_urls": [
+                    "http://www.mdfh.or.kr/?act=doc&mcode=121515",
+                    "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=china-contents-lab&logNo=220603331800"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Yonsei University tried to link any networks related to Belt and Road projects, but Chinese were not enthusiastic.",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://shindonga.donga.com/3/all/13/2224708/1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://news.joins.com/article/15826932"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.chosun.com/site/data/html_dir/2019/11/14/2019111400228.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "It is almost impossible to find the sources on this topic. ",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Charhar does not involve in curriculum design.  They try to approach to professors for making them China-friendly.  Also Charhar hosts conferences and seminars which attract attentions from the public.",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.chosun.com/site/data/html_dir/2020/05/28/2020052800256.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/RPR20200806001300353"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20180828134500083",
+                    "http://service.shanghai.gov.cn/sheninfo/specialdetail.aspx?Id=08785519-0a55-4b1c-adc8-91b7f40f6edf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "I\u2019m 90% sure that we have fairly many politicians (government officials? I am not sure) have been China with Chinese fund.  But I scored 0, because I cannot find the sources.  Chinese did this in a covert way.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://newsis.com/view/?id=NISX20180116_0000204166"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "Chahaer (\u5bdf\u54c8\u723e\u5b66\u4f1a), one of the core organization under the United Front Work Department, set up its office in Seoul and starts to operate in Korea.",
+                "evidence_urls": [
+                    "https://www.yonsei.ac.kr/sc/intro/pressrel.jsp?article_no=179887&mode=view"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20171215070100001"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://www.fntoday.co.kr/news/articleView.html?idxno=223975"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://unipass.customs.go.kr/ets/index.do?menuId=ETS_MNU_00000176"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "The share of foreign ownership of Korea\u2019s sovereign debt is not that high. ",
+                "evidence_urls": [
+                    "http://biz.khan.co.kr/khan_art_view.html?artid=202104141714021&code=920100 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "South Korea\u2019s extractive industry is mostly in the refining side (refining crude oil imported and exporting refined products and byproducts), so it\u2019s not necessarily what we consider PRC\u2019s imports of natural resources. That said, for those refined products, PRC is the largest consumer. ",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/kor/#yearly-exports"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "These key infrastructure are domestically controlled ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "South Korea is already a member of the AIIB. ",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://en.yna.co.kr/view/AEN20180919003200320 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "Most notably following the installation of the U.S. THAAD antimissile system in 2016 for 18 months (with some residual impact), South Korean tourism, entertainment, and South Korean retail companies in China, in particular, were targeted. ",
+                "evidence_urls": [
+                    "https://theasanforum.org/chinese-economic-coercion-during-the-thaad-dispute/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "Chinese Kpop stars supporting Chinese causes was more of an issue in Korea than the other way around. There was an incident where a Taiwanese Kpop star (that belongs to a popular girl group) had to issue a public apology for carrying a Taiwanese flag, likely pressured by her entertainment company that relies on China for Kpop consumer demand. ",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/features/2016/1/18/k-pop-star-rocked-by-taiwan-flag-row ",
+                    "https://www.bbc.com/news/world-asia-54513408"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "The two countries have an FTA in place.",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/topic/enkorea.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "The Incheon Free Economic Zone and other FEZs are aimed at attracting investment from China, though certainly not exclusively. ",
+                "evidence_urls": [
+                    "http://fez.go.kr/global/en/area/ifez.do"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence in media reports so far of any such incident, and it appears highly unlikely. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "All three telecommunications companies \u2013 SK Telecom, LG Uplus, KT \u2013 are Korean. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "1",
+                "evidence": "Of the three telecommunications companies, only LG Uplus uses Huawei 4G/5G equipment. ",
+                "evidence_urls": [
+                    "http://www.koreaherald.com/view.php?ud=20201105000339"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "https://www.reuters.com/article/us-huawei-tech-usa-southkorea-lab/huawei-launches-5g-lab-in-south-korea-but-keeps-event-low-key-after-u-s-ban-idUSKCN1T00AW",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://biz.chosun.com/site/data/html_dir/2020/11/26/2020112601423.html   "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "https://www.newspim.com/news/view/20201030000152\nKOTRA is largely funded by the government, and it has been engaged in promoting bilateral collaboration with Chinese companies on 5G, IoT, and AI. \n\nPrivate companies have already teamed up with Chinese companies on IoT and AI, but there is no evidence of collection and use of voice and facial big data. Also, unlike what the question is likely aiming at, this is more for the expansion of Korean companies into the Chinese market. \nhttps://www.yna.co.kr/view/AKR20190814015200003\nhttp://www.aitimes.kr/news/articleView.html?idxno=14544\n\nIf the question is specifically asking about \u201cfacial, voice recognition or other applications involving biometrics achieved by AI,\u201d I\u2019ll change the response to \"no\" (especially at the central, local government level) ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence found. But, South Korea is very eager to invest in Chinese smart cities and there have been South Korean government efforts to export \u201cK-smart city\u201d systems to China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "South Korean branches of global financial companies and local banks, such as Shinhan Bank, currently participate in the CIPS system. ",
+                "evidence_urls": [
+                    "http://www.koreaittimes.com/news/articleView.html?idxno=56674\t",
+                    "https://www.mk.co.kr/news/world/view/2019/05/328166/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "PRC-connected VC, such as Legend Capital, Sequoia Capital China, IDG Capital China have invested in a number of Korean startups. That said, South Korean startups are not as popular with Chinese VCs as are American or Israeli startups due to its smaller market size. Companies such as Tencent (technically not a VC), however, have actively invested in Korean startup companies. ",
+                "evidence_urls": [
+                    "https://news.joins.com/article/23766596",
+                    "https://news.joins.com/article/22448719"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "Numerous MOUs across all relevant industries. The public sector is also involved, with the Seoul Metropolitan Government signing an MOU on smart tourism with Tencent this year, for example.  ",
+                "evidence_urls": [
+                    "https://www.ttgasia.com/2021/05/18/seoul-joins-hands-with-tencent-cloud-to-woo-chinese-tourists/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "Top social media apps are American or Korean (KakaoTalk, YouTube, Naver, Coupang, Band, Instagram, Facebook). However, Tencent has a stake in KakaoTalk \u2013 South Korea\u2019s most popular messaging app \u2013 through its subsidiary Maximo PTE.",
+                "evidence_urls": [
+                    "https://www.kakaocorp.com/ir/managementInformation/shareholderComposition?lang=en",
+                    "https://www.hankyung.com/it/article/202105186330v"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "They\u2019re reviewing it, but an adoption is less likely due to security concerns. ",
+                "evidence_urls": [
+                    "https://www.chosun.com/economy/mint/2021/04/23/2G45J3R6WFF2LKKSKLH26QX2JY/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.moel.go.kr/news/enews/report/enewsView.do;jsessionid=yaSycjSpfqTOy3B0aYUelgYcDG10OBudvCNRUaHzE8eBIm0lU0LORv1gMRbJ3Xg8.moel_was_outside_servlet_www2?news_seq=9926"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "Korean soap operas portray the PRC positive way, because Chinese funding becomes inevitable for the productions and PPL is popular among the producers",
+                "evidence_urls": [
+                    "https://news.kbs.co.kr/news/view.do?ncd=5146585"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20201126059900001",
+                    "https://www.hankyung.com/politics/article/2020112637827",
+                    "https://www.donga.com/news/Politics/article/all/20201126/104159210/2"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "A number of military personnel have received education from China, but not military education",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20150710078552043",
+                    "http://www.newdaily.co.kr/site/data/html/2021/06/14/2021061400144.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://news.joins.com/article/23575360"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "skip",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20151127141000014",
+                    "https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=319498&srchFr=&amp%3BsrchTo=&amp%3BsrchWord=&amp%3BsrchTp=&amp%3Bcompany_cd=&amp%3Bcompany_nm="
+                ],
+                "note": "While the above links show evidence of cooperation, there is no evidence that an actual agreement was signed. As such, this question was skipped.",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.sisajournal.com/news/articleView.html?idxno=132297",
+                    "https://www.koreatimes.co.kr/www/nation/2020/09/251_296106.html",
+                    "https://news.joins.com/article/24114450",
+                    "http://kr.xinhuanet.com/2021-04/12/c_139874268.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.chosun.com/international/china/2020/09/10/YEONUFKRSRHTRJORC63DBIG2HM/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://www.newdaily.co.kr/site/data/html/2020/10/07/2020100700155.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "evidence": "There are many Chinese organized crime felons.  It is not sure whether they threaten Chinese dissidents.",
+                "evidence_urls": [
+                    "https://www.chosun.com/site/data/html_dir/2007/04/27/2007042700871.html",
+                    "https://www.ilyosisa.co.kr/news/article.html?no=221179"
+                ],
+                "note": "There are many Chinese organized crime felons.  It is not sure whether they threaten Chinese dissidents",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.cctvnews.co.kr/news/articleView.html?idxno=214636",
+                    "https://www.edaily.co.kr/news/read?newsId=03250486625969984&mediaCodeNo=257"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.yna.co.kr/view/AKR20160929191100014",
+                    "https://www.korea.kr/news/pressReleaseView.do?newsId=155762787",
+                    "http://eng.chinamil.com.cn/view/2020-11/13/content_9936100.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, South Korea has a GDP per capita of US $31,489.12 and a total population of 51.7 million people, with the Chinese citizens (as foreign residents in the country) comprising 1.07 million people, or 2.1% of the total population.",
+    "description-2": "South Korea established diplomatic relations with the People Republic of China in 1992. South Korea was ranked 42nd in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 83/100."
+}

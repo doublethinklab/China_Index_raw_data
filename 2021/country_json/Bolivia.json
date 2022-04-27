@@ -1,0 +1,912 @@
+{
+    "name": "Bolivia",
+    "partner": "Data Privacy Brasil",
+    "year": "2021",
+    "GDP": "$3,143.04",
+    "population": "11.6M",
+    "original": "89/392",
+    "ranking": "30",
+    "overall": "23%",
+    "effect": "15%",
+    "exposure": "28%",
+    "pressure": "15%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No Bolivian media organization is associated to the World Chinese Media.  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No Bolivian organization is part of the Belt and Road Media Cooperation Alliance.    \n",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "Local expert believes that there are paid media tours by the PRC for Bolivian journalists as in this case (https://eldeber.com.bo/extra/gobierno-chino-y-grupo-el-deber-refuerzan-lazos-de-cooperacion_125739). However, there is no information available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "The El Deber Group is one of the most prestigious media outlets in Bolivia and signed a cooperation agreement with the Ministry of Foreign Affair of the PRC. Besides attending all-expenses paid media tour in the PRC, journalists from this media organization attended a training courses at the PRC. ",
+                "evidence_urls": [
+                    "https://eldeber.com.bo/extra/gobierno-chino-y-grupo-el-deber-refuerzan-lazos-de-cooperacion_125739",
+                    "https://eldeber.com.bo/mundo/china-y-el-deber-sellan-un-acuerdo-de-cooperacion_49184"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.boliviatv.bo/principal/noticia.php?noticia=4de56daf5c0bb7c6bd82383d1ec6b5c2&lang=es"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No evidence of Bolivian media outlets owned by PRC\u2019s corporations.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "No evidence that PRC state-fund media have delivered cheap or free contents in Bolivia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence of PRC state-media or government advertisements inserted within Bolivian newspapers, online news websites or social media.",
+                "evidence_urls": [],
+                "note": "No information available for this indicator.",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence of Bolivian journalists under pressure exerted on them by the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence of incidents of media outlets censoring critical views of the PRC government.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence of Bolivian media personalities casting doubt about human rights abuses in the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.qamasa.com/2020/12/23/bolivia-y-china-restablecen-cooperacion-a-nivel-legislativo/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Both legislators and executive officials have met officially with representatives of the PRC. Incluir um 3r link https://www.qamasa.com/2020/12/23/bolivia-y-china-restablecen-cooperacion-a-nivel-legislativo/\n",
+                "evidence_urls": [
+                    "https://news.cctv.com/2021/01/28/ARTIquZZy573zdlTOTijJ08c210128.shtml",
+                    "https://www.fmprc.gov.cn/esp/wjdt/wshd/t1849803.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "The PRC provide funding for training on various topics. It includes cooperation with the Ministry of Foreign Affairs and the School of Public Management.\n",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.bo/webmre/system/files/rendicion_cuenta/RENDICION%20P%C3%9ABLICA%20DE%20CUENTAS%20FINAL%202019.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "Political pressure is difficult to be observed. The evidence, in this case, concerns the political pressure on regulation and exploration of lithium and the role the the state-owned company Yacimientos de Litio Bolivianos (YLB).\n",
+                "evidence_urls": [
+                    "https://dialogochino.net/en/extractive-industries/35423-bolivia-rethinks-how-to-industrialize-its-lithium-amid-political-transition/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://datos-bo.com/politica/gestionan-que-bolivianos-presos-en-china-trabajen-en-el-pais/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No mention from the Bolivian government about Taiwan\u2019s participation in the WHO was found. However it is important to remark that Bolivia does not recognize the Republic of China and fully supports the one-China policy. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Although could no find public support, Bolivia and the PRC have been building strong ties and they have publicly stated the will to cooperate in the multilateral level. For example: https://www.cancilleria.gob.bo/webmre/node/2564; \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "No mention from the Bolivian government about PRC\u2019s territorial claims. However it is important to remark that Bolivia does not recognize the Republic of China and fully supports the one-China policy. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": " No mention from the Bolivian government about PRC\u2019s treatment of its  Uyghur population. However it is important to remark that Bolivia fully supports the one-China policy.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No mention from the Bolivian government about PRC\u2019s treatment of is Tibet population. However it is important to remark that Bolivia fully supports the one-China policy.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No mention from the Bolivian government about the National Security Law on Hong Kong. However it is important to remark that Bolivia fully supports the one-China policy.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://forum.huawei.com/enterprise/es/universidad-del-desarrollo-e-innovaci\u00f3n-en-bolivia-es-academia-huawei/thread/664903-100481",
+                    "https://www.lostiempos.com/tendencias/interesante/20191126/tic-1era-academia-huawei-bolivia-haina-nace-univalle"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.digmandarin.com/confucius-institutes-around-the-world.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "The Bolivian public school system does not include Chinese as foreign language.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No PRC-affiliated networks or associations are related to  Bolivian Think Tanks or research centers.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No evidence of  PRC funding for Bolivian Think Tanks or research centers  or associations was detected. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "The cooperation agreement between the Huawei and the Ministry of Education (renewed in 2021) is considered a training and recruitment program.\n",
+                "evidence_urls": [
+                    "https://www.minedu.gob.bo/index.php?option=com_content&view=article&id=4987:ministerio-de-educacion-y-huawei-acuerdan-capacitacion-para-maestros-y-universitarios&catid=182:noticias&Itemid=854"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "Evidence only for students. https://www.lostiempos.com/tendencias/tecnologia/20190521/diez-bolivianos-viajan-china-capacitarse-tecnologia",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence of PRC-connected students groups in attempts to censor staff or students. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence of visa denial for Bolivian scholars/academics.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence of PRC-connected entities involved in school/university curriculum design in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No reports of teachers/professors avoiding the discussion of PRC\u2019s sensitive political issues in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.noticiasfides.com/la-paz/33-nuevos-buses-pumakatari-parten-de-china-rumbo-a-la-paz-390270",
+                    "https://eldeber.com.bo/santa-cruz/gobernacion-sella-acuerdo-de-cooperacion-con-sichuan_68842",
+                    " https://eldeber.com.bo/bolivia/asi-es-el-chikititi-el-bus-que-la-paz-suma-a-su-transporte-municipal_134568",
+                    " https://eldeber.com.bo/santa-cruz/san-carlos-aprobara-extraccion-de-aridos-a-cambio-de-un-baden_11660"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "The following Bolivian cities have sister-city ties with PRC cities: La Paz and Dalian; Cochabanba and Kunming; Potos\u00ed and Lhasa. \n",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_South_America"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "Although the trips are from 2018 and 2019, they are quite significant for represent presidential and high rank official visits.\n",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.bo/webmre/noticia/3284 https://www.cancilleria.gob.bo/webmre/noticia/3281 https://www.lostiempos.com/actualidad/economia/20180619/china-convierte-bolivia-socio-estrategico-se-abre-mercado-quinua-cafe"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    " https://www.la-razon.com/lr-article/borda-sobre-viaje-de-autoridades-judiciales-a-china-no-los-hemos-elegido-para-viajar-o-hacer-turismo/ ",
+                    "  https://www.la-razon.com/nacional/2019/09/27/presidente-del-tsj-sobre-viaje-de-autoridades-a-china-volveran-a-nadopero-deben-volver/",
+                    "https://eldeber.com.bo/bolivia/25-magistrados-y-jueces-viajan-a-china-a-un-seminario_119718 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Campaign donations from foreigners are prohibited by law in Bolivia.\n",
+                "evidence_urls": [
+                    "https://bolivia.infoleyes.com/norma/6836/ley-de-organizaciones-pol%C3%ADticas-1096"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence of groups with reported links to the United Fork Work Department (UFWD) in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence of groups with reported links to the United Fork Work Department (UFWD) in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "No evidence that a majority of local politicians have publicly expressed positive views of the PRC government. However, it is possible to state that given given the growing debt that Bolivia has with the PRC government and the bad image of PRC companies had in the country, marketed by violations of workers rights and environmental laws, there is a growing critical view of the PRC government among Bolivian politicians. ",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": " Private companies are prohibited by law to provide security services to the Bolivian government.\n",
+                "evidence_urls": [
+                    "https://www.mingobierno.gob.bo/node/200"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "China is Bolivia\u2019s main exporter (goods only). Available data is from 2019.\n",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountryProfile/en/Country/BOL/Year/2019/TradeFlow/EXPIMP/Partner/CHN/Product/stages-of-processing/Show/Product%20Group;XPRT-TRD-VL;MPRT-TRD-VL;XPRT-PRDCT-SHR;MPRT-PRDCT-SHR;RCA;AHS-WGHTD-AVRG;MFN-WGHTD-AVRG;/Sort/XPRT-TRD-VL"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "The PRC owns 9% of the total Bolivian sovereign debt; however, it is the main creditor if not taking into account multilateral organizations, with a share of 75%. \n",
+                "evidence_urls": [
+                    "www.bcb.gob.bo/?q=informes-deuda-externa-publica "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Argentina and Brazil are Bolivia\u2019s top customers due to use of natural gas, the country\u2019s main commodity. \n",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/countrysnapshot/es/BOL/textview"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "The Chinese group  Xinjiang TBEA Group-Baocheng owns 49% the stated-owned company  Yacimientos de Litio Bolivianos Corporaci\u00f3n (YLB) that explores lithium in Bolivia. Additionally, other PRC-related entities operates in different sensitive sectors [https://plataformaenergetica.org/china/china-en-bolivia/empresas-de-china/cabildeo-chi-hong-compro-comabol-yang-fan-y-monopoliza-la-explotacion-de-oro-en-la-paz/]\n",
+                "evidence_urls": [
+                    "https://eldeber.com.bo/economia/china-busca-retomar-negociaciones-con-bolivia-para-acelerar-la-industrializacion-del-litio_237755 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Bolivia is a prospective member of the AIIB.\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2017/AIIB-Further-Expands-Its-Membership.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence of major Bolivian business participation as members of the cited organizations.\n",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.bo/webmre/node/2565"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence of PRC economic coercion.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence the the PRC have harassed, threatened or boycotted local Bolivian businesses due to political issues. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.sice.oas.org/tpd_e.asp"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence that local governments have relaxed or removed regulatory restrictions to benefit PRC\u2019s investments. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence of that PRC-connected entities have demand infrastructure or land for failure to debt payments in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "The telecom market in Bolivia is shared by three companies: State-owned Empresa Nacional de Telecomunicaciones (Entel); Tigo (Millicom International), and Viva (Trilogy International). \n",
+                "evidence_urls": [
+                    "https://www.marketresearch.com/Paul-Budde-Communication-Pty-Ltd-v1533/Bolivia-Telecoms-Mobile-Broadband-Statistics-14737287/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.marketresearch.com/Paul-Budde-Communication-Pty-Ltd-v1533/Bolivia-Telecoms-Mobile-Broadband-Statistics-14737287/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://institucional.entel.bo/inicio3.0/index.php/atencion-en-linea/tutoriales-2/4g"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": " PRC-connected entities supplied tech related equipment to the Bolivia government. \n",
+                "evidence_urls": [
+                    "https://lostiempos.com/actualidad/pais/20171031/gobierno-entrega-policia-equipos-chinos-seguridad-ciudadana ",
+                    "https://dialogo-americas.com/articles/china-exports-citizen-control-model-to-bolivia/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "4",
+                "evidence": " PRC-connected entities cooperates with local and national government in Bolivia to implement the surveillance project BOL-110 Integrated System for Citizen Security.\n",
+                "evidence_urls": [
+                    "https://lostiempos.com/actualidad/pais/20171031/gobierno-entrega-policia-equipos-chinos-seguridad-ciudadana ",
+                    "https://dialogo-americas.com/articles/china-exports-citizen-control-model-to-bolivia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": " No evidence on PRC-connected entities and smart city system in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No comments.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No comments.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence on the MOU\u2019s signed between Bolivian companies and PRC-connected entities.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://gs.statcounter.com/social-media-stats/all/bolivia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence that Bolivian authorities have endorsed the use of Beidou navigation system.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence of organizations of the UWCA in Bol\u00edvia\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence of unions cooperation with the ACFTU in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence of personal linked to the UFWD in events/activities of the Chinese community in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence of PRC-connected professional associations in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence of PRC-connected entities or individuals supporting religious communities or charities.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "According to LatinoBarometro, more than 60% of the Bolivians share a positive view about the PRC. The survey was conducted in 2018.  \n",
+                "evidence_urls": [
+                    "https://www.latinobarometro.org/latOnline.jsp"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "In the past decade, Bolivia imported military equipment from the PRC and received donations as well. The last transfer of military equipment to Bolivia occurred in between 2016 and 2018 (41 GAZ Tigr vehicles as a donation). \n",
+                "evidence_urls": [
+                    "http://armstrade.sipri.org/armstrade/page/trade_register.php",
+                    "http://www.mindef.gob.bo/mindef/node/3056"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://armstrade.sipri.org/armstrade/page/trade_register.php"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://www.mindef.gob.bo/mindef/node/3056"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No report of PRC\u2019s intentions or actions to establish basing.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No report of humanitarian support from the PLA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No report of the PLA presence in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No report of Bolivian military training supported by the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No report of Bolivian peacekeeping training supported by the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No report about retired or current Bolivian military officials demanding more cooperation with the PLA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence of cooperation with the PLA.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence of cooperation agreements with the PRC on combating terrorism.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://news.mongabay.com/2021/03/chinese-triads-target-bolivias-jaguars-in-search-of-american-tiger-parts/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "\n\n",
+                "evidence_urls": [],
+                "note": "\n",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No reports of cyber attacks targeting government, critical infrastructure, or enterprises, that were suspected to be initiated from the\nPRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No report that triads have threatened or used violence to coerce, intimidate or punish Chinese dissidents.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "The project BOL-110 was build in cooperation with the PRC and using PRC-connected entities technology.\n",
+                "evidence_urls": [
+                    "https://www.comunicacion.gob.bo/?q=20190821/27546"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence that representatives of the PRC police force have joint patrols with local law enforcement because it is prohibited by law in Bolivia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": " No report about detention of Bolivian citizen at request of the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": " No report of deportation of Taiwanese citizens.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": " No report  of extradition or deportation of individuals to the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Bolivia has a GDP per capita of US $3,143.04 and a total population of 11.6 million people, with the Chinese population comprising 1,230 people, or 0.011% of the total population.\u00a0",
+    "description-2": "Bolivia established diplomatic relations with the People Republic of China in 1985. Bolivia was ranked 110th in Reporters Without Borders\u2019 2021 World Press Freedom Index, and Partly Free in Freedom House\u2019s 2020 Global Freedom Status, with a score of 66/100.\u00a0"
+}

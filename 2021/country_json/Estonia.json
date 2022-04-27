@@ -1,0 +1,920 @@
+{
+    "name": "Estonia",
+    "partner": "Sinopsis",
+    "year": "2021",
+    "GDP": "$23,297.492",
+    "population": "1.325M",
+    "original": "82/392",
+    "ranking": "32",
+    "overall": "21%",
+    "effect": "10%",
+    "exposure": "24%",
+    "pressure": "29%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/cn/member.shtml",
+                    "https://brnalink.com/members.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "CGTN-Russian provided by cable service provider STV.",
+                "evidence_urls": [
+                    "https://stv.ee/est/page/340/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "Only as paid advertisements. Since Spring 2021 all major news outlets (DELFI, Postimees and SL \u00d5htuleht) have declared to stop publishing PRC paid advertisements.",
+                "evidence_urls": [
+                    "https://news.err.ee/1608178030/chinese-embassy-advert-in-estonian-paper-denounces-uighur-genocide-claims"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "Not regularly and usually as a response to foreign or local media criticism of the PRC, or covering major PRC events. The majority of readers' comments suggest that readers are critical towards the PRC-produced content. SL \u00d5htuleht was last to stop publishing PRC adds.",
+                "evidence_urls": [
+                    "https://www.ohtuleht.ee/1003564/hiina-suursaadik-eestis-riigi-julgeolek-tagab-hongkongi-oitsengu-ja-stabiilsuse",
+                    "https://www.ohtuleht.ee/1013513/hiina-suursaadik-eestis-oleme-seitsme-aasta-jooksul-aidanud-hiinas-vaesusest-valja-ule-90-miljoni-inimese"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Investigative journalists from the Baltic states wrote three articles about PRC influence activities in the region, which received strong criticism from PRC embassy in Tallinn saying that journalists' job is to promote good relations between the nations.",
+                "evidence_urls": [
+                    "https://news.err.ee/978241/chinese-embassy-media-should-support-relations-between-china-and-estonia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence of that.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "There is the NPC China-Estonia Friendship Group and Riigikogu Estonia-China parliamentary group.",
+                "evidence_urls": [
+                    "https://www.riigikogu.ee/en/parliament-of-estonia/parliamentary-groups/parliamentary-group/7f8b227d-ec18-ce25-9cf7-ec1a0a265d2c/Eesti-Hiina%20parlamendir%C3%BChm/",
+                    "http://www.chinaembassy.ee/chn/dssghd/t1702457.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Representatives from all major parties have interacted with the CCP International Liaison Department and attended its events.",
+                "evidence_urls": [
+                    "https://icds.ee/wp-content/uploads/2020/09/ICDS_EFPI_Brief_Chinas_Influence_Activities_in_Estonia_Frank_Juris_September_2020.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "I have received invitation to the The 4th Workshop for European Young Leaders organized by China Diplomatic Academy \u4e2d\u56fd\u5916\u4ea4\u57f9\u8bad\u5b66\u9662, but I did not participate. I have heard that at the 3rd Workshop an official from Parliament\u2019s Chancellery participated in at the event.\n\nIn short, there is no publicly available evidence of this happening.",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "The Chairman of Tibet support group Yoko Alender was pressured by the chairman of Foreign Affairs Commission, Enn Eesmaa (by the request of the PRC ambassador) to not meet with the Tibetan Parliament and government in exile.  \u201cThe incident is one of at least four to have taken place over the past two years where the PRC embassy has protested Estonian politicians meeting with the Dalai Lama, members of the government in exile of Tibet or Taiwanese politicians. Last year, the PRC ambassador to Estonia Li Chao turned to the Riigikogu Foreign Affairs Committee, claiming that Alender\u2019s conduct constituted meddling in PRC\u2019s domestic affairs.\u201d",
+                "evidence_urls": [
+                    "https://news.postimees.ee/6769895/trojan-panda-the-heavy-hand-of-chinese-soft-power"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "PRC has not asked for Estonian support for its Human Rights Council candidacy.",
+                "evidence_urls": [
+                    "https://news.err.ee/1116554/reinsalu-china-not-asked-estonia-to-support-un-human-rights-council-bid "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Positively acknowledging ruling, but not calling for compliance.",
+                "evidence_urls": [
+                    "https://amti.csis.org/sides-in-south-china-sea/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Estonia joined Germany's action as well as the joint Baltic states' statement criticizing PRC policies in Xinjiang.",
+                "evidence_urls": [
+                    "https://usun.usmission.gov/joint-statement-on-the-human-rights-situation-in-xinjiang-and-the-recent-developments-in-hong-kong-delivered-by-germany-on-behalf-of-39-countries/",
+                    "https://un.mfa.ee/joint-nordic-baltic-statement-at-the-high-level-virtual-event-on-the-situation-of-the-uyghurs-and-other-turkic-muslim-minorities-in-xinjiang/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "Estonia joined Germany's action criticizing PRC policies in 2020.",
+                "evidence_urls": [
+                    "https://un.mfa.ee/group-statement-on-human-rights-in-china-in-the-third-committee-of-the-general-assembly/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "Estonia has joined several actions criticizing PRC's policies in Hong Kong including the state security law.",
+                "evidence_urls": [
+                    "https://vm.ee/en/news/media-freedom-coalition-statement-closure-apple-daily-newspaper-hong-kong",
+                    "https://vm.ee/en/news/estonia-joined-27-countries-un-express-concern-over-human-rights-china",
+                    "https://www.gov.uk/government/speeches/un-human-rights-council-44-cross-regional-statement-on-hong-kong-and-xinjiang"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "University of Tartu (leading university in Estonia and in the region) and Huawei have signed an MOU on supporting education, joint research and development of infrastructure.",
+                "evidence_urls": [
+                    "https://www.ut.ee/en/news/university-tartu-and-huawei-signed-memorandum-understanding ; https://icds.ee/en/academic-co-operation-with-the-peoples-republic-of-china-dangers-and-temptations/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There is one Confucius Institute at Tallinn University, which is Estonia's most important public university in humanities and third most important in general.",
+                "evidence_urls": [
+                    "https://www.tlu.ee/en/confucius-institute"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Several Estonian public schools teach Chinese language.",
+                "evidence_urls": [
+                    "https://www.hm.ee/en/news/estonia-and-china-renewed-their-agreement-education-partnership"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "Estonian Foreign Policy Institute, University of Tartu and Tallinn University of Technology belong to the China-CEEC Think Tank Network \u4e2d\u56fd\u4e2d\u4e1c\u6b27\u56fd\u5bb6\u667a\u5e93\u4ea4\u6d41\u4e0e\u5408\u4f5c\u7f51\u7edc",
+                "evidence_urls": [
+                    "https://archive.ph/hZEFD"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Karmo T\u00fc\u00fcr participated as Estonian Foreign Policy Institute (no longer works there) researcher at a China-CEEC Think Tank Network\u2019s event.",
+                "evidence_urls": [
+                    "https://archive.ph/XRXQc"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "Baltic Chinese Students and Scholars Association member Yin Jie \u6bb7\u6770 (PhD student at The Estonian Academy of Music and Theatre) together with other Chinese students on University of Tartu's Facebook page denounced an article critical of the PRC's actions in Hong Kong.",
+                "evidence_urls": [
+                    "https://baltic-china.webs.com/member ",
+                    "https://www.facebook.com/tartuuniversity/posts/our-two-students-from-hong-kong-litman-huang-and-aubrey-yung-write-about-the-ong/10157541118151472/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "evidence": "M\u00e4rt L\u00e4\u00e4nemets, one of the leading experts on China, was denied visa for his Tibetan rights advocacy. Recently these restrictions have been lifted and he has participated in conferences held in the PRC.",
+                "evidence_urls": [
+                    "https://icds.ee/wp-content/uploads/2020/04/ICDS_EFPI_Brief_Academic_Cooperation_with_the_PRC_M%c3%a4rt_L%c3%a4%c3%a4nemets_April_2020_cor.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "evidence": "University of Tartu magazine refused to publish an article critical of its cooperation with Huawei. The magazine is not widely read outside of the University.",
+                "evidence_urls": [
+                    "https://news.err.ee/1056839/paper-university-of-tartu-refused-to-publish-article-on-huawei"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "Estonian cities that have cooperation agreements with PRC counterparts are Tallinn (Beijing, Hangzhou, Chengdu), Maardu (Changchun), Tartu (Ningbo), Narva (Xiamen).  P\u00e4rnu is on the verge of signing cooperation agreement with Qingdao.",
+                "evidence_urls": [
+                    "https://archive.vn/pnrVi",
+                    "https://www.eaa.ee/tiiu-kirsipuu-skulptuur-hiinas https://www.tallinn.ee/est/Uudis-Hiinas-Chengdus-avati-Eesti-kunstniku-skulptuur",
+                    "https://beijing.mfa.ee/et/eesti-ja-hiina/kohalike-omavalitsuste-koostoo/ ",
+                    "https://parnu.postimees.ee/6706976/linn-kusib-volikogult-aktsepti-hiina-miljonilinnaga-sobrustamiseks",
+                    "http://www.narva.ee/ee/linnakodanikule/tanane_narva/valis_ja_soprussuhted/page:535/subpage:2",
+                    "https://archive.vn/70P1J"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "European Parliament EU-China Friendship Group member Yana Toom visited Beijing and Lhasa in August 2016 and the travel bill was picked up by CPAFFC.\n\nIn November 2019, Toom visited Beijing and Shanghai to attend China-CEEC governing parties roundtable and the promotion symposium on China-CEEC subnational cooperation. This time her bill was picked up by the ILD.",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/china-influence-european-parliament-friendship-group/",
+                    "https://www.europarl.europa.eu/mepdat/124700_TRAV_LEG9_1005488_EN.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2019/11/ep.pdf",
+                    "https://web.archive.org/web/20190827185701/https://www.europarl.europa.eu/ep-dat/124700_20-08-2016.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "The International Liaison Department has established relations with all the major parties in Estonia and interacts with their representatives.",
+                "evidence_urls": [
+                    "https://icds.ee/wp-content/uploads/2020/09/ICDS_EFPI_Brief_Chinas_Influence_Activities_in_Estonia_Frank_Juris_September_2020.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "Former head of the Riigikog's Estonia-China parliamentary group Kalev Kallo compared the question of Huawei's reliability to a religious matter. MEP Yana Toom defended Huawei and China by criticizing the US spying and system of governance saying that \"...the only victim is Huawei itself, finding itself a target of a trade and information war.\"",
+                "evidence_urls": [
+                    "https://www.err.ee/1034724/kallo-ohud-seoses-huaweiga-on-usu-kusimus",
+                    "https://www.err.ee/1090900/yana-toom-huawei-and-good-america"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Three former ministers on Huawei\u2019s payroll as lobbyists.",
+                "evidence_urls": [
+                    "https://icds.ee/wp-content/uploads/2020/09/ICDS_EFPI_Brief_Chinas_Influence_Activities_in_Estonia_Frank_Juris_September_2020.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "On the other hand, does this count?\n\nNuctech surveillance equipment at the Eastern boarder (also NATO\u2019s eastern border) https://icds.ee/en/chinas-technological-rise-implications-for-global-security-and-the-case-of-nuctech/ and at Tallinn airport (backup airport for NATO) https://leht.postimees.ee/7196740/eesti-piiripunktide-rontgenid-osteti-hiina-riigifirmal .  Hikvision cameras in countless government facilities https://ekspress.delfi.ee/artikkel/92718953/eesti-politsei-suunas-riigihanke-kahtlase-kuulsusega-hiina-firmale",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "The PRC is Estonia's 15th largest export partner and 9th import partner.",
+                "evidence_urls": [
+                    "https://data.stat.ee/profile/partner/cn?locale=en"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "It does not.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Extractive industries' exports to the PRC are limited.",
+                "evidence_urls": [
+                    "https://data.stat.ee/profile/product/94407"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "\u201cThe acquisition includes Linx's 470 kilometer submarine fiber network in the Baltic Sea, and its network operations centers (NOCs) in Moscow and Tallinn, Estonia. The acquisition also includes Linx's data center in Tallinn, which serves as Estonia's largest Internet Exchange (TLL-IX).\u201d",
+                "evidence_urls": [
+                    "https://sg.news.yahoo.com/news/citic-telecom-cpc-completes-linx-100000155.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "Estonia is not a member and has not applied to join.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Not in the given time-frame or recent years.",
+                "evidence_urls": [],
+                "note": "yes to first half and no to second half of the sentence. After Dalai lama\u2019s visit in 2011 dairy products access to CN market was denied, but the sector was no way dependent from CN market as the share of dairy exports to China never reached more than 0,88% of the total dairy exports coming from Estonia at the time.",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Not in the given time-frame or recent years.",
+                "evidence_urls": [],
+                "note": "See the previous indicator.",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Estonia is part of the European common market.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "As for 4G network, three major telcos (Telia, Elisa and Tele 2) use Huawei equipment. According to the regulation, high-risk technology must be phased out by 2030. The hardware and software used to build the 5G network must be risk-free by 2024.",
+                "evidence_urls": [
+                    "https://news.err.ee/1143507/huawei-plans-to-challenge-estonia-5g-ban"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "\u201cThe acquisition includes Linx's 470 kilometer submarine fiber network in the Baltic Sea, and its network operations centers (NOCs) in Moscow and Tallinn, Estonia. The acquisition also includes Linx's data center in Tallinn, which serves as Estonia's largest Internet Exchange (TLL-IX).\u201d",
+                "evidence_urls": [
+                    "https://sg.news.yahoo.com/news/citic-telecom-cpc-completes-linx-100000155.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "\u201cThe acquisition includes Linx's 470 kilometer submarine fiber network in the Baltic Sea, and its network operations centers (NOCs) in Moscow and Tallinn, Estonia. The acquisition also includes Linx's data center in Tallinn, which serves as Estonia's largest Internet Exchange (TLL-IX).\u201d\n\nEstonian Defense Forces has a direct contract with CITIC, a major PRC state-owned enteprise, and three-quarters of the army\u2019s external internet connection moves through CITIC\u2019s devices and cable. CITIC has close ties to the PLA.",
+                "evidence_urls": [
+                    "https://sg.news.yahoo.com/news/citic-telecom-cpc-completes-linx-100000155.htm",
+                    "https://news.postimees.ee/6771074/chinese-intelligence-increasingly-setting-sights-on-estonia ",
+                    "http://congressionalresearch.com/98-197/document.php?study=chinas+military-owned+businesses",
+                    "https://www.govinfo.gov/content/pkg/GPO-CRPT-105hrpt851/html/ch1bod.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "No evidence suggesting that available.",
+                "evidence_urls": [
+                    "https://www.bestsales.ee/uudised/2020/02/06/uuring-eestlaste-interneti-ja-sotsiaalmeedia-kasutus-aastal-2020"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "Not in the given time-frame.",
+                "evidence_urls": [],
+                "note": "Tallinn TV (on Tallinn city government payroll) aired documentary depicting Chinese propaganda on BRI, without any criticism at all. Viewership of Tallinn TV was low and it has been closed couple of years ago.",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No such products identifiable in open sources.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "Majority of citizens holds negative or neutral views of the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "Hikvision cameras are used in countless government facilities.",
+                "evidence_urls": [
+                    "https://ekspress.delfi.ee/artikkel/92718953/eesti-politsei-suunas-riigihanke-kahtlase-kuulsusega-hiina-firmale"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "Not within the given time-frame or recent years.",
+                "evidence_urls": [],
+                "note": "In 2006 Riho Terras, who in 2011 became the Commander of the Defence Forces, received training in China. https://www.riigikogu.ee/wpcms/wp-content/uploads/2014/11/Eesti_v-lispoliitika_Hiina_suhtes_v-imalused_ja_valikud.pdf",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "Not within the given time-frame or in recent years.",
+                "evidence_urls": [],
+                "note": "PLA participated in Erna Raid military exercise and competition from 1998 to 2005 and winning it in 2002. https://www.riigikogu.ee/wpcms/wp-content/uploads/2014/11/Eesti_v-lispoliitika_Hiina_suhtes_v-imalused_ja_valikud.pdf",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "A legal assistance agreement in force since 2011.",
+                "evidence_urls": [
+                    "https://vm.ee/en/countries/china?display=relations"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "Known espionage cases allegedly involving PRC-linked entities include those against supercapacitors manufacturer Skeleton Technologies and package delivery robots manufacturer Cleveron (both Estonian unicorns \u2013 first company took 10 years of scientific research and 10 years of company building to reach current level).",
+                "evidence_urls": [
+                    "https://news.postimees.ee/6771074/chinese-intelligence-increasingly-setting-sights-on-estonia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "Not in the given time-frame.",
+                "evidence_urls": [],
+                "note": "\u201cIt has been claimed that the cyberattack against the Estonian Ministry of Foreign Affairs was part of a wider Ke3Chang operation aimed at the foreign ministries of several EU member states that began in 2010 but reached its zenith in 2013-2014.\u201d https://news.postimees.ee/6771074/chinese-intelligence-increasingly-setting-sights-on-estonia",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Hikvision cameras are used in countless government facilities.",
+                "evidence_urls": [
+                    "https://ekspress.delfi.ee/artikkel/92718953/eesti-politsei-suunas-riigihanke-kahtlase-kuulsusega-hiina-firmale"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Estonia has a GDP per capita of US $23,297.492 and a total population of 1.325 million people, with the Chinese population comprising 420 people, or 0.013% of the total population.",
+    "description-2": "Estonia established diplomatic relations with the People Republic of China in 1991. Estonia was ranked 15th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 94/100."
+}

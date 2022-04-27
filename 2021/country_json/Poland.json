@@ -1,0 +1,1041 @@
+{
+    "name": "Poland",
+    "partner": "Sinopsis",
+    "year": "2021",
+    "GDP": "$15,653.56",
+    "population": "38.268M",
+    "original": "76/356",
+    "ranking": "31",
+    "overall": "21%",
+    "effect": "16%",
+    "exposure": "26%",
+    "pressure": "12%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "The two media listed on the official website of the \u4e16\u754c\u534e\u6587\u5a92\u4f53 as Polish members are Chinese language media targeting mainly diaspora members and with marginal or no impact on wider Polish society. Chinese diaspora in Poland is a relatively small community counting around 9000 people in recent years.",
+                "evidence_urls": [
+                    "https://www.gcmcu.com/web/LMCY/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No important Polish members of the two listed organizations have been identified. There were reports in Chinese State owned media, that Polish Fokus TV is a member of the \u4e1d\u8def\u7535\u89c6\u8de8\u56fd\u8054\u64ad\u7f51 the project under Belt and Road Media Cooperation Alliance (link provided). However this station is no longer listed among the current members and therefore answer is marked as 0.",
+                "evidence_urls": [
+                    "http://media.people.com.cn/n1/2017/0424/c192372-29232248.html",
+                    "https://brnalink.com/members.html",
+                    "http://brmc.chnpec.com/cn/member.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "No evidence of that.",
+                "evidence_urls": [],
+                "note": "Basing on the publicly available sources from 2019 grading for the period Jan 2020 \u2013 March 2021 remains 0. Other values remain unchanged. ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence of that.",
+                "evidence_urls": [
+                    "http://polish.cri.cn/"
+                ],
+                "note": "There are no cases known to author of Polish journalists taking part in such training in period Jan 2020 \u2013 March 2021. There are few journalists who have had in the past worked for Chinese media outlets who worked for China Radio International in very early stages of their career as language support, but that has not influenced their work and position on China and their credibility as journalist. ",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "Only the CRI.",
+                "evidence_urls": [
+                    "http://polish.cri.cn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "These are mainly Chinese-language online media outlets targeting Chinese diaspora members. A Chinese publishing house Time Marsza\u0142ek Group operates in the country, however as it is not a media outlet its existence was not reflected in the grading.",
+                "evidence_urls": [
+                    "http://www.plchinese.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "No evidence of that.",
+                "evidence_urls": [],
+                "note": "If the questions covers the media outlets that serve as the direct transmission channel for the Chinese PRC state-funded media and which cover China related topics using only materials provided by the Chinese entities then the answer should be 0. The grade 2 was originally given because \u201cThere are many media outelst in Poland which use the content provided by the Chinese state owned media, even the media critical of China such as Gazeta.pl use Xinhua News content. There is not much connection between using pure information, often trivial by the Polish media and Chinese influence.\u201d Specific examples of the articles: \n\nhttps://wyborcza.pl/7,75399,27348808,12-osob-zginelo-w-powodzi-w-jednej-z-prowicji-w-chinach.html https://biznes.interia.pl/gospodarka/news-zmarl-agronom-yuan-longping-ojciec-ryzu-hybrydowego,nId,5248961  , https://pogoda.interia.pl/zdjecia/zdjecie,iId,2984585,iAId,391070, https://www.pap.pl/pap-technologie/762217%2Cchinski-bezzalogowy-statek-kosmiczny-polecial-przywiezc-probki-z-ksiezyca, https://www.pap.pl/aktualnosci/news%2C627889%2Cchiny-bilans-zmarlych-na-covid-19-w-wuhanie-podniesiono-o-50-proc.html. \n",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "There are several media outlets in Poland that publish in regularly, but the content usually does not promote CCP viewpoint. Either as sponsored promotional material or as free content. Provided are three examples of such media outlets. ",
+                "evidence_urls": [
+                    "https://www.rp.pl/Koronawirus-2019-nCoV/200319216-Ambasador-Chin-Test-globalnego-systemu.html",
+                    "https://trybuna.info/swiat/walka-chin-z-epidemia-proba-czasu-i-historyczny-egzamin/",
+                    "https://wiadomosci.onet.pl/opinie/ambasador-chin-w-polsce-hongkong-musi-byc-rzadzony-przez-patriotow-opinia/lfs5qyv"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No such case was identified within the period covered by this report.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "skip",
+                "evidence": "No evidence of such incidents.",
+                "evidence_urls": [],
+                "note": "The question was skipped as I do not have knowledge about internal affairs of the editorial  process in the media outlets. There no cases known to me of the media in Poland censoring the information on China. The answer could be 0. However the editorial process is an internal affair of media outlet and I could not assume with full certainty that there were actually cases of articles to be blocked or edited in order to avoid the complains or pressure from Chinese embassy or other PRC entities. If the answer to this question can be given considering the uncertainty surrounding the internal editorial process then the answer would be 0, with confidence level 60% and grade for effort  = 3.\n",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "Very limited but see the provided examples.",
+                "evidence_urls": [
+                    "https://www.youtube.com/user/chinytolubie",
+                    "https://www.facebook.com/events/162089842414561?active_tab=about"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "There is a Chinese-Polish Parliamentary Group, but it comprises exclusively of Polish MPs. However it should be noted that leadership that this group includes politicians with positive views of CPC. ",
+                "evidence_urls": [
+                    "https://www.sejm.gov.pl/SQL2.nsf/skladgr?OpenAgent=&392=&PL_="
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "Meeting occur often, including higher levels of politics.",
+                "evidence_urls": [
+                    "http://www.chinaembassy.org.pl/chn/ywzn/ggwj/t1820959.htm",
+                    "https://www.senat.gov.pl/aktualnoscilista/art,13621,22-kwietnia-2021-r-.html",
+                    "https://archive.vn/03b2n  ",
+                    " http://www.chinaembassy.org.pl/chn/ywzn/ggwj/t1820955.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No significant cases of such training or programs have been identified by the author for the period covered by this report. Standard procedure for candidates for diplomats includes training organized by the Ministry of Foreign Affairs.",
+                "evidence_urls": [
+                    "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20011281403/U/D20011403Lj.pdf",
+                    "https://orka.sejm.gov.pl/proc9.nsf/ustawy/877_u.htm",
+                    "https://www.gov.pl/web/dyplomacja/aplikacja-dyplomatyczno-konsularna  https://www.gov.pl/web/dyplomacja/akademia-dyplomatyczna"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No reliable reports on such pressures have been identified by the author. However it should be noted that during the negotiations process behind the close door both sides can use various tools for pressuring the counterpart, which is a typical process in international politics. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No such significant cases have been identified by the author for the period covered by this report.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No clear statement on this issue made by the relevant officials is known to author. However, Poland also does not back Taiwan attendance at WHA meetings, and Poland was not among the countries supporting Taiwan participation in 73 WHA assembly.",
+                "evidence_urls": [
+                    "https://qz.com/1857449/taiwan-china-relations-take-center-stage-at-who-meeting/",
+                    "https://apps.who.int/gb/ebwha/pdf_files/WHA73/Background_on_supplementary_agenda.pdf"
+                ],
+                "note": "The question was about the position of three specific officials in Polish government and the response to this question was NO \u201cNo clear statement on this issue made by the listed officials is known to author.And referring to this question answer is NO. The additional comment was given concerning the overall situation with Polish position on Taiwan participation in WHA. Poland did not back Taiwan\u2019s request in 2020 concerning the attendance at WHA meetings, and Poland was not among the countries supporting Taiwan participation in 73 WHA assembly. List of countries supporting Taiwan in the sources\u201d The link provided in Notes referring to 2006 is not relevant the countries Policies change and the action described in the article taken 15 years ago are not relevant in 2021. The 71 assembly was in 2018. In my comments I referred to the events at the 73 assembly in 2020. Poland was not among the countries backing the Taiwan\u2019s inclusion in WHA works.  However Polish representatives has also publicly not expressed their opinion rejecting Taiwan\u2019s request . The provisional summary records for WHA 73 assembly are available here https://apps.who.int/gb/or/e/e_wha73-PSR.html Summing up: As per authors knowledge three listed Polish officials between January 2020 and March 2021 have not clearly rejected Taiwans request for inclusion in WHA works. Therefore answer is NO. However it should be noted that Polish representatives at WHA/WHO have not backed Taiwan\u2019s efforts as well. ",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "During the period covered by this report there had been no significant actions or comments undertaken by the Polish central government officials concerning the territorial claims. Occasionally, Polish officials highlighted that all disputes should be solved in a peaceful way and without unilateral actions. The summary of the official Polish position for the covered period was included in the Action Plan for the Implementation of the Strategic Partnership between the Government of the Republic of Poland and the Government of Japan for the years 2021-2025)",
+                "evidence_urls": [
+                    "https://www.gov.pl/attachment/a3e2560e-6d69-4f65-b055-91221b5f7441"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Poland joined the German action undertaken on the forum of United Nations Human Rights Commission, therefore the mark 0 is given. In June this year (period not covered by the report) this stance was supported by joining a similar action undertaken by the Canadian government. However, it should be noted, that recently (after March 2021, period not covered by the report), that during his direct interactions with the Chinese counterparts , the Polish Foreign Minister Znigniew Rau has not raised the issue of atrocities in Xinjiang and remained silent, avoiding confrontation, which is also remarkable.",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648",
+                    "https://usun.usmission.gov/joint-statement-on-the-human-rights-situation-in-xinjiang-and-the-recent-developments-in-hong-kong-delivered-by-germany-on-behalf-of-39-countries/",
+                    "https://www.gov.pl/web/chiny/minister-rau-z-wizyta-w-chinach  ",
+                    "https://www.gov.pl/web/dyplomacja/rozmowa-telefoniczna-ministra-zbigniewa-raua-z-ministrem-spraw-zagranicznych-chrl-wang-yi2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "During the period covered by this report there were no significant actions or comments undertaken by the Polish central government officials concerning the situation in Tibet. During a telephone conversation with Wang Yi in early March 2021, the Polish FM highlighted that Poland respects the PRC\u2019s territorial integrity.",
+                "evidence_urls": [
+                    "https://www.gov.pl/web/dyplomacja/rozmowa-telefoniczna-ministra-zbigniewa-raua-z-ministrem-spraw-zagranicznych-chrl-wang-yi2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "In July 2020, a motion for Polish Parliament resolution signed by 15 MPs was sent to International Affairs Commission and has not been processed since then. Polish MEPs have voted for the adoption of a joint motion resolution concerning PRC state security law for Hong Kong and the need for the EU to defend Hong Kong's high degree of autonomy in June 2020, but this voting should not be treated as representing the official position of the Polish government. However, the situation in Hong Kong is not important for Polish political elites, while relations with China are also far from a priority. This also impacts the lack of clear stance on these issues.",
+                "evidence_urls": [
+                    "https://www.sejm.gov.pl/Sejm9.nsf/druk.xsp?nr=467"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "Several major technical universities cooperate with Huawei Poland.",
+                "evidence_urls": [
+                    "https://archive.vn/WR7Rp",
+                    "https://archive.vn/XqLTs",
+                    "https://archive.vn/2MyKy"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "There are currently operating 6 Confucius Institutes and 7 Confucius Classrooms or Confucius Institute subbranches in Poland.",
+                "evidence_urls": [
+                    "https://pism.pl/publikacje/Instytuty_Konfucjusza_jako_narz_dzie_promocji_interes_w_ChRL",
+                    "https://asiaexplained.org/2019/10/new-confucius-institute-branch-in-warsaw-nowy-instytut-konfucjusza-w-warszawie/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Students taking high school graduation exam can only select one of the following languages: English, French, Spanish, German, Russian, Italian. Exam taken after primary school also included Ukrainian in former years.",
+                "evidence_urls": [
+                    "http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20160002223/O/D20162223.pdf",
+                    "https://www.gov.pl/web/edukacja-i-nauka/informacja-cke-o-egzaminie-osmoklasisty-przeprowadzanym-od-25-do-27-maja-2021-r"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "The most important network connecting Chinese and Polish Universities is the \u201eBelt and Road\u201d Sino-Polish University Consortium. This consortium is not officially registered, however as it includes a number of prestigious Polish universities and it played an important role in the establishment of several Confucius Institutes, it reinforces CCP influence in Polish academia.",
+                "evidence_urls": [
+                    "http://uasr.xjtu.edu.cn/info/1092/1707.htm",
+                    "https://spuc.bjut.edu.cn/en/lmcy_/Poland.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The questions does not specify if t concerns only the think tanks or academic researches covering China related issues or any think tanks and academic research centers. As for the academic research centers focused strictly on China related topics there for the period covered there are no cases know to author that can be defined as financial support. However the academic research centers are operating within the universities which have joint projects with the Chinese counterparts and those joint projects cover financial aspects as well. The scholars that constitute staff of the research centers are involved in projects programs or other activities organized / arranged by the Chinese counterparts and it is difficult to draw the line between the activities they are involved in as the staff members of the research center or scholars having position at the university. If the questions covers any think tanks /research centers not only involved in China related research as they were described in general way in the question then accurate grading would require in depth and large scale research involving research of financial statements and documents which are often difficult to obtain. That kind of in depth research largely exceeds the framework of the research time in this project. \n",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "skip",
+                "evidence": "According to my knowledge supported by limited research within this projects framework Polish experts did not participate in the listed programs in the period Jan 2020 \u2013 March 2021. Then answer would be 0. However as Alex Joske\u2019s and other scholars research show the identifying the engagement of foreign experts would require large scale in depth research and there is some possibility of such cases. Therefore the confidence level of the response would be low 30%. Time for this questions = 3\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Limited exchanges occurred prior to the Covid-19 pandemic.",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-07/31/c_138272365.htm"
+                ],
+                "note": "If the years 2018 / 2019 to be taken as proxy for 2020 then the grading would be 1, other values remain unchanged\nhttp://www.xinhuanet.com/english/2019-07/31/c_138272365.htm, \n\u201eTrip\u201d is considered as an event not directly related to academic exchanges. However to preserve the consistency with the findings and grading by other experts covering other countries the same methodology allowing the substitution of grading based on evidence for 2019 or 2019 and 2018. , \n\nDue to pandemic, academic exchanges in 2020 have been suspended. However in the previous years there had been such paid trips to the PRC. For the period covered by this report the mark is given 0, however this leads to distorted image of situation. The author's proposal is to use 2019 or average of 2019 and 2018 as proxy for pandemic 2020.",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "Due to the pandemic, the interactions between students were limited. In previous years there were single cases of disputes between Chinese and Taiwanese or Polish students concerning the Taiwan status or situation in Tibet.",
+                "evidence_urls": [
+                    "https://bielskobiala.wyborcza.pl/bielskobiala/7,88025,25189241,flaga-tajwanu-zniknela-z-sali-wykladowej-studenci-interweniowali.html"
+                ],
+                "note": "\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No such publicly available information is known to author. However, in previous years the people who were denied visa to China usually did not make public statements about that. In 2020, due to pandemic situation the scholar exchanges were suspended. Moreover, the PRC-critical scholars or analysts do not apply for PRC visa fearing denial or fearing that they would have difficulties with leaving China. Those who still wish to visit the PRC do not touch the topics that are considered as sensitive by the CCP. The visa issues are not discussed publicly by scholars. \n",
+                "evidence_urls": [],
+                "note": "The answer NO provided in original response is correct: \u201eNo such case publicly available report is known to author\u201d is direct response to the question posed. The comment provided in comment was meant to highlight, that the problem is not about being denied visa. \u201eThe point is that scholars or analysts who are critical of China do not apply for Chinese visa fearing denial or fearing that they would have difficulties with leaving China.\u201d and also: \u201eThe fear of visa denial or loosing access to Chinese financing is very important  factor influencing the public position of many scholars on China and the mark for this question would be 4\u201d No supporting evidence can be provided as this opinion is based on private and confidential conversations, where interviewers would not not wish to be identified.  \u201eTo reflect the current situation in Poland this questions should be reformulated and take into the consideration the non-public opinions of scholars and academic involved in China research.\u201d which would require rephrasing the questions and allowing for local experts to evaluate the situation without providing evidence as the opinion is mainly based on private and confidential conversations. \n",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "There are some summer schools or extra courses taught by Chinese professors or conducted in cooperation with a PRC university, but there is no evidence of PRC entities affecting curricula as such. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No public evidence found. Many scholars and analysts avoid voicing opinions critical of the PRC fearing being denied visa, grants or cooperation with the Chinese counterparts.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "The answer for this question is 2 as the rating was made in the context of the whole country. The number of the signed agreements on the regional level (wojew\u00f3dztwa) is large. Around 20% of 100 largest cities maintain some relations with PRC partners. However, the agreements themselves do not have in many cases any direct practical impact on the dynamics and nature of mutual relations, where according to author\u2019s own unpublished research there have been only a few significant cases of cooperation. Therefore the answer is marked as 2 but actually it is more than 2. Another issue is that answering this question could lead to a distorted image of the situation. In several cases local authorities signed cooperation agreements with PRC SOEs as a result of a public tender process for infrastructural projects. If the Chinese offer (at least formally) fits best the criteria, the local authorities are obliged to sign the contract. Such situation does not mean that Chinese SOEs has some influence or relations with local authorities. It is simply a legal process. ",
+                "evidence_urls": [
+                    "https://wydawnictwo.uni.lodz.pl/wp-content/uploads/2021/01/KAMINSKI_The-role-of-Regions-in-EU-.pdf",
+                    "https://web.archive.org/web/20210829155613/https://repozytorium.uni.lodz.pl/xmlui/bitstream/handle/11089/30037/The%20Subnational%20Dimension%20of%20the%20EU-China%20Relations.pdf?sequence=1&isAllowed=y"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "Around 20% of the 100 largest cities maintain some relations with PRC partners. Examples of cities that in the past attended the relevant conferences and still maintain sister city relations provided.",
+                "evidence_urls": [
+                    "https://wydawnictwo.uni.lodz.pl/wp-content/uploads/2021/01/KAMINSKI_The-role-of-Regions-in-EU-.pdf",
+                    "https://archive.vn/K8p2y",
+                    "https://archive.vn/tlI72 ",
+                    "https://archive.vn/yRLfR"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "Due to the pandemic, traveling to Poland during the period covered by this report was very limited and Polish politicians communicated online. However, such trips were organized in previous years.",
+                "evidence_urls": [
+                    "https://archive.vn/pxo71",
+                    "https://www.sejm.gov.pl/sejm8.nsf/komunikat.xsp?documentid=2bbbcdaa73165783c1258043002a9372",
+                    "https://archive.vn/selhs",
+                    " https://archive.vn/mIlst",
+                    "ttps://archive.vn/lpNdU"
+                ],
+                "note": "https://archive.vn/pxo71 it was the fifth edition of the trip. the traveling costs in previous editions were paid by the chancellery of sejm, the local expenses were covered by the Chinese side https://www.sejm.gov.pl/sejm8.nsf/komunikat.xsp?documentid=2bbbcdaa73165783c1258043002a9372 the fourth edition in 2018 https://archive.vn/selhs in 2019 former polish president Bronis\u0142aw Komorowski attended the 2019\u4e00\u4e61\u4e00\u54c1\u56fd\u9645\u5546\u54c1\u535a\u89c8\u4f1a  https://archive.vn/mIlst year earlier he was invited to Taihu World Cultural Forum (\u592a\u6e56\u4e16\u754c\u6587\u5316\u8bba\u575b) and iFlytec https://archive.vn/lpNdU He was invited by the PRC connected entities \nHowever to preserve the consistency with the findings and grading by other experts covering other countries the same methodology allowing the substitution of grading based on evidence for 2019 or 2019 and 2018. , ",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "It is natural for politicians to visit the countries, with which Poland maintains diplomatic relations and to meet the relevant officials. Meetings do not indicate the scale and type of PRC influence. In 2020, due to pandemic, meetings were limited and replaced with online calls. Examples of such meetings are provided.\n",
+                "evidence_urls": [
+                    "https://www.prezydent.pl/aktualnosci/wydarzenia/art,1717,rozmowa--prezydentem-chinskiej-republiki-ludowej-.html",
+                    "https://www.sejm.gov.pl/sejm9.nsf/interpelacjaTresc.xsp?documentId=0F64AB0695B51466C12586C6004BC9F3&view=S",
+                    "https://www.gov.pl/web/dyplomacja/rozmowa-ministra-jacka-czaputowicza-z-ambasadorem-chrl-w-warszawie"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No such significant cases are know to author.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Polish political parties cannot receive funds from any legal persons and from physical persons that are either foreign citizens or Polish citizens with permanent residence abroad. There could be some minor donations from the Polish citizens of Chinese origin but as of author\u2019s knowledge they did not have any significant impact on the elections. Chinese diaspora in Poland is limited in numbers and has marginal if any influence on Poland\u2019s political life. In 2020, neither national election nor country-wide local elections were held, therefore there was no election campaign.",
+                "evidence_urls": [
+                    "http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20160002223/O/D20162223.pdf",
+                    "https://www.gov.pl/web/edukacja-i-nauka/informacja-cke-o-egzaminie-osmoklasisty-przeprowadzanym-od-25-do-27-maja-2021-r"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No such significant cases have been reported. There were no national nor local elections held last year.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No such significant cases have been reported. There were no national nor local elections held last year.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The accurate response to this question would require substantial quantitative research concerning the public statements made the Polish local officials on different administrative levels exceeding the time frame for this project.  Moreover, as the various PRC connected entities have were engaged in providing the equipment needed for fighting COVID epidemic there were many statements of local official expressing gratitude for the provided support and including favorable views on China. However considering the circumstances it is hard to treat them as a voice of majority of Polish local politicians. On specific occasions (e.g. Chinese investments in Poland) there were also critical opinions.  Without quantitative research the accurate response cannot be provided. Moreover, analysis only of the public statements on China made by the very small group of local politicians, especially considering the situation with COVID could also lead to distorted image of the situation as the public statements do not reflect the position of the overwhelming silent majority of the local politicians. Basing on the limited in quantity materials reviewed by author the answer would be NO, with low confidence level as 50% and ranking = 3 \n",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No such case is known to the author for year 2020, however there were such cases in previous years.",
+                "evidence_urls": [
+                    "https://businessinsider.com.pl/firmy/strategie/ryszard-hordynski-nowym-dyrektorem-w-huawei-polska/pnljhr9He",
+                    "https://www.pb.pl/trzesienie-ziemi-w-pionie-it-ministerstwa-finansow-871856"
+                ],
+                "note": "In recent years the significant case of employing former Polish official by PRC connected entity was the case of Ryszard Horody\u0144ski. Former plenipotentiary responsible for IT technologies in ministry of development and infrastructure under Mateusz Morawiecki. Left position in 2017 https://www.pb.pl/trzesienie-ziemi-w-pionie-it-ministerstwa-finansow-871856. Later served as advisor to minister of digital affairs and was managing director in PFR Nieruchomo\u015bci S.A. one f companies operating under umbrella of the state agency Polish Development Fund Group. In 2019 he was employed by Huawei at the position of senior director responsible for  strategy and communications https://businessinsider.com.pl/firmy/strategie/ryszard-hordynski-nowym-dyrektorem-w-huawei-polska/pnljhr9He still works in Huawei at this position.. Considering the recency the answer could be YES. However, he was appointed before the period covered. Moreover his influence seems to be limited. Generally framing this issue in YES/NO matrix leads to distorted image as that would place Poland on the same level as countries where multiple and higher ranked officials are employed by the PRC connected entities and would lead to distorted perception of the situation. The answer NO seems to be the best one describing the situation.Confidence level 80%, time spent =3. However to preserve the consistency with the findings and grading by other experts covering other countries the same methodology allowing the substitution of grading based on evidence for 2019 or 2019 and 2018.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "There are no major security services companies controlled by PRC-related entities in Poland. The takeover of the largest Polish security company in 2017 by a PRC-related entity was not completed. Polish market is very fragmented with a large number of very small companies. There are over 2000 entities registered in KRS, which specialize in security services (excluding security systems providers but including companies removed from the registry) and nearly 500 companies providing servicing security systems, so some PRC-linked involvement is possible. However, it should be noted that the PRC companies Hikvision and Dahua are fast expanding providers of security equipment and they also supply public institutions.",
+                "evidence_urls": [
+                    "http://www.piooim.pl/firmy-czlonkowskie/",
+                    "https://www.pzpochrona.pl/czlonkowie-wspierajacy",
+                    "https://sinopsis.cz/en/sarek-5g-iot/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "China is the second largest exporter to Poland after Germany, but is a much less significant export market for Polish companies ranking 19th in 2020 in terms of goods' export. Import and export of services forms a fraction of the total trade exchange with China. \n",
+                "evidence_urls": [
+                    "http://swaid.stat.gov.pl/HandelZagraniczny_dashboards/Raporty_predefiniowane/RAP_SWAID_HZ_3_8.aspx",
+                    "http://swaid.stat.gov.pl/HandelZagraniczny_dashboards/Raporty_predefiniowane/RAP_DBD_HZ_3.aspx",
+                    "http://swaid.stat.gov.pl/HandelZagraniczny_dashboards/Raporty_predefiniowane/RAP_DBD_HZ_4.aspx"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Japan is by far the largest holder of Poland\u2019s external debt. China has not been listed among the top 10 creditors.",
+                "evidence_urls": [
+                    "https://www.gov.pl/attachment/5c0dcf32-9b58-4a23-b7f1-2ef7f0ee0542",
+                    "https://www.gov.pl/attachment/595e3a68-7598-4168-9752-d981e2f85df4",
+                    "https://www.gov.pl/attachment/79ba95cd-143a-4b82-a8c4-4feb32f9678d"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "China is the 5th largest market for goods under heading 2704 Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon and 2nd larges importer of  copper, refined, and copper alloys, unwrought (excluding copper alloys of heading 7405).\n",
+                "evidence_urls": [
+                    "https://www.trademap.org/Product_SelCountry_TS.aspx?nvpm=1%7c616%7c%7c%7c%7cTOTAL%7c%7c%7c4%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1",
+                    "https://www.trademap.org/Country_SelProductCountry_TS.aspx?nvpm=1%7c616%7c%7c%7c%7c7403%7c%7c%7c4%7c1%7c1%7c2%7c2%7c1%7c2%7c1%7c1%7c1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "There is no publicly available information suggesting any such operation.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Joined June 15, 2016.\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Key Polish chambers of commerce are listed as members of the Silk Road Chamber of International Commerce therefore the answer is yes. However, according to research conducted by author, the interactions of both chambers with this PRC institution are very limited and the membership itself does not necessarily boost PRC influence.",
+                "evidence_urls": [
+                    "http://srcic.org/silk-road-members/?page=2",
+                    "https://www.bricaistanbul.com/speakers/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No such evidence publicly available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Poland\u2019s exports to China are very limited with few consumer goods sold in larger volumes allowing for efficient boycott actions. Polish government does not voice critical opinions on the PRC government's atrocities or domestic politics, therefore there is little ground for boycotting Polish products in China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Poland is an EU member country. The bloc\u2019s trade policies are formulated by the relevant EU organs and executed by the EU Commission. Free Trade Agreements are negotiated and signed by EU organs. Therefore the list of FTA\u2019s for the whole bloc is also the list for Poland. So far no FTA between China and EU has been signed and the CAI ratification process is frozen. \n",
+                "evidence_urls": [
+                    "https://ec.europa.eu/trade/policy/countries-and-regions/negotiations-and-agreements/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "On the contrary, in June 2020 a new bill has been passed by the Polish parliament that increased scrutiny over foreign investments and revised the 2015 bill on foreign investments (link provided).",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20210328051552/https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20200001086/O/D20201086.pdf ",
+                    "https://wyborcza.biz/Gieldy/7,132329,26106519,gaz-system-uzyskal-kredyt-od-konsorcjum-10-bankow-w-wysokosci.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "As explained in indicator 2, PRC entities do not hold a significant amount of Polish debt. Polish government services its foreign debt in a timely manner and Poland has not defaulted on the foreign debt yet. In 2016 Polish Ministry of finance issued so-called panda bonds, but they have been paid in 2019. There are several Chinese state-owned banks running their branches in Poland (BoC, ICBC, China Construction Bank, Haitong Bank). Those banks provide credit services to Polish entities, including during the period covered by this report. However, there is also no information on the significant defaults to Chinese banks, related to those loans. In recent years, PRC banks have mainly provided loans not as a sole creditor, but as a member of financing consortia.\n",
+                "evidence_urls": [
+                    "https://www.finanse.mf.gov.pl/dlug-publiczny/obligacje-zagraniczne/wyszukiwarka-listow-emisyjnych",
+                    "https://www.gov.pl/attachment/79ba95cd-143a-4b82-a8c4-4feb32f9678d",
+                    "https://archive.vn/YzUi8 "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No public information available about such operations.",
+                "evidence_urls": [
+                    "https://bip.uke.gov.pl/rpt/",
+                    "https://super-sim.pl/sieci-komorkowe-w-Polsce"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Huawei equipment has 70-90% share in the 4G networks of three our out of four major telcos in Poland. Only one telco\u2019s infrastructure is based on other providers.\n",
+                "evidence_urls": [
+                    "https://serwisy.gazetaprawna.pl/telekomunikacja/artykuly/1491046,huawei-cyberbezpieczenstwo-sieci-telekomunikacyjne.html",
+                    "https://www.money.pl/gielda/play-ograniczenie-udzialu-huawei-w-5g-wymagaloby-0-9-mld-zl-inwestycji-w-7-lat-6554646051403905a.html",
+                    "https://wyborcza.biz/biznes/7,177150,26257634,kto-zbuduje-w-polsce-siec-5g-eksperci-koszt-wykluczenia-huawei.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The question was skipped because of ambiguity and difficulty with accessing the detailed information allowing the accurate evaluation of the share of PRC connected entities in the infrastructure. As for  ambiguity it is not clear what is referred to by \u201einternet/wifi infrastructure projects, in addition to 4G/5G cellular network.\u201d: if the question refers to the  backbone network and solutions/equipment for managing the backbone network, then the answer to this question would require in depth research. The backbone network is not build in addition to 5G/4G  it is basis. The market of the backbone network is fragmented. Some operators work with Huawei as HAWE https://www.operatorzy.pl/telekomunikacja/news/wiadomosci-firmowe/huawei-wspiera-hawe-telekom-opracowywac-zintegrowane-rozwiazanie-transportowe-ms-otn,p303987271,25 Other work with other suppliers e.g. Netia works with Nokia https://www.speedtest.pl/wiadomosci/news/netia-pojemnosc-sieci/ . Plus which is telco operating cellular network uses Netia\u2019s backbones network https://grupapolsatplus.pl/sites/default/files/documents/2021/grupa_polsat_raport_2020.pdf. Telcos operating cellular network also build/buy the backbone network. It is not clear what is meant by WiFi infrastructure projects offered by Telcos does it concern the complete WiFi solutions for business/local communities/universities. For this question still no answer can be provided even with low level of confidence. \n",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "The amendments in the Polish cyber security law have not been yet implemented. Under the current law regulations Chinese suppliers can provide equipment to government agencies (as in the provided example for the Ministry of Finance). The new regulation is still in the legislative process and in the stage of consultations. The institution of authorized vendors has not been yet implemented therefore every supplier that meets requirements under current legal regime can provide the equipment to the government agencies.",
+                "evidence_urls": [
+                    "https://crn.pl/aktualnosci/przetarg-dla-resortu-finansow-rozstrzygniety-kontrakt-na-28-mln-zl/",
+                    "http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20180001560/T/D20181560L.pdf",
+                    "https://legislacja.rcl.gov.pl/projekt/12337950/katalog/12716624#12716624"
+                ],
+                "note": "The question uses the term \u201eauthorized vendor\u201d. Under current law regulations the supplier as e.g. Huawei, Hikvision, Dahua do not have status of authorized vendors and they do not need to be granted the special status to have their equipment supplied to government agencies, military or security forces (e.g. police) with equipment as it was explained in the original response. Their equipment can be provided by local distributors participating in public tenders (examples provided in url 1 and 2). New law regulations (if adopted) would require suppliers to be granted that status but only for specific equipment. Many products such as surveillance systems and solutions will be still provided under the current regulations. If the question was formulated as \u201eCan the PRC connected entities supply tech\nproviding equipment or services to our government, military or security services?\u201d then answer would be YES. ",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No such cases of collaboration have been identified by author in the period cover by the report.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No significant agreements within the period covered by this report are known to author. However, it should be noted that in June 2021 Huawei signed agreement on implementation of smart city solution with the town of Serock.\n",
+                "evidence_urls": [
+                    "https://www.serock.pl/4069,2021-rok?tresc=25524"
+                ],
+                "note": "The original response: \u201eNo significant agreements within the period covered by this report are known to author. There fore answer is 0. other values also remain unchanged. However it should be noted that in June 2021 Huawei signed agreement on implementation of smart city solution with the small city Serock. Link provided\u201d 1. The period covered in replies was Jan 2020 -March 2021. The agreement between Serock and Huawei was signed in June 2021. Serock is small city and the deal is largely insignificant. Changing the answer to yes would distort the overall image of the situation while compared with other countries where Huawei is active in  large scale smart city projects. In 0 \u2013 4 matrix the answer would be 1. However to preserve the consistency with the findings and grading by other experts covering other countries the same methodology allowing the substitution of grading based on evidence for 2019 or 2019 and 2018.\n",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "In 2018, there were less than three institutions operating in Poland that were indirect users of the CIPS system. In 2020, no Polish entity was the direct user of CIPS system. In Europe, the key CIPS users are localized in Germany and UK. While considering the status as of 2018 the answer was given YES (1) however it should be noted that such formulation of question leads to distorted image.",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/cips/resource/cms/article/38772/42202/%e5%8f%82%e4%b8%8e%e8%80%85%e6%9c%8d%e5%8a%a1%e6%9c%88%e6%8a%a5-%e6%91%a9%e6%a0%b9%e5%a4%a7%e9%80%9a%e9%93%b6%e8%a1%8c%ef%bc%88%e4%b8%ad%e5%9b%bd%ef%bc%89%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-2020%e5%b9%b46%e6%9c%88.pdf",
+                    "http://www.gov.cn/xinwen/2020-08/14/5534896/files/efc3e33de4124221bb56825649a0e4d0.pdf",
+                    "https://www.cips.com.cn/cips/_2664/_2708/33611/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No major VC investments in Polish startups in the period covered by the report have been identified. Some startups described as Polish - Chinese enterprises -  the most famous example is Cosmoe  - are registered and operating outside Poland. Foreign investor participation in funding Polish startups is very limited and even if the PRC-related entities invested in the Polish startups their share in overall startups investments would be marginal.",
+                "evidence_urls": [
+                    "https://pfrventures.pl/dam/jcr:97b2797b-5c3c-4f0a-8e38-ba42098244bf/Polskie%20Startupy%202020%20COVID%20EDITION.pdf",
+                    "https://cosmose.co/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No cooperation agreements as described in the questions for the period January 2020 March 2021 have been found in the course of research made within this projects framework. However there are thousand of Polish companies, many of them are small and operating under radar. The accurate answer to this question meeting the framework requirements and grading  would require large scale research and the possibility that some companies have signed some kind of cooperation agreement with the Chinese partners cannot be excluded. The answer could be NO = 0 however with low confidence 50%. Time spent = 3",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "PRC-linked media apps are far behind their Western competitors in popularity among Polish users.",
+                "evidence_urls": [
+                    "https://datareportal.com/reports/digital-2020-poland"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No significant cooperation on Beidou has been recorded by author within the period covered by this report. The Polish Space Agency (POLSA) does no consider cooperation with the PRC as a top priority. Despite signing a cooperation agreement in 2016, the relations are not close. PRC delegation visited POLSA in 2017 but there were no close contacts in the period covered by this report.\n",
+                "evidence_urls": [
+                    "https://polsa.gov.pl/images/KPK_2018_FINAL/KPK_proj_20-12-18_small.pdf",
+                    "https://polsa.gov.pl/wydarzenia/13-ostatnie/119-porozumienie-o-wspolpracy-z-chinska-narodowa-agencja-kosmiczna-cnsa",
+                    "https://www.wojsko-polskie.pl/aszwoj/u/25/a7/25a75228-7fe5-498a-893b-314496095ed4/2019-01_biuletyn_osrodka_badan_azji.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "The influence of this organization covers mainly the Chinese diaspora in Poland. Impact outside diaspora community is very limited. \n",
+                "evidence_urls": [
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202011/t20201118_12307161.html",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202007/t20200706_12284734.html",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202006/t20200629_12283790.html",
+                    "https://archive.vn/BEVGe",
+                    "https://archive.vn/t5qTz"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "According to the UWCA, Polish organizations are not members of the association and the information gathered does not indicate that the important organizations located and operating in Poland are its members.",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "There are several thousand labor union organizations in Poland and there is a possibility that representatives of some of them have maintained relations and exchanges with the Chinese counterparts, however in the period covered by this report there have been no significant exchanges between the Polish unions and ACFTU, therefore answer NO is given. Most of the major labor unions have negative or skeptic attitude towards CCP and cooperation with the PRC and they voice criticism on the PRC or are involved in actions against to PRC political and economic interests. The major All-Poland Alliance of Trade Unions (OPZZ) has maintained some and exchanges wit the Chinese counterparts. Adam Rogalewski, a former head of the OPZZ international department, currently Policy Officer (Health and Social Services) European Public Service Unions (EPSU) was particularly active in this regard. The intensity of relations weakened last year with no significant exchange in the period covered by this report.",
+                "evidence_urls": [
+                    "https://www.solidarnosc.org.pl/aktualnosci/wiadomosci/zagranica/item/19495-lee-cheuk-yan-sekretarz-generalny-konfederacji-zwiazkow-zawodowych-hongkongu-aresztowany-hkctu",
+                    "https://www.solidarnosc.org.pl/aktualnosci/wiadomosci/zagranica/item/19104-wzywamy-do-zaprzestania-represji-w-hongkongu-przywrocenia-praw-obywatelskich-i-demokratycznych ",
+                    "https://www.solidarnosc.org.pl/aktualnosci/wiadomosci/zagranica/item/19554-koniec-autonomii-hongkongu-mieszkancy-protestuja  ",
+                    "https://www.solidarnosc.org.pl/aktualnosci/wiadomosci/zagranica/item/20371-hongkonski-dzialacz-zwiazkowy-skazany-na-wiezienie",
+                    "https://www.solidarnosc.org.pl/aktualnosci/wiadomosci/zagranica/item/20199-14-lutego-dniem-solidarnosci-z-lee-cheuk-yanem ",
+                    "https://www.ozzip.pl/publicystyka/polityka/item/2664-list-z-chin-czy-chiny-kupily-czas-dla-zachodu",
+                    "https://www.opzz.org.pl/aktualnosci/swiat/okragly-stol-na-temat-digitalizacji-i-celow-zrownowazonego-rozwoju-w-shanghaju",
+                    "https://www.ozzip.pl/informacje/zagranica/item/2317-rok-batalii-pracownikow-fabryki-volkswagena-w-changchun-w-chinach ",
+                    "https://www.opzz.org.pl/aktualnosci/swiat/okragly-stol-chinsko-europejskiego-spoleczenstwa-obywatelskiego",
+                    "https://www.opzz.org.pl/aktualnosci/swiat/wazne-sprawy-w-europie",
+                    "https://www.opzz.org.pl/aktualnosci/swiat/zwiazki-zawodowe-z-calego-swiata-sla-kondolencje-z-powodu-smierci-jana-guza-i-wyrazy-uznania-dla-jego-zaslug ",
+                    "https://www.opzz.org.pl/aktualnosci/swiat/europejski-dzien-akcji-na-rzecz-stali-1-pazdziernik-2020   "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "The relations between diaspora organizations and the UFWD are based on mutual visits, which due to pandemic situation have been limited since the beginning of 2020.",
+                "evidence_urls": [
+                    "https://archive.vn/ziFKy "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "In 2019, the Polish Media Association signed a cooperation agreement with the Polish Media Association, a small organization with ties to Warsaw Chamber of Commerce (WCC). The actions and public comments by WCC and PMA are result of earlier cooperation with their Chinese counterparts. There are other organizations in Poland that maintain relations with Chinese counterparts as Polish Writers\u201d Union (among others with China Writers Association). However in recent years particularly in 2020 the ties have weakened. There have been also some events organized by PRC entities listed in the brief (e.g. China Writers Association), promoting Chinese literature, attended by Polish writers and translators, with no obvious political agenda. \n",
+                "evidence_urls": [
+                    "https://wig.waw.pl/porozumienie-o-wspolpracy-chinskich-i-polskich-stowarzyszen-mediow/ ",
+                    "https://polskiemedia.org/kto-nie-byl-w-shaanxi-nie-poznal-chin/ ",
+                    "https://polskiemedia.org/epidemia-sie-skonczy-slowa-wsparcia-i-solidarnosci-od-dziennikarzy-chinskich/",
+                    "http://polskiemedia.org/wsiasc-do-ostatniego-wagonika-z-czerwonymi-dolarami/ ",
+                    "https://wig.today/wp-content/uploads/2020/03/A_letter_to_Polish_Media_Association.pdf",
+                    "http://en.people.cn/n3/2017/1219/c90000-9306005.html",
+                    "http://www.chinawriter.com.cn/n1/2021/0519/c403993-32107727.html ",
+                    "https://www.sohu.com/a/437276622_115239"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are no know to author donations of the kind as defined in the question. I have not identified any significant cases of such donations during the period Jan 2020 \u2013 March 2021. The answer can be NO however the confidence level 30% , time spent =2. However the accurate response to this question is not possible as the churches and religious associations do not need to publish the full list of donations received. Framing this questions as YES/NO also leads to distortion of the image of situation between countries considering the scale involvement of PRC connected entities in financing the religious associations (e.g. Buddhist) in other countries. \n",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No such evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "China and China-relate themes are not important components in movies or TV shows produced in Poland. The coverage of China in other products is rather critical. CGTN can be watched online or with satellite with individual settings, but currently no major TV provider includes it in the list of offered channels (internet, cable or satellite). CCTV is available on Hot Bird Satellite, but is not included in the package (e.g. Canal Plus).",
+                "evidence_urls": [
+                    "https://kino.dlastudenta.pl/filmy/spis-baza-filmow,polskie,0,0,2020,2021,1.html",
+                    "https://www.antyradio.pl/Filmy-i-seriale/Filmy/Polskie-filmy-ktore-ukaza-sie-w-2020-roku-Wsrod-nich-Psy-3-i-Broad-Peak-35163",
+                    "https://www.telemagazyn.pl/artykuly/nowe-polskie-seriale-w-2020-roku-co-ogladac-w-tv-w-nowym-roku-77758.html",
+                    "https://kultura.onet.pl/film/wiadomosci/nowe-polskie-seriale-2020-co-zobaczymy-w-tv-w-nowym-roku/dgqnfls ",
+                    "https://www.upc.pl/telewizja/poznaj/kanaly-tv/lista-kanalow-tv/ ",
+                    "https://www.vectra.pl/oferta/3211/",
+                    "https://sklep.cyfrowypolsat.pl/telewizja-internetowa-ott"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No such evidence publicly available. China is not a major topic in Poland.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "The term local government is not clear. There are 17 wojew\u00f3dztwa, 314 counties, 66 municipal counties and 2477 gmin (smallest unit of administration) which constitute three levels of administrative network in Poland. Well-founded answer to this question would require considerable in-depth research. The answer 0 is based on the author\u2019s research on the Chinese influence on sub-national level. There was not identified any local government regularly publishing Chinese propaganda within the period covered by the report. However, considering the number of local administration units, it is possible that some operations were missed leading to the lower confidence level.  ",
+                "evidence_urls": [
+                    "https://marszalek.com.pl/echoswidwina/numery.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "The Polish public sentiment toward China is negative.",
+                "evidence_urls": [
+                    "https://ceias.eu/wp-content/uploads/2021/03/PL-poll-report.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "No evidence publicly available.",
+                "evidence_urls": [
+                    "https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c616%7c%7c156%7c%7c93%7c%7c%7c4%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1"
+                ],
+                "note": "Absolute majority of arms imports form China is constituted by the goods under the HS code 9304 which include the spring rifles and pistols or gas pistols and rifles which are mainly used by civilians. Gas pistols can be bought without permit and are used for self protection. Another significant group of imports under HS code 93069090 constitute ammunition and grenades or similar equipment excluding the equipment of military grade. The volume military grade armaments under HS code 9301 is marginal and answer YES would create the distorted image of the situation while compared to countries who heavily import form China various types of weapons.",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [
+                    "https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c616%7c%7c156%7c%7c93%7c%7c%7c4%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1",
+                    "https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c156%7c%7c616%7c%7c93%7c%7c%7c4%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence supporting this thesis available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No public evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "Excluding military staff participating in exchanges between relevant universities and other entities.\n",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "There are single cases of the Polish officers studying in the PRC but that does not have any impact on the overall situation.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No public evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There have been no publicly available reports known to author for the period January 2020 \u2013 March 2021 on such cases. However the author does not track the employment history of all Polish intelligence/military officers, therefore that could be a case that as some of them after competing service start working in the security sector and are hired as consultants keeping low profile interactions with Chinese employers. The probability is low however cannot be excluded. Therefore the answer could be given as NO. However the confidence of answer is relatively  low 560%. Grade for time devoted to research = 3. \n",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "Agreements were signed with the PRC and Hongkong SAR.\n",
+                "evidence_urls": [
+                    "http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19880090065/O/D19880065.pdf",
+                    "http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20071671175/O/D20071175.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No such agreements provided on the official Polish list of legal acts and bilateral agreements related to China.",
+                "evidence_urls": [
+                    "http://isap.sejm.gov.pl/isap.nsf/ByKeyword.xsp?key=Chiny"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "Question YES/NO leads to distorted results. Chinese gangs operate in Poland but their activities are very limited compared to other criminal groups and they do not play an important role on Poland\u2019s criminal scene. ",
+                "evidence_urls": [
+                    "https://www.rmf24.pl/fakty/polska/news-chinska-mafia-narkotykowa-dzialala-w-polsce-przerzucala-nark,nId,4257191#crp_state=1",
+                    "https://katowice.wyborcza.pl/katowice/7,35063,26345576,slaski-gangster-przemycal-narkotyki-dla-chinskiej-triady-cud.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "The PRC was the leading country in terms of the botnet servers localization, hackers targeting the cryptocurrency traders, IOT risks, however the findings are not strictly quantified. No attacks by Chinese groups such as APT41 in Poland have been identified. According to reports and media information for 2020 and 2021, Polish government institutions were mainly targeted by actors originating in Russia Federation. Critical successful attacks from the PRC bringing massive damage were reported. However the Polish entities on average are not well secured and there could be many undetected attacks.",
+                "evidence_urls": [
+                    "https://www.cert.pl/uploads/docs/Raport_CP_2019.pdf"
+                ],
+                "note": "Due to lack of sources of information for Jan 2020 \u2013 March 2021 that would provide the detailed and accurate quantitative data on the activity of the Chinese hackers compared to activity of hackers from other countries. The last published CERT report covers year 2019 https://www.cert.pl/uploads/docs/Raport_CP_2019.pdf The China was a leading country in terms of the botnet servers localization, hackers targeting the cryptocurrency traders, IOT risks however the finding are not strictly quantified. The report does not identify any attacks by Chinese groups such as APT41 with Poland. According to reports and media information f for 2020 and 2021 Polish government institutions were mainly targeted by actors originating in Russia Federation. Reports about critical successful attacks from China bringing massive damage were reported. However the Polish entities on average are not well secured and there could be many undetected attacks therefore I had problems with grading this questions with 3 or 4. However considering that grade 0 given in case of no reply would distort the image of situation please change the grading to 3, with confidence level 50% and grade for time devoted to 3\n",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "2",
+                "evidence": "The official report on the Poland\u2019s cyber security for 2020 is not available yet, therefore the cyber security threats form China were evaluated based on reports from previous years and media reports. The share of attacks from China in total number of attacks has diminished in recent years and the PRC is no longer the top source of cyberthreats. There have been also no reports about major Chinese attack targeting Polish entities during the period covered by this report. This result does not necessarily reflect the real threat from China as cyber protection in Polish enterprises especially SME is not very good and many threats or intrusions could be simply undetected.\n",
+                "evidence_urls": [
+                    "https://csirt.gov.pl/cer/publikacje/raporty-o-stanie-bezpi/969,Raport-o-stanie-bezpieczenstwa-cyberprzestrzeni-RP-w-2019-roku.html",
+                    "https://csirt.gov.pl/cer/publikacje/raporty-o-stanie-bezpi/964,Raport-o-stanie-bezpieczenstwa-cyberprzestrzeni-RP-w-2018-roku.html",
+                    "https://csirt.gov.pl/cer/publikacje/raporty-o-stanie-bezpi/964,Raport-o-stanie-bezpieczenstwa-cyberprzestrzeni-RP-w-2018-roku.html",
+                    "https://csirt.gov.pl/cer/publikacje/raporty-o-stanie-bezpi/958,Raport-o-stanie-bezpieczenstwa-cyberprzestrzeni-RP-w-2017-roku.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No such cases during the period covered by this report are known to author. However, considering that the Chinese diaspora in Poland is a very closed community and many issues are handled within the diaspora, it is possible that such cases did take place.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "skip",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "The originally response given was YES and the supporting evidence was provided. However in comment I suggested that the response would be more accurate in 0-4 matrix as Chinese video surveillance systems (equipment solutions) are deployed by the Polish judiciary, prisons but still not on a massive scale, which is incomparable with other countries. The answer for the question n 0-4 matrix would require in depth research unless the relevant report covering the relevant information is published in the future. ",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "evidence": "There has been a case of a Taiwan citizen, in whose case the Polish Supreme Court ruled for extradition to China, however in another case the same Supreme Court blocked the extradition process and ordered a case review. As Poland does not recognize Taiwan as a state, Taiwanese citizens are treated as PRC citizens and are extradited to China unless the process is stopped due to special reasons such as the danger of death penalty, torture or other human rights abuse. The situation has changed with the new agreement between Taiwan and Poland on cooperation between Poland and Taiwan in civil and criminal cases that entered in force in February 2021.",
+                "evidence_urls": [
+                    "https://archive.vn/i1skc",
+                    "https://archive.vn/qreK4",
+                    "https://archive.vn/hDeoF",
+                    "https://archive.vn/H1y7K",
+                    "https://archive.vn/F4ITZ",
+                    "https://web.archive.org/web/20210828205426/https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20210000230/O/D20210230.pdf"
+                ],
+                "note": "The link to the article on the PRC citizen is to prove that in some cases even extradition of a PRC citizen can be blocked \u201edue to special reasons as possibility of death penalty,  torture or other human rights abuse the extradition process is blocked.\u201d",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "Question does not take into consideration that the court decision should be based on law, which includes the bilateral agreements with other countries. Pressure from NGOs or other organizations on public opinion cannot influence court to decide against the law.",
+                "evidence_urls": [
+                    "https://bip.brpo.gov.pl/pl/content/obywatel-tajwanu-ma-byc-wydany-chinom-kasacja-rpo",
+                    "https://wyborcza.pl/duzyformat/7,127290,24504795,czy-polska-wyda-tajwanczyka-na-tortury.html"
+                ],
+                "note": "This question in its current formulation should be removed from the questionnaire.",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Poland has a GDP per capita of US $15,653.56 and a total population of 38.268 million people, with the Chinese population comprising 6,812 people, or 0.017% of the total population.",
+    "description-2": "Poland established diplomatic relations with the People Republic of China in 1949. Poland was ranked 64th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 82/100."
+}

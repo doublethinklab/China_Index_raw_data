@@ -1,0 +1,1137 @@
+{
+    "name": "Indonesia",
+    "partner": "Doublethink Lab",
+    "year": "2021",
+    "GDP": "$3,869.6",
+    "population": "274M",
+    "original": "176/396",
+    "ranking": "13",
+    "overall": "44%",
+    "effect": "40%",
+    "exposure": "53%",
+    "pressure": "17%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "2",
+                "evidence": "The World Chinese Media network has 5 major key news publications: Ming Pao, Sin Chew Daily, China Press, Guang Ming Daily, and Nanyang Siang Pau. Among these major publications, only Sin Chew Daily has published, printed, and circulated content throughout the country. On a minor note, Media Chinese has over 30 magazine titles comprising various topics. Yazhou Zhoukan, a Hong Kong magazine publication, introduced magazine subscriptions in Indonesia. There are also media organizations that have collaborated with organizations belonging to the World Chinese Media (Harian Indonesia). The Yinhua Daily news is a part of the world Chinese media network. the Yinhua Dialy news is one of Indonesia\u2019s widely circulated Chinese newspapers in Indonesia. However, in recent times its number of readers has been declining thus making it less of an influence. ",
+                "evidence_urls": [
+                    "https://www.scmp.com/week-asia/opinion/article/3099572/why-indonesias-pro-beijing-chinese-newspapers-are-slow-decline ",
+                    "https://worldchinesemedia.com/2015/05/12/56/ ",
+                    "https://www.mediachinesegroup.com/en/ ",
+                    "http://www.sinchew-i.com/indonesia/ ",
+                    "https://www.harian-indonesia.com/home ",
+                    "https://www.yzzk.com/blogger/%E4%BD%99%E6%AD%8C%E6%BB%84"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Indonesia is one of the 26 international council members of the Belt Road News Alliance.  Indonesia is a part of the council, with the Jakarta Post  \u5370\u5ea6\u5c3c\u897f\u4e9a\u300a\u96c5\u52a0\u8fbe\u90ae\u62a5 as a part of the Belt Road News Alliance. Indonesian Journalist Association (Persatuan Wartawan Indonesia) is one of the founders of Belt and Road Journalists Network, but there is no proof that the alliance has managed to influence Indonesian journalists to write on certain topics in a way that is favorable to China. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/10/what-is-the-belt-and-road-news-network/   ",
+                    "https://klikpapua.com/nasional/ketum-pwi-hadiri-forum-jurnalis-belt-and-road-initiative-2019-di-beijing.html",
+                    "http://en.industry.co.id/read/2742/pwi-slams-violence-of-chinese-apparatus-to-journalists-of-the-republic-of-korea"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "not only Indonesia but also many other countries has been invited to the PRC\u2019s all expenses paid tour to china. Most recently, Indonesian journalist were invited as part of ASEAN Elites China Tour in 2019 to explore Xinjiang and to discover the regions development",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/china-is-paying-foreign-journalists-including-from-india-to-report-from-beijing/154013/",
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976",
+                    "http://www.xinhuanet.com/english/2019-02/28/c_137858202.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "China has worked to persuade clerics, politicians and journalists to support its policies in Xinjiang and courted social-media influencers to promote a more favorable view of China and showcase Islamic culture in the country, but no professional journalism training was mentioned.  ",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "one of the media is China Radio International they have also collaborated with Radio Elshinta in hopes to encourage partnership between Indonesia and the PRC ",
+                "evidence_urls": [
+                    "https://www.antaranews.com/berita/707015/radio-china-jadikan-3000-surat-pendengar-indonesia-sebagai-monumen",
+                    "https://nasional.kompas.com/read/2010/04/20/14104141/~Oase~Cakrawala?page=all "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "The only company found to be partially owned by a Chinese business person is PT China Sonangol Media Investment (CMSI), a joint venture between one of Indonesia's media tycoon Surya Paloh\u2019s Media Group and PT China Sonangol Land. However, the business caught into trouble and unable to pay its suppliers.",
+                "evidence_urls": [
+                    "https://www.world-today-news.com/china-sonangol-affected-by-pkpu-surya-paloh-owners-of-shares/",
+                    "https://www.idnfinancials.com/news/37081/acset-indonusa-proposes-pkpu-china-sonangol-media-investment"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Yes, there are press statements that China's embassy issue that are published into news by local media. ",
+                "evidence_urls": [
+                    "https://www.thejakartapost.com/news/2018/05/24/china-supports-sanitation-in-west-java.html",
+                    "https://www.thejakartapost.com/academia/2020/04/14/insight-work-hand-in-hand-for-a-new-era-of-china-indonesia-friendship.html",
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1652541.shtml",
+                    "https://mediaindonesia.com/opini/404625/ekonomi-tiongkok-membaik-prospek-cerah-kerja-sama-bilateral"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "There are formal periodical news/statements that are shared by China's embassy that the local newspapers published. There are indication that these news are endorsed, as there are limited news covering the situation of human rights, civil disobedience or political disturbance in China published by the same newspapers.",
+                "evidence_urls": [
+                    "https://www.thejakartapost.com/academia/2020/04/14/insight-work-hand-in-hand-for-a-new-era-of-china-indonesia-friendship.html",
+                    "https://www.thejakartapost.com/news/2018/05/24/china-supports-sanitation-in-west-java.html",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1652541.shtml",
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976",
+                    "https://mediaindonesia.com/opini/307777/70-tahun-hubungan-indonesia-tiongkok"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Bayu Hermawan, a journalist for Indonesian newspaper Republika, traveled to Xinjiang on a Beijing-organized tour in February, and wrote articles that cited camp residents who said they weren\u2019t given trials or were brought in for offenses like adhering to a Muslim diet.\n\nMr. Hermawan received a WhatsApp message from a Chinese embassy employee in Jakarta, saying he was disappointed by the article because it had errors and didn\u2019t focus on positive aspects of the trip, according to the message shown to The Wall Street Journal.\n\nAround that time, Republika\u2019s website faced a distributed denial-of-service cyberattack, according to two employees, making the website slow to load and inaccessible from abroad. Fitriyan Zamzami, an editor at Republika, said IT workers traced the attack to accounts in places like Bulgaria and Ukraine; still, he said, the timing was suspicious.",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "There are information about media experiencing cyber attack due to its negative publication on Uyghur, such as Republika ",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "4",
+                "evidence": "The silence that the government has shown as well as Islamic organization has taken in regards to the issues in Xinjiang is due to the diverging views of the what is actually going on in Xinjiang. Some actors believe that there is no \u2018concentration camp\u2019 in Xinjiang and the people are simply provided training and some believe otherwise. More than a dozen top Indonesian religious leaders were taken to Xinjiang and visited re-education facilities. Tours for journalists and academics followed. Chinese authorities gave presentations on terrorist attacks by Uighurs and invited visitors to pray at local mosques. In the camps they visited classrooms where they were told students received training in everything from hotel management to animal husbandry.",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976",
+                    "https://www.bbc.com/indonesia/indonesia-50835364 ",
+                    "https://www.narasi.tv/buka-mata/tipu-daya-china-kepada-rombongan-indonesia-di-kamp-uighur"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "There is no formal committee groups between Indonesia and China. However, with the pandemic, collaboration between the two nations has further been strengthened for their efforts to mitigate the pandemic and vaccination distribution with members of parliaments pushing for closer ties.",
+                "evidence_urls": [
+                    "https://www.dpr.go.id/en/berita/detail/id/30196/t/House%2C+Govt+Concur+on+Urging+Global+Cooperation+in+Handling+the+Pandemic ",
+                    "https://www.dpr.go.id/berita/detail/id/30963/t/GKSB+DPR+Dorong+Penguatan+Kerja+Sama+Indonesia+dengan+Tiongkok "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Considering the number of collaboration that Indonesia has with PRC especially in areas of economic development, there has been many occasions where members of political parties from the house of representatives met with representatives from the PRC.  Even during times of pandemic, members of the house of representatives still conducted virtual meetings with representatives of the PRC in alternative to the travel restrictions. In June 2021, China-Indonesia high-level dialogue cooperation mechanism was held, meeting Chinese State Councilor and Foreign Minister Wang Yi and Luhut Binsar Pandjaitan, Indonesian president's special envoy and Indonesia's coordinator for cooperation with China.",
+                "evidence_urls": [
+                    "https://www.dpr.go.id/en/berita/detail/id/31031/t/Puan+Maharani+Ajak+Parlemen+Tiongkok+Teruskan+Kerja+Sama+Pemulihan+Dampak+Covid-19",
+                    "http://www.xinhuanet.com/english/2021-06/06/c_139991980.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "2",
+                "evidence": "There has been evident of training provided by the PRC for Indonesian diplomats but only a few trainings have been conducted, however, these trainings have yet had significant outcome, but only a way of such discovering the similarities and difference in regards to the management of civil servants between the two countries. The journal article attached mentioned that Indonesian diplomats and foreign policy experts are still see China as presenting a degree of threat rather than opportunity.",
+                "evidence_urls": [
+                    "http://www.sdx.sh.cn/html/home/news/105171.html ",
+                    "https://www.tandfonline.com/doi/abs/10.1080/09512748.2020.1851293"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "As Indonesia\u2019s visions are aligned with those of China such as Indonesia\u2019s aspiration to establish Indonesia as the world\u2019s maritime fulcrum that are congruent with China\u2019s intention to build a new maritime silk road. This common interest led the two nations to develop a mutually beneficial partnership. Moreover, US failure to execute TPP further strengthened Indonesia-China economic ties. There is also news that the Minister of Defense (Menhan) Prabowo Subianto asked the public not to go too far over the findings of underwater drones in Selayar waters, Selayar Regency, South Sulawesi which allegedly belonged to China. However, there is no direct visible pressure has been conveyed.",
+                "evidence_urls": [
+                    "https://www.thejakartapost.com/news/2014/11/13/president-jokowi-and-ri-china-relations.html ",
+                    "https://voi.id/en/news/25104/begini-respon-prabowo-subianto-soal-temuan-drone-china-di-perairan-indonesia",
+                    "https://www.thejakartapost.com/news/2019/12/16/prabowo-kicks-off-first-china-working-trip-to-discuss-defense-with-beijing.html",
+                    "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1846201.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Indonesia and China have good relations  in terms of extradition of criminals. There is no trace of hostage diplomacy in the public news too. ",
+                "evidence_urls": [
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39784142.pdf",
+                    "https://www.scmp.com/week-asia/politics/article/3107868/indonesia-deported-three-uygurs-china-pompeo-visit-security",
+                    "https://www.thejakartapost.com/news/2017/08/01/indonesia-to-deport-153-chinese-for-450-million-scam.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "The Taiwanese government has called on the Indonesian government for support, but there has been no indication of support from the Indonesian government regarding Taiwan\u2019s meaningful participation in the WHO. There is a clear indication that Indonesia's one China policy has positioned itself to be passive in supporting Taiwan's WHO membership. ",
+                "evidence_urls": [
+                    "https://www.voanews.com/east-asia-pacific/g-7-countries-back-taiwans-observer-status-world-health-assembly ",
+                    "http://www.chinanews.com/gj/2021/05-23/9483804.shtm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "There is no public statement from the Indonesian government to openly support PRC\u2019s leadership in UN Agencies. The extends of support is that Indonesia and China co-hosting meeting on UN peacekeeping together on Triangular Formula Meeting on Training, Capacity Building, Safety and Security, and Performance of UN Peacekeeping at the UN's headquarters in New York, 2019. There is, however, Indonesia's concern toward PRC claims on the South China Sea and in the UN fora, state its position based on UN Convention on the Law of the Sea, which is not in line with China's claim.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/un-assembly-indonesia-idUSKCN26E0GP",
+                    "https://www.rfa.org/english/news/china/indonesia-southchinasea-05282020190946.html",
+                    "https://www.chinadailyhk.com/articles/94/55/250/1554102521661.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Indonesia oppose China\u2019s claim as Indonesia had taken the initiative to be the one that submitted the Note Verbale to the UN contesting the validity and legality of China\u2019s claim. Moreover, Indonesia\u2019s constant active participation as mediator shows Indonesia\u2019s opposition of these claims",
+                "evidence_urls": [
+                    "https://thediplomat.com/2014/07/indonesia-a-bigger-role-in-the-south-china-sea/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Although many Indonesian civilian has shown solidarity with the Uyghur population, particularly Indonesia\u2019s Muslim community. However, the government of Indonesia has remained silence in their stance.",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2020/01/31/indonesias-silence-over-xinjiang   ",
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "The Indonesian government has remained silent on PRC\u2019s treatment of its Tibetan population and its Xinjiang policies. However there are citizens that are vocal condems China\u2019s acts, such public figure such as Indonesia\u2019s Cardinal Ignatius Suharyo Harjoatmodjo has called out China publicly for the various human rights abuses in Xinjiang. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/2020-edition-which-countries-are-for-or-against-chinas-xinjiang-policies/ ",
+                    "https://www.ucanews.com/news/vatican-silent-as-tibetans-are-forced-into-concentration-camps/89673# "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "Indonesia remained silent on their stance on China\u2019s imposition of the National Security Law in Hongkong as evident from the 44th session of the United Nations Human Rights Council during which Indonesia did not voted. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/ "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "the arrival of China\u2019s Tech giants in Indonesia has boosted the country\u2019s progress towards digital economy. However due to the lack of skilled workers in the labour force to expand the digital economy, hence the establishment of research partnership with Indonesian universities",
+                "evidence_urls": [
+                    "https://www.thejakartapost.com/news/2020/01/20/alibaba-teams-up-with-universities-tech-providers-incubator-to-offer-cloud-tech-training.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "2",
+                "evidence": "As per 2020, there are 6 Confucius Institute in various regions of Indonesia. The presence of the institute has so far been successful, especially in approaching Islamic Institutions as language courses and Chinese culture exposure have been warmly welcomed in each institution. However, they were do not play such a significant role as some Indonesian university had already offered mandarin courses even before China\u2019s Confucius Institute initiative. \n\nIn 2011, Hasanuddin University in South Sulawesi collaborated with Nanchang University in China\u2019s Jiangxi province to establish an institute , which actively carried out student exchange programs between Indonesia and China. It is reported that from 2011 to 2015, Hasanuddin University sent 2,000 students to China.\n\nConfucius Institutes have also been founded elsewhere, including at Maranatha Christian University in Bandung, Al-Azhar Indonesia University in Jakarta, Tanjungpura University in West Kalimantan, Surabaya State University in Surabaya, and Muhammadiyah Malang University in East Java.",
+                "evidence_urls": [
+                    "https://www.tandfonline.com/doi/pdf/10.1080/24761028.2018.1553227?needAccess=true  ",
+                    "http://repository.unesa.ac.id/sysop/files/2020-06-30_Makalah%2043%20Slamet.pdf ",
+                    "https://thediplomat.com/2020/12/in-indonesia-confucius-institutes-struggle-to-dislodge-anti-chinese-sentiment/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "The state/public schools in Indonesia have not formally plans to include Chinese as a foreign language in K12 or primary education. Although such incentive has yet been discussed within Indonesian public schools, however in Indonesia there are many private schools that have already incorporated Mandarin as a foreign language since K12. In some cases, there are even private schools that uses Chinese as their main language of instruction. ",
+                "evidence_urls": [
+                    "https://www.thinkchina.sg/chinese-language-alive-or-dying-indonesia ",
+                    "https://chinalink.co.id/artikel/news/kelas-mandarin-gratis-"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "There has been a few partnership between PRC networks and associations with Indonesia\u2019s think tank and universities however there is not much. Considering the aim of the partnership is to enhance global understanding of Belt Road Initiatives as well as promote a positive attitude towards it, however, there has not been much indication as to how much influence the partnership has succeeded in achieving this",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/rolland-bri-influence-operations/#fn8 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "The public Hasanuddin University (Unhas) began a collaboration with Nanchang University in 2011 and since then has become actively involved in promoting Chinese language and student exchanges to China. From 2011 to 2015, Unhas sent 2,000 students to China. The Unhas Confucius Institute is run by seven teachers in an off-campus building. It also operates a Chinese Corner on campus and helps Unhas conduct Chinese language study as an elective. The Unhas Confucius Institute routinely holds cultural events with the broader Chinese Indonesian community in Makassar and has expanded the program by facilitating the establishment of a Confucius Classroom at the Athirah Islamic school and setting up a Mandarin Language Tourism Training Centre (Pusat Kursus Bahasa Mandarin Pariwisata) at Udayana University, Bali. Its many efforts to develop Chinese language education won it an Individual Performance Excellence Award from the Chinese government in 2016, the only Indonesian university to receive one. However, there are only few universities received such funding support and have not shown any impact on Indonesia's position that generally see Chinese assertiveness in the South China Sea as a threat to its maritime sovereignity. ",
+                "evidence_urls": [
+                    "http://ilmubudaya.unhas.ac.id/mandarin/en/about-us/",
+                    "https://unhas.ac.id/en/article/title/universitas-hasanuddin-and-shanghai-ocean-university-agreed-on-aquaculture-collaboration",
+                    "https://indonesiaatmelbourne.unimelb.edu.au/chinas-confucius-institutes-in-indonesia-walking-a-fine-line/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "There are several scheme of scholarship and programs offered by China for Indonesian experts. However, there is not yet article, nor database that state an that the participation of Indonesians academic of expert undertaking the scholars program change/influence Indonesian scholars' perception.",
+                "evidence_urls": [
+                    "https://international.ui.ac.id/archives/peking-university-china-student-exchange-program/",
+                    "https://lldikti8.ristekdikti.go.id/wp-content/uploads/2021/04/Scan-ASEAN-China-Young-Leaders-Scholarship-Programme-ACYLS.pdf",
+                    "http://118.98.228.190/kerjasama/detail/45"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "There are scholars invited to take trips to have academic meetings, conferences or scholarly discussions. Those are interested to pursue higher degree are also offered scholarships to study in China. There are quite a number of scholarships provided by PRC government for Indonesians. As most Indonesian students would need financial assistance to study abroad, scholarships granted by the PRC government are attracting Indonesian students, making them flock to China. However, the scholarship provided by PRC government not yet publicly translated directly to positive attitude toward China. ",
+                "evidence_urls": [
+                    "https://library.fes.de/pdf-files/bueros/indonesien/16770.pdf",
+                    "http://118.98.228.190/kerjasama/detail/45",
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There is not many Chinese students studying in Indonesia, as Indonesia\u2019s higher education quality is not well-known for having a good reputation. Thus, it is highly unlikely for Chinese students to choose Indonesia as a destination for higher education. That said, there are no student groups in Indonesia that are connected to the Chinese Students and Scholars Association (CSSAs) nor had there been attempts of censorship from such affiliations. Most students groups affiliated with CSSA are established in western countries. ",
+                "evidence_urls": [
+                    "https://www.forbes.com/sites/anderscorr/2017/06/04/ban-official-chinese-student-organizations-abroad/?sh=700d09d85bbc+",
+                    "https://library.fes.de/pdf-files/bueros/indonesien/16770.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "There is no public record found on Indonesian scholars or academics have been denied visas to travel to the PRC after expressing opinions or producing scholarship that is critical of the PRC. There is, however, concerns in Indonesian of people from PRC arriving in Indonesia to work without proper visa and there is local demand to tighten visa applicants from China, this may impact tightening of granting visa for Indonesian to travel to China in the future.",
+                "evidence_urls": [
+                    "https://travel.tribunnews.com/2016/09/10/visa-tiongkok-biar-nggak-ditolak-inilah-hal-yang-wajib-kamu-tahu-sebelum-apply",
+                    "https://library.fes.de/pdf-files/bueros/indonesien/16770.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "The rising Chinese influence, particularly in the economic sector has attracted schools in Indonesia to adopt mandarin as a mandatory secondary language, even in local community schools such in the case of Lamongan, Indonesia, where the local politician viewed that encouraging students to learn mandarin will attract Chinese investors to their city. ",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2010/05/02/world/asia/02chinindo.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Although in some topics the Indonesian government chose to abstain by staying silent. However, academics and scholars have been vocal in voicing their position and have presented their own take on what the government should have done instead of staying silent. As there are many discussions on Uyghur took place in university fora.",
+                "evidence_urls": [
+                    "https://www.suara.com/news/2019/12/23/221916/guru-besar-ui-soal-uighur-indonesia-bisa-intervensi-china-lewat-pbb?page=all+",
+                    "https://www.salam-online.com/2018/12/ungkap-fakta-pelanggaran-ham-atas-muslim-uighur-act-jitu-gelar-diskusi.html",
+                    "https://www.voaindonesia.com/a/pemerintah-indonesia-diminta-desak-china-lindungi-warga-uighur/4710323.html",
+                    "https://law.ui.ac.id/v3/diskusi-publik-tingkat-nasional-berjudul-konflik-uyghur-sebuah-upaya-meramu-titik-temu/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "as the PRC is one of Indonesia\u2019s major economic partner. Both Chinese government as well as state owned enterprise has begun major development projects in various regions in Indonesia",
+                "evidence_urls": [
+                    "https://www.borneonews.co.id/berita/149277-bumn-china-investasi-rp-120-triliun-di-kek-palu",
+                    "https://www.researchgate.net/profile/Peter-Gammeltoft/publication/264837979_Chinese_foreign_direct_investment_in_Indonesia_Trends_drivers_and_impacts/links/5756c8f808ae05c1ec168f43/Chinese-foreign-direct-investment-in-Indonesia-Trends-drivers-and-impacts.pdf?origin=publication_detail+"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "There are 5 provinces that have established town twinning of sister cities with those in the PRC. However, there has been research that indicated these sister cities has not been efficiently carried out primarily due to the lack of clear standards and timeline of execution",
+                "evidence_urls": [
+                    "https://e-journal.unair.ac.id/JHI/article/view/21291/12790"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "as one of Indonesia\u2019s biggest trading partner, the PRC government often invite and provide an all-expenses paid invitation to Indonesian politicians to visit PRC to conduct training and idea exchanges with PRC",
+                "evidence_urls": [
+                    "https://www.tribunnews.com/nasional/2012/03/17/beredar-rumor-bbm-naik-sby-ajak-pengurus-knpi-ke-china "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "As Indonesia\u2019s partnership with the PRC is not only within the economic sector but also has branched out to military and even cultural, meetings between politicians or ministers of each respective country is common. As evident with the ministry of defence recent meeting, through the meeting the ministers discussed possible threats and mitigation efforts that could be taken in times of COVID. More recently, Indonesia needs vaccines, health support to counter the pandemic and China has been a reliable partner. China also one of the countries that remain strong despite the pandemic, hence one of the ways for Indonesia post-pandemic economic rebuilding is through intensifying cooperation with China.",
+                "evidence_urls": [
+                    "https://www.cnbcindonesia.com/news/20200909192026-4-185653/prabowo-buka-bukaan-soal-pertemuan-dengan-menhan-china ",
+                    "https://money.kompas.com/read/2021/06/09/083730626/koordinator-kerja-sama-panggilan-resmi-pemerintah-china-untuk-luhut?page=all"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "There has been cases of joint training such as Indonesian police training in the PRC to learn how to handle issues of cybercrime. Considering Indonesia\u2019s upcoming industrial revolution and china\u2019s being one of the most technologically advanced nations, this training will provide a lot of insights for Indonesian officers in preparing for Indonesia\u2019s rising tech era",
+                "evidence_urls": [
+                    "https://nasional.okezone.com/read/2016/09/13/337/1488073/belasan-polisi-dikirim-belajar-penanganan-cyber-crime-di-china "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "There have been no indication of politicians receiving campaign donations from the PRC. However, there has been cases where the alliance of Indonesian Chinese businessman donating campaign funds to Indonesian politicians and even gifts. However, these are Indonesian Chinese that have long lived in Indonesia and are nationals of Indonesia",
+                "evidence_urls": [
+                    "https://nasional.kompas.com/read/2018/12/08/08100051/16-pengusaha-tionghoa-sumbang-rp-460-juta-untuk-tim-prabowo-sandiaga?page=all+"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "There seems little information on the activities of UFWD in Indonesia and it seems a strategy to do so due to the majority of Indonesian's doubts about the loyalty of ethnic Chinese to the Indonesian state. See, Greta Nabbs-Keller, \"The contending domestic and international imperatives of Indonesia\u2019s China challenge\", in Australian Journal of Defence and Strategic Studies, Volume 2, Number 2 (2020)",
+                "evidence_urls": [
+                    "https://espace.library.uq.edu.au/data/UQ_ea2ec32/UQea2ec32_OA.pdf?Expires=1623126066&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=cf37jqSVCQuCeFGVVMy-sD~-rJEuyAyNJbVfFiEEHHFqDOkynLGTxEwjmx4L-vRPa0STJVbYcWvjy4j9mSdkfCe7AQ66b-gttU48yDXxcWsh21NiT1d88i2Qb~HKuarLM3xHrKLNYbN2kgoQHwOkcF6ZkKvrynvo6iINuQFzROehcQ2LM7ehlv8CqIGskJaMc28UK8WyVZHP-ZqLrn93GBnj2irUbQ7011vdOdvyWb~aqoh7~9G-Es7Ze-CWDG-cgpi7guHxG4aWd3IXQ53ShhqcAb4s-ms5BagQMzdus0gkjDRodFeReE76FmUebdCHTXl1I6pXLPlGa39eDS5Xxw__"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "There seems little information on the activities of UFWD in Indonesia and it seems a strategy to do so due to the majority of Indonesian's doubts about the loyalty of ethnic Chinese to the Indonesian state. See, Greta Nabbs-Keller, \"The contending domestic and international imperatives of Indonesia\u2019s China challenge\", in Australian Journal of Defence and Strategic Studies, Volume 2, Number 2 (2020)",
+                "evidence_urls": [
+                    "https://espace.library.uq.edu.au/data/UQ_ea2ec32/UQea2ec32_OA.pdf?Expires=1623126066&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=cf37jqSVCQuCeFGVVMy-sD~-rJEuyAyNJbVfFiEEHHFqDOkynLGTxEwjmx4L-vRPa0STJVbYcWvjy4j9mSdkfCe7AQ66b-gttU48yDXxcWsh21NiT1d88i2Qb~HKuarLM3xHrKLNYbN2kgoQHwOkcF6ZkKvrynvo6iINuQFzROehcQ2LM7ehlv8CqIGskJaMc28UK8WyVZHP-ZqLrn93GBnj2irUbQ7011vdOdvyWb~aqoh7~9G-Es7Ze-CWDG-cgpi7guHxG4aWd3IXQ53ShhqcAb4s-ms5BagQMzdus0gkjDRodFeReE76FmUebdCHTXl1I6pXLPlGa39eDS5Xxw__"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "to some extent, Indonesian politicians have publicly expressed positive views of the PRC government particularly in the past years with the rising number of development projects between Indonesia and the PRC. These projects have made Indonesia and the PRC\u2019s relation even closer. However, regarding sensitive issues in China such as the situation in Xinjiang and Uyghur Muslim, several politicians have shown their concern and condemned the PRC for their acts",
+                "evidence_urls": [
+                    "https://www.jpnn.com/partner/uc_browser/758058/dpr-kecam-sikap-diskriminatif-pemerintah-tiongkok?uc_news_item_id=891763329415814&app=h5_card ",
+                    "https://www.cnbcindonesia.com/market/20210607122635-17-251050/erick-kawinkan-bumn-ri-dengan-bumn-china-garap-infrastruktur",
+                    "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1881771.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "evidence": "There is a case of local police chief in Ketapang District, West Kalimantan found colluding with China in allowing Chinese Foreign Workers into the area, but there are no other cases revealed. https://books.google.com/books?id=_JyCDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false pp. 99-100 ",
+                "evidence_urls": [
+                    "https://books.google.com/books?id=_JyCDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "however there are Chinese Private security services that has begun conducting field research in efforts to establish an office branch in Indonesia sometime in the future",
+                "evidence_urls": [
+                    "http://www.cosg-ss.com.cn/jtjs/jtjj/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "The PRC is Indonesia\u2019s top trading partner followed by the US and japan consecutively",
+                "evidence_urls": [
+                    "https://www.worldstopexports.com/indonesias-top-15-import-partners/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Indonesia\u2019s debt ratio in 2020 is at 39.4% with USD 206.5 Billion. However, the PRC does not constitute more than half of the nation\u2019s sovereign debts",
+                "evidence_urls": [
+                    "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_231321.aspx ",
+                    "https://theconversation.com/growing-dependence-on-china-is-dangerous-for-indonesia-what-can-be-done-150372 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "Indonesia Central Statistics Agency (BPS) noted that the largest export destination country for Indonesia in February 2020 was to China. The main commodities exported are iron/steel, coal and lignite.\n\nThe Central Statistics Agency (BPS) noted that China was the main destination for Indonesia's exports and imports. The trade figure between these two countries reached USD8,504 billion or equivalent to Rp119.056 trillion (USD1 is equivalent to Rp14,000).\n\nFrom data reported by BPS, on May 2021, the value of non-oil and gas exports in April 2021 carried out with China alone reached USD 3.9 billion. Followed by the United States (US), Japan and India which amounted to USD2.033 billion, USD1.323 billion and USD1.1 billion, respectively.",
+                "evidence_urls": [
+                    "https://www.cnbcindonesia.com/news/20210315170448-4-230295/urusan-ekspor-impor-ri-tak-lepas-dari-china",
+                    "https://statistik.kemendag.go.id/balance-of-trade-with-trade-partner-country",
+                    "https://www.idxchannel.com/economics/china-jadi-negara-tujuan-utama-ekspor-impor-indonesia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "under the BRI Indonesia-PRC has joint various infrastructure projects. However only some infrastructure will be co-owned with the PRC such as the Jakarta-Bandung highspeed rail link that will be owned 40% by PRC",
+                "evidence_urls": [
+                    "https://oxfordbusinessgroup.com/analysis/linking-investment-china-set-make-sizeable-portion-infrastructure-spending "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Indonesia joined the Asian Infrastructure Investment Bank (AIIB) since 2014",
+                "evidence_urls": [
+                    "https://www.indonesia-investments.com/news/todays-headlines/indonesia-signs-mou-to-join-asian-infrastructure-investment-bank/item2663 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "There has not yet any report of such membership, but Indonesia and China established The Chinese Chamber  of  Commerce  in  Indonesia (INACHAM) that function to provide as a platform for business networking since 2015",
+                "evidence_urls": [
+                    "https://www.researchgate.net/publication/321726790_Review_of_The_Chinese_Belt_and_Road_Initiative_Indonesia-China_Cooperation_and_Future_Opportunities_for_Indonesia%27s_Port_Cities_Development/fulltext/5a2eaf9645851586af76858b/Review-of-The-Chinese-Belt-and-Road-Initiative-Indonesia-China-Cooperation-and-Future-Opportunities-for-Indonesias-Port-Cities-Development.pdf?origin=publication_detail",
+                    "http://www.inacham.com/about-inacham/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "There has been no indication of any sanctions imposed towards Indonesia by the PRC. The ban of Indonesia selling fisheries product in late 2020 was due to COVID-19 virus traces, instead of retaliation of Indonesia's strong position against China's action in the South China Sea.",
+                "evidence_urls": [
+                    "https://money.kompas.com/read/2020/09/20/090900226/ada-larangan-ekspor-ke-china-kadin-minta-eksportir-perikanan-tak-khawatir?page=all",
+                    "https://ekbis.sindonews.com/read/171984/34/produk-seafood-indonesia-diboikot-china-kkp-temuan-covid-bukan-di-ikan-1600697342"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "There has been no cases towards local businesses. However, Indonesian civilians instead demanded the Indonesian government to boycott Chinese products including the Winter Olympic 2022 that will be held in China. They also urged to government to speak up and not remain in silence",
+                "evidence_urls": [
+                    "https://jakartaglobe.id/vision/masked-protesters-rally-against-alleged-oppression-on-chinas-uighur-muslim "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "The FTA that Indonesia has signed is not a bilateral Agreement but instead a regional framework between ASEAN and the PRC",
+                "evidence_urls": [
+                    "http://www.gbgindonesia.com/en/main/business_guide/2016/indonesia_in_free_trade_agreements_11504.php#:~:text=Indonesia%20is%20a%20member%20of,ASEAN%20member%20states%20and%20China",
+                    "http://www.xinhuanet.com/english/2020-11/22/c_139534248.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "To ensure investment and in support of China\u2019s one belt on road initiative the government of Indonesia has developed several Special Economic Zones/business corridors. Indonesia provided four corridors in the BRI; in North Sumatra, North Kalimantan, North Sulawesi, and Bali Island.",
+                "evidence_urls": [
+                    "https://indonesiaexpat.id/business-property/government-channel-chinese-investment-special-economic-zone",
+                    "https://bplawyers.co.id/en/2020/03/30/list-of-special-economic-zones-in-indonesia/ ",
+                    "https://en.tempo.co/read/1199438/indonesia-china-discussing-kuala-tanjung-in-belt-and-road-summit"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "As per mid-2021, PRC-connected entities have not requisitioned infrastructure or land for failure to repay debts. Nevertheless, Indonesia\u2019s increasing dependency on China has raised concerns regarding Indonesia\u2019s ability to repay its debts in due time as seen in the cases of Sri Lanka. So far, Indonesia\u2019s middle power position has enabled Indonesia to gain bargaining power in several of it\u2019s infrastructure projects such as the Jakarta-Bandung high speed railway in which Indonesia managed to gain a lower interest rate and project sovereignty ",
+                "evidence_urls": [
+                    "https://theconversation.com/growing-dependence-on-china-is-dangerous-for-indonesia-what-can-be-done-150372#:~:text=Indonesia's%20debt%20to%20China%20stood,failed%20to%20pay%20its%20loan",
+                    "https://www.youtube.com/watch?v=OzKL9sMCbeI&ab_channel=CSISIndonesia "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "China Telecom Global has branches in 42 countries one of which is in Indonesia",
+                "evidence_urls": [
+                    "https://www.ctamericas.com/company/history/  ",
+                    "https://www.ctamericas.com/china-telecom-connecting-countries-across-apg/   "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Companies such as Huawei as well as ZTE in partnership with TelKom Indonesia have begun development to introduce 5G in Indonesia ",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-s-5G-deal-with-Indonesia-spearheads-Southeast-Asia-push ",
+                    "https://tekno.kompas.com/read/2019/06/29/14411517/telkom-dan-zte-kerja-sama-pengembangan-5g-di-indonesia "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Indonesia\u2019s digital transformation has attracted many Chinese tech companies to invest in Indonesia\u2019s digital technology industry this includes contributing in developing the country\u2019s internet network infrastructure",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2021-04-12/China-s-Tencent-Cloud-launches-first-data-center-in-Indonesia-Zpdr74CfhS/index.html ",
+                    "https://www.cissrec.org/news/detail/890/China-Indonesia-boost-cooperation-on-cyber-security-and-technology.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "As Indonesia aims to diversify their sources of defence equipment, due to past trauma of 1990s Western group arms embargo following Indonesia's represive action Timor Leste and also the concern that similar case would reoccur, the country would not only rely on Western countries defence equipment, thus the PRC is one of Indonesia\u2019s defence suppliers.",
+                "evidence_urls": [
+                    "https://www.nationaldefensemagazine.org/articles/2020/3/9/china-chipping-away-at-the-wests-defense-market-share ",
+                    "https://www.bloomberg.com/news/articles/2020-03-12/trump-threat-spurred-indonesia-to-drop-russia-china-arms-deals",
+                    "https://aceh.tribunnews.com/2020/08/20/terbongkar-indonesia-sedang-negosiasi-dengan-china-untuk-beli-kapal-perang-rudalnya-sudah-dipesan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Although there has yet any collaboration on biometrics, PRC-connected business Huawei is quite prominent in Indonesia, including to realise the plan of Indonesia digital blueprint 2020-2045. Indonesia is planning to roll out One Data System to enable the implementation of data accessibility between government agencies and to encourage transparency and accountability within the government itself, enabling the creation of more targeted policies and improving public services. Performing this intensive analytics requires the use of the latest and most advanced technologies, such as cloud-based solutions developed by Huawei.",
+                "evidence_urls": [
+                    "https://pressrelease.kontan.co.id/release/huawei-perkokoh-komitmennya-dukung-satu-data-indonesia?page=all",
+                    "https://www.merdeka.com/teknologi/huawei-bantu-pemerintah-tingkatkan-kualitas-sdm-satu-data-indonesia.html?page=1",
+                    "https://www.cloudcomputing.id/berita/intelligent-twins-arsitektur-sistematik-huawei-indonesia",
+                    "https://www.thejakartapost.com/news/2020/10/13/bppt-huawei-team-up-to-develop-ai-cloud-and-5g.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "4",
+                "evidence": "Indonesia plan to develop 100 smart-city in various regions of the country. one of the development is a collaboration between PT. PINS Indonesia and Huawei Tech Investments that intends to develop a smart city in Bandung ",
+                "evidence_urls": [
+                    "https://en.prnasia.com/releases/global/Innovative_ICT_to_a_Better_Connected_Smart_City_Huawei_and_PT_PINS_Indonesia_collaborate_to_develop_Smart_City_Project_in_Bandung-118806.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Indonesia financial institutions do not use the China Cross-Border Interbank Payment System (CIPS) clearing and settlement services system. Indonesian Central Bank has refined the National Clearing System (SKNBI) in order to minimise credit risk in terms of debit clearing.  ",
+                "evidence_urls": [
+                    "https://www.bi.go.id/en/fungsi-utama/sistem-pembayaran/default.aspx#:~:text=On%20the%20retail%20side%2C%20Bank,payment%20obligations%20to%20other%20banks."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "Indonesia\u2019s tech boom have attracted Chinese venture capital investors to seek investment in Indonesia, especially considering that Indonesia already boast the largest number of billion-dollar start-ups in southeast Asia ",
+                "evidence_urls": [
+                    "https://www.ft.com/content/bcc935fd-ef40-4d6d-9939-ea18498e0283"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "Indonesia has signed an MOU to develop capacity building for internet security and technology cooperation that includes A.I, Cloud Computing, and 5G networks",
+                "evidence_urls": [
+                    "https://thediplomat.com/2021/01/for-indonesia-chinese-5g-cooperation-brings-promise-and-peril/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "Indonesia\u2019s top 5 social media apps are Youtube, Facebook Instagram, Twitter and TikTok (the last one is from China). Meanwhile, for messaging apps, the top apps are Whatsapp, Facebook Messager and Snapchat",
+                "evidence_urls": [
+                    "https://digital-business-lab.com/2020/11/%E2%91%A1-social-media-penetration-in-indonesia-research/#:~:text=The%20internet%20penetration%20rate%20is,penetration%20rates%20(M%C3%BCller%202020)",
+                    "https://www.statista.com/statistics/1168819/indonesia-social-media-platforms-used-daily/",
+                    "https://datareportal.com/reports/digital-2021-indonesia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Although Beidou is available in Indonesia as well as other ASEAN countries, but Indonesia had not explicitly collaborated with the PRC in endorsing the use of the navigation system. During the ASEAN-China 17th Forum, only Thailand, Cambodia and the Philippines took part in signing a cooperation agreement with China.",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-11/27/c_139547563.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "Unfortunately, there are no groups in Indonesia that are affiliated with such views or regularly publicize issues on those matters. However, there is positive views on Taiwan in regards of its success in building its democracy and women's empowerment. ",
+                "evidence_urls": [
+                    "http://berkas.dpr.go.id/puslit/files/info_singkat/Info%20Singkat-VIII-2-II-P3DI-Januari-2016-60.pdf",
+                    "https://mediaindonesia.com/opini/283672/taiwan-simbol-demokrasi-asia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "There is no open statement or publication of any organization or individuals that are members of the United World Chinese Association in Indonesia. Indonesian members and member organizations are not presented in the public article.",
+                "evidence_urls": [
+                    "https://www.uwca-uob.net/indonesialeader",
+                    "https://www.perpit.or.id/en/news-indonesian-chinese-entrepreneur-association-representatives-went-to-hong-kong-to-attend-the-china-world-business-forum.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "There have been cases where ACFTU and other organization such as ICEM Asia-Pacific created a collaborative workshop and training one of which was held in Indonesia ",
+                "evidence_urls": [
+                    "http://www.industriall-union.org/archive/icem/icem-acftu-complete-high-level-mission-in-china  "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "evidence": "China Overseas Friendship Association and the Chinese Embassy in Indonesia were assisting the Indonesian government to carry out the protection work against the epidemic through Indonesian Chinese Entrepreneur Association. The Indonesian Chinese Entrepreneur Association also welcomed several visits from China Council for The Promotion of International Trade (CCPIT). Each year, the CCPIT also has groups and special events held in Indonesia. ",
+                "evidence_urls": [
+                    "https://www.perpit.or.id/en/news-zhang-jinxiong--to-jointly-build-a-better-future-china-council-for-the-promotion-of-international-trade-visits-indonesian-chinese-entrepreneur-association.html",
+                    "https://www.perpit.or.id/en/news-indonesian-chinese-entrepreneur-association-receives-representatives-from-xiamen.html",
+                    "https://www.perpit.or.id/en/news-the-chinese-overseas-friendship-association-and-the-chinese-embassy-in-indonesia-donated-40-000-masks-and-2-000-pairs-of-protective-gloves-to-indonesian-chinese-entrepreneur-association.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "There are no PRC-connected professional associations (listed above) that are closely engaged with their counterparts. However, in regards to the art and writers association, there are respective organizations that promote these associations. The Indonesia China Art Association (ICAA) promotes Chinese and Indonesian artists. The Chinese Indonesian Writers\u2019 Association also exists. ",
+                "evidence_urls": [
+                    "https://www.artsy.net/article/iws-yansen-the-indonesia-china-art-association-icaa-is ",
+                    "https://www.insideindonesia.org/crossing-the-finish-line "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Indonesia\u2019s geographical location and condition which makes it prone to natural disaster in several occasions has led many foreign organizations including those from the PRC such as all-China women\u2019s federation to donate relief fund and materials to Indonesia. In 2021's Ied holiday, Chinese Embassy also donated food and primary produces to the largest Islamic organisation in Indonesia, Nahdlatul Ulama.",
+                "evidence_urls": [
+                    "http://en.people.cn/200505/26/eng20050526_186889.html ",
+                    "https://kabar24.bisnis.com/read/20210420/15/1383887/kedubes-china-salurkan-bantuan-sembako-ramadan-ke-pbnu"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "Chinese drama series and documentaries will be aired on Indonesia\u2019s state-owned public television broadcaster for a period of two years. Chinese drama movies and documentaries will be dubbed in Bahasa Indonesia to promote friendlier cultural relations between the two countries. So far, it has not been indicated that the PRC has distributed entertainment-related hardware in Indonesia, but Chinese electronic products are widely known to be cheaper compared to those produced or assembled in Japan or the US. Indonesia\u2019s is one of the biggest market of Chinese tv shows and drama, there has been several companies such as iQiYi that has partnered up with Indonesian media group MNC. Moreover, Tencent video has also joined the Indonesian market in partnership with Malaysian based streaming service iflix.",
+                "evidence_urls": [
+                    "https://www.cnbcindonesia.com/tech/20190710124813-37-83920/sederet-bukti-barang-china-semakin-banjiri-indonesia-raya",
+                    "http://www.xinhuanet.com/english/2020-01/20/c_138721231.htm ",
+                    "http://www.china.org.cn/arts/2020-01/20/content_75633725.htm ",
+                    "https://kr-asia.com/chinese-and-american-entertainment-platforms-vie-for-screen-time-in-indonesia  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Though there are no specific/notable instances of cultural products portraying the PRC in a negative light, the Indonesian film industry has had a history of portraying ethnic Chinese in a bad light. Furthermore, in media (though not necessarily through cultural products), the PRC is sometimes painted as both an opportunity and a threat to Indonesia. ",
+                "evidence_urls": [
+                    "https://www.scmp.com/culture/film-tv/article/2144338/indonesian-films-often-show-ethnic-chinese-bad-light-filmmakers-are ",
+                    "https://bjocs.site/index.php/bjocs/article/view/8 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "China\u2019s Embassy in Indonesia has supported tours of Indonesian social-media influencers to visit Chinese cities. This was a part of a broader effort to limit anti-China sentiment in Indonesia and expose Indonesians to Muslim life in China. The Indonesian influencers were paid a per diem of $500 and they were free to post whatever they liked.\n\nIn regards of Uyghur, for months China has worked to persuade clerics, politicians and journalists to support its policies in Xinjiang and courted social-media influencers to promote a more favorable view of China and showcase Islamic culture in the country.\n\nHowever, there is no evidence that the program runs periodically.\n\n",
+                "evidence_urls": [
+                    "https://www.wsj.com/articles/how-china-persuaded-one-muslim-nation-to-keep-silent-on-xinjiang-camps-11576090976"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There has been no indication of Indonesian local government publishing or sharing propaganda narrative from the PRC, except for the request of the Chinese Embassy in Jakarta to change the calling of China to Tiongkok (or Chungkuo) that was done in 2014. That said, the Indonesian government does not regularly publish or share propaganda narratives from the PRC. Although, in regards to many of the human rights abuse allegations taking place, the Indonesian government has not yet condemned the PRC, choosing not to take a stance on the matter. ",
+                "evidence_urls": [
+                    "https://nasional.kompas.com/read/2014/03/19/1458446/Presiden.SBY.Ganti.Istilah.China.Menjadi.Tionghoa.",
+                    "https://beritagar.id/artikel/tabik/mengapa-kini-disebut-tiongkok"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "There is mixed view. For those that perceived China negatively is influenced due to Indonesia\u2019s increasing partnership with China primarily in relations to economics and politics.  As the strategy used by the PRC to enhance their trade partnership with Indonesia is for their own domestic interest, this often causes people\u2019s negative view towards the PRC.  Moreover, several citizens that face economic hardship also view china negatively as they feel that China is using Indonesia\u2019s thus causing economic hardship. However, data collected from the Indonesian National Survey Project (INSP) revealed that 77.3% of the respondents view China as an important and strategic partner to Indonesia and 90.1% of the respondents believe that have good ties with China will benefit Indonesia in the future. ",
+                "evidence_urls": [
+                    "https://www.voaindonesia.com/a/pengaruh-china-besar-di-asia-termasuk-indonesia/5252330.html ",
+                    "https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2017_89.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "aside from western countries, Indonesia has imported military supplies from the PRC ",
+                "evidence_urls": [
+                    "https://www.nationaldefensemagazine.org/articles/2020/3/9/china-chipping-away-at-the-wests-defense-market-share "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "most of Indonesian goods that are exported are foods, rubber, textile etc",
+                "evidence_urls": [
+                    "https://kemlu.go.id/beijing/en/news/11416/indonesias-exports-to-china-and-chinese-investment-to-indonesia-in-2020-are-increasing "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "Since 2005, there are talks for Indonesia to produce China's C-705 anti-ship missiles on the Indonesian island of Java. However, the talks have yet come to a realisation, as it was only to deter the US to cancel its embargo toward Indonesia that was imposed due to the internal conflict with East Timor in mid to end 1990s. However, the PRC and Indonesia conducted joint training and Indonesia procure Chinese weapon platforms, such as in 2021 the Indonesian Air Force's TNI-AU operates a fleet of six CH-4 UAVs.",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3132821/china-indonesia-hold-joint-naval-exercises-near-jakarta ",
+                    "https://www.voanews.com/east-asia/indonesia-china-sign-missile-production-agreement",
+                    "https://www.janes.com/defence-news/news-detail/indonesia-receives-first-batch-of-chinese-made-ar-2-missiles-for-its-ch-4-uavs",
+                    "https://www.tandfonline.com/doi/abs/10.1080/1356788051162?journalCode=tstc20"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There is a strong desire from China to do so, but it is unlikely because Indonesia is contesting China's claim over Indonesia's North Natuna Sea and Indonesia is interested to build a military base in the mentioned water to watch over China's ship intrusion",
+                "evidence_urls": [
+                    "https://www.janes.com/defence-news/news-detail/indonesia-begins-construction-of-submarine-base-in-south-china-sea  ",
+                    "https://theconversation.com/why-china-may-want-a-military-base-in-indonesia-and-why-indonesia-is-right-to-reject-the-idea-146209 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "In 2021, the PLA have provided support for Indonesia to recover Indonesia\u2019s sunken submarine  KRI Nanggala 402 ",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3134039/china-claims-progress-helping-recover-sunken-indonesian "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Indonesian Defense Minister Prabowo Subianto told his Chinese counterpart, Wei Fenghe (\u9b4f\u9cf3\u548c), that his country would not accept a request for a Chinese military base in the country, in 2020. Indonesia and PRC, however, hold joint military training but there is no rotationally deployed PLA military personnel in Indonesia.",
+                "evidence_urls": [
+                    "https://www.taiwannews.com.tw/en/news/4006820",
+                    "https://www.scmp.com/news/china/diplomacy/article/3132821/china-indonesia-hold-joint-naval-exercises-near-jakarta"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "Yes, there are military visit and joint training, however, compared to countries such as the US', Australia's and Singapore's military education cooperation toward Indonesia, China\u2019s military education partnership toward Indonesia is still behind.",
+                "evidence_urls": [
+                    "https://thediplomat.com/2018/07/whats-next-for-china-indonesia-military-ties/ ",
+                    "https://www.iseas.edu.sg/media/event-highlights/webinar-on-covid-19-and-indonesia-china-defence-relations-a-strategic-reset-in-the-making/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "There is a commitment of collaboration in military education exchange between Indonesia and China, including peacekeeping training. However, there is a language barrier that Indonesian military personnel need to overcome, that is to learn Mandarin/Chinese language. Therefore, until now, there is high-level visit between the two countries, but not yet training. ",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1872066.shtml",
+                    "https://news.detik.com/berita/d-2647777/militer-tiongkok-perkuat-kerjasama-dengan-tni"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "There is government minister that is the prominent person enabling Jakarta\u2019s growing ties with Beijing, which impacted positively toward his own coal mining business.",
+                "evidence_urls": [
+                    "https://www.globalpolicyjournal.com/blog/24/07/2020/luhut-binsar-pandjaitan-prominent-enabler-behind-china-indonesia-relations",
+                    "https://www.ft.com/content/13abc614-dc2c-4d1f-a0d9-0275476c6df2",
+                    "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1823221.shtml",
+                    "https://voi.id/en/news/26848/siap-siap-china-bakal-investasi-berbagai-sektor-di-indonesia-luhut-bakal-gunakan-tenaga-kerja-lokal",
+                    "https://www.greenpeace.org/static/planet4-indonesia-stateless/2018/12/727d7a2d-coalruption-english-web.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "With the concern of South China Sea dispute, majority of Indonesian military personnel and higher rank officials tend to see PRC as threat due to its posturing and support toward illegal fisheries in Natuna Sea. ",
+                "evidence_urls": [
+                    "https://library.fes.de/pdf-files/bueros/indonesien/16770.pdf",
+                    "https://www.wsj.com/articles/after-an-indonesian-submarine-sank-china-stepped-in-to-help-salvage-it-11621349148"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "In 2021, the joint naval exercise between Indonesia and the PRC. The drills were part of PLA Navy\u2019s annual training programme.",
+                "evidence_urls": [
+                    "https://news.abs-cbn.com/overseas/05/10/21/china-indonesia-hold-joint-naval-exercises-near-jakarta "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "To note, Mainland China and Hong Kong, though parts of the same country, because of the \u201cOne Country, Two Systems\u201d principle, have entered into separate extradition treaties and agreements on surrenders with different countries. Indonesia currently maintains extradition treaties with both Mainland China and Hong Kong. ",
+                "evidence_urls": [
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39784142.pdf",
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml",
+                    "http://id.china-embassy.org/eng/gdxw/t1437094.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "YES (subject to the definition of anti-terrorism cooperation agreements). Though there is not a specific bilateral anti-terrorist cooperation agreement mentioned between the PRC and Indonesia, there have been moments of bilateral cooperation and consultations between the two countries. Furthermore, as members of larger intergovernmental organizations that have commitments to anti-terrorist efforts (APEC, United Nations, ASEM, etc.) the PRC and Indonesia can be considered to have entered into cooperation agreements on combatting terrorism, though not bilaterally. ",
+                "evidence_urls": [
+                    "https://www.un.org/counterterrorism/international-legal-instruments",
+                    "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1429771.shtml ",
+                    "https://www.apec.org/Meeting-Papers/Leaders-Declarations/2015/2015_aelm",
+                    "https://mesbar.org/chinas-cooperation-with-southeast-asian-countries-in-the-fight-against-terrorism/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "Indonesia possesses a complex organized crime nexus. Though local ethnic Indonesians tend to dominate the organized crime industry, there appears to be, at least, an existent (if minor) presence of PRC-affiliated crime syndicates that partake in human and drug trafficking practices. ",
+                "evidence_urls": [
+                    "https://www.loc.gov/rr/frd/pdf-files/ChineseOrgCrime.pdf",
+                    "https://www.scmp.com/news/hong-kong/article/1449665/hong-kong-triads-using-indonesian-domestic-workers-smuggle-ice "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "As per June 2021, there is no economic espionage targeting Indonesia's private sector that were suspected to benefit PRC-connected entities. There is, however, report on how personal data of 2,100 Indonesians are obtained by Zhenhua Data company, based in Shenzhen, China, but it is unclear whether the data is obtained for economic espionage. ",
+                "evidence_urls": [
+                    "https://tirto.id/data-2100-wni-jatuh-ke-tangan-perusahaan-cina-untuk-apa-f4Av",
+                    "https://www.abc.net.au/news/2020-09-14/chinese-data-leak-linked-to-military-names-australians/12656668"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "Though there are not many recorded/reported instances of PRC-initiated cyberattacks, ones that are reported are relatively significant \u2013 affecting major outcomes in Indonesia (e.g. elections, information on national security through attacks on ministries of foreign affairs, science, and technology). This PRC-initated gathering and manipulation of geo-political intelligence is significant to the interests of Indonesia. ",
+                "evidence_urls": [
+                    "https://www.bloomberg.com/news/articles/2019-03-12/indonesia-says-poll-under-attack-from-chinese-russian-hackers ",
+                    "https://www.nytimes.com/2020/05/07/world/asia/china-hacking-military-aria.html ",
+                    "https://www.cnbc.com/2020/05/07/chinese-hacking-group-naikon-reportedly-spying-on-asia-governments.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "Insufficient information on Chinese organized crime syndicates does not provide proof that triads have ever threatened or used violence to punish Chinese dissidents in Indonesia. However, Indonesian government deport four Uyghur Muslims convicted in 2015 of terror-related offenses in Indonesia were deported in 2020 after the Chinese government paid the fines imposed on them.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-indonesia-uighurs-idUSKCN0PN1T820150713",
+                    "https://www.benarnews.org/english/news/indonesian/Indonesia-Uyghurs-10282020134706.html",
+                    "https://www.rfa.org/english/news/uyghur/deports-10232020190325.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "Indonesia, to some extent, has received some surveillance technology systems from the PRC tech-firm giant Huawei (for purposes related to facial recognition, smart policing, etc.) although there is no report that the appliances have been utilised. There is a training given by Huawei to the staff of The Ministry of National Development Planning/Bappenas and the Directorate General of Immigration on ICT training to accelerate digital transformation in the government sector.",
+                "evidence_urls": [
+                    "https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847 ",
+                    "https://techno.okezone.com/read/2021/03/25/16/2384018/huawei-gandeng-kementerian-bpn-bappenas-dan-ditjen-imigrasi-kembangkan-sdm-digital"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There is not yet any PRC police force joint patrols with local law enforcement in Indonesia. However, Indonesia and the PRC have partaken joint naval drills near Jakarta. Additionally, to note, Indonesia has urged further joint patrols with China in the South China Sea. ",
+                "evidence_urls": [
+                    "https://www.scmp.com/video/china/3132931/china-and-indonesia-conduct-joint-naval-drill-near-jakarta ",
+                    "https://www.bloomberg.com/news/articles/2015-05-30/indonesia-urges-peace-patrols-with-china-in-south-china-sea-iaao1wmc  "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Indonesia has not detained an Indonesian citizen at the request of the PRC just for committing a crime involving issues regarding Hong Kong or Xinjiang as it is usual for citizen of Indonesia to conduct demonstration as part of their political rights. ",
+                "evidence_urls": [
+                    "https://www.independent.co.uk/news/world/asia/china-uighur-muslims-detention-protest-jakarta-indonesia-ambassador-expelled-a8694111.html",
+                    "https://www.rfa.org/english/news/uyghur/indonesia-malaysia-protests-12272019153424.html",
+                    "https://www.bbc.com/indonesia/indonesia-50867817"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "evidence": "There have been instances where Indonesia has deported both Chinese and Taiwanese citizens to the PRC for fraud-related charges (though at the objection of the Taiwanese government). ",
+                "evidence_urls": [
+                    "https://apnews.com/article/4f200e21258c4aafa3e0a04fbd3ed93c",
+                    "https://www.thejakartapost.com/news/2017/08/03/taiwan-protests-indonesia-deportations-of-suspects-to-china-.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "As for foreign NGOs, organizations like the Human Rights Watch have condemned Indonesia\u2019s deportation of Uighurs back to China. Furthermore, depending on the definition of politicians (whether it be local Indonesian politicians or foreign politicians as well), the Taiwanese government has expressed concern regarding Indonesia\u2019s deportation of Taiwanese to the PRC.",
+                "evidence_urls": [
+                    "https://www.scmp.com/week-asia/politics/article/3107868/indonesia-deported-three-uygurs-china-pompeo-visit-security",
+                    " https://www.thejakartapost.com/news/2017/08/03/taiwan-protests-indonesia-deportations-of-suspects-to-china-.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Indonesia has a GDP per capita of US $3869.6 and a total population of 270,203,917 people.",
+    "description-2": "Indonesia established diplomatic relations with the People Republic of China in 1950. Indonesia was ranked 113th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 59/100."
+}

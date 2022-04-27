@@ -1,0 +1,1322 @@
+{
+    "name": "Singapore",
+    "partner": "Doublethink Lab",
+    "year": "2021",
+    "GDP": "$59,797.75",
+    "population": "5.69M",
+    "original": "228/384",
+    "ranking": "2",
+    "overall": "59%",
+    "effect": "50%",
+    "exposure": "65%",
+    "pressure": "54%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "Singapore has a controlled media environment. Technically, the Broadcasting Act and the Newspaper and Printing Act prevent foreign ownership or entry into the Singapore media market. \nhttps://www.imda.gov.sg/regulations-and-licensing/Regulations/Acts-and-Regulations\nhttps://sso.agc.gov.sg/Act/BA1994\nhttps://sso.agc.gov.sg/Act/NPPA1974\n",
+                "evidence_urls": [
+                    "https://www.imda.gov.sg/regulations-and-licensing/Regulations/Acts-and-Regulations",
+                    "https://sso.agc.gov.sg/Act/BA1994",
+                    "https://sso.agc.gov.sg/Act/NPPA1974"
+                ],
+                "note": "The main English language broadsheet, the Straits Times, has a media sharing agreement with through the Asian News Network that includes exchange agreements with the China Daily (PRC) and China Post (Taiwan) among others. See next entry.",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Singapore cable TV and telecommunications provider, StarHub, is part of the Belt and Road Media Community. Apart from Phoenix TV \u9cf3\u51f0\u885b\u8996 (Hong Kong), Dragon TV/Dongfang weishi \u6771\u65b9\u885b\u8996 (China), and its own pay per view movie and entertainment channels, StarHub's cable service only carries Chinese-language channels that are part of the Belt and Road News Alliance, including TVB (Hong Kong), CGTN/CCTV (China), CTi (Taiwan).\n\nSingapore's other main cable TV and telecommunications provider, SingTel, carries Star, which is part of the Belt and Road Media Community",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "https://brnalink.com/members.html",
+                    "https://www.starhub.com/personal/tvplus/passes/channel-listing.html",
+                    "https://www.singtel.com/personal/products-services/tv/singtel-tv-channels"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "The Straits Times is Singapore's newspaper of record and closely affiliated with the Singapore state and ruling party, the People's Action Party. Lianhe Zaobao \u806f\u5408\u65e9\u5831 plays a similar role for readers who prefer Mandarin-language news. The management and editorial for both are closely controlled by the state. Both papers belong to Singapore Press Holdings, whose chairperson is someone close to the People's Action Party, often a former minister.",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/opinion/inside-those-uighur-re-education-camps",
+                    "https://www.theonlinecitizen.com/2019/07/08/st-journalist-finds-it-hard-to-fault-china-for-running-uighur-re-education-camps/",
+                    "https://www.zaobao.com.sg/news/china/story20190425-951289",
+                    "https://docs.google.com/spreadsheets/d/1ZQ0P9PGMqwDKBGg1RZyE069NdvgR7rU6eG9rhvIK43Y/edit#gid=1892747668",
+                    "https://www.sohu.com/a/463564514_115865",
+                    "http://www.chinaxinjiang.cn/zhuanti/2019/002/27/2701/201904/t20190424_576102.htm",
+                    "https://www.zaobao.com.sg/forum/zaodian/bei-jing-yi-ye-2/story20190422-950457",
+                    "https://youwuqiong.com/junshi/\u8054\u5408\u65e9\u62a5\u6e38\u6da6\u606c\uff1a\u6709\u8bb0\u8005\u8d28\u7591\u5b66\u5458\u5728\u4f5c\u79c0\uff0c\u5982\u771f\u8fd9/",
+                    "https://twitter.com/mahbubani_k/status/1188038663860408320?s=21",
+                    "https://t.co/lPw9UDLbh0?amp=1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "This Noel Lee person was previously unknown, but has suddenly appeared on YouTube in late March 2021, making videos on China in China. These include denials of Xinjiang human rights abuses. His followers on YouTube suddenly shot up to more than 12.3k. Little is known about him, and his Facebook profile provides little information and nothing about his friends. The way he speaks sounds Singaporean. Many people in Singapore who deny human rights abuses in Xinjiang use his videos, which also seem to be shared on private messaging platforms like WhatsApp and WeChat. His videos seem slick, so he is likely to have received some training.\n\nIncreasingly, Singapore's media also hires journalists, presenters, and editors from the PRC. They bring with them PRC perspectives on politics. These PRC trained media workers tend to be in Mandarin-language media. Some have significant media prominence, being the hosts or editors of important, regular news shows.",
+                "evidence_urls": [
+                    "https://www.youtube.com/channel/UC4A36huFFXfxfgw5WDL_S-g",
+                    "https://www.facebook.com/f14noel",
+                    "https://web.archive.org/web/20120928064641/http://tv.groups.yahoo.com/group/helencheung/",
+                    "https://www.facebook.com/haijiefans/",
+                    "https://www.facebook.com/lvlinxuan/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "Singapore has two main cable TV and telecommunications providers, SingTel and StarHub.\n\nStarHub is part of the Belt and Road Media Community. It carries several Chinese-language channels that cover Mandarin, Hokkien, and Cantonese. The Hokkien channel consists largely of Taiwanese \u9109\u571f\u5287 with no news content. The Cantonese channel is TVB from Hong Kong, which covers mainly entertainment and some Cantonese news. Mandarin channels include StarHub's own entertainment and movie channels as well as the following from the Belt and Road Media Community:\nCCTV/CGTN (China) (Also Belt and Road Media Alliance)\nCTi\uff08\u4e2d\u5929) (Taiwan) (Also Belt ant Road Media Alliance)\nIt also carries the following other Mandarin TV channels:\nPhoenix TV \u9cf3\u51f0\u885b\u8996 (Hong Kong)\nDragon TV \u6771\u65b9\u885b\u8996 (China)\nTVB (Hong Kong) (Belt and Road Media Alliance)\nTVBS (Taiwan) (Belt and Road Media Alliance)\n\nOther Belt and Road Media Community channels StarHub Carries include:\nAstro (Malaysia)\nStar Media Group (Malaysia)\nZee (India)\nNational Geographic (USA)\n\nSingTel carries several Chinese-language channels, including some from the Belt and Road Media Community and Belt and Road Media Alliance. These include:\nONE (Singapore)\ncHK \u9999\u6e2f\u53f0 (Hong Kong)\nStar Chinese Channel \u885b\u8996\u4e2d\u6587\u53f0 (Hong Kong/Taiwan)\nTVB (Hong Kong) (Belt and Road Media Alliance)\nOh!K Channel (Singapore/Malaysia)\nCTV/CGTN (China) (Belt and Road Media Community and Belt and Road Media Alliance)\nTVBS (Taiwan) (Belt and Road Media Alliance)\nTVB (Hong Kong) (Belt and Road Media Alliance)\nCBO \u4e2d\u570b\u96fb\u8996\u5287\u983b\u9053 (Singapore) (Broadcasts of PRC-produced television series)\nETTV Asia News \u6771\u68ee\u65b0\u805e (Taiwan)\ne-Le Channel (Singapore)\n\nOther Belt and Road Media Community Channels:\nAstro (Malaysia)\nZee (India)\nNational Geographic (USA)\n\nThe above channels cover news and entertainment.\n",
+                "evidence_urls": [
+                    "https://www.singtel.com/personal/products-services/tv/singtel-tv-channels",
+                    "https://www.starhub.com/personal/entertainment/get-started/tv-plans/tv-streaming/channels.html",
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "Together SingTel and StarHub capture all of the Singapore cable TV market. This means to say that apart from Singapore-produced content, Singaporean TV viewers largely only have the options provided by these two channels. The dominance of PRC-related channels (including those ostensibly from Taiwan and Hong Kong) providing Chinese-language content means that the majority of Singaporean viewers of Chinese-language content will be exposed to either Singapore (such as MediaCorp Channel 8 or Channel U) or PRC-friendly material.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "Singapore has a controlled media environment. Technically, the Broadcasting Act and the Newspaper and Printing Act prevent foreign ownership or entry into the Singapore media market. \nhttps://www.imda.gov.sg/regulations-and-licensing/Regulations/Acts-and-Regulations\nhttps://sso.agc.gov.sg/Act/BA1994\nhttps://sso.agc.gov.sg/Act/NPPA1974\n",
+                "evidence_urls": [
+                    "https://www.imda.gov.sg/regulations-and-licensing/Regulations/Acts-and-Regulations",
+                    "https://sso.agc.gov.sg/Act/BA1994",
+                    "https://sso.agc.gov.sg/Act/NPPA1974",
+                    "https://www.straitstimes.com/asia/east-asia/media-platform-offers-eye-on-spore-to-chinese-nationals-here"
+                ],
+                "note": "However, there are informal online media sites that have close links to the PRC. One is jointly run by Koh Chin Yee, who is active in pushing cooperation with the PRC. (See document in drive)",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "The main Singapore English language broadsheet, the Straits Times, is part of the Asia News Network that includes the China Daily and the China Post. China Daily and occasionally China Post/NOWnews articles and opinion will regularly feature in the Straits Times as a result. See, for instance:\nhttps://www.straitstimes.com/asia/east-asia/in-person-meetings-highlight-how-much-asean-and-china-treasure-ties-china-daily\nhttps://www.straitstimes.com/asia/east-asia/two-sessions-will-set-course-that-will-also-help-the-world-china-daily-editorial\nhttps://www.straitstimes.com/asia/vaccine-selfishness-will-prolong-pandemic-china-daily\n\nThe Straits Times also uses wire reports from Xinhua. (See link above: https://www.straitstimes.com/asia/east-asia/china-holds-college-entrance-exam-with-tailored-covid-19-measures-in-place)\n\nThe Straits Times has declining readership, but is seen as the official mouthpiece of the ruling People's Action Party and the Singapore state even though it is technically publicly-owned via the Singapore Press Holdings, whose main shareholders include DBS Bank, the National University of Singapore, and Nanyang Technological University. Singapore Press Holdings also owns the other physical newspapers in circulation in Singapore, including the Mandarin Lianhe Zaobao, Lianhe Wanbao, Shin Min Ribao, Malay Berita Harian, and Tamil Tamil Murasu.\n\nFrom the 1980s, senior management and editors of the Straits Times have been individuals closely associated with the Singapore state or People's Action Party.\n\nThere is an online publication run under Singapore Press Holdings, ThinkChina, that regularly runs pieces by influential persons from the PRC or hold pro-PRC leanings.",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/asia/asia-news-network-celebrates-20th-anniversary-commits-to-bringing-region-closer",
+                    "https://www.straitstimes.com/asia/east-asia/in-person-meetings-highlight-how-much-asean-and-china-treasure-ties-china-daily",
+                    "https://www.straitstimes.com/asia/east-asia/two-sessions-will-set-course-that-will-also-help-the-world-china-daily-editorial",
+                    "https://www.straitstimes.com/asia/vaccine-selfishness-will-prolong-pandemic-china-daily",
+                    "https://investor.sph.com.sg/main_shareholder.html",
+                    "https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-02-29_133820.html",
+                    "https://www.thinkchina.sg/about-us",
+                    "https://www.straitstimes.com/asia/east-asia/china-holds-college-entrance-exam-with-tailored-covid-19-measures-in-place",
+                    "https://www.rand.org/pubs/research_reports/RR4373z3.html"
+                ],
+                "note": "Xinhua runs reports of reports from Singapore's Lianhe Zaobao (\u806f\u5408\u65e9\u5831) supportive of the PRC's official position, apparently to demonstrate foreign support for the PRC government's statements and claims, including on the denial of human rights abuses in Xinjiang. (See attachments).\n\nPRC-made TV series are distributed alongside similar programming from Korea via Singtel, one of the two main cable providers. https://www.singtel.com/personal/products-services/lifestyle-services/cast/iqiyi",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The Straits Times will carry free inserts from the China Daily from time to time. This may be due to their affiliation through the Asia News Network. This occurrence is not common, however. As the last time was a year or two ago, I cannot locate the insert to make copies.",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Journalist acquaintances report having PRC public security forcibly delete footage, occasionally detaining local camera people for short periods. Hong Kong reporter, Ching Cheong, working for the Straits Times was arrested and detained on state secret charges in China between 2005 and 2008.",
+                "evidence_urls": [
+                    "https://www.asiaone.com/print/News/Latest%2BNews/Singapore/Story/A1Story20121109-382353.html",
+                    "https://chinadigitaltimes.net/2019/08/wall-street-journal-reporter-expelled-from-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "The is no overt censorship of views critical of the PRC in Singapore. However, media often takes a pro-PRC angle in reporting, especially the Chinese-language media. The English-language media can be more critical on occasion.",
+                "evidence_urls": [],
+                "note": "There was a report by the SCMP that the Lianhe Zaobao took down a report critical of the PRC's wolf warrior diplomacy. According the to the SCMP:\n\nChu\u2019s comments were first reported on July 15\ufeff by Lianhe Zaobao, a Chinese-language daily newspaper in Singapore, and were widely picked up by local and foreign media outlets in Hong Kong and Taiwan.\nBut the newspaper deleted the report from its website the next day, after Chu received warnings from a high level that the Chinese foreign ministry was dismayed, according to a journalist at the newspaper. Neither the newspaper nor Chu responded to requests for comment.\n\nhttps://www.scmp.com/news/china/diplomacy/article/3144269/wolf-vs-panda-china-crossroads-over-how-spread-its-global\n\nHowever, subsequent check from Singapore and overseas locations revealed that the report was still available here: https://www.zaobao.com.sg/news/china/story20210715-1169151",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "4",
+                "evidence": "Over the years, there have been an increasing number of prominent individuals, often ethnic Chinese males who have been promoting PRC denialism toward Xinjiang and Hong Kong, as well as its position on Taiwan and the United States. Most prominent of these are former foreign minister George Yeo who is closely affiliated with Kerry Logistics and Kishore Mahbubani. The RedAnts.sg site owned by Lianhe Zaobao often has articles that parallel the PRC official line to some degree.",
+                "evidence_urls": [
+                    "https://news.sina.cn/gn/2021-06-08/detail-ikqciyzi8344653.d.html?from=wap",
+                    "https://www.zaobao.com.sg/keywords/xin-jiang?_wrapper_format=html&page=0",
+                    "https://www.zaobao.com.sg/zvideos/news/story20190425-951246",
+                    "https://www.straitstimes.com/opinion/inside-those-uighur-re-education-camps",
+                    "https://mothership.sg/2021/05/george-yeo-xinjiang-genocide/",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-04/20/c_139894396.htm",
+                    "https://www.straitstimes.com/opinion/civilisational-states-like-china-are-less-prone-to-populism",
+                    "https://foreignpolicy.com/author/kishore-mahbubani/",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-05/17/c_139951981.htm",
+                    "https://mothership.sg/2020/05/china-kishore-mahbubani/",
+                    "https://www.facebook.com/100000779909212/posts/3962447010457923/?d=n",
+                    "https://www.straitstimes.com/politics/george-yeo-to-retire-as-kerry-logistics-networks-chairman-to-spend-time-with-family-and",
+                    "https://www.redants.sg",
+                    "https://www.globaltimes.cn/page/202106/1226255.shtml",
+                    "https://mahbubani.net",
+                    "https://www.youtube.com/watch?v=v1Nrgw37If0",
+                    "https://www.youtube.com/watch?v=YpmDmpHHS2s",
+                    "https://www.youtube.com/watch?v=OBQJc4X9s6M",
+                    "https://asianpeacetalks.buzzsprout.com/1744847/8728195-perceptions-of-china-within-the-us-body-politic-facts-and-misconceptions",
+                    "https://www.straitstimes.com/opinion/chinas-challenges-as-a-rising-power-george-yeo",
+                    "https://www.zaobao.com/news/china/story20210629-1162207",
+                    "https://drive.google.com/file/d/1IdrFCworxPZgPcPnuAKi9lP6CtTEcz7t/view",
+                    "https://www.thinkchina.sg/former-singapore-fm-george-yeo-ccps-centenary-chinese-revolution-continues",
+                    "https://twitter.com/xinjiangchannel/status/1415137474255331332?s=21",
+                    "https://www.youtube.com/watch?v=rXpY7ySrS2M",
+                    "https://news.cgtn.com/news/2021-06-17/Allegation-of-genocide-in-Xinjiang-not-convincing-Singaporean-scholar-11af1lkTmNy/index.html",
+                    "https://www.zaobao.com.sg/forum/editorial/story20210615-1156217",
+                    "https://twitter.com/sehof/status/1404677931339698177",
+                    "http://www.xinhuanet.com/2021-06/11/c_1127556157.htm",
+                    "http://www.chinaembassy.org.sg/chn/fyrth/t1872143.htm",
+                    "http://www.gov.cn/xinwen/2021-01/21/content_5581643.htm",
+                    "http://www.chinaembassy.org.sg/chn/fyrth/t1875255.htm",
+                    "http://www.xinhuanet.com/politics/leaders/2021-06/01/c_1127517461.htm",
+                    "https://www.straitstimes.com/asia/east-asia/guard-critical-thinking-as-us-china-rivalry-heats-up",
+                    "https://twitter.com/globaltimesnews/status/1421013669396111364",
+                    "https://www.scmp.com/week-asia/opinion/article/3143887/britains-warship-transits-south-china-sea-memories-1949-yangtze",
+                    "https://twitter.com/zaobaosg/status/1384031522882154501",
+                    "https://mobile.twitter.com/sehof/status/1376799314442297347",
+                    "https://www.wethecitizens.net/a-look-at-singapores-mandarin-media-coverage-of-china/",
+                    "https://www.zaobao.com.sg/special/report/politic/cnpol/story20190423-950709"
+                ],
+                "note": "Soon after Xi Jinping's call for re-making China's image into one that is \"trustworthy, lovable (cute?), and respected\" (\u53ef\u4fe1\u3001\u53ef\u611b\u3001\u53ef\u656c) on May 31, 2021, George Yeo and Kishore Mahbubani released a series articles and podcasts (see above) that seem to closely parallel the CCP official line. \nhttp://www.xinhuanet.com/politics/leaders/2021-06/01/c_1127517461.htm\n\nPRC media also use Singapore-based individuals as well as state-affiliated media organizations, like Lianhe Zaobao to boost their own positions overseas. The use friendly reporting to legitimate and demonstrate international support for their claims.",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "Singapore's Parliament is dominated by the executive, so it does not have the committee, caucus, or friendship group structure common to other legislatures. Government Parliamentary Committees are largely dormant and tend to help the ruling party sound out and spread its perspectives as their main function. Parliamentary committees largely have procedural functions.",
+                "evidence_urls": [
+                    "https://www.parliament.gov.sg/about-us/parliament-information/functions",
+                    "https://www.pap.org.sg/whos-who/gpc/",
+                    "https://www.parliament.gov.sg/about-us/structure/select-committees"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Singapore's ruling party, the People's Action Party apparently engages in exchanges with the Chinese Communist Party. In particular, the Young PAP (the youth wing of the PAP) has been trying to learn from the Chinese Communist Youth League \u5171\u9752\u5718.",
+                "evidence_urls": [
+                    "https://wikileaks.org/plusd/cables/09SINGAPORE863_a.html",
+                    "https://www.asiaone.com/News/Education/Story/A1Story20090303-125908.html",
+                    "https://www.theonlinecitizen.com/2009/03/16/the-paps-fascination-with-communists/",
+                    "https://www.straitstimes.com/singapore/politics/pap-ccp-ties-have-greatly-benefited-people-of-spore-china-lee-hsien-loong",
+                    "https://www.channelnewsasia.com/news/singapore/chinese-communist-party-100th-anniversary-pm-lee-xi-jinping-15124152",
+                    "https://www.straitstimes.com/asia/east-asia/ccp-at-100-singapore-and-chinese-communist-party-share-an-evolving-pragmatic"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "Since 2009, the Singapore Public Service Commission (PSC) has been sending \"scholars\" to China. Many of these \"scholars\" return to serve in prominent positions in the Singapore state bureaucracy.",
+                "evidence_urls": [
+                    "https://www.ifaq.gov.sg/psc/apps/fcd_faqmain.aspx?qst=hRhkP9BzcBImsx2TBbssMsxu7lqt6UJK70a1wAEVmycm8u7udp5pnWhEg6NlG%2Fp7TDA72EOrTiURa%2FAeMBtFTdEc93Cs9Ghdiz8zglbKO1X8chVP6N4vFljGxa0F8wJIPspdI7A66khoJIbBjlAJG%2FhqrWxLuwGBCY9aLodY5gUlCVr8ivh8GG241QF7WXSfWjFDGceXBN2US%2FfhvB%2ByiX8heGPlZP4C6AY9dTKTYIQ%3D",
+                    "https://www.scholarschoice.com.sg/scholarship/189/psc_scholarship_public_finance",
+                    "https://www.psc.gov.sg/docs/default-source/psc/psc-annual-report-2009.pdf?sfvrsn=2",
+                    "https://www.psc.gov.sg/docs/default-source/psc/2018-psc-annual-e-report.pdf?sfvrsn=bcce49df_2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "Following the detention of Singapore's armored vehicles in Hong Kong in 2016 and 2017, Singapore has become visibly quieter over the South China Sea dispute and international rule of law relating to the PRC. The Singapore state has instead emphasized cooperation with the PRC and advised that the US and PRC set aside their differences.",
+                "evidence_urls": [
+                    "https://www.scmp.com/week-asia/politics/article/2051322/how-singapores-military-vehicles-became-beijings-diplomatic"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Not currently known, but Singapore is as opaque as the PRC, which makes such information difficult to know.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "Not in public.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No reports found. Whether there is behind the scenes lobbying is unknown.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Singapore calls for peaceful resolution to the competing the South China Sea claims. It previously criticized PRC behavior with regard to the arbitral tribunal procedures, but has stayed silent on the actual sovereignty issues. It calls doing so, \"not choosing sides.\"",
+                "evidence_urls": [
+                    "https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/06/Transcript-of-Minister-for-Foreign-Affairs-Dr-Vivian-Balakrishnans-Written-Interview-with-China-Dail"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "Singapore seems somewhat ambivalent. Top officials have voiced a need to exercise care. A working-level official has voiced support and this has been published in both the PRC and international media.",
+                "evidence_urls": [
+                    "http://wap.xjdaily.com/xjrb/20210629/177030.html",
+                    "https://www.economist.com/china/2021/08/07/chinas-efforts-to-lift-xinjiangs-economy-may-smother-it",
+                    "https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-Aspen-Security-Forum"
+                ],
+                "note": "Singapore Prime Minister at Aspen Security Forum, August 3, 2021:\nI think it is a very delicate matter for China. They have a very challenging situation to deal with in Xinjiang because it is one of those situations where you are not sure whether which way to go. If you take it very stringently and tightly, that may result in a pushback. If you ease up too much, that may result in situation bursting forth elsewhere. And from an external point of view, if you take a view that you want to express moral approval or disapproval, then you have to try and make a calculation whether that will make a difference to your objective, and will that make things better or worse in China? \n\nIt is always delicate for a country to be publicly expressed disapproval of and to accept that and say yes, I will learn and do better. I think no country in the world does that. So the question is how you are able to continue to operate with them and yet at the same time, you have your views, they have their views, and without compromising your position, you maintain your dignity but you do the business, which is necessary. You have had to do that in many countries on many occasions; your diplomats understand this problem.\n\nhttps://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-Aspen-Security-Forum\n\nSingapore Consul-General in Shanghai, \u8a31\u744b\u829d, \u65b0\u7586\u65e5\u5831, June 26, 2021:\n\n\u65b0\u52a0\u5761\u9a7b\u4e0a\u6d77\u603b\u9886\u9986\u653f\u52a1\u9886\u4e8b\u8bb8\u73ae\u829d\u8bf4\uff0c\u4e00\u8def\u8d70\u6765\uff0c\u6211\u4eec\u770b\u5230\u653f\u5e9c\u82b1\u4e86\u5927\u529b\u6c14\u6765\u6539\u5584\u5f53\u5730\u4eba\u6c11\u751f\u6d3b\u3002\u66f4\u4e3a\u53ef\u8d35\u7684\u662f\uff0c\u5404\u9879\u63aa\u65bd\u4e0d\u65ad\u63d0\u9ad8\u5c45\u6c11\u751f\u6d3b\u8d28\u91cf\uff0c\u540c\u65f6\u505a\u5230\u201c\u4fee\u65e7\u5982\u65e7\u201d\uff0c\u5145\u5206\u4f53\u73b0\u4e86\u65b0\u7586\u91cd\u89c6\u4fdd\u62a4\u5c11\u6570\u6c11\u65cf\u6587\u5316\u7684\u4e8b\u5b9e\u3002\nhttp://wap.xjdaily.com/xjrb/20210629/177030.html\n\nSingapore Consul-General in Shanghai, \u8a31\u744b\u829d, The Economist, August 7, 2021:\n\n\u201cWe have seen the great effort by the government to improve the lives of local people,\u201d gushed the consul-general of Singapore, according to Xinjiang Daily, a state-run newspaper.\nhttps://amp.economist.com/china/2021/08/07/chinas-efforts-to-lift-xinjiangs-economy-may-smother-it?__twitter_impression=true",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Singapore has said nothing officially about the PRC position on Tibet.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Singapore officials and state-related media have supported the Hong Kong government's crackdown on protests in Hong Kong. Some of this has to do with the People Action Party's own paranoia about mass protests, often seeing them as synonymous with riots and mass violence.",
+                "evidence_urls": [
+                    "https://hongkongfp.com/2019/11/10/singaporeans-dont-back-hong-kong-protests/",
+                    "https://www.reuters.com/article/us-hongkong-protests-singapore-idUSKBN1WV1Z7",
+                    "https://www.ft.com/content/0d8cba3c-f539-11e9-b018-3ef8794b17c6"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Singapore tries to be a research hub, so its universities have significant research collaboration with many entities, among them several state-linked PRC firms.",
+                "evidence_urls": [
+                    "https://enterprise.nus.edu.sg/partnering-corporates/tencent-nus-cloud-startup-program/",
+                    "https://news.nus.edu.sg/tencent-nus-set-up-incubator-scheme-for-singapore-start-ups/",
+                    "https://enterprise.nus.edu.sg/partnering-corporates/corporate-partnerships/",
+                    "https://bizbeat.nus.edu.sg/press-release/article/alibaba-cloud-partners-with-national-university-of-singapore-to-support-the-citys-smart-nation-initiative/",
+                    "https://news.nus.edu.sg/alibaba-cloud-nus-and-ez-link-collaborate-to-advance-singapores-digital-economy/",
+                    "https://www.comp.nus.edu.sg/images/resources/Alibaba_Talent_Programme-Aug2019-rev.pdf",
+                    "https://www.alibabacloud.com/blog/alibaba-cloud-partners-with-national-university-of-singapore-to-support-smart-nation-initiative_593921",
+                    "https://www.ntu.edu.sg/alibaba-ntu-jri",
+                    "https://www.connectedtoindia.com/nus-partners-alibaba-cloud-to-nurture-talents-in-emerging-tech-fields-4456.html",
+                    "https://www.ntu.edu.sg/news/detail/ntu-singapore-and-alibaba-group-launch-joint-research-institute-on-artificial-intelligence-technologies/ntu-singapore-and-alibaba-group-launch-joint-research-institute-on-artificial-intelligence-technologies",
+                    "https://www.straitstimes.com/singapore/alibaba-group-opens-first-joint-research-institute-outside-china-with-ntu-to-study-ai",
+                    "https://www.straitstimes.com/singapore/education/alibaba-launches-post-graduate-talent-programme-in-singapore",
+                    "https://e.huawei.com/en/case-studies/leading-new-ict/2018/201812191506",
+                    "https://www.ntu.edu.sg/ntc/news-events/news/detail/huawei---chinese-telecommunications-giant-strategies-to-success",
+                    "https://www.facebook.com/entresoc.ntu/posts/and-the-huawei-seeds-of-the-future-programme-is-a-successthe-programme-is-organi/870943806275905/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "Singapore's efforts to cooperate with PRC in education, including to maintain Chinese-language and culture, saw the establishment of a Confucius Institute and Confucius classroom in the country. This has included efforts to train Chinese-language teachers in Singapore schools or sometimes helping to hire them from the PRC.",
+                "evidence_urls": [
+                    "https://www.ntu.edu.sg/ci",
+                    "https://hsk-crestar.com.sg/confucius-classroom-crestar/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "This is a grey area for Singapore. It has longstanding and broad-based Mandarin teaching. It does not use PRC textbook material or teachers for free, but hires them from the PRC in addition to locally. Some private tuition (enrichment programs) that parents commonly opt for appear to include PRC teachers and content.",
+                "evidence_urls": [
+                    "https://www.zhihu.com/question/21730431",
+                    "https://www.nie.edu.sg/docs/default-source/news-document/280512-zb-pg-6.pdf?Status=Master&sfvrsn=0",
+                    "https://ace.edu.sg/wp/advisory-board/",
+                    "http://huayuanassociation.com/zh/category/\u6700\u65b0\u6d3b\u52a8/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "The East Asian Institute (EAI) based at the National University of Singapore is part of the SiLKS. A long-serving former directors known to be close to the PRC. EAI is influential as it provides briefs to various Singapore ministries, including the Ministry of Foreign Affairs and Ministry of Trade and Industry. It also briefs foreign academic and official visitors to Singapore. The former EAI direction was linked to the Longus Institute and International Public Policy Private Limited, two think tanks that used to advance pro-PRC viewpoints and promote visits by PRC academics and officials. Both organizations seems to have closed, especially with the departure of the EAI director from Singapore in 2020.",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20210122052445/http://www.esilks.org/about/members",
+                    "https://web.archive.org/web/20210128112221/http://www.esilks.org/institut/sid/uxLcS333",
+                    "https://research.nus.edu.sg/eai/about-us/profile-and-objectives/",
+                    "https://www.sgpbusiness.com/company/International-Public-Policy-Private-Limited",
+                    "https://www.facebook.com/longusresearch/",
+                    "https://www.sgpbusiness.com/company/Longus-Institute-For-Development-And-Strategy-Ltd",
+                    "https://sgpgrid.com/company-details/longus-institute-for-development-and-strategy-ltd",
+                    "https://openinghours-sg.com/019724/Longus_Research_Institute",
+                    "https://www.linkedin.com/company/longus-institute-for-development-and-strategy/about/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Singapore more established think tanks and universities are generally regulated by the state quite tightly as a consequence of historical efforts to clamp on protests and limit academic freedom. As a result, there tends to be higher control of foreign funding going toward think tanks and universities, especially if they come in the form of philanthropic giving. There may be some projects with PRC funding, but these tend to be balanced by funding from other sources.\n\nPrivate think tanks, however, reportedly receive more PRC funding. These included the International Public Policy Private Limited and Longus Institute, which seem to be dormant at present. There is suspicion that the Kuok family of Kerry Logistics/Shangri-La Group provides some funds to the Singapore Institute of International Affairs (SIIA), IISS in Singapore, and Yale-NUS College. ",
+                "evidence_urls": [
+                    "https://www.yicai.com/news/100130297.html",
+                    "http://www.tianshui.com.cn/news/ws/2014110520344870342.html",
+                    "http://www.siiaonline.org/our-people/",
+                    "https://yaledailynews.com/blog/2021/04/29/petition-demands-removal-of-yale-nus-governing-board-chair-over-ties-to-myanmar-army/",
+                    "https://www.thenewslens.com/article/150452",
+                    "https://www.kuokgroup.com/businesses/shangri-la",
+                    "https://www.kuokgroup.com/businesses",
+                    "http://en.iiss.pku.edu.cn/dynamic/dh/subjectEn02/js/gw/2212.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "Scholars at Singapore universities participate in the Changjiang Scholars Program (\u9577\u6c5f\u5b78\u8005\u8a08\u756b). These numbers seem to be growing. Reportedly, there have been attempts to recruit through the Thousand Talents Program as well, but no direct evidence is yet available.",
+                "evidence_urls": [
+                    "https://bizfaculty.nus.edu.sg/faculty-details/?profId=451",
+                    "https://chemistry.nus.edu.sg/people/guillermo-c-bazan/",
+                    "http://saton.jmu.edu.cn/info/1013/1600.htm",
+                    "https://m.sohu.com/n/447515710/",
+                    "http://newsweb.nuaa.edu.cn/2016/0823/c738a30070/pagem.htm",
+                    "http://www.nuaa.edu.cn/2010/0630/c852a28293/page.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "There have been regular PRC efforts to sponsor trips by Singapore-based academics to China. These include study trips and tours, as well as high profile events such as the Bo'ao Forum and Xiangshan Forum.",
+                "evidence_urls": [
+                    "https://news.nus.edu.sg/nus-president-attends-boao-forum/",
+                    "https://www.boaoforum.org/u/cms/www2/201804/04103033o6c8.pdf",
+                    "http://www.xiangshanforum.cn/scheduling_EN",
+                    "https://www.facebook.com/watch/?v=2770182006586824",
+                    "https://www.sgcssa.org/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "2",
+                "evidence": "Student organizations in Singapore are tightly controlled by the state, including the CSSA. This limits their activities. There are sporadic reports of CSSA members or PRC students complaining about course content offends PRC sensibilities. However, they have not yet become a force that puts academics and others in a position to be wary and engage in self-censorship. The CSSA in Singapore is known to have links with the PRC Embassy in Singapore, which helps sponsor some of their events.",
+                "evidence_urls": [
+                    "https://www.sgcssa.org"
+                ],
+                "note": "Even though the role of CSSAs are unclear, Nanyang Technological University (NTU) told their faculty in writing that there was a directive from MOE to not refer to Taiwan and Hong Kong as anything that might be construed as \"countries.\" To the best of my knowledge, we never received anything similar at NUS. I'm not heard of a similar directive at either SMU or SUSS. (See attachment.)\n\nAt NTU, non-Singapore based scholar was told to remove all references to \"Republic of China\" from slides in a talk--even though this person is a historian who works on World War II. The scholar was told to use \"China\" instead. The organizer telling the academic to do so is a PRC scholar based in at NTU.\n\nA possible explanation may be the fact that NTU has far closer ties with the PRC, with the flagship training it offers to mayors from the PRC. NUS has a similar program for provincial officials, but it is much smaller. There may be faculty who are more willing to convey their preferences to a university administration more sensitive to such issues even if there is no formal role for a CSSA.\n\nAcross universities, some faculty have reported PRC students possibly complaining or putting in negative evaluations for emphasis on Taiwan, although this is anecdotal. Possibly because the identities of complainants or evaluations cannot be clearly ascertained. Whether such actions are motivated by the CSSA is unclear, even though the CSSAs have close ties with the PRC embassy. (See attached image)",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "None known at present.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "There are reports of Mandarin-language curriculum material increasingly following PRC standards due to the increasing number of PRC teachers hired by the Ministry of Education to teach Mandarin. There are also a number of PRC-related entities that set up tuition centers (\u88dc\u7fd2\u73ed) teaching Mandarin in Singapore.",
+                "evidence_urls": [
+                    "https://zhuanlan.zhihu.com/p/134016809",
+                    "https://zhidao.baidu.com/question/924235760209131219.html",
+                    "https://www.qlchat.com/hot/html/79553866.html",
+                    "https://hsk-crestar.com.sg/zh-hans/\u4ece\u4e2d\u56fd\u9ad8\u8003\u8003\u5b98\u5230\u65b0\u52a0\u5761\u5b66\u9662\u6bcd\u8bed\u90e8\u4e3b\u4efb\uff0c\u4e00\u4e2a\u65b0/",
+                    "https://www.ecda.gov.sg/Documents/Documents%20Required%20for%20Teacher%20Certification%20(Foreign%20Qualifications_%20Chinese).pdf",
+                    "https://finance.sina.com.cn/roll/2019-03-04/doc-ihsxncvf9735757.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There have been few but increasingly common reports of censorship relating to issues sensitive to the PRC. In one instance in 2020, a US-based historian working on the history of World War II was told to drop references to the \"Republic of China\" in the title and contents of a talk he was to give at Nanyang Technological University, one of Singapore's main universities. Faculty at Nanyang Technological University received an email circular asking them to ensure that they do not refer to Hong Kong or Taiwan in ways that could be construed as countries. There is email traffic on the issue, but they are not shared out of personal privacy protection concerns.",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "Local politicians in Singapore have no authority to sign agreements with foreign entities.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "Local municipalities in Singapore do not have the legal leeway to make such arrangements.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "Trips are few but significant because Singaporean officials\u2019 comments are used to broadcast support for the PRC\u2019s positions both domestically and internationally.",
+                "evidence_urls": [
+                    "https://amp.economist.com/china/2021/08/07/chinas-efforts-to-lift-xinjiangs-economy-may-smother-it?__twitter_impression=true",
+                    "http://wap.xjdaily.com/xjrb/20210629/177030.html"
+                ],
+                "note": "Not to my knowledge when it comes to political appointees in the executive branch. Singapore tends to be quite strict regarding political office holders. However, what ruling party backbenchers do is less known, do to the opacity of Singapore's political system. Some backbenchers apparently travel to China for work, since legislators are part-time in Singapore. Some of these trips may be paid for by their companies or China-based business partners. It remains to be seen whether any of such contact becomes salient, however.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Official meetings are the usual course of doing business. That said, there are many meetings and exchanges between political appointees from Singapore, PRC officials, and think tanks. These meetings result in statements and also cooperative agreements. Since at least the 2000s the ruling People's Action Party Youth Wing has had meetings and trainings with the Communist Youth League according to WikiLeaks.",
+                "evidence_urls": [
+                    "https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/October/22oct19_nr",
+                    "https://www.istana.gov.sg/Newsroom/Speeches/2021/04/20/Speech-by-President-Halimah-Yacob-at-Boao-Forum-for-Asia-Annual-Conference-2021-Opening-Plenary",
+                    "https://www.channelnewsasia.com/news/singapore/singapore-china-travel-border-restriction-vivian-balakrishnan-14532426",
+                    "https://www.mnd.gov.sg/newsroom/press-releases/view/minister-lawrence-wong-visits-china-for-tianjin-eco-city-anniversary-commemorative-activities-and-singapore-tianjin-economic-and-trade-council-meeting",
+                    "https://www.straitstimes.com/asia/east-asia/vivian-balakrishnan-in-china-for-asean-china-meeting",
+                    "https://wikileaks.org/plusd/cables/09SINGAPORE863_a.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "The Singapore Police Force has longstanding cooperation with the Hong Kong Police Force, including after the handover to the PRC. This cooperation includes some training of each other's officers.",
+                "evidence_urls": [
+                    "https://www.police.gov.sg/media-room/news/20150714_memo_hong_kong_others",
+                    "https://www.info.gov.hk/gia/general/201507/14/P201507140963.htm",
+                    "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjvrq3T_pHxAhUDcCsKHdNEAT8QFjADegQIBBAE&url=https%3A%2F%2Fwww.police.gov.sg%2F~%2Fmedia%2Fspf%2Ffiles%2Fstatistics%2Fstro-statistics---international-cooperation-new.pdf&usg=AOvVaw1ZZl3uilejFKgLHsDMUDFC",
+                    "https://www.police.gov.sg/html/spf/annual/content/Singapore_Police_Force_Annual_2015.pdf",
+                    "https://www.police.gov.hk/offbeat/1076/eng/4714.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Foreign donations for political parties and politicians in Singapore are tightly regulated. However, political donations are not public knowledge even if they have be reported to the state.",
+                "evidence_urls": [
+                    "https://www.eld.gov.sg/registry.html",
+                    "https://sso.agc.gov.sg/Act/PDA2000"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "There have been several business associations, native place associations (\u540c\u9109\u6703), and clan associations (\u5b97\u89aa\u6703) with UFWD links that seem to be developing relationships with politicians from the People's Action Party (PAP). They have in the past posted photos on their social media sites. These organizations or their leaders are reportedly active in the PAP grassroots, which means that they are likely to have some involvement in fund-raising.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Foreign involvement in Singapore politics is frowned upon. As a result, groups are likely to be less open about endorsement or opposition to candidates based on an overtly foreign policy related issue. Lobbying may well take place in private, out the view of observers.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/singapore/courts-crime/new-technology-to-help-police-fight-crime-and-enforce-law",
+                    "https://www.todayonline.com/singapore/singapore-should-learn-chinas-advanced-e-payment-systems-pm-lee",
+                    "https://www.zaobao.com/news/china/story20210629-1162207",
+                    "https://drive.google.com/file/d/1IdrFCworxPZgPcPnuAKi9lP6CtTEcz7t/view",
+                    "https://www.channelnewsasia.com/news/singapore/chinese-communist-party-100th-anniversary-pm-lee-xi-jinping-15124152",
+                    "https://www.straitstimes.com/singapore/politics/pap-ccp-ties-have-greatly-benefited-people-of-spore-china-lee-hsien-loong",
+                    "https://www.straitstimes.com/asia/east-asia/ccp-at-100-singapore-and-chinese-communist-party-share-an-evolving-pragmatic",
+                    "https://www.thinkchina.sg/former-singapore-fm-george-yeo-ccps-centenary-chinese-revolution-continues"
+                ],
+                "note": "There have been a number of positive statements about the PRC from Singaporean politicians, but these do not seem to be in the majority yet. Some expressing such sentiment include senior cabinet officials, including the Prime Minister.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "https://sgchina30.businesschina.org.sg/en/chairman.htmlThere are reports of former Singapore politicians or senior civil servants taking https://sgchina30.businesschina.org.sg/en/chairman.htmlup board roles with PRC-related firms. Former foreign minister George Yeo is the most prominent. He works with the Kerry Group (\u5609\u91cc\u96c6\u5718) and Kuok family which purportedly has close ties with the CCP. However, the lack of disclosure laws mean that not all these relationships are easily observable.",
+                "evidence_urls": [
+                    "https://www.todayonline.com/singapore/former-foreign-minister-george-yeo-step-down-chairman-kerry-logistics-network",
+                    "http://www.chinanews.com/gn/2021/05-08/9472472.shtml",
+                    "https://www.thinkchina.sg/former-singapore-fm-george-yeo-ccps-centenary-chinese-revolution-continues",
+                    "https://investor.pinduoduo.com/index.php/corporate-governance/board-of-directors",
+                    "https://sgchina30.businesschina.org.sg/en/chairman.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Private security contracted by the Singapore government tend to be local firms/auxiliary police such as Certis Cisco or AETOS.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "Yes, for trade in goods, but not for trade in services. The PRC is also neither the top investor in Singapore, nor the top target for investment even though Singapore is the top foreign investor in the PRC.",
+                "evidence_urls": [
+                    "https://www.singstat.gov.sg/modules/infographics/singapore-international-trade",
+                    "https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-international-trade.pdf",
+                    "https://www.singstat.gov.sg/modules/infographics/singapore-direct-investment",
+                    "https://www.singstat.gov.sg/modules/infographics/-/media/Files/visualising_data/infographics/trade_and_investment/singapore-direct-investment.pdf",
+                    "https://www.singstat.gov.sg/find-data/search-by-theme/trade-and-investment/foreign-direct-investment/latest-data",
+                    "https://www.singstat.gov.sg/find-data/search-by-theme/trade-and-investment/foreign-direct-investment/visualising-data"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "According to official sources, Singapore maintains no net foreign debt. This includes sovereign debt. Details, however, are difficult to independently ascertain.",
+                "evidence_urls": [
+                    "https://www.singstat.gov.sg/find-data/search-by-theme/economy/external-debt/latest-data",
+                    "https://www.mof.gov.sg/news-publications/media-articles/askST-Why-does-Singapore-have-an-external-debt-of-US1-766-trillion-",
+                    "https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=14924",
+                    "https://www.gov.sg/article/is-it-fiscally-sustainable-for-singapore-to-have-such-a-high-level-of-debt",
+                    "https://global.chinadaily.com.cn/a/202009/18/WS5f63ed41a31024ad0ba7a40c.html",
+                    "https://www.straitstimes.com/singapore/singapore-business-chamber-in-china-key-to-relations-between-the-2-countries-minister-of",
+                    "https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/china/market-profile"
+                ],
+                "note": "Singapore is the largest foreign investor in China and the China market is the largest destination for investments from one of Singapore's two sovereign wealth funds, Temasek Holdings.",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Singapore has no extractive industries. It extracts low wage labour, sand, and raw materials from other countries.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "PRC firms are investing in telecommunications, cloud, and logistics services in Singapore, but are not in key physical infrastructure like ports and airports.",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/tech/tech-news/huawei-opens-53-million-regional-centre-in-singapore",
+                    "https://www.huawei.com/en/news/2019/2/huawei-cloud-unveil-in-singapore",
+                    "https://www.channelnewsasia.com/news/commentary/china-invest-5g-huawei-tencent-network-development-technology-11748338",
+                    "https://vulcanpost.com/730233/tencent-holdings-singapore-plans/",
+                    "https://www.reuters.com/article/us-tencent-singapore-idUSKBN266097",
+                    "https://www.businesstimes.com.sg/technology/tencent-picks-singapore-as-asia-hub-after-india-us-bans",
+                    "https://www.channelnewsasia.com/news/business/tencent-singapore-new-office-south-east-asia-13111558",
+                    "https://www.channelnewsasia.com/news/commentary/alibaba-investment--3-billion-grab-gojek-jack-ma-singapore-13133668",
+                    "https://www.straitstimes.com/business/companies-markets/alibaba-in-talks-to-invest-us3-billion-in-grab",
+                    "https://www.scmp.com/tech/e-commerce/article/1835051/chinas-alibaba-expands-global-logistics-reach-upping-investment",
+                    "https://www.cnbc.com/2020/09/11/bytedance-to-invest-billions-recruit-hundreds-in-singapore.html",
+                    "https://www.businesstimes.com.sg/garage/news/tiktok-owner-bytedance-moving-to-bigger-singapore-office",
+                    "https://www.theregister.com/2021/08/25/china_singapore_net_link/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Singapore is one of the 21 founding members of the AIIB. Singaporean civil servants have also taken up posts in the AIIB.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/projects/details/2019/approved/Singapore-Infrastructure-Private-Capital-Mobilization-Platform.html",
+                    "https://www.todayonline.com/voices/spore-should-be-aiibs-regional-headquarters",
+                    "https://www.straitstimes.com/asia/east-asia/2-sporeans-in-senior-posts-at-aiib-another-to-join-soon",
+                    "https://govinsider.asia/digital-gov/top-singapore-civil-servant-to-join-aiib/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Via Hong Kong Singapore Business Association and Singapore Business Federation. There is also the Singapore Chamber of Commerce in China, to which many Singapore businesses are tied.",
+                "evidence_urls": [
+                    "https://www.beltandroadglobalforum.com/en/member/forumfull",
+                    "https://www.sbf.org.sg",
+                    "https://www.hsba.org.sg/index.php",
+                    "https://www.straitstimes.com/singapore/singapore-business-chamber-in-china-key-to-relations-between-the-2-countries-minister-of"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bbc.com/news/world-asia-38101345",
+                    "https://www.todayonline.com/singapore/sporeans-naive-about-fake-news-threat-beijings-influence-operations-threaten-social",
+                    "https://wikileaks.org/plusd/cables/08SINGAPORE71_a.html",
+                    "https://www.pmo.gov.sg/Newsroom/prime-minister-lee-hsien-loongs-national-day-rally-2004-english",
+                    "https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2004/07/Transcript-of-Questions-and-Answers-with-DPM-Lee-Hsien-Loong-on-His-Visit-to-Taiwan"
+                ],
+                "note": "There were other forms coercion, such as threats and the detention of armored vehicles passing through Hong Kong but no direct economic coercion yet. Allegedly, much of the threats were passed to the Singapore state by way of Singapore businesses with interests in the PRC. However, there could be coercion behind the scenes that are less directly observable, given Singapore's opacity.",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "Reportedly in the wake of the South China Sea Arbitral Tribunal Ruling, Singapore businesses were warned that Singapore's insistence on international law could jeopardize their commercial position in the PRC. Singapore supposedly had a downgraded invitation to the 2017 Belt and Road Forum in the PRC for its position on the South China Sea, inviting Minister of National Development Lawrence Wong instead of Prime Minister Lee Hsien Loong. In 2004, Singapore was supposedly subject to some freeze in contact due to a visit by Lee Hsien Loong to Taiwan before he became Prime Minister. \n\nThe Straits Times further reports that six Singaporean lawyers, including former Attorney-General VK Rajah, left Essex Court Chambers Duxton (Singapore Practice Group) after its London office was sanctioned by Beijing. The sanctions were in response to a legal opinion critical of PRC policy in Xinjiang written by four partners of the firm in London.",
+                "evidence_urls": [
+                    "https://www.todayonline.com/singapore/sporeans-naive-about-fake-news-threat-beijings-influence-operations-threaten-social",
+                    "https://www.straitstimes.com/singapore/sporeans-should-be-aware-of-chinas-influence-ops-bilahari",
+                    "http://www.chinadaily.com.cn/english/doc/2004-07/12/content_347678.htm",
+                    "https://www.straitstimes.com/asia/east-asia/chinas-belt-and-road-project-could-pose-challenges-to-spore-minister-lawrence-wong",
+                    "https://www.todayonline.com/business/spore-businesses-quizzed-chinese-counterparts-over-their-stand-south-china-sea-issue",
+                    "https://www.reuters.com/article/us-asean-china-singapore-analysis-idUSKBN1AO17D",
+                    "https://www.straitstimes.com/opinion/chinas-s-china-sea-stance-must-be-able-to-withstand-the-spore-test",
+                    "https://www.straitstimes.com/singapore/ex-ag-and-five-other-lawyers-all-leave-essex-court-chambers-duxton-to-form-new-practice"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "Yes.",
+                "evidence_urls": [
+                    "https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-08-08_152343.html",
+                    "https://aric.adb.org/fta/peoples-republic-of-china-singapore-free-trade-agreement",
+                    "http://fta.mofcom.gov.cn/topic/ensingapore.shtml",
+                    "https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements",
+                    "https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs.pdf",
+                    "https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas/csfta"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Yes.",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/business/economy/singapore-china-to-further-boost-economic-cooperation",
+                    "https://www.mti.gov.sg/Newsroom/Speeches/2018/10/Keynote-speech-by-Minister-Chan-Chun-Sing-at-the-Singapore-China-BRI-Investment-Forum-2018",
+                    "https://www.channelnewsasia.com/news/business/singapore-china-sign-5-deals-to-boost-cooperation-in-economy-11487764"
+                ],
+                "note": "Contact between the Chinese Embassy and the Zhejiang Entrepreneur's association led to an uptick in enthusiasm for Sinovac, despite its low efficacy.\n\nhttps://www.scmp.com/week-asia/health-environment/article/3138309/singaporeans-chinese-nationals-queue-sinovac-vaccine\nhttps://sg.news.yahoo.com/significant-problems-sinovac-vaccine-other-countries-moh-official-105357031.html",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bloomberg.com/news/articles/2021-03-14/singapore-property-dynasty-s-china-deal-becomes-cautionary-tale",
+                    "https://www.thinkchina.sg/singapore-and-suzhou-where-will-journey-lead-us",
+                    "https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_101058.html"
+                ],
+                "note": "Less so PRC firms requisitioning assets, but Singapore firms losing control of assets in China.",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "Pre-paid SIM services for individuals and VOIP services largely targeting commercial users.",
+                "evidence_urls": [
+                    "https://www.cloudexpoasia.com/exhibitors/china-telecom-singapore-pte-ltd",
+                    "https://www.cmlink.com/sg/",
+                    "https://blog.moneysmart.sg/budgeting/sim-only-plans-china-mobile-singapore-cmlink/",
+                    "https://sgpgrid.com/company-details/china-unicom-singapore-operations-pte-ltd"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "Huawei and ZTE not in core infrastructure, but there are apparent apparent plans to include them in other parts of Singapore's future 5G and 6G telecommunications infrastructure based on news reports. TechHQ report linked above writes, \"Huawei only won a contract to provide technology for a smaller, local network system to TPG Telecom, a smaller player in Singapore.\"\n\n",
+                "evidence_urls": [
+                    "https://www.cnbc.com/2020/06/25/huawei-loses-out-to-nokia-ericsson-in-building-singapores-main-5g-networks.html",
+                    "https://www.zdnet.com/article/singtel-makes-massive-mimo-move-with-ericsson-huawei-zte/",
+                    "https://www.reuters.com/article/singapore-telecoms-5g-idUKL4N2E12M5",
+                    "https://www.zte.com.cn/global/topics/mwc2018/newsdetail.aspx-id=119748641.html",
+                    "https://techhq.com/2020/06/ericsson-nokia-oust-huawei-to-win-5g-contracts-in-singapore/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Singapore's smart nation initiative makes extensive use of surveillance and cloud computing, including storage. Some providers of these key technologies are PRC firms.",
+                "evidence_urls": [
+                    "https://govinsider.asia/connected-gov/huawei-ai-lab-nicolas-ma-5g-singapore-china/",
+                    "https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Consultations/Consultation-Papers/Second-Public-Consultation-on-5G-Mobile-Services-and-Networks/Second-5G-Consultation-Huawei-International-Pte-Ltd.pdf?la=en",
+                    "https://en.prnasia.com/releases/apac/huawei-launches-intelligent-computing-business-and-announces-talent-plan-to-support-singapore-s-smart-nation-2025-strategy-243958.shtml",
+                    "https://www.huawei.com/en/news/2017/7/Huawei-Singapore-strategic-partnerships",
+                    "https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Consultations/Consultation-Papers/Second-Public-Consultation-on-5G-Mobile-Services-and-Networks/Second-5G-Consultation-ZTE-Singapore-Pte-Ltd.pdf",
+                    "https://www.zte.com.cn/global/about/news/350429.html",
+                    "https://www.alibabacloud.com/campaign/smart-nation",
+                    "https://alibaba-cloud.medium.com/alibaba-cloud-partners-with-national-university-of-singapore-to-support-smart-nation-initiative-8d15a38092cf",
+                    "http://global.gsafety.com/list/post/34251/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "PRC firms are suppliers to the Singapore state on a number for a number of technologies.",
+                "evidence_urls": [
+                    "http://global.gsafety.com/list/post/34251/",
+                    "https://ssia.org.sg/huawei-launches-singapores-first-5g-powered-artificial-intelligence-ai-lab/",
+                    "https://consumer.huawei.com/sg/press/news/2021/news-210409/",
+                    "https://www.scmp.com/tech/policy/article/3016138/singapore-keeps-options-open-huawei-says-any-5g-vendor-must-meet",
+                    "https://www.mti.gov.sg/Newsroom/Speeches/2019/05/Speech-by-SMS-Chee-Hong-Tat-at-the-Alibaba-Cloud-Summit",
+                    "https://www.straitstimes.com/business/banking/stymied-at-home-jack-mas-ant-builds-government-relations-team-for-asia-push",
+                    "https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "There seems to be some cooperation, from sporadic news reporting. However, this seems to be tied to key data systems in Singapore. Hikvision facial recognition devices used at Singapore Changi Airport (see attachments).",
+                "evidence_urls": [
+                    "https://opengovasia.com/singapore-and-nanjing-deepen-collaboration-on-ai-and-sustainable-urban-solutions/",
+                    "https://opengovasia.com/singapore-and-nanjing-deepen-collaboration-on-ai-and-sustainable-urban-solutions/",
+                    "https://www.straitstimes.com/singapore/singapore-chongqing-deepen-cooperation-with-chinas-first-dedicated-international-data-link",
+                    "http://global.gsafety.com/list/post/34251/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Smart Cities agreements with the PRC link to Singapore.",
+                "evidence_urls": [
+                    "https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Singapore-China-Shenzhen-Smart-City-Initiative-Creates-New-Business-Opportunities-Through-Digital-Connectivity",
+                    "https://opengovasia.com/singapore-china-smart-city-initiative-agree-to-accelerate-and-further-digitalisation/",
+                    "https://www.channelnewsasia.com/news/singapore/singapore-china-jcbc-meeting-chongqing-heng-swee-keat-12002940"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "Singapore-based banks use CIPS by virtue of the fact that Singapore ins one of the overseas RMB clearing houses.",
+                "evidence_urls": [
+                    "https://www.theglobaltreasurer.com/2015/10/12/icbc-singapore-clears-first-asia-rmb-transaction-on-cips/",
+                    "https://www.thecorporatetreasurer.com/article/chongqing-launches-rmb-programme-with-singapore-swift-and-cips-to-cooperate-on-c/406950"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "In recent years, PRC-based venture capital is taking on an increasingly visible role in Singapore. They invest in many areas, including technology.",
+                "evidence_urls": [
+                    "https://www.rikvin.com/blog/top-22-venture-capital-firms-and-angel-investors-in-singapore/",
+                    "https://www.drwealth.com/venture-capital-singapore/",
+                    "https://www.techinasia.com/directory-of-early-stage-venture-capital-seed-funds-and-angel-investors-for-startups-in-singapore",
+                    "https://www.questventures.com"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "These are areas that the current Singapore government identifies as important to the country's next stage of growth and is eager to partner with PRC firms. They are encouraging firms and universities to do likewise.",
+                "evidence_urls": [
+                    "https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/dec-2020/media-release--new-blockchain-for-trade--connectivity-network-to-be-launched.pdf?la=en",
+                    "https://www.ledgerinsights.com/singapore-trade-network-to-integrate-with-chinas-blockchain-service-network-others/",
+                    "https://www.finews.asia/finance/32210-tencent-cloud-inks-mou-with-digital-bank-consortium-in-singapore-asia-digital-bank-corporation",
+                    "https://www.fintechfutures.com/2020/07/singapores-adbc-signs-mou-with-tencent-cloud/",
+                    "https://kr-asia.com/alibaba-cloud-signs-mou-with-national-university-of-singapore",
+                    "https://www.finextra.com/pressarticle/83258/new-singapore-bank-adbc-inks-mou-with-tencent-cloud",
+                    "https://opengovasia.com/new-agreement-between-singapore-and-china-focusing-on-research-and-innovation-efforts/",
+                    "https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Launch-of-China-Singapore-Chongqing-International-Data-Channel",
+                    "https://www.businesstimes.com.sg/companies-markets/starhub-signs-mou-to-co-build-data-links-with-top-china-service-providers",
+                    "https://www.ichongqing.info/2019/10/19/chongqing-and-singapore-sign-a-mou-for-internet-data-channel/",
+                    "https://www.singtel.com/about-us/media-centre/news-releases/singtel-partners-chinese-telcos-to-establish-data-link-betwen-singapore-and-c",
+                    "https://www.enterprisesg.gov.sg/media-centre/media-releases/2019/september/singapore-chongqing-economic-and-trade-cooperation-forum-and-mou-signing-ceremony",
+                    "https://www.channelnewsasia.com/news/technology/chinese-ai-unicorn-sensetime-signs-mou-with-3-singapore-10484136",
+                    "https://opengovasia.com/ai-singapore-signs-mou-to-promote-training-and-rd-in-ai-and-analytics/",
+                    "https://www.thedrum.com/news/2018/02/28/alibaba-partners-ntu-singapore-establish-its-first-ai-research-institute-outside",
+                    "https://www.businesstimes.com.sg/technology/alibaba-cloud-partners-nus-ez-link-to-boost-data-capabilities-amended"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "WeChat is popular among older Chinese-speaking adults. TikTok is popular among the younger demographic. Both have high penetration rates. Zoom is widely used in Singapore, following the pandemic.",
+                "evidence_urls": [
+                    "https://academy.smu.edu.sg/engaging-one-billion-chinese-consumers-through-wechat-ecosystem-5361",
+                    "https://wise.com/sg/blog/alipay-wechat-pay-singapore",
+                    "https://42matters.com/singapore-app-market-statistics",
+                    "https://insight.rakuten.com/snapshot-of-tiktokdouyin-usage-in-singapore-and-china/",
+                    "https://www.straitstimes.com/singapore/more-tiktok-users-in-spore-amid-covid-19",
+                    "https://www.channelnewsasia.com/news/commentary/zoom-competition-video-conferencing-hangouts-teams-webex-12770100"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "The Singapore state has a number of cooperative projects involving the Beidou system. The exact nature and extent of such collaboration is unknown, however, given Singapore's opacity.",
+                "evidence_urls": [
+                    "http://www.spacetime-tech.com/singapore-and-china-collaborate-beidou-applications",
+                    "https://www.gnss.asia/sites/default/files/Countryprofiles_Singapore_v4.pdf",
+                    "https://www.gpsworld.com/singapore-joins-with-china-to-develop-apps-protect-beidou-signals/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "Not in the open, since the civil society space in Singapore is tightly regulated. There may be other organizations with similar aims, but do not carry this official title. These tend to operated more behind the scenes.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "One of the members of the board of Temasek Holdings, one of Singapore's two sovereign wealth funds, is a member of the CPPCC. SinoLand, owned by the Ng family, reportedly has close ties with the Central Liaison Office in Hong Kong. There are also members of the the China Overseas Friendship Association (\u4e2d\u570b\u6d77\u5916\u806f\u8abc\u6703).",
+                "evidence_urls": [
+                    "https://www.temasek.com.sg/en/who-we-are/our-leadership#bod-robert-ng-cs",
+                    "https://www.hk01.com/\u793e\u6703\u65b0\u805e/168808/\u5168\u570b\u5169\u6703-\u653f\u5354\u5c08\u59d4\u6703\u526f\u4e3b\u4efb\u51fa\u7210-\u6d88\u606f-\u738b\u51ac\u52dd-\u9ec3\u5fd7\u7965\u5747\u4e0a\u699c",
+                    "https://www.scmp.com/business/article/2187645/chinas-liaison-office-officials-have-buying-local-flats-drawing-focus-tax",
+                    "https://www.ejinsight.com/eji/article/id/2066211/20190225-liaison-office-wants-a-big-piece-of-grand-central",
+                    "http://www.singapore-china.org/profile/board19_22.shtml"
+                ],
+                "note": "If so, this is not publicly known, given the tight control over civil society by the Singapore state, particularly regarding organizations with external links.",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://fdawu.org.sg/wps/portal/fdawu/home/workingforu/workingforudetails?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/working+for+u/2195ac80-4221-48bd-97b6-d7cc011d2582"
+                ],
+                "note": "The National Trades Union Congress is closely affiliated with Singapore's ruling party, the People's Action Party, which has been in power since 1959. The head of the NTUC is almost always a cabinet minister.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "Yes, available from social media accounts of local ethnic Chinese organizations. Requires upload of screenshots. Among the ethnic Chinese organizations is one called the Huayuan Association \u83ef\u6e90\u6703, whose members seem to be largely new PRC immigrants to Singapore. It's head, property tycoon \u738b\u6cc9\u6210 has been invited to be a special observer at the CPPCC (\u4e2d\u592e\u653f\u5354). Head of the Tianfu Association \u5929\u5e9c\u6703, Du Zhiqiang \u675c\u5fd7\u5f37, has been invited to be a special observer at the Sichuan CPPCC (\u56db\u5ddd\u653f\u5354).",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/world/2018-03/03/c_1122481843.htm",
+                    "http://world.people.com.cn/n1/2018/0303/c1002-29845671.html",
+                    "http://www.singapore-china.org/about_ssfa.shtml",
+                    "http://www.sctyzx.gov.cn/m/tzzx/202011/54266144.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nas.gov.sg/archivesonline/photographs/record-details/189e3375-1162-11e3-83d5-0050568939ad",
+                    "http://www.cccsingapore.org/en/index.php?s=%2Fhome%2Findex%2Fbaodao_neirong%2Fid%2F23.html",
+                    "https://www.artist.com.sg/artist-ren-jian-hui/",
+                    "https://en.artassociation.asia/master/chenchudian/",
+                    "http://www.bjbiennale.com.cn/en/ExhibitionNews/202011/t20201105_514776.html",
+                    "http://www.xinhuanet.com/english/2019-11/01/c_138521629.htm",
+                    "https://sagg.info/event/solo-exhibition-by-jin-jie/",
+                    "http://www.innoworld.com.sg",
+                    "https://www.nac.gov.sg/whatwedo/engagement/capabilityDevelopment/professionalDevelopment/careerNArtisticDevelopment/literaryArts/Lu-Xun-Academy-International-Writing-Programme-For-Singapore-Writers.html",
+                    "https://www.straitstimes.com/singapore/completed-china-cultural-centre-to-boost-arts-exchange",
+                    "http://www.chinadaily.com.cn/world/2010-01/29/content_9398136.htm",
+                    "http://en.chinaculture.org/2017-08/17/content_1055836.htm",
+                    "http://www.singapore-china.org/profile/selected10.shtml",
+                    "http://huayuanassociation.com/zh/"
+                ],
+                "note": "Connections are not just with local individuals and independent groups, but state agencies as well. There are some official collaborative projects. However, the reach of these groups tend to be more specialized so far.",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Yes, often through temple lineages and associations, including the Meizhou Mazu temple (\u6e44\u6d32\u5abd\u7956\u5edf) network. These have links with Malaysia and Taiwan as well--including groups in Taiwan identified as being closely tied to the CCP or local agents of the PRC.",
+                "evidence_urls": [
+                    "http://huayuanassociation.com/zh/category/\u6700\u65b0\u6d3b\u52a8/",
+                    "https://jamestown.org/program/a-preliminary-survey-of-ccp-influence-operations-in-singapore/",
+                    "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA200/RRA290-1/RAND_RRA290-1.pdf"
+                ],
+                "note": "Please allow uploading of images from social media posts.",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "Streaming devices are available relatively cheaply in Singapore, making any PRC distribution less competitive. There are anecdotal reports of the distribution of cheap OTT devices streaming PRC programmes, but they have to compete with other devices. The popularity of devices distributed by PRC-related entities is difficult to track.",
+                "evidence_urls": [
+                    "https://iprice.sg/tv-video-dvd/streaming-media-players/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Portrayal of the PRC in a positive light and Hong Kong and Taiwan in a negative light may also have to do with the discouragement of more democratic expectations among the local population. These tend to be TV or radio shows, they do not all have links that can be reproduced.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Entertainment in Singapore is generally separate from politics due to social control by the state. There may be sporadic sharing of pro-PRC positions or non-opposition to being labelled similarly to a PRC citizen (see JJ Lin above), but this tends not to be publicly evident.",
+                "evidence_urls": [
+                    "https://www.zaobao.com.sg/zentertainment/celebs/story20190223-934405"
+                ],
+                "note": "If entertainers demonstrate open political support for any group, this is usually the ruling People's Action Party. Apart from a few individuals (eg. JJ Lin, Stephanie Sun, Tanya Chua etc), Singapore also tends to have few major celebrities.",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://drive.google.com/file/d/1IdrFCworxPZgPcPnuAKi9lP6CtTEcz7t/view"
+                ],
+                "note": "Singapore only has one level of government, broadly speaking. However, it is significant that national-level political figures occasionally will play up the PRC line.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Views of the PRC are mixed in Singapore, but there is a general view of the PRC as holding great commercial opportunity and technological prowess even if quite a sizable number of people (likely a minority, however) are suspicious of the PRC's intentions. Seen from a recent Pew poll, a majority of people from Singapore seem to hold positive views of the PRC. Some of this may be due to the media content they receive, given that Singapore mainstream media is quite positive of the PRC and there is quite a bit of pro-China programming from the PRC, Taiwan, and Hong Kong. Some people in Singapore are drawn to the PRC as a site for \"Asian values.\" Non-commercial elite/expert views tend to be more suspicious towards the PRC (see the expert poll from the Institute of Southeast Asian Studies above).",
+                "evidence_urls": [
+                    "https://www.iseas.edu.sg/wp-content/uploads/2021/01/The-State-of-SEA-2021-v2.pdf",
+                    "https://www.iseas.edu.sg/articles-commentaries/aseanfocus/the-state-of-southeast-asia-2020-survey-report/",
+                    "https://www.pewresearch.org/fact-tank/2021/06/30/chinas-international-image-remains-broadly-negative-as-views-of-the-u-s-rebound/"
+                ],
+                "note": "There is also some conflation between the PRC state and immigrants from the PRC. There is some resistance to PRC immigrants, but that does not equate to views of the commercial promise of the PRC state.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "Major military and law enforcement equipment is predominantly sourced from the United States, Europe, United Kingdom, Israel, or self-made. There is some Russian equipment, but no known PRC equipment so far.",
+                "evidence_urls": [],
+                "note": "Maintaining access to advanced US and NATO-standard technologies places limits on equipment purchases from the PRC, given security concerns.",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "Singapore Technologies Kinetics (STK) had a subsidiary, Guizhou Jonyang Kinetics (GJK), that produced a tracked personnel carrier based on STK's Bronco. STK sold GJK in 2016, but production and development of the vehicle continues. The vehicle recently saw service in Tibet and in support of PLA troops deployed in the Himalayas.",
+                "evidence_urls": [
+                    "http://www.military-today.com/trucks/jonyang_jy813.htm",
+                    "https://www.scmp.com/news/china/military/article/3118339/chinas-military-uses-new-all-terrain-vehicle-get-supplies",
+                    "https://www.globalsecurity.org/military/world/china/jm-8.htm",
+                    "https://twgreatdaily.com/zh-cn/_T1eCnEBnkjnB-0zVfqa.html",
+                    "https://www.bdapartners.com/transaction/bda-advises-st-kinetics-on-sale-of-its-60-stake-in-guizhou-jonyang-kinetics-to-gicam/",
+                    "https://www.youtube.com/watch?v=PzwQw9ses4Y",
+                    "https://www.armyrecognition.com/defense_news_january_2021_global_security_army_industry/chinese_army_commissions_jonyang_jy813_new_all-terrain_vehicle_for_high-altitude_logistics_support.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "Singapore Technologies Kinetics previously was in a joint venture with Guizhou Zonyang Kintetics. This collaboration allegedly produced a Bv206 style tracked all-terrain tracked transporter, similar to the Bronco used by the Singapore armed forces. Singapore Kinetics reportedly sold its stake in Guizhou Zonyang Kinetics in 2016. It is unclear if other collaboration continues. The vehicle is reportedly in use on the Tibetan plateau. The latest report on co-development is from the SCMP in January 2021.",
+                "evidence_urls": [
+                    "https://www.globalsecurity.org/military/world/china/jm-8.htm",
+                    "https://www.cccme.cn/shop/cccme12302/introduction.aspx",
+                    "https://www.bdapartners.com/transaction/bda-advises-st-kinetics-on-sale-of-its-60-stake-in-guizhou-jonyang-kinetics-to-gicam/",
+                    "https://www.scmp.com/news/china/military/article/3118339/chinas-military-uses-new-all-terrain-vehicle-get-supplies"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "There are reports of PRC interest in basing. There is little independent corroboration, however.",
+                "evidence_urls": [
+                    "https://www.thinkchina.sg/will-china-establish-military-bases-southeast-asia"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "A Singapore Ministry of Defence press release from October 20, 2019 reports the signing of a Memorandum of Understanding on Academic Exchanges between SAFTI-MI and the PLA Academy of Military Sciences.",
+                "evidence_urls": [
+                    "https://www.channelnewsasia.com/news/singapore/singapore-china-sign-ng-eng-hen--defence-agreement-scale-up-army-12018308",
+                    "https://thediplomat.com/2019/10/why-the-new-china-singapore-defense-agreement-matters/",
+                    "https://www.straitstimes.com/asia/east-asia/singapore-china-ministers-ink-upgraded-defence-pact",
+                    "https://www.scmp.com/news/asia/diplomacy/article/3033756/singapore-and-china-sign-agreement-boost-defence-cooperation",
+                    "https://www.nas.gov.sg/archivesonline/data/pdfdoc/MINDEF_20191020001.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "Unsure about training kept in the quiet.",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/singapore/george-yeo-to-retire-as-kerry-logistics-networks-chairman",
+                    "https://www.thenewslens.com/article/150452",
+                    "https://www.yicai.com/news/100130297.html",
+                    "https://www.thenewslens.com/article/150452"
+                ],
+                "note": "There are unverified reports of retired senior Singapore Armed Forces personnel working in China, including at Chinese firms. The nature of what they do is unclear. However, there is the prominent case of George Yeo, former Brigadier General and former Foreign Minister, joining the senior management of the Kerry Group. The Kerry Group reportedly has close ties with the CCP and its chairperson is a CPPCC member. Yeo's public writings have taken a clear pro-PRC turn.",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "Not openly. ",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "The Singapore Armed Forces conducts periodic military exercises with the PLA.",
+                "evidence_urls": [
+                    "https://www.straitstimes.com/asia/east-asia/larger-scale-military-exercises-in-store-as-singapore-and-china-upgrade-defence-pact",
+                    "https://www.straitstimes.com/singapore/saf-and-pla-jointly-conduct-counter-terrorist-urban-raid-to-wrap-up-10-day-exercise",
+                    "https://www.globaltimes.cn/page/202102/1216628.shtml",
+                    "https://www.channelnewsasia.com/news/singapore/singapore-china-peoples-liberation-army-military-exercise-11758952",
+                    "https://www.channelnewsasia.com/news/singapore/singapore-china-sign-ng-eng-hen--defence-agreement-scale-up-army-12018308",
+                    "https://www.scmp.com/news/china/military/article/3122895/china-and-singapore-start-joint-naval-drills-beijing-boosts",
+                    "https://www.newsweek.com/singapore-holds-naval-drill-china-us-remains-top-security-partner-1571940",
+                    "https://mothership.sg/2020/04/singapore-mindef-covid-19-china-pla/"
+                ],
+                "note": "Joint exercises seem to be increasing in frequency, size, and sophistication over the years.",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/policies-politics/article/1791773/china-repatriates-no-2-sky-net-fugitive-official-who",
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39788692.pdf",
+                    "https://sso.agc.gov.sg/SL/EA1968-N1?DocDate=20000131",
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39355524.pdf",
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39788741.pdf",
+                    "https://www.oecd.org/site/adboecdanti-corruptioninitiative/39368700.pdf"
+                ],
+                "note": "There are no formal extradition arrangements between Singapore and the PRC. However, there was at least one past case of individuals sent back to the PRC on the request of Beijing. Singapore has an extradition agreement with Hong Kong, however.",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-07/28/c_138263458.htm"
+                ],
+                "note": "There is no publicly available information on counter-terrorism cooperation through law enforcement. Counter-terrorism cooperation occurs through the Singapore Armed Forces and the People's Liberation Army.",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2021/03/22/world/winson-north-korea-oil-tankers.html",
+                    "https://www.youtube.com/watch?v=hDTCHdcPYTQ",
+                    "https://www.nytimes.com/video/world/asia/100000007422226/north-korea-winson-oil-tanker.html",
+                    "https://www.maritime-executive.com/article/u-s-moves-to-seize-tanker-used-in-illicit-north-korean-trade",
+                    "https://www.gtreview.com/news/asia/singapore-oil-trader-denies-alleged-role-in-sanctioned-north-korean-trade/"
+                ],
+                "note": "Little information is available publicly about secret societies and criminal gangs in Singapore. There are, however, periodic reports about the collusion of Singapore firms with illegal activities relating to the PRC. They include the illegal sale of oil and other products to the DPRK, via China and Taiwan, in contravention of UN embargoes.",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "See incidents below.",
+                "evidence_urls": [
+                    "https://www.justice.gov/opa/pr/chinese-citizen-convicted-economic-espionage-theft-trade-secrets-and-conspiracy",
+                    "https://www.reuters.com/article/us-usa-china-spy-singapore/singapore-spy-case-reawakens-fears-china-recruiting-on-island-state-idUSKCN24T0ZV",
+                    "https://www.scmp.com/week-asia/politics/article/3137332/singapore-academic-dickson-yeo-who-spied-us-china-detained",
+                    "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/06/15/singaporean-dickson-yeo-who-spied-for-china-continues-to-be-held-under-isa",
+                    "https://www.singaporelawwatch.sg/Headlines/isd-detains-sporean-dickson-yeo-who-spied-for-china-for-acting-as-paid-agent-of-foreign-state",
+                    "https://www.todayonline.com/singapore/singaporean-dickson-yeo-who-spied-china-us-tried-gather-info-singapore-foreign-handlers",
+                    "https://www.justice.gov/opa/pr/singaporean-national-pleads-guilty-acting-united-states-illegal-agent-chinese-intelligence",
+                    "https://www.justice.gov/opa/pr/singaporean-national-sentenced-14-months-prison-acting-united-states-illegal-agent-chinese",
+                    "https://www.todayonline.com/singapore/ministry-home-affairs-full-statement-huang-jing",
+                    "https://www.todayonline.com/world/huang-jing-chinese-american-academic-expelled-singapore-working-beijing-and-has-no-hard",
+                    "https://www.straitstimes.com/singapore/lky-school-professor-huang-jing-banned-has-pr-cancelled-for-being-agent-of-influence-for"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "See below.",
+                "evidence_urls": [
+                    "https://www.zdnet.com/article/hacker-group-behind-singhealth-data-breach-identified-targeted-mainly-singapore-firms/",
+                    "https://www.channelnewsasia.com/news/singapore/singhealth-hack-whitefly-cyber-espionage-group-symantec-11317330",
+                    "https://www.todayonline.com/singapore/mindef-internet-system-hacked-personal-data-850-personnel-stolen",
+                    "https://www.straitstimes.com/singapore/healthcare-training-provider-hmi-institutes-server-infected-by-ransomware",
+                    "https://www.channelnewsasia.com/news/singapore/singtel-assessing-hack-data-breach-third-party-file-system-14168814",
+                    "https://www.channelasia.tech/article/686732/singapore-airlines-warns-frequent-flyer-members-third-party-data-breach/",
+                    "https://www.zdnet.com/article/singapore-airlines-customer-logs-into-account-sees-strangers-personal-data/",
+                    "https://mustsharenews.com/data-breaches-singapore/",
+                    "https://www.ft.com/content/4443da60-6d90-4d27-b300-b0896425f99f",
+                    "https://www.straitstimes.com/singapore/more-than-1500-singpass-accounts-could-have-been-accessed-illegitimately-ida",
+                    "https://www.bbc.com/news/world-asia-44900507",
+                    "https://www.channelnewsasia.com/news/singapore/singapore-investor-watchdog-sias-uncovers-personal-data-breach-10562884",
+                    "https://www.straitstimes.com/tech/tech-news/nearly-400-servers-here-at-risk-from-global-microsoft-hack",
+                    "https://www.channelasia.tech/article/659206/singapore-government-credentials-found-dark-web/",
+                    "https://www.channelnewsasia.com/news/technology/login-details-of-singapore-government-email-accounts-found-in-11366204",
+                    "https://www.zdnet.com/article/axa-insurance-data-breach-hits-5400-customers-in-singapore/",
+                    "https://www.forbes.com/sites/thomasbrewster/2021/06/10/are-the-fbis-most-wanted-chinese-spies-hacking-the-airline-industry/?sh=6fd61def237d"
+                ],
+                "note": "Contacts in the tech and security industry report regular probes of Singapore cybersystems by suspected PRC-backed entities. There has been no smoking gun or official assigning of culpability by the Singapore state, however.",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2018/07/20/world/asia/vietnam-will-nguyen.html"
+                ],
+                "note": "There have been no reports of triad pressure activities linked to the PRC, but William Nguyen reported on facebook that Chinese embassy officials tried to find out more about him after his arrest in Vietnam for protesting Chinese influence.",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": " Hikvision cameras observed at Changi Airport.",
+                "evidence_urls": [
+                    "https://titan-sg.com/",
+                    "https://www.straitstimes.com/singapore/courts-crime/new-technology-to-help-police-fight-crime-and-enforce-law",
+                    "https://sg.news.yahoo.com/90000-police-cameras-installed-singapore-shanmugam-102536548.html"
+                ],
+                "note": "Seems like there is some licensing by the Singapore Police Force for digital surveillance products and admiration for the PRC system by the Home Affairs Minister.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "No known instance.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "No known instance, although Singapore may warn citizens privately.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No",
+                "evidence_urls": [],
+                "note": "No known instance yet.",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "There have been repatriations, but opposition was muted given the tight control of civil society in Singapore. The bus drivers repatriated for an \"illegal strike\" over wages and conditions saw limited local civil society opposition criticism over their repatriation. The point of contention was over the justness and fairness of such as move.\n\nDuring the Cold War, the Singapore state had a history of deporting ethnic Chinese it deemed \"leftist\" to the PRC. This was the source of some controversy, as some had claim to be Singapore citizens. This was a time after independence when there was campaigning for ethnic Chinese residents of Singapore to be considered citizens. Their status was ambiguous from the colonial period on. (See https://eresources.nlb.gov.sg/infopedia/articles/SIP_163_2005-01-22.html) Others left on their own accord, given affinity to the Communist regime. The most prominent of these returnees being tycoon Tan Kah Kee \u9673\u5609\u5e9a. (https://www.tkkfoundation.org.sg/biography)",
+                "evidence_urls": [
+                    "https://www.todayonline.com/chinaindia/china/ex-chinese-govt-official-who-fled-singapore-sentenced-life-imprisonment",
+                    "https://www.scmp.com/news/china/policies-politics/article/1791773/china-repatriates-no-2-sky-net-fugitive-official-who",
+                    "https://www.straitstimes.com/singapore/transport/all-29-ex-smrt-bus-drivers-from-china-repatriated-on-dec-2",
+                    "https://www.jstor.org/stable/43863101",
+                    "https://eresources.nlb.gov.sg/infopedia/articles/SIP_163_2005-01-22.html",
+                    "https://www.tkkfoundation.org.sg/biography"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Singapore had a GDP per capita of US $59,797.75 and a total population of 5.69 million people and a resident population of 4.04 million people, with the resident Chinese population comprising 3 million people, or 52.7% of the total population. Publicly available official statistics do not list the ethnicity for the non-residents on various types of work and short-term visas.",
+    "description-2": "Singapore established diplomatic relations with the People Republic of China in 1990. Singapore was ranked 160th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 48/100.  "
+}

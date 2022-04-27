@@ -1,0 +1,973 @@
+{
+    "name": "Japan",
+    "partner": "National Bureau Of Asian Studies",
+    "year": "2021",
+    "GDP": "$40,146.07",
+    "population": "126.47M",
+    "original": "105/380",
+    "ranking": "28",
+    "overall": "28%",
+    "effect": "2%",
+    "exposure": "33%",
+    "pressure": "59%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "The link shows that Japan has five media sources that are members, none of which are widely known in Japan.",
+                "evidence_urls": [
+                    "https://worldchinesemedia.com/2015/05/12/56/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "The member list of Belt and Road Media Community has Rakuten VIKI USA as its Council Members. This seems to be the USA branch, but Rakuten is a Japanese company.\n\nBelt and Road News Alliance does not have a member from Japan.",
+                "evidence_urls": [
+                    "http://brmc.chnpec.com/en/member.shtml",
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Although there is no media people who have had trainings in China as far as I know, some of those who are working for CCP-influenced news outlets might have had some training. When CCP invited reporters from overseas for 10 months training in 2018, for example, it did not include anybody from Japan.\n\nhttps://www.epochtimes.jp/p/2018/11/38142.html",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://japanese.china.org.cn/\u3000",
+                    "http://j.people.com.cn/index.html\u3000",
+                    "http://jp.xinhuanet.com/index.htm\u3000",
+                    "https://china-news.co.jp/",
+                    "http://ja.ce.cn/\u3000"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "2",
+                "evidence": "The linked outlets are either wholly or partly owned by PRC citizens or corporations. See also: Source: Maiko Ichihara, \"Chapter 1. Influence Activities of Domestic Actors on the Internet: Disinformation and Information Manipulation in Japan\" in Asia Democracy Research Network, Social Media, Disinformation, and Democracy in Asia: Country Cases (2020), pp.1-29. http://adrnresearch.org/publications/list.php?cid=1&sp=%26sp%5B%5D%3D1%26sp%5B%5D%3D2%26sp%5B%5D%3D3&pn=1&st=&code=&at=view&idx=118&ckattempt=1 \u3000",
+                "evidence_urls": [
+                    "https://www.recordchina.co.jp/",
+                    "http://www.searchina.net/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "See below article. Expert has also conducted an interview with a media influence specialist on this topic in October 2019.",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/12/is-japan-immune-from-chinas-media-influence-operations/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "I\u2019m not sure if we can say regular, but PRC does insert advertisements in Mainichi Shimbun newspaper occasionally.",
+                "evidence_urls": [
+                    "https://wedge.ismedia.jp/articles/-/15989?page=3 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "The Japan-China Friendship Parliamentarians' Union (\u65e5\u4e2d\u53cb\u597d\u8b70\u54e1\u9023\u76df, Nitch\u016b Y\u016bk\u014d Giin Renmei) has friendly relations with the Chinese government and the CCP.",
+                "evidence_urls": [
+                    "http://japanese.cri.cn/20190505/8a3a3095-493e-5836-1f82-2c3dae45a4f7.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Representatives from members of the ruling coalition (the LDP and Komeito) regularly visit China to meet with Chinese leaders. The third article does not to involve Noda Seiko acting on behalf of the LDP. Instead, the focus of the visit seems to be on inviting female members of the National Diet, regardless of party affiliation.",
+                "evidence_urls": [
+                    "http://www.china-embassy.or.jp/jpn/zrdt_1/t778357.htm ",
+                    "https://www.nikkei.com/article/DGXMZO25012510T21C17A2EA4000/ ",
+                    "http://www.china-embassy.or.jp/jpn/zrdt_1/t1693673.htm; ",
+                    "https://www.komei.or.jp/komeinews/p39061/",
+                    "https://www.nikkei.com/article/DGXMZO48746980Q9A820C1EAF000/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "https://www.mofa.go.jp/mofaj/area/china/kyosanto_koryu.html\n\nThe Japanese Ministry of Foreign Affairs has established an advanced joint exchange program with the CCP's Central Party School. There has been a total of 19 exchanges between the two countries, the most recent of which was in 2009. Whether this continues in the present is less clear. ",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "https://www3.nhk.or.jp/news/html/20210708/k10013127781000.html \n\nThe Japanese vice minister in charge of the cabinet office overseeing IR (Integrated Resorts), received bribes from a Chinese company, 500.com, in Shenzhen. Japanese law dictates that it is illegal for individual political candidates to receive any funds from corporations or individuals. Japanese prosecutors therefore only have to prove that politicians such as Akimoto Tsukasa received the funds from 500.com in order to obtain a conviction. As a result, there is no public evidence of Akimoto changing stance as a result of receiving the funds.",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "Notable cases include the detention of Nobu Iwatani, a professor of history at Hokkaido University, in late 2019.",
+                "evidence_urls": [
+                    "https://www.japantimes.co.jp/news/2019/11/15/national/crime-legal/hokkaido-university-professor-held-spying-released-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "See below comment."
+                ],
+                "note": "There is not much publicly available information on this having happened in recent years.",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Japan has publicly urged China to accept the 2016 ruling.",
+                "evidence_urls": [
+                    "https://english.kyodonews.net/news/2021/07/c84ed9899b81-japan-us-urge-china-to-comply-with-tribunal-ruling-on-s-china-sea.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Japan has publicly expressed concerns about China\u2019s conduct in Xinjiang.",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Politics/International-relations/Japan-trades-words-with-China-over-Uyghurs-and-Hong-Kong"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "The All-Party Japanese Parliamentary Support Group for Tibet has engaged in a number of activities in support of Tibet\u2019s government in exile",
+                "evidence_urls": [
+                    "https://in.news.yahoo.com/japanese-lawmakers-pledge-mobilize-efforts-112203684.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "Japan has expressed concern over the situation in Hong Kong.",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Politics/International-relations/Japan-trades-words-with-China-over-Uyghurs-and-Hong-Kong"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "See below articles. ",
+                "evidence_urls": [
+                    "https://toyokeizai.net/articles/-/269981 ",
+                    "https://www.rfa.org/english/news/china/japan-pla-research-11302020174438.html",
+                    "https://www.u-tokyo.ac.jp/content/400095537.pdf",
+                    "https://www.nikkei.com/article/DGXLASFB14H01_U5A011C1MM0000/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "2",
+                "evidence": "See below articles. ",
+                "evidence_urls": [
+                    "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/200722_Stewart_GEC_FINAL_v2%20UPDATED.pdf ",
+                    "https://www.yomiuri.co.jp/politics/20210531-OYT1T50143/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "See below article.",
+                "evidence_urls": [
+                    "http://www.brsn.net/list/zhikujigou_en/index_4.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://toyokeizai.net/articles/-/269981"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "2",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://www.yomiuri.co.jp/politics/20201231-OYT1T50192/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://spc.jst.go.jp/policy/talent_policy/Tmpstaffing/tmpstaff_05.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "It is hard to tell how extensive/significant the censors of CSSA is in Japan. However, the following Asahi Shimbun report shows that the Japanese authority thinks students\u2019 spying is negligible:\nhttp://www.asahi.com/ajw/articles/13894385\n\n\nAnd the following dated source shows that Chinese students are utilized to spy on each other in Japan. However, the extent to which such spy activities are conducted is believed to be less extensive compared to English-speaking countries.\nhttps://www.news-postseven.com/archives/20151120_361515.html?DETAIL\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/pages/%E5%85%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%AD%A6%E8%80%85%E9%80%A3%E5%90%88%E4%BC%9A/105349997526636",
+                    "https://www.facebook.com/li.shen.1023"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "4",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://globe.asahi.com/article/14357341"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.kaigisho.com/jcf/pdf-city-list.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.jiji.com/jc/graphics?p=ve_pol_doubt-ircorruption-fundflow"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://president.jp/articles/-/41480?page=2",
+                    "https://www.newsweekjapan.jp/stories/world/2019/04/post-12054.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.nhk.or.jp/politics/articles/statement/28492.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://jamestown.org/program/a-preliminary-survey-of-ccp-influence-operations-in-japan/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "There are some Japanese politicians who express positive views of the PRC occasionally, but they are clearly a minority in Japan. And those who show positive views tend to be top leaderships of parties, especially in Komeito and LDP. Such expressions are normally as a part of diplomatic protocol, and those who omit the messages are normally not coopted by PRC.",
+                "evidence_urls": [
+                    "https://www.sankei.com/article/20210702-N35EAXRDLNIG7AEUHTGO2DW4WA/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "evidence": "See below link. ",
+                "evidence_urls": [
+                    "https://www.beronigroup.com/2019/04/16/beroni-group-was-invited-by-the-former-japanese-prime-minister-yukio-hatoyama-to-participate-in-the-japan-china-belt-and-road-fraternity-forum/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "See below link. ",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountryProfile/en/Country/JPN/Year/2017/TradeFlow/EXPIMP/Partner/by-country"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "A prominent example is China\u2019s temporary ban on the export of rare earth elements to Japan in 2010.\n\nThe second article details threats as a result of the contents of maps included in in-flight magazines. ",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2010/09/23/business/global/23rare.html",
+                    "https://toyokeizai.net/articles/-/231277 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "One example of such coercion involves clothing retailers Muji and Uniqlo",
+                "evidence_urls": [
+                    "https://www.bloomberg.com/news/articles/2021-03-26/muji-operator-tumbles-as-brand-seen-at-risk-of-china-boycott "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.weeklybcn.com/journal/news/detail/20180603_162606.html",
+                    "https://classmethod.jp/partner/cmi/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Business/Companies/Japan-s-4-carriers-to-shun-Chinese-5G-tech",
+                    "https://www.institutmontaigne.org/en/blog/japans-5g-mirror-europe",
+                    "https://www.ztedevices.com/jp/",
+                    "https://www.huawei.com/jp/"
+                ],
+                "note": "Nikkei Article behind paywall: \n\nJapan's 4 carriers to shun Chinese 5G tech\nDocomo and KDDI join SoftBank in ditching Huawei and ZTE\n\nA pilot base station developed by Huawei on the roof of a building in Tokyo.\n\nMINORU SATAKE, Nikkei staff writerDecember 10, 2018 21:11 JSTUpdated on December 11, 2018 04:25 JST\nTOKYO -- Japan's three main mobile phone carriers SoftBank Group, NTT Docomo and KDDI have decided not to use Chinese equipment in their 5G networks due to rising security concerns that spurred the Japanese government to block Huawei Technologies and other Chinese companies from public procurement.\n\nE-commerce company Rakuten, which will become Japan's fourth wireless carrier next year, is also shunning China, stating that \"there are no plans to use Chinese telecommunication equipment.\" The company will use Nokia products for its 4G network.\n\nThese moves will be a major blow to Huawei, which has been moving aggressively into Japan's telecom and smartphone markets.\n\nTokyo on Monday essentially banned Chinese telecom purchases by central government ministries and its Self-Defense Forces starting in April. \"It's extremely important to avoid buying equipment that includes malicious functions like stealing or destroying information or halting information systems,\" Prime Minister Shinzo Abe told reporters.\nWashington has already banned Huawei and ZTE from the U.S. 5G market, and has imposed sanctions on Chinese companies for their dealings with Iran. It will also bar companies that use products from certain Chinese companies from doing business with government agencies starting in 2020 -- a concern for SoftBank and the NTT group as they look to expand abroad.\n\nThe Japanese government currently does not restrict such purchases by private-sector companies. But with pressure from the U.S. mounting, carriers face the possibility that this could change.\n\nJapanese telecoms plan to start testing 5G next year with the goal of a full-scale rollout of commercial service in 2020. Carriers, needing to choose suppliers for orders to be placed next spring, decided against taking the risk of buying from companies that could ultimately be barred from the market.\n\nTechnology conglomerate SoftBank, the only major telecom in the country that uses Huawei and ZTE equipment in its 4G systems, will determine whether it has to find other makers. SoftBank had been partnering with Huawei in 5G trials, and it has worked mainly with the Chinese company's base stations when honing its 5G know-how. Choosing a different supplier could delay its plans.\n\nMeanwhile, Docomo and KDDI do not use Chinese equipment for 4G. While Docomo has been running 5G trials with Huawei, the company has decided not to use Chinese-made equipment in its 5G network, due partly to technical hurdles. KDDI also plans to continue avoiding Chinese equipment.\n\nNTT Docomo and KDDI have decided to follow the lead of SoftBank in deciding not to use Chinese equipment in their 5G networks due to rising security concerns.\n\nHuawei's market share for the country's base station sales jumped to 13% in fiscal 2017 from 4% in 2016, according to Tokyo-based research company MCA -- an increase mainly fueled by SoftBank, according to Taro Daimon, an analyst at MCA. Huawei accounted for about 60% of the carrier's base station installations by value in fiscal 2017.\n\nTakuya Kamei, senior researcher at Nomura Research Institute, said Japanese telecoms will be able to meet their 5G rollout goals by procuring equipment from other vendors. All three majors are expected to commercialize 5G services before the 2020 Olympics in Tokyo.\n\n\"Companies will be able to obtain the necessary equipment,\" because none of them are solely reliant on Huawei, he said.\n\nBut given that the transition to 5G typically involves upgrading some existing 4G infrastructure, the decision to steer clear of Chinese suppliers \"will be a major blow to SoftBank, which has Chinese 4G equipment,\" MCA's Hironori Amano said.\n\nWhile no companies have indicated plans to halt sales of Huawei handsets, the Chinese maker's reputation has been tarnished. Huawei surpassed Apple this year to become the second-largest smartphone maker in the world, and has been making a big push in Japan, launching flagship models such as the P20 Pro.\n\nJim Xu, Vice President of Huawei's consumer unit, told the Nikkei Asian Review in late November that the company plans to cultivate the Japanese market by opening dedicated Huawei booths in retail shops.\n\nWashington informed Tokyo and other allies of the risks posed by Chinese information technology equipment and urged them to block Huawei and ZTE from their markets, a Japanese government source said. Australia and New Zealand have already banned Chinese makers from building their 5G networks, and Britain's BT Group has said it will not use Huawei equipment in the core of its 5G infrastructure.\n\nUnlike the U.S. ban, Japan's new procurement guidelines do not single out any specific country or company by name. The World Trade Organization bars such discrimination in public procurement, and while exceptions can be made when security concerns exist, whether Huawei meets that threshold remains unclear.\n\nJapan may also be leery of damaging its relationship with China. \"It is very important for our two countries to develop a relationship of friendship and cooperation,\" said Chief Cabinet Secretary Yoshihide Suga.\n\nGovernment agencies will need to survey their IT equipment to ensure it complies with the new guidelines, expected to take effect in about three months. Any equipment that poses a security risk must be removed or replaced.\nIT and telecom companies are starting to conduct their own reviews to see if any Chinese parts or products were included in equipment sold to the central government.\n\n\"It's technologically possible to intercept [information] through telecom equipment,\" said Goh Tokida, a security consultant at NRI SecureTechnologies. By inserting chips or modifying software, bad actors can collect information traveling through certain communication channels, he said.\n\nNTT Data, which develops systems related to the new \"My Number\" national identification program, is among those looking to get a head start on the process. The company says it \"cannot completely rule out the possibility\" that it used products from China.\n\nNEC, which builds its own telecom equipment in-house, says it basically does not use equipment from China. But other Japanese companies within its supply chain may have outsourced production to Chinese manufacturers, and NEC is considering how to check for such cases.\n\nNikkei staff writers Jada Nagumo, Akihide Anzai, Wataru Suzuki, Akane Okutsu, Yukio Tajima, Isao Horikoshi and Yusuke Hinata contributed to this article.\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.nhk.or.jp/politics/articles/lastweek/38326.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "\u4e2d\u56fd\u3001\u30c7\u30fc\u30bf\u898f\u5236\u3078\u65b0\u6cd5\u3000\u5916\u56fd\u4f01\u696d\u3082\u5bfe\u8c61\u306b\u7c73\u4e2d\u5bfe\u7acb\u5148\u92ed\u5316\u306e\u61f8\u5ff5\n\n\u3010\u5317\u4eac=\u591a\u90e8\u7530\u4fca\u8f14\u3011\u4e2d\u56fd\u306f\u653f\u5e9c\u3084\u4f01\u696d\u304c\u6271\u3046\u30c7\u30fc\u30bf\u306e\u7ba1\u7406\u3092\u53b3\u3057\u304f\u3059\u308b\u65b0\u6cd5\u3092\u5236\u5b9a\u3059\u308b\u3002\u6539\u3056\u3093\u3084\u4e0d\u6b63\u5229\u7528\u3067\u56fd\u5bb6\u5b89\u5168\u4fdd\u969c\u3092\u640d\u306d\u308b\u3068\u5224\u65ad\u3059\u308c\u3070\u7f70\u5247\u3092\u79d1\u3059\u3002\u56fd\u5916\u306e\u7d44\u7e54\u3084\u500b\u4eba\u306b\u3088\u308b\u30c7\u30fc\u30bf\u53ce\u96c6\u3082\u5bfe\u8c61\u3067\u3001\u5916\u56fd\u4f01\u696d\u3067\u306f\u8b66\u6212\u3082\u5e83\u304c\u308b\u3002\u56fd\u3084\u4f01\u696d\u306e\u7af6\u4e89\u529b\u3092\u5de6\u53f3\u3059\u308b\u30c7\u30fc\u30bf\u6d3b\u7528\u306b\u5f71\u97ff\u304c\u51fa\u308b\u306e\u306f\u5fc5\u81f3\u3067\u3001\u7c73\u4e2d\u5bfe\u7acb\u3092\u5148\u92ed\u5316\u3055\u305b\u308b\u61f8\u5ff5\u3082\u3042\u308b\u3002\n\n\u65b0\u6cd5\u306e\u540d\u79f0\u306f\u30c7\u30fc\u30bf\u5b89\u5168\u6cd5\uff08\u30c7\u30fc\u30bf\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30fc\u6cd5\uff09\u3002\u4e2d\u56fd\u306e\u30c7\u30fc\u30bf\u306e\u53d6\u308a\u6271\u3044\u306b\u304b\u304b\u308f\u308b\u521d\u3081\u3066\u306e...\n\nThe above is from the article behind the paywall.",
+                "evidence_urls": [
+                    "https://www.nikkei.com/article/DGKKZO61883120S0A720C2MM8000/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The following shows that, while cities are not signing contracts with PRC for smart cities, the Japanese government has. In that sense, the 0 above does not mean the absence of worry. The fear can be understood as more substantial.\n\nhttps://www.nhk.or.jp/politics/articles/statement/22158.html\n\nhttps://www.mlit.go.jp/report/press/toshi02_hh_000060.html\n",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.nri.com/jp/knowledge/blog/lst/2020/fis/kiuchi/0206",
+                    "https://www.bk.mufg.jp/news/news2019/pdf/news0627.pdf",
+                    "https://www.mizuhobank.co.jp/corporate/world/info/cndb/rmb/index.html",
+                    "https://www.smbc.co.jp/news/j602132_01.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.fool.com/investing/2020/06/15/will-tencent-reduce-dependence-china-invest-japan.aspx",
+                    "https://www.bloomberg.com/news/articles/2020-05-25/tencent-to-become-largest-shareholder-in-japan-s-marvelous",
+                    "https://initial.inc/articles/global-startup-summary"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Top 5 apps: \n\nLINE: 77.4%\nTwitter: 38.5%\nInstagram: 35.7%\nYouTube: 23.2%\nFacebook: 21.7%\nTikTok: 8.1%\nSkype: 7.1%",
+                "evidence_urls": [
+                    "https://ja.wikipedia.org/wiki/LINE_(%E4%BC%81%E6%A5%AD)",
+                    "https://creatorzine.jp/news/detail/1254"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.sapc.jaxa.jp/work/international/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "4",
+                "evidence": "In addition to Sino-Japanese friendship organizations, all sorts of organizations for the \u201cPromotion of Peaceful Reunification\u201d have been founded by overseas Chinese in Japan and engage in related activities.",
+                "evidence_urls": [
+                    "http://jp.xinhuanet.com/2018-02/12/c_136968699.htm ",
+                    "http://japanese.cri.cn/20180206/2f748913-094e-40fe-aa29-3d4221d09197.html ",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202102/t20210226_12334326.html",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202106/t20210623_12361253.html",
+                    "http://www.chinaqw.com/hqhr/2020/06-03/258815.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "The representatives of the United World Chinese Association in Japan are \u99ae\u6c5d\u57ce, \u9ea5\u8000\u767c, and \u65b9\u4e94\u4e8c. \u99ae\u6c5d\u57ce is Taiwanese advisor to the Federation of Chinese Associations in Japan. \u9ea5\u8000\u767c is based in Yokohama and is a member of the Cantonese organization there.",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html ",
+                    "https://www.japan-taiwan.jp/organization ",
+                    "https://www.yokohama-chinese.gr.jp/yc/tx11-9.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "Historically speaking, Japanese labor unions like Kokuro\u2014the organization of national railway laborers\u2014were closely aligned with the Japanese Socialist Party, which had strong ties with the CCP. \nThe Association for Sino-Japanese Labor Exchange\uff08\u65e5\u4e2d\u52b4\u50cd\u8005\u4ea4\u6d41\u5354\u4f1a\uff09was founded in 1974 with the support of the Japanese Socialist Party to advance labor exchanges between China and Japan.\n",
+                "evidence_urls": [
+                    "https://rnavi.ndl.go.jp/kensei/tmp/index_asanumainejirou1.pdf  ",
+                    "http://www.chinalaborf.org"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "The UFWD has helped to organize the Association of Promotion of Peaceful Reunification in Japan and has many Chinese members in Japan.",
+                "evidence_urls": [
+                    "http://jp.xinhuanet.com/2018-02/12/c_136968699.htm ",
+                    "http://www.china-embassy.or.jp/jpn/tpxw/t1536661.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "Some PRC-connected professional associations have branches in Japan. For example, the Chinese Women\u2019s Federation in Japan.\n\nThe most prominent examples are the \u201cseven organizations\u201d under the umbrella of the Japan-China Friendship Association. See the second article.",
+                "evidence_urls": [
+                    "https://spc.jst.go.jp/cdb/group/detail/149 ",
+                    "https://www.j-cfa.com/information/5772/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "The PRC has had a lengthy history of exchanges with S\u014dka Gakkai, a major Buddhist sect in Japan.",
+                "evidence_urls": [
+                    "https://www.sokanet.jp/topics/2020-11-30-16734.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "The PRC has been engaged in some TV and radio broadcasts in Japan.",
+                "evidence_urls": [
+                    "http://japanese.cri.cn"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "Japan's Self-Defense Forces have a formal exchange program with the PLA National Defense University.",
+                "evidence_urls": [
+                    "https://www.mod.go.jp/msdf/navcol/SSG/topics-column/col-007.html ",
+                    "http://eng.mod.gov.cn/news/2018-08/02/content_4821607.htm",
+                    "http://military.people.com.cn/n1/2018/1129/c1011-30432067.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "Only rumors of such activities exist.",
+                "evidence_urls": [
+                    "See below comment."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Some 1.5 track dialogues have taken place with such officials, but it is hard to say that they are advocating for more coordination with the PLA.",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "There have been no war games or exercises, but there have been advanced exchanges of battleships and field officers.",
+                "evidence_urls": [
+                    "http://www.china-embassy.or.jp/jpn/jbwzlm/zrgx/t383140.htm",
+                    "https://www.spf.org/china/news/20191003.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.mofa.go.jp/mofaj/press/release/press4_005436.html",
+                    "https://ja.wikipedia.org/wiki/%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%BC%95%E6%B8%A1%E3%81%97%E6%9D%A1%E7%B4%84#%E6%97%A5%E6%9C%AC"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://toyokeizai.net/articles/-/436008"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www3.nhk.or.jp/news/html/20210420/k10012984761000.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Japan has a GDP per capita of US $40,146.07 and a total population of 126.47 million people, with the Chinese citizens (as foreign residents in the country) comprising 0.77 million people, or 0.615% of the total population.\u00a0",
+    "description-2": "Japan established diplomatic relations with the People Republic of China in 1972. Japan was ranked 67th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 96/100.\u00a0\u00a0"
+}

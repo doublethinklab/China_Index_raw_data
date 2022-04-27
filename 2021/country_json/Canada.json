@@ -1,0 +1,932 @@
+{
+    "name": "Canada",
+    "partner": "National Bureau Of Asian Studies",
+    "year": "2021",
+    "GDP": "$43,859.425",
+    "population": "38M",
+    "original": "137/396",
+    "ranking": "24",
+    "overall": "35%",
+    "effect": "15%",
+    "exposure": "39%",
+    "pressure": "54%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://nationalpost.com/news/canada/inside-canadas-chinese-language-media-beijing-has-become-the-mainstream-says-ex-sing-tao-editor ",
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone",
+                    "http://en.videochina.org.cn/2017/0417/4741.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/rolland-bri-influence-operations/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://ipolitics.ca/2020/12/22/pay-for-play-journalism-threatens-a-free-press/ ",
+                    "https://www.macleans.ca/politics/worldpolitics/canadas-media-is-in-thrall-to-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "See below article.",
+                "evidence_urls": [
+                    "https://truenorthfareast.com/news/beijing-tightens-grip-on-chinese-language-media-in-canada ",
+                    "https://nationalpost.com/news/canada/inside-canadas-chinese-language-media-beijing-has-become-the-mainstream-says-ex-sing-tao-editor"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "See below article.",
+                "evidence_urls": [
+                    "https://truenorthfareast.com/news/beijing-tightens-grip-on-chinese-language-media-in-canada "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.cjfe.org/how_beijing_has_infiltrated_the_canadian_media ",
+                    "https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.noahdigital.ca/blog/digital-marketing/chinese-advertising-canada/ ",
+                    "https://tnc.news/2020/11/23/the-globe-and-mail-received-132046-to-publish-chinese-state-media-propaganda/",
+                    "https://tnc.news/2020/09/22/globe-mail-publishes-paid-propaganda-from-chinese-state-owned-media/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://truenorthfareast.com/news/beijing-tightens-grip-on-chinese-language-media-in-canada "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.ctvnews.ca/canada/activists-experts-and-policy-makers-speak-out-on-chinese-state-influence-in-canada-1.5407770",
+                    "https://www.washingtonpost.com/opinions/global-opinions/how-an-attempted-canadian-kowtow-to-china-backfired/2021/04/15/fa887e3e-9e2a-11eb-8005-bffc3a39f6d3_story.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "4",
+                "evidence": "See below links.\n\nYouTube time stamps: \n- 02:45-04:23\n- 06:55-07:15\n- 08:30-10:05",
+                "evidence_urls": [
+                    "https://rabble.ca/columnists/2021/02/hypocrisy-canadas-genocide-declarations ",
+                    "https://www.youtube.com/watch?v=xdw1Nc6MJRg",
+                    "https://news.cgtn.com/news/2021-06-29/The-Imperialism-of-human-rights-and-the-human-rights-of-imperialism-11tSs1nktBC/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://ca.china-embassy.org/eng/zjgx/t567304.htm ",
+                    "https://www.parl.ca/diplomacy/en/associations/cacn/activities-and-reports"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.bbc.com/news/world-asia-china-53104303 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.cbc.ca/news/politics/china-canada-joint-statement-un-china-1.6071184 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theguardian.com/global-development/2021/jun/22/china-canada-relations-xinjiang-human-rights "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.canada.ca/en/global-affairs/news/2020/07/canada-takes-action-following-passage-of-national-security-legislation-for-hong-kong.html",
+                    "https://www.theguardian.com/global-development/2021/jun/22/china-canada-relations-xinjiang-human-rights "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theglobeandmail.com/opinion/article-all-canadian-universities-must-critically-reassess-their/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theglobeandmail.com/canada/british-columbia/article-universities-school-boards-across-canada-defend-ties-with-chinas/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://globalnews.ca/news/7075248/canada-china-interference-permissive-target/ 100"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://chinascope.org/archives/24633"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theglobeandmail.com/politics/article-canadian-linked-foundation-offers-travel-to-china-in-exchange-for/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/world/united-states-canada/article/3030395/student-union-canadian-university-revokes-status "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theglobeandmail.com/world/article-beijing-used-influence-over-bc-schools-to-push-its-agenda-and-keep/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://vancouversun.com/opinion/columnists/daphne-bramham-china-cracks-down-on-private-schools",
+                    "https://www.asiapacific.ca/asia-watch/reports-censorship-canadian-schools-china"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://news.gov.bc.ca/releases/2016PREM0053-000742"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.asiapacific.ca/publication/rainy-day-connections-sister-cities-during-covid-19 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.cbc.ca/news/world/trudeau-china-1.4436779 ",
+                    "https://www.cbc.ca/news/politics/china-canada-delegation-cooper-1.4965012"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-aiib/china-led-aiib-approves-13-new-members-canada-joins-idUSKBN16U0CG "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.ualberta.ca/china-institute/media-library/media-gallery/research/occasional-papers/canola2.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://financialpost.com/news/retail-marketing/huawei-fallout-hits-canada-goose-shares-while-china-rival-soars "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.theglobeandmail.com/politics/article-canada-now-only-member-of-five-eyes-alliance-to-have-not-banned-huawei/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://marsdd.com/news/canadian-startups-one-asias-top-choices-capital-investment/ ",
+                    "https://www.scmp.com/business/article/2130409/canadas-tech-firms-drawing-increasing-interest-chinese-venture-capital"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.ualberta.ca/engineering/research/groups/smart-transportation/news/2019/october/china-canada-joint-research-summit-hosted-by-cst.html https://pm.gc.ca/en/news/backgrounders/2016/09/01/strengthening-canada-china-commercial-relationship",
+                    "https://www.tradecommissioner.gc.ca/innovators-innovateurs/agreements-ententes.aspx?lang=eng",
+                    "https://pm.gc.ca/en/news/backgrounders/2016/09/01/strengthening-canada-china-commercial-relationship"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.saltwire.com/halifax/news/pro-china-groups-step-up-offensive-to-win-over-taiwan-326586/ ",
+                    "https://vancouversun.com/opinion/timmy-wong-chinese-canadian-groups-that-support-hong-kongs-national-security-law-do-not-represent-all-chinese-canadians"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://globalnews.ca/news/6858818/coronavirus-china-united-front-canada-protective-equipment-shortage/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.securitepublique.gc.ca/cnt/trnsprnc/brfng-mtrls/prlmntry-bndrs/20200930/015/index-en.aspx "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://era.library.ualberta.ca/items/d723d816-6d04-4999-828c-95f44217a526/view/935fc86b-46d3-4d9e-ba6e-97f6adc7645d/Ng_Elim_201908_PhD.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.ctvnews.ca/politics/opposition-accuses-trudeau-of-selling-access-to-chinese-billionaires-1.3174401 "
+                ],
+                "note": "This is the most recent example.",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://truenorthfareast.com/news/china-coproduction-canada-film-industry ",
+                    "http://www.cciff.cn/html_English/HomePage_en.html",
+                    "https://filmfreeway.com/CanadaChinaInternationalFilmFestival"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://www.jpolrisk.com/chinese-communist-party-cooperation-with-gangs-and-politicians-in-canada-book-review/",
+                    "https://www.sundayguardianlive.com/news/china-made-canada-global-node-narcos-cyber-criminals ",
+                    "https://themobmuseum.org/blog/chinese-triads-launder-billions-through-vancouver-buying-luxury-real-estate-cars/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-canada-idUSKBN2A92VH "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "4",
+                "evidence": "See below article. ",
+                "evidence_urls": [
+                    "https://globalnews.ca/news/7734158/china-pressure-activists-canada-uyghur-hong-kong-tibet-spying/ ",
+                    "https://www.theglobeandmail.com/news/national/china-set-up-crime-web-in-canada-report-says/article4163320/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Canada has a GDP per capita of US $43,859.425 and a total population of 38 million people, with the Chinese population comprising 1.57 million people, or 20.5% of the total population in 2016.",
+    "description-2": "Canada established diplomatic relations with the People Republic of China in 1970. Canada was ranked 14th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 98/100.\u00a0"
+}

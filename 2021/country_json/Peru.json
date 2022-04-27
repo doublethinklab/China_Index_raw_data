@@ -1,0 +1,1041 @@
+{
+    "name": "Peru",
+    "partner": "Fundaci\u00f3n Andr\u00e9s Bello - Centro de Investigaci\u00f3n Chino Latinoamericano",
+    "year": "2021",
+    "GDP": "$6,126.0",
+    "population": "32.86M",
+    "original": "219/396",
+    "ranking": "4",
+    "overall": "55%",
+    "effect": "56%",
+    "exposure": "62%",
+    "pressure": "25%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "There are two main outlets that utilize the network's products, but they don't have a local correspondent or an office.",
+                "evidence_urls": [
+                    "https://www.observatorioasiapacifico.org/es/noticias/item/inauguran-centro-de-prensa-china-america-latina-y-el-caribe.html",
+                    "https://andina.pe/agencia/noticia-peru-participa-programa-inmersion-para- periodistas -china-710088.aspx \u2013",
+                    "https://www.datosperu.org/empresa-la-prensa-peruano-chino-sociedad- anonima - cerrada-la-prensa-peruano-chino-sac-20601118697.php",
+                    "https://www.wearebn.com/zh/archives/2550"
+                ],
+                "note": "Through Centro de Prensa China-Latinoamerica y el Caribe (CLACPC) inaugurated in 2018, latinamerican governmental media joined the World Chinese Media. Since then, in the case of Peru, the news related to China and published by Agencia Peruana de Noticias ANDINA, who belongs to the Peruvian government, usually use as source, XINHUA news, which is the official media of the PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/10/what-is-the-belt-and-road-news-network/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thedialogue.org/analysis/chinas-state-media-in-latin-america- profile-and-prospects/",
+                    "https://andina.pe/agencia/noticia-cooperacion-entre-china-y-america-latina- avanza-a-un-ritmo-vertiginoso-710820.aspx"
+                ],
+                "note": "Many Peruvian journalists have been visited Beijing invited by the PRC in order to attend short seminars about China and also for sightseeing. For many of them, this trip was the best trip of their whole life due to the luxury facilities and special attention that they received during the trip.\n",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/agencia/noticia-peru-participa-programa-inmersion-para-periodistas-china-710088.aspx",
+                    "https://facultad.pucp.edu.pe/comunicaciones/noticias/haciendo-periodismo-en-china-experiencias-peruanas/",
+                    "http://www.socgeolima.org.pe/images/2016/03-06-2016/Nota-de-Opinion-y-Ciencia-No.-004-2016-SGL.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://spanish.xinhuanet.com/",
+                    "https://zaichina.net/2019/09/los-antiguos-inmigrantes-chinos-al-peru-la-beneficencia-y-el-barrio-chino/ ",
+                    "http://www.findglocal.com/PE/Lima/541727219183506/Revista-China-Hoy-Peru"
+                ],
+                "note": "In Chinatown \u2013 Lima, everybody can find Chinese newspaper in local language. This newspaper is usually distributed to Peruvian businesses located nearby.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asociacionchina.net/",
+                    "http://www.chinatoday.com.cn/hoy/2009n/s2009n11/p62.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/agencia/noticia-lanzan-edicion-peruana-revista-china-hoy-se-edita-150-paises-255154.aspx",
+                    "https://plataformaenergetica.org/china/china-en-bolivia/zaichina-el-gobierno-chino-y-la-reconquista-de-los-chinos-en-el-peru-y-america-latina/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://canaln.pe/actualidad/embajada-china-vacunacion-funcionarios-rechazamos-terminos-como-vacunas-cortesia-n431377",
+                    "https://gestion.pe/noticias/empresas-chinas-en-peru/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Chancellor of Peru said that Peru needs the Chinese vaccine and Peruvian media needs to be very careful in order to deliver opinion about China.",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=nkge90jIzS4"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://gestion.pe/economia/peru-defiende-china-criticas-ee-uu-influencia-region-226664-noticia/",
+                    "https://elcomercio.pe/luces/libros/mario-vargas-llosa-y-su-bitacora-de- batallas-china-es-la-ultima-noticia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Environmental local NGO, Dar Peru, protests against China\u00b4s human rights abuses practices with emphasis in Peru.",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "The most influence congressman in Peru belonged to this group. The congressmen involved are Carlos Fernando Mesias Ramirez and Mariano Andres Yupanqui Mi\u00f1ano.",
+                "evidence_urls": [
+                    "https://www.congreso.gob.pe/ligasparlamentarias/2016-2021/ligaparlamentaria-peru-china",
+                    "https://twitter.com/ilanegra/status/1362068731287986177",
+                    "https://andina.pe/agencia/noticia-integrantes-liga-parlamentaria-peruchina- declaran-no-haber-sido-vacunados-834334.aspx"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "There is the Peruvian-Chinese Parliamentary Friendship League that continuously meets with the Chinese embassy and seeks to bring closer relations between the Congress of Peru and the National People's Congress of China, to dialogue on issues of common interest, seeking the permanent exchange of information. and experiences of a parliamentary nature.",
+                "evidence_urls": [
+                    "https://www.congreso.gob.pe/ligasparlamentarias/2016-2021/ligaparlamentaria-peru-china",
+                    "http://eprints.lse.ac.uk/101565/1/Mendez_la_conexi_n_china_en_la_Pol_tica_ Exterior_del_Per_en_el_Siglo_XXI_published.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gob.pe/institucion/apci/noticias/110927-profesionales-de-la-apci-se-capacitan-en-la-republica-popular-china",
+                    "https://web.archive.org/web/20210413010244/https://www.senamhi.gob.pe/?p=prensa&n=533",
+                    "http://portal.apci.gob.pe/index.php/es/noticia/item/2742-mision-de-aibo-institucion-china-de-programas-de-capacitacion-visita-la-apci"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "With the vaccines given and inoculated to the President Vizcarra and officials of the highest level of government in a secret way, the Chinese laboratory Sinopharm ensured their sale (Chinese vaccine) and managed to sabotage any other purchase from the government of Peru. That is why the negotiation with Pfizer was backfired on the grounds of \"a matter of sovereignty\".\n",
+                "evidence_urls": [
+                    "https://www.bbc.com/mundo/noticias-america-latina-56782583",
+                    "https://ojo-publico.com/2501/vacunas-en-la-embajada-de-china-diplomacia-e-interes-publico",
+                    "https://actbistas.org/fue-soborno-escandalo-de-vacunas-peru-declaracion-aduanas/",
+                    "https://elperuano.pe/noticia/115377-embajada-china-rechaza-calificaciones-de-vacunas-de-cortesia-donaciones-o-prebendas-en-caso-sinopharm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Based on experience, there is no evidence that this has happened. But according to the support link, an ascendant of the ambassador of China in Peru, sent to APRA (Peruvian party), a clear warning, that if a protest against Xi occurred in Lima, none of the APRA allies would return to set foot in China.\n",
+                "evidence_urls": [
+                    "https://www.cadal.org/informes/pdf/El-arte-de-hacer-amigos.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://noticias.nat.gov.tw/news.php?unit=92,95,98,101&post=200894"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "http://en.cidca.gov.cn/2021-03/22/c_605333.htm"
+                ],
+                "note": "Peru among other countries received the Chinese vaccine, and indirectly support China as a leader partner who played a praiseworthy role in the global health security. However, there is no evidence, that my country was publicly supported to be officially the head of WHO or any intergovernmental organization. Therefore, as there is no evidence, we support our answer.",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "Alan Garcia, ex Peruvian president signed up the Peru-China Free Trade Agreement with president Hu Jintao in 2009.\nAlan Garcia wrote the book \u201cConfucius and globalization\u201d (Edit. Titanium, 195 pages in 2013)",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://idehpucp.pucp.edu.pe/notas-informativas/china-genocidio-de-los- uigures-y-politica-de-corrupcion-de-vacunas/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://idehpucp.pucp.edu.pe/images/publicaciones/revista_memoria_7.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "There is no a governmental position, but according to the links there are some news criticizing the law.",
+                "evidence_urls": [
+                    "https://limagris.com/efectos-de-la-ley-de-seguridad-nacional-de-hong-kong-fin-de-un-pais-dos-sistemas-y-nueva-normalidad-en-la-comunicacion/",
+                    "https://gestion.pe/mundo/china-adopta-polemica-ley-de-seguridad-para-hong-kong-que-entra-en-vigencia-hoy-noticia/",
+                    "https://www.apam-peru.com/web/china-establecera-nueva-ley-de-seguridad-de-hong-kong-trump-advierte-sobre-fuerte-reaccion-de-estados-unidos/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.publimetro.pe/actualidad/2020/03/04/huawei-reconoce-a-san-marcos-como-la-primera-academia-de-informacion-en-peru-noticia",
+                    "https://www.utp.edu.pe/2020/noticias/utp-nombrada-miembro-huawei-ict- academy"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://confucio.pucp.edu.pe/",
+                    "https://www.usmp.edu.pe/index.php?pag=novedades&sec=nov_93"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://capechi.org.pe/noticias/la-embajada-de-la-republica-popular-china-en-el-peru-dona-equipamiento-para-implementacion-para-bibliotecas-comunitarias- en-las-regiones-de-lima-ica-y-ancash/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gob.pe/institucion/ceplan/noticias/217382-ceplan-se-integra-a-red-de-think-tank-de-la-ruta-de-la-seda",
+                    "http://www.fc-ssc.org/en/media_center/press_releases_detail/139"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "The link 1. (page 14/28) indicates that the Center for Peru-China studies at Del Pacifico University has been relatively successful despite financial resource constraint. There is no evidence that academic research centers received financial support from PRC-connected individuals or entities, therefore we confirm our answer.",
+                "evidence_urls": [
+                    "https://www.ned.org/wp-content/uploads/2017/12/Chapter3-Sharp-Power-Rising- Authoritarian-Influence-Peru.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "We found a link of recruitment for the 1000 Talents in Peru but it is from 2022, will update when the Index renew.\n",
+                "evidence_urls": [
+                    "https://www.gob.pe/institucion/embajada-del-peru-en-mexico/noticias/579981-convocatoria-de-las-becas-sre-huawei-mil-talentos-para-el-desarrollo-digital-de-las-mujeres-en-america-latina-y-el-caribe"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "The event mentioned was sponsored by two PRC universities and the Peruvian academic invited, Carlos Aquino, is one of the most renowned academics in the country who studies China Peru relations.",
+                "evidence_urls": [
+                    "https://issuu.com/carmenpazoszavala/docs/centro_de_estudios_peru-china ",
+                    "https://vrip.unmsm.edu.pe/simposio-internacional-sobre-cooperacion-entre-china-y-america-latina-en-la-gobernanza-global/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Based on experience, there is no evidence that this has happened.\n",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Based on experience, there is no evidence that this has happened. In the supposed case, this would have been made public or had claimed, however we didn\u2019t find this situation. By this reason, we validate the answer.\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.usil.edu.pe/noticias/usil-realizo-exito-el-ii-seminario-tusan-business",
+                    "http://portal.apci.gob.pe/index.php/noticia/item/2713-mision-de-agencia-de-cooperacion-de-desarrollo-internacional-de-china-visita-apci"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There is no evidence that this has happened, therefore we confirm our answer.",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ciarglobal.com/tras-incumplimiento-de-laudo-de-empresa-china-se-cobrara-la-fianza-en-beneficio-de-iquitos/",
+                    "https://comprasestatales.org/loreto-gobierno-regional-logra-nuevo-triunfo-legal-ante-empresa-china-por-la-ptar-alcantarillado/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://spanish.xinhuanet.com/2018-07/21/c_137339026.htm",
+                    "https://www.ucsm.edu.pe/ciudad-hermana-de-chengdu-rindio-homenaje-arequipa-por-su-479-aniversario"
+                ],
+                "note": "1.Shangai city is the sister city of Lima, the capital of Peru. Because of the importance of Shanghai, the second most important bank of Peru has an office in this place\nhttps://interbank.pe/oficina-en-china,\tor\thttps://elmirador.pe/economia-y-empresas/pymes-y-mypes/586-interbank-y-bank-of-china-crean-un-china-desk-en-peru.html.\n\n2. Chengdu city is the sister city of Arequipa, the second most important city of Peru.\n\n3. Official document issued by the Peruvian Ministry of Foreign Affairs listing the sister cities of Peru\nhttp://www.rree.gob.pe/politicaexterior/Documents/Acuerdos%20de%20hermanamiento.pdf.\n\n4. https://www.redalyc.org/pdf/777/77751033009.pdf Report includes geopolitical actions of sisters\u2019 cities between PRC and Latin America.\n",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/agencia/noticia-cooperacion-entre-china-y-america-latina-avanza-a-un-ritmo-vertiginoso-710820.aspx",
+                    "http://eprints.lse.ac.uk/101565/1/Mendez_la_conexi_n_china_en_la_Pol_tica_ Exterior_del_Per_en_el_Siglo_XXI_published.pdf"
+                ],
+                "note": "Politicians related to different parties in Peru have been invited by PRC to China in order to see economic advancements.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/esp/wjb/zzjg/ldmzs/xwlb/t1775706.shtml",
+                    "https://elcomercio.pe/politica/gobierno/ppk-califico-viaje-china-mision-exitosa-259952-noticia/"
+                ],
+                "note": "1. Ex Peruvian President Martin Vizcarra contacted President Xi Jiping by phone requesting support for obtaining COVID 19 vaccines (2020/04/30)\n2. Ex Peruvian President Pedro Pablo Kuckzynski visited PRC, as his first official trip\n3. http://www.embajadachina.org.pe/esp/sghd/t1810254.htm\n",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pj.gob.pe/wps/wcm/connect/cortesuperiorlimasurpj/s_csj_lima_sur_nuevo/as_inicio/as_imagen_prensa/as_noticias/csjls_nota+de+prensa+015_oip_csjls"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "1. Ex Peruvian president Martin Vizcarra received secret COVID vaccination from Chinese laboratory\n2. PRC Embassy in Peru didn\u2019t know about these vaccines\n",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sohu.com/a/245298061_796605",
+                    "https://www.cadal.org/informes/pdf/El-arte-de-hacer-amigos.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "We didn\u2019t find evidence that this has happened. For this reason, we validate the answer.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "However just a few left-sides parties have expressed positive views of PRC government. In addition, outside the period of analysis, there have been pro-China governments, governments during which the FTA with China was signed.\n",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dw.com/es/vacunagate-en-per%C3%BA-m%C3%A1s-de-cien-personas-recibieron-vacunas-en-secreto/a-56709060",
+                    "https://www.bbc.com/mundo/noticias-america-latina-56101527",
+                    "https://elcomercio.pe/lima/sucesos/vacunas-contra-el-covid-19-cuanto-cuesta-la-dosis-de-sinopharm-y-por-que-es-importante-conocer-su-precio-noticia/"
+                ],
+                "note": "High governmental authorities received free Chinese vaccines under the condition of buying expensive and low efficient vaccines for the Peruvian society.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "https://www.bbc.com/mundo/noticias-55352307"
+                ],
+                "note": "There is no evidence that security services offered by private PRC companies contracted by Peru national or subnational governments.\n",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cien.adexperu.org.pe/exportaciones-peruanas-beneficios-del-tlc-peru-china/",
+                    "https://www.gob.pe/qu/institucion/mincetur/noticias/320839-en-ultimos-diez-anos-exportaciones-peruanas-a-china-acumularon-unos-us-89-958-millones"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://elperuano.pe/noticia/132229-el-peru-coloca-por-primera-vez-bonos-sostenibles"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.lasbambas.com/notas-de-prensa/resultados-de-produccion-del-cuarto-trimestre-de-2020",
+                    "https://somosperiodismo.com/shougang-hierro-peru-mineros-fallecieron-de-covid-19-por-incumplimiento-de-protocolos-de-bioseguridad-y-explotacion-laboral/"
+                ],
+                "note": "1. In 2021 the copper price is very high, but the Chinese industry needs this raw material to build electric vehicles, according to its 2030 Plan.\n2. Bambas, the most important copper mine in Peru, has as principal partner is China Minmetals Corporation (CMC). Shougang is the principal iron mine in Peru. Both Chinese companies have labor conflicts and contamination problems\n",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "1.The PRC is building the first port in Latinamerica in Chancay with a budget of 3,000 millions USD.\n2.Yangtze Power bought LUZ DEL SUR energy company for US$ 3,590 millions\n",
+                "evidence_urls": [
+                    "https://www.unav.edu/web/global-affairs/detalle/-/blogs/el-primer-puerto-de-china-en-latinoamerica-se-construye-en-peru",
+                    "https://andina.pe/agencia/noticia-empresa-china-adquiere-luz-del-sur- pagando-3590-millones- 794441.aspx#:~:text=Cabe%20destacar%20que%20a%20fines,.%2C%20Limit ed%20(CYP)"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/Ingles/noticia-peru-becomes-chinaled-aiib-prospective-member-659554.aspx. 23/3/2017",
+                    "https://dialogochino.net/en/trade-investment/39049-explainer-latin-america-aiib-the-asian-infrastructure-investment-bank/"
+                ],
+                "note": "In 2017 Peru applied to join the Bank, but was not accepted because of its lack of money to pay the initial quote of 5 USD Millions.",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "Peru or a peruvian companies do not appear on the websites:\n\nSilk Road Chamber of International Commerce\nhttps://srcic.org/\n\nBelt and Road General Chamber of Commerce\nhttps://www.brgcc.hk/",
+                "evidence_urls": [
+                    "https://srcic.org/",
+                    "https://www.brgcc.hk/"
+                ],
+                "note": "In the academic field, BRI is an expression of opportunities. However, in the practice, China\u00b4s founding interest are not in line with Peruvian interest. The train road project proposed by China is related to a road that connect Peru and Brazil and passes through Bolivia. The project is stopped because this doesn\u2019t provide guarantee to Peru. In this sense, China needs left-wing government leadership in Brazil and Peru to close the deal.",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-46542014000100007",
+                    "https://andina.pe/agencia/noticia-que-impacto-tendria-el-peru-mayor-escalada-guerra-comercial-751427.aspx"
+                ],
+                "note": "During the commercial war between PRC and USA, Peruvian export declines because PRC didn\u2019t buy minerals to Peru",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "PRC embassy in Peru delivered a press note about COVID 19.",
+                "evidence_urls": [
+                    "http://www.embajadachina.org.pe/esp/sghd/t1737727.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "Peru is the second economic partner of PRC in Latin America.",
+                "evidence_urls": [
+                    "http://www.sice.oas.org/Trade/PER_CHN/PER_CHN_s/PER_CHN_text_s.asp",
+                    "http://www.sice.oas.org/TPD/PER_CHN/PER_CHN_s.ASP#:~:text=El%204% 20de%20abril%20de,el%20acuerdo%20en%20Beijing%2C%20China."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://masfinanzas.com.pe/banca/bank-of-china-peru-empezara-a-operar-este-22-de-julio/#:~:text=El%20Bank%20of%20China%20(Per%C3%BA,sus%20operaciones%20en%20nuestro%20pa%C3%ADs.",
+                    "https://www.icbc.com.pe/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B7%A5%E9%93%B6%E7%A7%98%E9%B2%81%E7%BD%91%E7%AB%99/es/NuestroBanco/Introduccion/"
+                ],
+                "note": "Since 2013, Chinese banks have been established in Peru.",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There is no evidence, for this reason we support the answer. However due to Brazil infrastructure companies\u2019 impediments and the region sanitary and economic crisis, local and regional governments in Peru will require to satisfy infrastructure needs (roads and hospital constructions) needs. Surely they will try to negotiate infrastructure projects with PRC entities.",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "Peru has four (04) companies that provide telecom services: Telefonica (Spain), Claro (Mexico), Entel (Chile) and Bitel (Vietnam). In 2015, Telefonica and China Unicom agreed to share their international data center capabilities as a first step towards broader and larger scale cloud cooperation",
+                "evidence_urls": [
+                    "https://www.telefonica.com/en/web/press-office/-/telefonica-and-china-unicom-collaborating-in-joint-procurement-of-smartphones"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://elcomercio.pe/tecnologia/tecnologia/5g-en-peru-que-permitira-hacer-la-tecnologia-que-acaba-de-ser-autorizada-en-el-pais-mtc-noticia/",
+                    "https://www.entel.pe/postpago-5G/"
+                ],
+                "note": "Peru has four (04) companies that provide telecom services: Telefonica (Spain), Claro (Mexico), Entel (Chile) and Bitel (Vietnam). All these companies sell mobile phones of HUAWEI. The promotion of 5G technology has been observed since 2021.\n\n[Doublethink Lab]: Also see https://contxto.com/en/peru/huawei-rolls-out-5g-tests-in-peru/",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://lexlatin.com/noticias/consorcio-chino-peruano-suscribe-creditos-para-llevar-banda-ancha-zonas-rurales"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eleconomistaamerica.pe/empresas-eAm- peru/noticias/10853102/10/20/Alianza-entre-Telefonica-y-Marina-de-Guerra- permitira-mejorar-procesos-ante-ciberataques.html#"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "There is no evidence, therefore we confirm our answer.",
+                "evidence_urls": [
+                    "https://www.miraflores.gob.pe/miraflores-alista-plan-para-utilizar-camaras-biometricas-con-reconocimiento-facial/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There is no evidence, therefore we support our answer. It should be mention that Peru was negotiating to install Smart Cities with South Korea government, however due to the pandemic, this project was stopped.",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://gestion.pe/gestion-tv/codigo-swift-relacion-transferencias-bancarias-internacionales-258107-noticia/",
+                    "https://www.celag.org/evaluacion-las-alternativas-al-swift/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://newsbeezer.com/perueng/unmsm-students-win-the-finals-of-the-huawei-world-competition/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "All are global application and not any just coming from China. Because there is lack of evidence, we support our answer.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Because there is lack of evidence, we support our answer.",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.embajadachina.org.pe/esp/sghd/t1811546.htm"
+                ],
+                "note": "There is no evidence, therefore we support our answer.\n",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asociacionchina.net/zh/noticias/page/2",
+                    "http://inews.ifeng.com/50297454/news.shtml?&back"
+                ],
+                "note": "\u2026..",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "A Peruvian accountant who deals with Chinese community in Peru said that in Peru, Chinese workers federation is not allowed because of the Chinese Embassy influence and that most of these workers, are illegally working in Peru. By this reason, labor unions in Peru have no relation with Chinese association.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "4",
+                "evidence": "At least two Peru-China friendship groups, two organizations for Peruvians of Chinese descent, and one youth federation are active in Chinese diaspora community events and activities. Peru is by far the country with the largest UF activities we've encountered in the region. Including: Centro de la Amistad Peruano Chino, Fundaci\u00f3n Amistad Peruano China, Asociaci\u00f3n Peruano China - APCH, Sociedad Central de Beneficencia China Ton Huy Chong Koc, and Asociaci\u00f3n Juvenil Jiangmen Wuyi en el Per\u00fa. (The last one still active but no public website)",
+                "evidence_urls": [
+                    "https://patronato.pe/",
+                    "https://panamericana.pe/24horas/locales/245032-san-isidro-realizo-presentacion-instituto-estudios-asia-pacifico",
+                    "https://www.universidadperu.com/empresas/amistad-peruano-china.php",
+                    "https://www.apch.com.pe/",
+                    "http://www.scbcperu.com/es/",
+                    "https://www.sohu.com/a/273446527_99952528",
+                    "http://gd.ifeng.com/a/20200214/8368225_0.shtml"
+                ],
+                "note": "We didn\u2019t find any evidence related to UFWD, therefore we support our answer. However, the Asociaci\u00f3n de Beneficia China received funding from different sources, and UFWD could be one of this, but there is no evidence.",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asociacionchina.net/zh/secciones/caligrafia-pintura/",
+                    "https://kknews.cc/zh-tw/culture/ppl8p32.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asociacionchina.net/zh/responsabilidad-social/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "A source provider of services to Chinese community told us, that some entertainment products are distributed among the Chinese community and also inside the left-side political parties.",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.americatv.com.pe/cinescape/proximos_estrenos/mulan-1003/",
+                    "https://www.cinencuentro.com/2016/10/26/el-director-xie-fei-visita-lima-para-participar-en-un-conversatorio-sobre-cine-chino/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://cosas.pe/tag/erasmo-wong/",
+                    "https://rpp.pe/famosos/celebridades/javier-wong-el-tusan-que-no-celebra-el-ano-nuevo-chino-noticia-1105546"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.facebook.com/MuniArequipa/posts/2718879488142465 ",
+                    "https://www.ucsm.edu.pe/republica-popular-china-y-ucsm-aperturaran-primer- colegio-peruano-chino-en-el-sur-del-peru/"
+                ],
+                "note": "http://repositorio.adp.edu.pe/bitstream/handle/ADP/47/T812_70080655_M.pdf?sequence=1&isAllowed=y \nhttp://www.embajadachina.org.pe/esp/sghd/t1810254.htm\nhttps://www.cadal.org/informes/pdf/El-poder-blando-de-China-en-Peru.pdf\n",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lampadia.com/analisis/comercio-internacional-y-desarrollo/las-inspiradoras-enseanzas-de-jack-ma/",
+                    "https://home.kpmg/pe/es/home/insights/2020/04/covid-19-la-respuesta-china-y-las-lecciones-sobre-como-responder-a-una-pandemia.html",
+                    "https://pubmed.ncbi.nlm.nih.gov/33758434/"
+                ],
+                "note": "Peruvian citizens don\u2019t know about PRC, but about Chinese product and its powerful economy.\n",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://elpais.com/economia/2018/05/31/actualidad/1527759344_963392.html",
+                    "https://www.infodefensa.com/latam/2017/01/05/noticia-nuevamente-sistemas-armas-chinos-juicio.html"
+                ],
+                "note": "NORINCO is the main armament supplier for Peru military. Ammunitions for rifles and mortars, terrain artillery systems and military bei ben trucks are key demanded armament for Peru. In 2016, Peru bought German trucks to replace the defective Chinese trucks due to poor quality.",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Peru doesn\u2019t have military industry. All the weapons and military materials are brought from international markets.",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Peru doesn\u2019t have coo-participation with Chinese military industry.\n",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/agencia/noticia-buque-hospital-china-llego-al-callao-y-atendera-gratuitamente-a-mas-2-mil-pacientes-590441.aspx"
+                ],
+                "note": "The Chinese investment in the Port of Chancay (small city located 78 km north of Lima) and the continuously Chinese delegation visits to the Chinese naval hospital ship located in Callao Port, could show true intention to build a navy base in Chancay. They have signed contract with high rank navy officers in retirement. This statement is just an unconfirmed personal supposition.\n",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://andina.pe/agencia/noticia-buque-hospital-chino-atendio-a-2000-pacientes-peruanos-seis-dias-591327.aspx",
+                    "https://www.gob.pe/institucion/mininter/noticias/307651-ministerio-del-interior-recibio-de-china-650-mil-mascarillas-para-la-policia"
+                ],
+                "note": "In 2015, Chinese navy and Hospital Ship \u201c Peace Ark\u201d helped Peru through humanitarian relief. In 2020, PRC donated masks.",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://busquedas.elperuano.pe/normaslegales/autorizan-viajes-de-oficiales-de-la-marina-de-guerra-del-per-resolucion-ministerial-no-1156-2019-demgp-1804546-1/ "
+                ],
+                "note": "Peruvian navy Commander Victor Iba\u00f1ez Valencia speaks Chinese and is married with Chinese citizen.",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gob.pe/institucion/mindef/normas-legales/180899-688-2014-de-mgp"
+                ],
+                "note": "[Doublethink Lab]: Also see http://eng.mod.gov.cn/news/2021-08/02/content_4890942.htm",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.colliers.com/es-pe/articulos/puertochancay",
+                    "https://www.gob.pe/institucion/rree/noticias/68619-cancilleria-realiza-la-reunion-informativa-establecimiento-de-un-hub-portuario-tecnologico-e-industrial-en-chancay"
+                ],
+                "note": "Admiral Carlos Tejada Mera was the commander in chief of Peruvian Navy in 2014 to 2017. Also, Admiral Gonzalo Rios Polastri was the commander in chief of Peruvian Navy in 2017 to 2018. Now, both officers are employees of high rank in COSCO Chinese company, they are building the port of Chancay, in the north part of Lima.",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "According to a service provider source, Colonels from the Chinese armed force have visited Peru to support the Peruvian armed forces and police.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://elperuano.pe/noticia/100450-promover-la-cooperacion-entre-china-y- peru-en-defensa-de-la-paz-y-estabilidad-mundial"
+                ],
+                "note": " In the last 10 years, PLA has cooperated with the Peruvian Armed Forces. Usually, through military assimilated to medical units.",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pj.gob.pe/wps/wcm/connect/aae76c80495455b989a7f9cc4f0b1cf5/ Tratado+de+Extradici%C3%B3n+Per%C3%BA-China.pdf?MOD=AJPERES",
+                    "https://andina.pe/agencia/noticia-peru-extradita-a-china-banquero-requerido-robo-500-millones-dolares-718928.aspx"
+                ],
+                "note": "The case of Chinese citizen Won Ho Wing was the first extradition case to PRC.",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://larepublica.pe/politica/2019/10/26/consul-de-peru-en-china-dio-visas-a- la-mafia-china-para-el-trafico-de-personas-fiscalia/",
+                    "https://zaichina.net/2019/09/la-ilegal-inmigracion-de-chinos-en-el-peru/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "From LABORATORY SINO PHARM, China sent to Peruvian government vaccines of low quality, however the contract considers high prices each vaccine. Peru bought a package of one million vaccines at 30 dollars each vaccine.\n",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://portal.andina.pe/edpespeciales/2018/ciberataques-peru/index.html",
+                    "https://web.archive.org/web/20220322080408/https://cdn.www.gob.pe/uploads/document/file/911157/Alerta_integrada_de_seguridad_digital_N__086-2020-PECERT.pdf"
+                ],
+                "note": "According to Peruvian government press sources, in 2017 Peru ranked number 1 in Latin America for being a victim of the cybercrime called \"ransomware\" (data hijacking). In addition, on the report named \"Integrated Digital Security Alert\" issued by the Peruvian government (LINK 2 page 5 of 14), it was identified that there are at least 10 threat actors (such as \"malware\") all connected to China, dedicated to espionage activities that use Plug X, as a toll to cause destruction and damage to the business sector and the community.",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.infodefensa.com/texto-diario/mostrar/3127447/policia-peru-encarga-hytera-mantenimiento-sistema-tetra"
+                ],
+                "note": "In 2017, the Chinese government donated 4,000 computers to the Ministry of Justice in Peru.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "In Peru, Chinese mineral companies signed up Memorandum of Understanding (MOU) with local police in order to support the Chinese companies to solve social conflicts.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://idehpucp.pucp.edu.pe/notas-informativas/cidh-presenta-caso-de-ciudadano-chino-contra-el-estado-peruano-ante-la-corte-interamericana-de-derechos-humanos/"
+                ],
+                "note": "Because of the lack of evidence, we support our answer.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "There is no reported evidence, so we support our answer.\n",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.corteidh.or.cr/corteidh/docs/casos/articulos/resumen_297_esp.pdf",
+                    "https://www.corteidh.or.cr/docs/casos/wong/contest.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Peru has a GDP per capita of US $6,126 and a total population of 32,868,000 people.",
+    "description-2": "Peru established diplomatic relations with the People Republic of China in 1971. Peru was ranked 91st in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 72/100."
+}

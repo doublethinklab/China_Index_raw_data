@@ -1,0 +1,895 @@
+{
+    "name": "Germany",
+    "partner": "Sinopsis",
+    "year": "2021",
+    "GDP": "$45,109.05",
+    "population": "83.783M",
+    "original": "171/396",
+    "ranking": "14",
+    "overall": "43%",
+    "effect": "21%",
+    "exposure": "50%",
+    "pressure": "60%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "4",
+                "evidence": "In Germany there are at least 12 media organizations belonging to the \u4e16\u754c\u534e\u6587\u5a92\u4f53 network. This is relatively large for a single European country. They are well networked in the PRC business and other communities here, and from there work with contacts in German society.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "There are not many as Germany is not a BRI country. Worth noting however that due to the membership of TV Alliance (Germany) with many international clients its impact is or can be higher than the number suggests.",
+                "evidence_urls": [
+                    "https://www.tvalliance.at/"
+                ],
+                "note": "Note this website is in Austria, but it is a German company (and anyway the same language).",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "One of the examples is Media Forum China \u2013 Germany. (https://www.bosch-stiftung.de/en/story/media-forum-china-germany) This is an annual event organized by the Robert Bosch Stiftung and Global Times, started from 2010. For example, in 2016, they had a three-day tour in Xian, participants including Andreas Cichowicz (editor in chief of NDR Fernsehen,) Wolfgang Krach (editor in chief of S\u00fcddeutsche Zeitung,) Philipp Fleischmann (managing director of Handelsblatt Global Edition,) Hu Xijin (editor in chief of the Global Times,) Bai Yansong (anchor at CCTV,) and Dai Xiaojing (deputy editor in chief of Caijing Magazine.)\n\nA report published in 2018 by think tanks MERICS and GPPi concluded that China used these forums \"to push its idea of 'constructive journalism' as an alternative to watchdog journalism. (https://merics.org/sites/default/files/2020-04/GPPi_MERICS_Authoritarian_Advance_2018_1.pdf)\nIn practice, this means that China is trying to bolster support for the idea that media should not challenge those in power, but rather work with them. In an international setting, according to this logic, media should serve as a tool for fostering friendships between different countries.\" (pp. 24)",
+                "evidence_urls": [
+                    "https://www.bosch-stiftung.de/en/story/media-forum-china-germany",
+                    "https://merics.org/sites/default/files/2020-04/GPPi_MERICS_Authoritarian_Advance_2018_1.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Germany has a lot of media training \u2014 journalism schools etc. China is not a destination for practical training.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "People\u2019s Daily German-language online version launched in 2014. Due to this and other sources of German-language CCP media (e.g. Ouzhou shibao, and some small local stations, PRC satellite TV stations available) the author considers the situation to be few but quite significant.",
+                "evidence_urls": [
+                    "http://world.people.com.cn/n/2014/0122/c1002-24194449.html",
+                    "https://de.satexpat.com/tv/china/I"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Several. Some of them are official party-state media such as\n1.  Radio China International (cri.cn), http://german.cri.cn/ \n2. China Heute, http://german.chinatoday.com.cn/ \n3. Beijing Rundschau, http://www.bjrundschau.com/\n4. german.china.org, http://german.china.org.cn/\n\nThere are also media run by the Chinese diaspora with varying levels of influence or support by the party-state,  including guidance or even ownership. (e.g., via the Overseas Chinese Affairs Officeand.) They produce content that has close cooperation with the CCP. \n\n1. Kaiyuan (known as Kaytrip in English), a Munich-based online media and business which began hosting the CCP\u2019s People\u2019s Daily\nOverseas edition in 2015. It was founded by a\nChinese former student in Germany. The media claims it puts out more than 1,000 original reports a year, and has\n40 subsidiary WeChat channels in Germany, as well as main channels for France (Hello\nFrance) and the Nordic countries (Northern Europe Hello).  \n\nSee: https://web.archive.org/web/20190506180113/http://www.kaytrip.com/corp_about.html\n\n\n2. Paris-based European Times (\u6b27\u6d32\u65f6\u62a5) has a German edition (see: http://de.china-info24.com/) or the introduction of the company in German (http://www.oushi.de/de/med/nouvelles) \n\n3.  Chinesische Handelszeitung \u534e\u5546\u62a5. https://huashangbao.com/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/\n\nOutlets as such are not rare but none of them are considered as influential or mainstream media.",
+                "evidence_urls": [
+                    "Radio China International (cri.cn), http://german.cri.cn/ ",
+                    "China Heute, http://german.chinatoday.com.cn/ ",
+                    "Beijing Rundschau, http://www.bjrundschau.com/",
+                    "german.china.org, http://german.china.org.cn/",
+                    "https://web.archive.org/web/20190506180113/",
+                    "http://www.kaytrip.com/corp_about.html",
+                    " http://de.china-info24.com/",
+                    "http://www.oushi.de/de/med/nouvelles",
+                    "https://huashangbao.com/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "evidence": "Not cheap or free but expensive content. Two German newspapers, Handelsblatt and S\u00fcddeutsche Zeitung had records of publishing paid content provided by the state media China Daily under the name ChinaWatch. There's also an instance that S\u00fcddeutsche Zeitung published an insert regarding the Paralympics offered by Xinhua, although the newspaper added a disclaimer \"advertisement\" (Anzeige) on the page. (https://www.spiegel.de/politik/ausland/china-verbreitet-propaganda-in-zeitungsbeilagen-im-westen-a-1109205.html)\n",
+                "evidence_urls": [
+                    "https://twitter.com/hfeldwisch/status/1182630283436314625",
+                    "https://uebermedien.de/60966/das-halbe-bild-phoenix-zeigt-eine-doku-ueber-xinjiang-und-laesst-das-leid-der-uiguren-weg/",
+                    "https://www.spiegel.de/politik/ausland/china-verbreitet-propaganda-in-zeitungsbeilagen-im-westen-a-1109205.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "Handelsblatt regularly carries China Watch. FAZ recently ran a new kind of propaganda: a full-page pro-CCP piece in editorial font/style praising poverty alleviation, authored by at least 2 Xinhua journalists in Germany who were not identified as Xinhua journalists. China.Table, a new online site, regularly runs CCP-friendly pieces by well-known apologists e.g. Eberhard Sandschneider, Berthold Kuhn, and more",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Yes, there have been such cases.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "Outright censorship is rare and hard to prove.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "There are media personalities such as Frank Sieren who consistently downplay the challenges from the CCP, but outright denialism, including among celebrities, is rare.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "However, it is a \u201cparliamentary group\u201d (not friendship group). It is a formal structure that the Bundestag maintains with the partliament of each country in the world. There is a representative from each German political party in it (6 in total, SPD, CDU, AfD, FDP, Greens, Linke). While some members are \u201cfriendly\u201d others, e.g. Bause of the Greens, is an outspoken critic of CCP policies. \n\nFor a 2020 interview with its head, Dagmar Schmidt of the SPD, see (in German): https://merics.org/de/interview/dagmar-schmidt-dass-der-rege-austausch-abgerissen-ist-ist-sehr-schade-gerade-diesen\n\nFor the group itself, see:\nSee: https://www.bundestag.de/europa_internationales/parlamentariergruppen#url=L2V1cm9wYV9pbnRlcm5hdGlvbmFsZXMvcGFybGFtZW50YXJpZXJncnVwcGVuL3BhcmxhbWVudGFyaWVyZ3J1cHBlbi0xOTYzNjI=&mod=mod442312\n\nDagmar Schmidt interview in English: https://merics.org/en/interview/its-pity-such-lively-exchange-has-stopped-dagmar-schmidt-dialogue-china",
+                "evidence_urls": [
+                    "https://merics.org/de/interview/dagmar-schmidt-dass-der-rege-austausch-abgerissen-ist-ist-sehr-schade-gerade-diesen",
+                    "https://www.bundestag.de/europa_internationales/parlamentariergruppen#url=L2V1cm9wYV9pbnRlcm5hdGlvbmFsZXMvcGFybGFtZW50YXJpZXJncnVwcGVuL3BhcmxhbWVudGFyaWVyZ3J1cHBlbi0xOTYzNjI=&mod=mod442312",
+                    "https://merics.org/en/interview/its-pity-such-lively-exchange-has-stopped-dagmar-schmidt-dialogue-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Germany maintains \u201cwide and deep\u201d connections with China on all levels, with a total of about 80 official groups that include representatives from government, politics, and wider society (e.g. the research community).",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No available evidence.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "The cases that we tend to hear about are in the human rights field, e.g. CDU politician Michael Brand came under heavy pressure due to his support for Tibet while he was on the Bundestag China Committee. Margareta Bause of the Greens, also in her official capacity in a Bundestag committee, has too. Both have faced entry bans to China as a result of their human rights engagement.",
+                "evidence_urls": [
+                    "See media report:  https://visaguide.world/news/germany/china-rejects-visas-to-german-mps-over-their-human-rights-criticism/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No available evidence.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "Not recently. In fact, in May 2020, Germany joined the United States in asking the WHO to invite Taiwan to attend the 73rd WHA (held virtually) as an observer. It did a similar thing in 2019.",
+                "evidence_urls": [
+                    "https://gpil.jura.uni-bonn.de/2020/05/germany-supports-taiwans-participation-in-the-wha-as-an-observer-putting-policy-before-principle/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Not in the timeframe of 2020-July 2021. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Since 2019, Germany has taken positions countering PRC's South China Sea claims.",
+                "evidence_urls": [
+                    "https://gpil.jura.uni-bonn.de/2021/04/germany-counters-chinas-maritime-claims-in-the-south-china-sea/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Germany has criticized the PRC over the situation in the Uyghur regions. However mostly it has done so within the context of the EU.",
+                "evidence_urls": [
+                    "https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz/2449684"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "Germany has consistently criticized PRC's treatment of Tibet and Tibetans.",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/news/2020/10/7/germany-leads-charge-against-china-on-rights-abuses"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "Germany has even initiated protests against PRC's treatment of Hong Kong and Hongkongers.",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/news/2020/10/7/germany-leads-charge-against-china-on-rights-abuses"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Huawei, BGI, ZTE, Hisilicon (Huawei-owned) and other Chinese companies collaborate with and fund projects at German universities and research institutions. Huawei alone has entered into at least 120 cooperation projects over the last 15 years, with annual budgets between 25,000-290,000 euros per project. The real number is unclear, as German universities sometimes cite their \u201cacademic freedom\u201d to refuse to answer freedom of information questions from media about controversial cooperation.",
+                "evidence_urls": [
+                    "https://www.tagesspiegel.de/wissen/forschungskooperation-mit-deutschen-unis-huawei-auf-dem-pruefstand/24195908.html)",
+                    "David Missal, Sinopsis, forthcoming."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "There are approxiately 21 CIs and Confucius Classrooms in Germany, incl. at top universities e.g. G\u00f6ttingen, Leipzig, FUB. In addition there are at least 4 in Austrian and Switzerland combined. So in the 3 DACH countries (Germany, Austria, Switzerland) = at least 25.",
+                "evidence_urls": [
+                    "http://www.konfuzius-institute.de/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Yes. However, the scale is not too large, and there is awareness of the difficulties around this issue. About 500 schools offer something called \u201cChina AG\u201d (a China \u201cworking group\u201d within the school), or teach Chinese as a language of choice (not necessity), or have a partner agreement with a Chinese school. About 5,000 German school-age children are learning Chinese compared to about 38,000 in France. Compared to 98,000 learning Russian it is quite small. There is an organization in Berlin to promote the learning of Chinese in schools. Its curriculum head is a former CASS scholar from the PRC. However there are many parallel systems for teaching Chinese based on Chinese-language curricular, e.g. the Huade Schools, which are nationwide. These are mostly for children whose parents (or one parent) are Chinese, and for some non-Chinese children. They also offer summer camps where the ideology is quite strict.\n",
+                "evidence_urls": [
+                    "https://bildungsnetzwerk-china.de/schule/chinesischunterricht.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "I do not assess this to be too major a issue. However there are definitely some and I would prefer to be able to say there are \u201cfew, but somewhat significant\u201d (instead of a black-and-white \u201cinsignificant/significant).",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "However my answer here is similar to q. 4 above, I would prefer to have a grade between \u201cinsignificant\u201d and \u201csignificant.\u201d ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "evidence": "Evidence is pending and will be updated asap. \nSome hints also indicate this connection. A 2020 report (https://cset.georgetown.edu/wp-content/uploads/CSET-Youth-Thousand-Talents-Plan-and-Chinas-Military.pdf) published by the think tank Center for Security and Emerging Technology (CSET) calculated awardees of the Youth Thousand Talents Plan (\u9752\u5e74\u5343\u4eba\u8ba1\u5212; YTTP) from 2011 to 2016. According to the report, 6% of awardees were working in Germany, and at least 52 awardees were employees of the Max Planck Society.",
+                "evidence_urls": [
+                    "https://cset.georgetown.edu/wp-content/uploads/CSET-Youth-Thousand-Talents-Plan-and-Chinas-Military.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "Some very influential scholars such as Eberhard Sandschneider have accepted money from the PRC for years in a a multitude of ways. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "3",
+                "evidence": "This happens, for example in late 2019 at the TUB (Berlin Technology University). However it is not considered to be extremely wide. However I give this a 3 (rather than a 2) due to the impact of such actions on a self-censoring German academic community, which believes it is dependent on China. In addition, efforts to expose this kind of thing generally meet with push-back from the university (see the example of FUB, 2019), thus indicating the problem is systemic and quite deep.",
+                "evidence_urls": [
+                    "https://www.tagesspiegel.de/wissen/nach-solidaritaetserklaerung-mit-hongkong-asta-der-tu-berlin-erhaelt-morddrohungen/25280270.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "4",
+                "evidence": "An entire German research institute (Merics) was recently denied access to China in March 2021. Individual researchers have experienced this on and off for years.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "E.g. the Center of Global Studies at the University of Bonn (set up and led by a CCP-connected person of PRC origin who is part of the China Center for Globalisation), or via CI activity (some professors who design courses have dual roles in the University and the CI), or individual institutional examples such as the funding of a chair of Sinology at the FUB according to Chinese law. The latter was exposed by the media.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "evidence": "E.g. In October 2021, 2 Confucius Institutes canceled an event about a biography of Xi Jinping, https://www.dw.com/de/konfuzius-institute-kritik-stefan-aust-adrian-geiges-xi-jinping/a-59636041\n\nAlso, on Nov. 14, 2019, the Free University of Berlin canceled an internal email about a political event about Hong Kong, although it permitted political events about e.g. Bosnia. See, https://lists.fu-berlin.de/listinfo/ma-sociology-announce \n\n\u201cDear Students, Earlier today an e-mail was distributed through the announce newsletter.\nThe e-mail was not intended to be distributed through the newsletter and was mistakenly approved. Our newsletters serve the sole purpose of disseminating important information regarding our M.A. programme as well as relevant job opportunities to all our students.\nPlease accept my sincere apologies for this mistake. The post does not necessarily reflect any views of the institute of sociology and I\napologize for any inconvenience it may have caused.\nRegards, (name withheld by DKT)\u201d",
+                "evidence_urls": [
+                    "https://www.dw.com/de/konfuzius-institute-kritik-stefan-aust-adrian-geiges-xi-jinping/a-59636041",
+                    "https://lists.fu-berlin.de/listinfo/ma-sociology-announce"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "This is quite common in Germany, and can be projects of national significance, e.g. the Wilhelmshaven port deal giving China Logistics (owned by SASAC SOE Chengtong Holdings) ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "An extensive phenomenon in Germany. E.g. Hamburg and Shanghai began a \u201csister city\u201d partnership in 1986. In 1987, Cologne and Beijing. Today there are very many: Aachen/Ningbo, Augsburg/Jinan etc. \u201cSister\u201d relationships also exist on the district level, e.g. Berlin\u2019s Mitte district and Beijing\u2019s Chaoyang district.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "This is an widespread phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "This is a widespread phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "evidence": "This happens at the level of \u201cexchanges\u201d and often within the framework of sister city partnerships, e.g. Cologne\u2019s Ordnungsamt and Beijing\u2019s chengguan \u57ce\u7ba1 have held mutual training sessions on issue such as how to deal with illegal residents (migrants).",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "evidence": "This is very limited.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "1",
+                "evidence": "This is very limited.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "This is a widespread phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "4",
+                "evidence": "This is a widespread phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence of this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "number one trading partner \"country,\" because the biggest partner is EU. \nBoth 2020 and 2021, see: https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/_node.html",
+                "evidence_urls": [
+                    " https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/_node.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "This is a widespread phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Germany was one of 57 founding members, in 2016.",
+                "evidence_urls": [
+                    "https://www.bundesfinanzministerium.de/Content/EN/Standardartikel/Topics/Financial_markets/Articles/2019-04-03-AIIB-milestones.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "Daimler was forced to apologize to the PRC 3 times for including the Dalai Lama in an ad campaign.",
+                "evidence_urls": [
+                    "See: https://www.bbc.com/news/world-asia-china-42986679"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "The European common market has no free trade agreement with the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "They have offices in Germany, but German telecoms are dominated by Germany companies e.g. Deutsche Telekom.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Plenty of Huawei etc. equipment in Germany\u2019s 4G, and they are building it into 5G.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "Very limited.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Some. E.g. The Foreign Ministry recently equipped its staff with hundreds of Lenovo laptops.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "E.g. Duisburg in North-Rhine Westphalia.",
+                "evidence_urls": [
+                    "https://www.handelsblatt.com/technik/digitale-revolution/ada-magazin-wie-sehr-kann-eine-stadt-dem-konzern-huawei-trauen/25592874.html?ticket=ST-25524-v0GyOlbykbLck00y0fWp-ap2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "E.g., Deutsche Bank.",
+                "evidence_urls": [
+                    "https://www.globalbrandsmagazine.com/deutsche-bank-becomes-a-direct-participating-bank-of-chinas-newly-launched-cips/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "This is a fast-growing area in Germany, due to the absence of domestic financing including (especially) for high-tech startups. China is extremely interested and active.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "There is quite a lot of technological cooperation between Germany and China, e.g. SAP.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Western social media apps dominate this area.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "Germany has an extensive network of such UF organizations. They do not publicly interfere too much, however they are active exercising influence in closed-door or smaller circle venues, e.g. business or cultural organizations.",
+                "evidence_urls": [],
+                "note": "I would pick Rating: 2 due to the lack of overt interference in public debate. [Arguably a Rating: 4 would also be appropriate \u2026]",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "Not many however. This would be for older overseas Chinese communities, e.g. in France. Germany has many other active groups however.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Not in a real sense of learning from or building networks. I\u2019m sure some formal/symbolic visits have taken place,  especially in the past.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "4",
+                "evidence": "This is a major phenomenon in Germany e.g. at the annual Spring Festival Gala for PRC students and researchers in Germany.\n\nFor example, Munich Spring Festival host by Chinese Students and Scholars Association M\u00fcnchen e. V.\n\nhttps://en.gasteig.de/events/xin-nian-kuai-le-happy-new-year-munich-spring-festival-gala.html,v60147",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "This is rather a fringe activity among Germans.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "Not that common in entertainment industry due to language etc. differences, and a strong domestic TV and film industry. However it does happen especially for example in nature / animal or geography shows. The PRC also tries to expand this sector, I have personally witnessed that, e.g. with nature documentaries and so on..",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Not really. Mixed. Quite a bit of critical coverage, too.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "This is quite rare.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "Only very limited.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "Not really. However the positive view in Germany is higher than in many European countries.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "This is however a difficult question to answer in yes/no format due to the PRC's military-civil fusion. Germany exports some goods (hardware/high-tech) that end up in China\u2019s policy or military system. Overall however, due to the EU\u2019s ban on military exports to China after 1989, I pick NO",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "However the PLA trains regularly with the Bundeswehr in medical emergency care.",
+                "evidence_urls": [
+                    "See: https://www.dw.com/en/chinese-german-army-medics-tackle-cholera-in-joint-drill/a-49624263"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "There have recently been some espionage cases, often with older/retired German men (e.g. Klaus Lange, Gerhard Sabathil), but the issue cannot be described in these terms and as far as I know is more present in civilian circles than in military.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "Yes, but only in the medical area. There is a (usually annual or biannual) exercise with Bundeswehr and PLA medical units.",
+                "evidence_urls": [
+                    "https://www.dw.com/en/chinese-german-army-medics-tackle-cholera-in-joint-drill/a-49624263"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "In addition, an extradition treaty to Hong Kong was suspended in August 2020 due to the passage by Beijing of a National Security Law for Hong Kong June 30, 2020.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "Difficult to answer this as a Yes or No. I believe there is some activity through certain people and groups, as there is in Holland, but this is not a publicly known issue.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "Rampant.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "Winnti, others prior to it, and more recently the Hafnium attack of March 2021 (by the MSS). In Hafnium alone reportedly 90,000 German companies were targeted. Economic espionage is a major problem for Germany that the country is doing little about.",
+                "evidence_urls": [
+                    "https://www.reuters.com/world/chinese-hackers-target-german-pharma-tech-firms-2022-01-26/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "3",
+                "evidence": "The German domestic security service BfV, says the PRC embassy conducts surveillance and intimidation etc. of dissidents in Germany. It is difficult to say exactly who is carrying out this work (as well as PRC diplomats and security agents), though.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence of that available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "This happened to at least one Uyghur, who disappeared after being returned to China, within the last two years. The person was deported by the immigration authorities in Bavaria. It was widely criticized. This practice has now stopped.\n\nIf we take the 18 month activity time-frame for responses strictly (2020-July 2021), I should answer NO. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Germany has a GDP per capita of US $45,109.05 and a total population of 83.783 million people, with the Chinese population comprising 212,000 people, or 0.3% of the total population.",
+    "description-2": "Germany established diplomatic relations with the People Republic of China in 1972. Germany was ranked 13th in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2020 Global Freedom Status, with a score of 94/100."
+}

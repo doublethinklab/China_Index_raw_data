@@ -1,0 +1,942 @@
+{
+    "name": "Vietnam",
+    "partner": "National Bureau Of Asian Studies",
+    "year": "2021",
+    "GDP": "$2,785.72",
+    "population": "97.3M",
+    "original": "113/364",
+    "ranking": "26",
+    "overall": "31%",
+    "effect": "35%",
+    "exposure": "29%",
+    "pressure": "34%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "You can find in link 1 that there are some of Chinese shareholders in VNG such as: Tenacious Bulldog Holdings Limited, Prosperous Prince Enterprises Limited and Shen Hao. Rumor said that Tenacious Bulldog Holdings Limited and Prosperous Prince Enterprises Limited relates to Tencent Holding Limited \u2013 a Chinese game company.\n\nThe second link is a popular web portal and e-magazine in Vietnam, which belonging to VNG Corporation. VNG has Chinese shareholders but insignificant.\n",
+                "evidence_urls": [
+                    "https://viettimes.vn/dich-chuyen-so-huu-o-vng-post144358.html",
+                    "https://zingnews.vn/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Skip this question because I don\u2019t have any evidence for this argument, but I believe the answer is \u201cyes\u201d.  For security reasons and keep good relationship with China, some news related to China need to be carefully censor such as border and sea disputes.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "In Vietnam, China is not considered as a country which have good human right implementation. Media in Vietnam have reported a lot news regarding to some alleged human rights violations in China. I did try to research about the term of \u201cChina respect Human rights\u201d, \u201cno human right abuse in China\u201d or relating, but there is no result or something significant related.\n\nIn fact that, media would not be allowed to say that \u201cPRC has human right abuse\u201d in official channels because of political reasons. However, by reporting news about Xinjiang, Hong Kong, Tibel, Tiananmen in China also make public significantly concern about PRC has problem with human right.\n",
+                "evidence_urls": [
+                    "http://cand.com.vn/Binh-luan-quoc-te/Dang-sau-lenh-trung-phat-cua-phuong-Tay-voi-Trung-Quoc-634813/",
+                    "https://tuoitre.vn/150-thuong-hieu-toan-cau-co-the-vi-pham-nhan-quyen-o-tan-cuong-20210330095454911.htm",
+                    "https://vnexpress.net/tag/nguoi-duy-ngo-nhi-835419",
+                    "https://trithucvn.org/trung-quoc/nguyen-nhan-nao-khien-trung-quoc-gia-tang-dan-ap-nguoi-duy-ngo-nhi.html",
+                    "https://tuoitre.vn/anh-to-bi-trung-quoc-bit-mieng-ve-van-de-tan-cuong-20210326161135494.htm",
+                    "https://www.facebook.com/quocan.mai/posts/10214546502928827",
+                    "https://vnexpress.net/topic/bieu-tinh-chong-du-luat-dan-do-o-hong-kong-23993 https://thanhnien.vn/the-gioi/hong-kong-bieu-tinh-lon-nhat-sau-bau-cu-1157197.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Nh\u00f3m Ngh\u1ecb s\u1ef9 h\u1eefu ngh\u1ecb Vi\u1ec7t-Trung\n\nReports in the Internet about this group are not available in the period after Jan 2020, although the group still exists. \n",
+                "evidence_urls": [
+                    "https://baodantoc.vn/thuc-day-hop-tac-giua-quoc-hoi-hai-nuoc-viet-nam-trung-quoc-40186.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://nhandan.vn/tin-tuc-su-kien/tong-bi-thu-nguyen-phu-trong-chu-tich-nuoc-nguyen-xuan-phuc-tiep-bo-truong-quoc-phong-trung-quoc-643572"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "China signed an agreement in 2017 at the visit of Vietnam\u2019s leader Nguyen Phu Trong to China, according to which China would train government officials for Vietnam.",
+                "evidence_urls": [
+                    "https://hcma4.hcma.vn/tintuc/Pages/tin-tuc-su-kien.aspx?CateID=342&ItemID=10420",
+                    "https://vtv.vn/trong-nuoc/tang-cuong-hop-tac-dao-tao-can-bo-viet-nam-trung-quoc-20170919183926371.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "No report available in the Internet for the period from Jan 2020. But pressure by Chinese diplomats is a \u201cnormal\u201d in Sino-Vietnamese relations, and PRC diplomats have done so in informal ways in the past. Most Vietnamese politicians have internalized this norm, and applied self-censorship when it comes to sensitive issues related to PRC. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2016/01/is-china-interfering-in-vietnams-politics-with-its-south-china-sea-moves/",
+                    "https://www.degruyter.com/document/doi/10.1355/9789814762878-027/html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "skip",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "No specific report available for the period from Jan 2020, but Vietnam\u2019s leaders often refrain from addressing sensitive issues like this one. The norm is, however, Vietnam\u2019s representative must stick to their One China Policy, which entails blocking Taiwan\u2019s participation in international organization when China demands so.\n\nhttps://www.thehindu.com/news/national/vietnam-believes-in-one-china-policy-envoy/article29881834.ece\n\nhttps://www.globaltimes.cn/content/1074915.shtml",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No specific report available in the Internet, but this is consistent with Vietnam\u2019s China policy. Except for matters related to the territorial and maritime disputes in the South China Sea, Vietnam will publicly support the PRC when there is little international opposition to it. When there is substantial international opposition, Vietnam tends to stay silent. ",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "See below link. ",
+                "evidence_urls": [
+                    "https://e.vnexpress.net/news/news/vietnam-rejects-china-s-sovereignty-claims-over-vietnamese-territories-4081006.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "  https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Although Vietnam supports China\u2019s sovereignty over Tibet as consistent with its \u201cOne China\u201d policy, Vietnam remains silent about PRC\u2019s treatment of its Tibet population. Hanoi considers this a domestic affairs of the PRC, which it does not want to interfere with. If pressed, however, Vietnam would support PRC stance.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://vtv.vn/chinh-tri/viet-nam-ton-trong-va-ung-ho-cac-quy-che-lien-quan-cua-hong-kong-trung-quoc-20200702172341641.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "See below note.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://vi-vn.facebook.com/vienkhongtuhanuvn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Yes, Chinese is a foreign language from 6-12 grades, but no, Vietnam does not receive free educational books and teachers from PRC; textbooks used in the Chinese language curriculum in Vietnam\u2019s schools must conform with Vietnam\u2019s official policy, thus, Chinese language books that contain China\u2019s claims in the South China Sea are banned in Vietnam\n",
+                "evidence_urls": [
+                    "https://hoc360.net/chuong-trinh-giao-duc-pho-thong-mon-tieng-trung/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Academic institutions that have received financial support from PRC entities include, but are not limited to, the Hanoi University that has a Confucius Institute, and the Ho Chi Minh Academy of Politics (HCMA), the central training institution of the ruling Communist Party of Vietnam. The HCMA has received financial support from the PRC in the past, but not in the period from Jan 2020.",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/a/202011/10/WS5faa2452a31024ad0ba932df_2.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "http://marx.dlut.edu.cn/info/1072/3617.htm\n\nThe COVID pandemic since Jan 2020 makes this activity impossible, but this kind of exchange is normal in Sino-Vietnamese relations.",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "See below comment."
+                ],
+                "note": "Although there is no report in the Internet about a specific case, but Vietnam\u2019s scholars and academics are aware that they may be harassed and punished if they are too critical of China, especially in sensitive issues related to China\u2019s \u201ccore interests\u201d. There is self-censorship among Vietnamese academics about this. Thus, although there may be no specific case, the pressure is real and PRC punishment serves as a deterrent.",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "See below comment."
+                ],
+                "note": "The fact is teachers and professors in Vietnam generally avoid the discussion of sensitive political issues in general as well as those related to China. There is little report about this state of affairs perhaps because it is taken for granted.",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "I work focus on energy sector and I follow carefully the Chinese oversea investment to coal fired projects in Vietnam. China is one of 3 big countries invest in coal project in Vietnam beside Korea and Japan. While Korea and Japan announced to stop funding for coal power oversea due to pressure of government commit on net zero emission. China is expected to be the biggest investors on coal project in Vietnam. Therefore, there are some MoU on finance mobilization between investors and Chinese partners have been made.\n\nThe Article above show that Cong Thanh Group was sign MoU with Central South Electricity Design Institute of PRC on capital arrangement for Cong Thanh coal-fired power project with the participation of local provincial leaders. Cong Thanh Group is not state own company but they got support from local authorities of Thanh Hoa province to sign this MoU, where the project located.\n",
+                "evidence_urls": [
+                    "https://baothanhhoa.vn/kinh-te/ky-ket-thu-xep-von-cho-du-an-nang-luong-sach-nhiet-dien-than-1x600mw-cong-thanh/136321.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": " Ho Chi Minh city is the biggest cities in Vietnam and has collaborative relationship with Shanghai and Shenyang.\n\nDa Nang city \u2013 famous tourist city in Vietnam, this city has sister-city ties with Kunming and Macau city, Shandong province",
+                "evidence_urls": [
+                    "http://www.mofahcm.gov.vn/vi/hoptac_qt/nr041014110554/",
+                    "https://www.danang.gov.vn/gioi-thieu/danh-muc?id=43&page=1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "Vietnam and China have a complicated relationship. Although, in fact that, there are some trouble related to territorial disputes, security concerns, and geopolitical competition. Vietnam still need to balance and keep goodwill diplomatic with China.\nIn general, Vietnam and China have close relationship and have a deeply rooted diplomatic history. In January 1950, the PRC became the first country to formally recognize the Socialist Republic of Vietnam. The two sides formalized neighborly relations under the principles of \u201cfriendly Sino-Vietnam relations for peace, stability and prosperity.\u201d For many years until now, China has been Vietnam's largest trading partner.\nThere are a lot of trips taking by politicians from both countries:\n1.\tOn the morning of July 8, Chairwoman of the National Assembly Nguyen Thi Kim Ngan led a high-ranking delegation for an official visit to the PRC from July 8 to 12 at the invitation. by the Chief Commissioner of the National People's Congress (Ren Dai) of China Li Zhanshu. This trip may be funded by PRC because it stated that a high-rank politicant of PRC invited Vietnamese Chairwoman of National Assembly to take a visit to PRCSee the first link.\n\n2.\tThe link below showed the list of trips that the former Prime Minister Nguyen Tan Dung take to China: see the second link.\n\n3. The most recently new is that Minister of National Defense of PRC took a trip to visit government/politicians in Vietnam: see the third link.\n",
+                "evidence_urls": [
+                    "http://baochinhphu.vn/Tin-noi-bat/Chu-tich-Quoc-hoi-tham-chinh-thuc-Trung-Quoc/370156.vgp",
+                    "http://nguyentandung.chinhphu.vn/Home/chuyen-tham-trung-quoc-chinh-thuc.vgp",
+                    "https://nld.com.vn/thoi-su/bo-truong-phan-van-giang-don-bo-quoc-phong-trung-quoc-tham-viet-nam-20210425174557345.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "Representative of the Vietnam Academy of Social Sciences attended the 11th China and ASEAN Think Tank Strategic Dialogue Forum and worked with the Guangxi Institute of Social Sciences, China. See the first link.\n\nRepresentative of Vietnam Institute for Economic and Policy Research participate China \u2013 ASEAN Think Tank Forum (Hainan). See the second link.",
+                "evidence_urls": [
+                    "https://gass.edu.vn/SitePages/News_Detail.aspx?categoryId=68&itemId=44635",
+                    "http://vepr.org.vn/dai-dien-vepr-tham-du-dien-dan-mang-luoi-think-tank-trung-quoc-hai-nam-asean-lan-thu-ba-tai-trung-quoc.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The term of \u201ccampaign\u201d in Vietnam is considered as \u201csensitive\u201d actions and will not have positive view in general.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "I don\u2019t have enough evidence to answer this question",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "http://congthuong.hochiminhcity.gov.vn/ban-tin-cong-thuong?p_p_auth=1mYfxhfS&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=2&p_p_col_count=3&p_p_id=101_INSTANCE_SSirgzdjy3KW&_101_INSTANCE_SSirgzdjy3KW_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_SSirgzdjy3KW_assetEntryId=4161664&_101_INSTANCE_SSirgzdjy3KW_type=content&_101_INSTANCE_SSirgzdjy3KW_urlTitle="
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://thanhnien.vn/tai-chinh-kinh-doanh/xuat-khau-dau-tho-thang-8-tang-cao-1275381.html",
+                    "https://www.pvpower.vn/hoat-dong-xuat-ban-dau-tho-viet-nam-luon-dam-bao-hieu-qua-va-an-toan/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                    "https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-First-Vietnam-Loan-to-Help-Private-Sector-COVID-19-Response.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "Numerous incidents of PRC using different pretexts to delay or block temporarily imports of goods, mostly perishable agricultural produces, at border gates.\nIncidents happened during the COVID pandemic can be said as a response to the pandemic and not an example of China\u2019s coercion: https://nld.com.vn/kinh-te/trung-quoc-siet-thong-quan-2600-xe-hang-tac-o-cua-khau-20200411085741217.htm\n\nBut there are numerous incidents that happened before the COVID pandemic: see below links.",
+                "evidence_urls": [
+                    "https://vietnamnet.vn/vn/kinh-doanh/thi-truong/500-xe-container-cho-nong-san-xuat-khau-sang-trung-quoc-tac-o-cua-khau-tan-thanh-578588.html",
+                    "https://vietnamnet.vn/vn/kinh-doanh/thi-truong/trung-quoc-ap-dung-may-soi-nong-san-500-xe-container-thanh-long-tac-o-cua-khau-559954.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Because the government of Vietnam discourages businesses from engaging in political issues in general, even more so in sensitive issues related to PRC.  So the best answer is NOT AVAILABLE.",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/topic/enaseanupgrade.shtml",
+                    "https://www.dw.com/en/asia-pacific-nations-sign-worlds-biggest-free-trade-agreement/a-55604659"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "NO for the period from Jan 2020 on, but YES in industrial parks open to all foreign investment, not just from the PRC. \nThe VCP Politburo put forward, in 2018 and again in 2019, two major attempts to establish special economic zones to attract investment anticipated to be mainly from the PRC, through the passing of the Special Zones Act. However, both attempts failed due to strong popular protests\n",
+                "evidence_urls": [
+                    "https://chinadialogue.net/en/business/11154-public-criticism-pressures-vietnam-to-back-down-on-new-economic-zones/",
+                    "https://www.scmp.com/week-asia/politics/article/2149785/vietnamese-see-special-economic-zones-assault-china",
+                    "https://asia.nikkei.com/Politics/International-relations/Vietnam-s-economic-zones-derailed-by-anti-China-protests",
+                    "https://muse.jhu.edu/article/722691/pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Vietnam does not use Huawei, ZTE, or other PRC enterprises for 5G. Vietnam uses Ericsson, Nokia, and Samsung equipment for its 5G networks, and deliberately but de facto excludes Huawei from its 5G. See below link.\n\nHowever, it does use a PRC enterprise for 4G. See second link.",
+                "evidence_urls": [
+                    "Viettel Moves Away from Huawei\u2019s 5G Technology,\u201d Hanoi Times, August 26, 2019, http://hanoitimes.vn/viettel-moves-away-from-huaweis-5g-technology-42438.html",
+                    "https://vietnamnet.vn/vn/cong-nghe/vien-thong/nha-mang-viettel-phu-nhan-cao-buoc-su-dung-thiet-bi-mang-4g-trung-quoc-521599.html"
+                ],
+                "note": "Expert is 100% confident Vietnam does not use 5G. Confidence indicator is for 4G and the question overall.",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "This has not occurred in the last 18 months",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No municipal authorities have signed contracts directly with PRC companies, but some large private companies have used Chinese technology to build their \u201csmart city\u201d systems.",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.sohu.com/a/417880704_114731"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "PRC-connected venture capital investment directly: see first four links\n\nIndirectly: Tencent owns 20% stake in SEA Group, which owns Shopee, the largest e-commerce platform in Vietnam; Alibaba is a major investor in Lazada, the second largest e-commerce platform in Vietnam. See last three links.",
+                "evidence_urls": [
+                    "https://vietnamfinance.vn/duong-vao-vng-cua-tencent-trung-quoc-20170628172259165.htm",
+                    "https://chanhtuoi.com/zalo-la-cua-nuoc-nao-zalo-co-phai-cua-trung-quoc-p2719.html",
+                    "https://www.brandsvietnam.com/14666-Nguoi-khong-lo-bi-an-dung-sau-cac-thuong-vu-dau-tu-vao-thuong-mai-dien-tu-Viet-Nam",
+                    "https://vneconomy.vn/vng-cong-bo-danh-tinh-8-co-dong-ngoai.htm",
+                    "https://vir.com.vn/shopee-pulling-ahead-in-e-commerce-blitz-84027.html",
+                    "https://en.pingwest.com/a/4088",
+                    "https://techwireasia.com/2021/02/alibaba-and-shopee-heading-for-e-commerce-faceoff-in-vietnam/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://vietnamfinance.vn/duong-vao-vng-cua-tencent-trung-quoc-20170628172259165.htm",
+                    "https://chanhtuoi.com/zalo-la-cua-nuoc-nao-zalo-co-phai-cua-trung-quoc-p2719.html",
+                    "https://www.brandsvietnam.com/14666-Nguoi-khong-lo-bi-an-dung-sau-cac-thuong-vu-dau-tu-vao-thuong-mai-dien-tu-Viet-Nam",
+                    "https://vneconomy.vn/vng-cong-bo-danh-tinh-8-co-dong-ngoai.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "\n\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/DoanBaoChau21165/posts/10158505119528965",
+                    "https://www.facebook.com/groups/npoforum/posts/2705598213092287/",
+                    "https://www.facebook.com/groups/nhabaocongdan/posts/1619605508429214"
+                ],
+                "note": "As I observed, there are very few local groups discussing on their view of Taiwan, Hong Kong, Tibet or Xinjiang issues. Although, it\u2019s not difficult to find the story about those sovereigns on Internet in Vietnam. However, when it come to \u201cpromotion of Peaceful Reunification\u201d, there are only some small groups who care about human right, minority ethnic or culture and territorial disputes show interesting about it.",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "1.\tStrengthening the relationship between the Vietnam Trade Union and All-China Federation of Trade Unions: See first article.\n\n2.\tEmulation and Commendation Committee visit All-China Federation of Trade Unions: See second article.\n\n3.\tVietnam Labor Confederation attended an online international conference hosted by ACFTU: See third article.",
+                "evidence_urls": [
+                    "https://laodong.vn/cong-doan/cung-co-moi-quan-he-giua-cong-doan-viet-nam-va-tong-cong-hoi-trung-quoc-763314.ldo",
+                    "http://thiduakhenthuongvn.org.vn/dien-dan/trao-doi-kinh-nghiem-khen-thuong-tai-trung-quoc",
+                    "https://laodong.vn/cong-doan/tong-ldldvn-du-hoi-nghi-quoc-te-ve-phong-trao-lao-dong-trung-quoc-923399.ldo"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "There are a few entities provide service to watch PRC TV channels ",
+                "evidence_urls": [
+                    "https://tiengtrunghsk.vn/xem-tv-trung-quoc-tai-viet-nam-tai-sao-khong/",
+                    "https://laptruyenhinhhd.com/lap-dat-truyen-hinh-trung-quoc-35/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "See comment below"
+                ],
+                "note": "Public evidence is unavailable. High-ranking and middle-ranking Vietnamese officials have received scholarships from PRC entities for their children to study in PRC universities. My information is private. ",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "See below links.",
+                "evidence_urls": [
+                    "https://thuvienphapluat.vn/van-ban/Trach-nhiem-hinh-su/Hiep-dinh-tuong-tro-tu-phap-van-de-dan-su-va-hinh-su-giua-Viet-Nam-Trung-Hoa-153617.aspx",
+                    "https://www.voatiengviet.com/a/hiep-uoc-dan-do-viet-trung-dan-lo-ngai-viet-nam-se-la-thien-duong-cho-toi-pham-trung-quoc/5087361.html",
+                    "http://songoaivu.tiengiang.gov.vn/hop-tac-quoc-te/-/asset_publisher/QSpp7P8RukDa/content/hiep-uoc-dan-o-giua-viet-nam-va-trung-quoc-uoc-trung-quoc-phe-chuan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://vtv.vn/chinh-tri/viet-nam-trung-quoc-day-manh-hop-tac-phong-chong-toi-pham-20210219194656086.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "See below link.",
+                "evidence_urls": [
+                    "https://www.securityweek.com/china-linked-cycldek-hackers-target-vietnamese-government-military"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "Vietnam joined PRC police force in \u201cjoint\u201d patrols in the joint fishing area in the Tonkin Gulf, established in the Maritime Border Treaty of 2000, and in some areas along the land border, but the patrols are coordinated rather than joint in the sense we commonly think of it in the US. So, this answer could be considered \"no\" depending on the interpretation of \"joint patrols\"",
+                "evidence_urls": [
+                    "https://vietnamnews.vn/politics-laws/835899/vietnamese-chinese-coast-guards-conduct-joint-patrol-in-tonkin-gulf.html",
+                    "https://thediplomat.com/2018/10/china-vietnam-joint-patrols-in-the-spotlight/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "evidence": "See below link. ",
+                "evidence_urls": [
+                    "https://www.bbc.com/vietnamese/vietnam-38508518"
+                ],
+                "note": "There is no specific case in the last 18 months",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "Yes in general although no specific case in the period from Jan 2020. For example, Vietnam did deport Uyghurs to PRC in the past and attracted criticisms from some Western observers.",
+                "evidence_urls": [
+                    "https://www.rfa.org/english/news/uyghur/vietnam-04212014191111.html",
+                    "https://www.refworld.org/docid/5971a86013.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Vietnam has a GDP per capita of US $2,785.72 and a total population of 97.3 million people, with the Chinese population comprising 1.2 million people, or 1.2% of the total population.",
+    "description-2": "Vietnam established diplomatic relations with the People Republic of China in 1991. Vietnam was ranked 69th in Reporters Without Borders' 2021 World Press Freedom Index, and Not Free in Freedom House's 2020 Global Freedom Status, with a score of 19/100.\u00a0\u00a0"
+}

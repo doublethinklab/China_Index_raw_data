@@ -1,0 +1,964 @@
+{
+    "name": "Georgia",
+    "partner": "Civic IDEA",
+    "year": "2021",
+    "GDP": "$4,274.612",
+    "population": "3.7M",
+    "original": "149/392",
+    "ranking": "19",
+    "overall": "38%",
+    "effect": "37%",
+    "exposure": "47%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No Evidence Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No Direct Evidence Found",
+                "evidence_urls": [],
+                "note": "Jemal Putkaradze's(Current Ministerial Advisor of the Ministry of Agriculture of Georgia) farticle available on the Belt & Road News Network website on the following link http://en.brnn.com/n3/2021/0618/c415019-9862495.html ",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "In Georgia, GBTimes was in charge of organizing media trips to China covering the purposes of tourism, art, sports, lifestyle, health, business, new technologies and society. These fully financed two-three week-long visits, called \u201cDiscover China,\u201d serve the goal of discovering China as presented by the hosts and tour organizers as progressive, technologically advanced, fast-growing and even \u201ccapable of building a whole new city out of the needs of the local population in seven months\u201d as was mentioned by one of the Georgian journalist participants of the program in a 2019 in an interview with Civic IDEA. The program brings together dozens of journalists (each year) representing print and online media, TV broadcasters and radio. More available here https://civicidea.ge/en/2-report-on-georgian-chinese-affair/ ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "There exists Sinomedia's Georgian branch and the Ministry of Finance of Georgia has signed a memorandum with China regarding its opening (link: https://mof.ge/images/File/biuj2017_9tve/TAVI_V.pdf). They organize trainings and conferences as well.\n\nAlso Georgian-Chinese media platform announced online contest, details on the following link: http://www.chinadaily.com.cn/business/2017-11/14/content_34513600.htm \n\nJournalists travelling to China every year for different means (incl. trainings). For more info please visit: https://civicidea.ge/en/2-report-on-georgian-chinese-affair/\n",
+                "evidence_urls": [
+                    "https://mof.ge/images/File/biuj2017_9tve/TAVI_V.pdf ",
+                    "http://www.chinadaily.com.cn/business/2017-11/14/content_34513600.htm ",
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "Not Found",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "FOR YOU (the same as 4U) is a Unique Media group, which unites JAKO FM 96.3 , SHOKOLADI FM 98.5 and LIFE FM 95.9, creating interesting and current content for the multimedia platform www.4U.ge.\nFrom 2018, www.4U.ge provides to its users to get acquainted with a wide range of new information in four languages (English, Russian, Chinese and Georgian), using audio, video, text and photo resources. Details on the following link: http://foryou.ge/en/about \n\nPlease also check Civic IDEA's report: https://civicidea.ge/en/2-report-on-georgian-chinese-affair/ ",
+                "evidence_urls": [
+                    "http://foryou.ge/en/about",
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "evidence": "All the aforementioned media outlets (Sinomedia, Sinologia, 4U) in Georgia financed by China also translate the Chinese articles. Moreover, Georgian Public Broadcaster offers \"Chinese blogs\"/\"Chinese Diaries\", digest twice a month. Details on the following link: https://1tv.ge/analytics/chinuri-dghiuri-23-04-2021/ ",
+                "evidence_urls": [
+                    "https://1tv.ge/analytics/chinuri-dghiuri-23-04-2021/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "There are some because these media outlets financed by China also have the social media accounts on facebook and linkedin.",
+                "evidence_urls": [
+                    "https://www.facebook.com/4U.ge.Official",
+                    "https://www.facebook.com/sinomedia.ge",
+                    "https://www.linkedin.com/company/%E1%83%A1%E1%83%98%E1%83%9C%E1%83%9D%E1%83%9B%E1%83%94%E1%83%93%E1%83%98%E1%83%90-%E2%80%A2-sinomedia/about/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "There were two occasions when Chinese attacked the Georgian journalists, one on the construction of the Akhaltsikhe railway and the second one on the journalists of media outlet TV1 (they destroyed their cameras/equipment), but we are not sure if these examples would count. ",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "We provided two links where the existence of such parliamentary friendship group exists. The article published on the Chinese Embassy's official webpage http://ge.china-embassy.org/eng/xwdt/t1639933.htm mentions that in 2019, Lantern festival was attended by the Chairman of the China-Georgia Friendship Group within the Parliament of Georgia, Otar Danelia.\n\nIn the second article, it is mentioned that Davit Saganelidze, Executive Director of the Partnership Fund, led the Georgian-Chinese Parliamentary Friendship Group for three years. https://www.fund.ge/site/news/206",
+                "evidence_urls": [
+                    "http://ge.china-embassy.org/eng/xwdt/t1639933.htm",
+                    "https://www.fund.ge/site/news/206"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Meetings with the representatives of the PRC are held often, especially during the Covid-19 pandemic.",
+                "evidence_urls": [
+                    "https://civil.ge/archives/124976",
+                    "http://www.china.mfa.gov.ge/default.aspx?lang=2",
+                    "https://civil.ge/archives/306578",
+                    "https://www.interpressnews.ge/ka/article/659135-giorgi-amilaxvari-da-shalva-papuashvili-chinetis-elchs-shexvdnen/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "As China officially recognizes the sovereignty, territorial integrity and the non-recognition policy of Georgia. https://www.europarl.europa.eu/RegData/etudes/note/join/2013/433800/EXPO-SEDE_NT(2013)433800_EN.pdf, \nGeorgia also supports \"One China Policy\" https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/dozys_664276/gjlb_664280/3170_664312/ \n\nTwenty-two nations -- 14 of the 15 countries that recognize the Taipei government and a group of eight led by the U.S. and Japan -- had been forecast to back Taiwan's participation in a vote ahead of the meeting. However Georgia was not among them as it does not recognize Taipei government. https://www.businesstimes.com.sg/government-economy/who-committee-to-discuss-taiwan-exclusion\nhttps://asia.nikkei.com/Spotlight/Coronavirus/US-slams-WHO-and-China-for-excluding-Taiwan-from-key-meeting\n\nEven if the head of state or head of government or foreign minister of Georgia did not publicly deny Taiwan's participation in WHO, their support to \"One China Policy\" authomatically shows their support to China's initiatives and policies.",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/topics_665678/AntiSecession_665876/t188477.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "2",
+                "evidence": "Georgia supported China in the elections of international organizations including the International Civil Aviation Organization, the United Nations Economic and Social Council, the Committee Against Torture and the Educational, Scientific and Cultural Organization. https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/dozys_664276/gjlb_664280/3170_664312/ ",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/dozys_664276/gjlb_664280/3170_664312/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Our expert answered 2 = My country has remained silent, however as mentioned before Georgia recognizes \"One China Policy\", hence, it also shows support of PRC's territorial claims. http://www.china.mfa.gov.ge/default.aspx?lang=2",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "The issue of Uyghur population is generally less relevant for Georgia, no public records are available concerning Georgia's particular stance on PRC's treatment of Uyghurs, even though it supports \"One China Policy\".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "The issue of Tibet population (likewise Uyghurs) is generally less relevant for Georgia, no public records are available concerning Georgia's particular stance on PRC's treatment of Tibet population, even though it supports \"One China Policy\".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "There have been no public statements made.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "Huawei is trying to introduce new technologies at the Georgian Technical University (GTU)- https://www.ghn.ge/news/41491\n\nAt Tbilisi State University (TSU), Huawei has equipped one room with equipment, that room is devoted to studies of sinology - http://test.aris.ge/news/tsu-shi-chinuri-enisa-da-kulturis-otaxi-gaixsna.html ",
+                "evidence_urls": [
+                    "https://www.ghn.ge/news/41491",
+                    "http://test.aris.ge/news/tsu-shi-chinuri-enisa-da-kulturis-otaxi-gaixsna.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "There are two official Confucius Institutes in Georgia. The first one opened in 2010 at the Free University of Tbilisi and the other one in 2017 at the Tbilisi Open University. It is not officially opened as a CI at the Batumi State University (BSU), but there has been an agreement between the two institutions offering students free Chinese language courses since 2017. The information available on the BSU webpage specifically says that the cooperation agreement between the BSU and the CI is not limited to coaching in the Chinese language and involves teaching a variety of other subjects. In 2018, the Confucius Institute started offering special free language programs to students of the largest and most popular Tbilisi State University with the opportunity of continuing free education in China. Details on the following link: https://civicidea.ge/en/2-report-on-georgian-chinese-affair/ ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/",
+                    "https://www.facebook.com/Confucius-Institute-at-Free-University-of-Tbilisi-Georgia-163361037013560/",
+                    "https://www.facebook.com/ConfuciusClassroomAtTbilisiOpenUniversity/",
+                    "https://www.tou.edu.ge/en/confucius-class",
+                    "http://faoffice.lzu.edu.cn/hdmbi/bas/col_detail.php?id=1040"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "On a broader scale, the Georgian Ministry of Education and the Chinese Embassy in Tbilisi signed an agreement in 2019 about the popularization of China and the Chinese language and culture in Georgia. Within the framework of this agreement, free Chinese language classes are being introduced in Georgian secondary schools from the 5th grade as a second foreign language together with one European language. The Ministry of Education is planning to train Georgian teachers for them to effectively conduct the Chinese language courses. For more details, please visit: https://civicidea.ge/wp-content/uploads/2020/09/Tinatin-Khidashedli-China-Report.pdf ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "China Research Institute and its adjacent Chinese Language and Culture Center, China Student Club, Student Journal \"China Today\". Academic Journal \"Chinese Papers\" http://law.gtu.ge/%E1%83%A9%E1%83%98%E1%83%9C%E1%83%94%E1%83%97%E1%83%98%E1%83%A1-%E1%83%99%E1%83%95%E1%83%9A%E1%83%94%E1%83%95%E1%83%98%E1%83%97%E1%83%98-%E1%83%98%E1%83%9C%E1%83%A1%E1%83%A2%E1%83%98%E1%83%A2%E1%83%A3/\n\nAlso, Research Institute of China Studies https://www.facebook.com/instituteofchinastudies/?ref=page_internal ",
+                "evidence_urls": [
+                    "http://law.gtu.ge/\u10e9\u10d8\u10dc\u10d4\u10d7\u10d8\u10e1-\u10d9\u10d5\u10da\u10d4\u10d5\u10d8\u10d7\u10d8-\u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3/",
+                    "https://www.facebook.com/instituteofchinastudies/?ref=page_internal+"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "PRC friendship associations, Chinese Academy, Chinese Institute of International Education and others, Please visit https://civicidea.ge/en/2-report-on-georgian-chinese-affair/ ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/"
+                ],
+                "note": "Since China is not a transparent state, so are the analytical/academic centers and associations affiliated with it. Therefore, it is very difficult to provide direct evidence of Chinese financial aid, since in many cases even the funding is happening indirectly, but still from the PRC. https://www.rfa.org/english/news/china/friendship-influence-08062020085635.html",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "Within the framework of the BRI initiative, the Chinese government is financing various research initiatives of Georgian scientists in the fields of natural science, engineering, healthcare and technology. These projects are part of the \"Science-Talent-Future\" action plan of the symposium of the Chinese National Natural Science Foundation and Georgia's Shota Rustaveli National Science Foundation. https://civicidea.ge/en/2-report-on-georgian-chinese-affair/",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/2-report-on-georgian-chinese-affair/",
+                    "https://mes.gov.ge/content.php?lang=geo&id=7273",
+                    "http://newsday.ge/new/index.php/ka/component/k2/item/32300-%E1%83%A9%E1%83%98%E1%83%9C%E1%83%94%E1%83%97%E1%83%98%E1%83%A1-%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%A0%E1%83%9D%E1%83%91%E1%83%90-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%98-%E1%83%9B%E1%83%94%E1%83%AA%E1%83%9C%E1%83%98%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%99%E1%83%95%E1%83%9A%E1%83%94%E1%83%95%E1%83%94%E1%83%91%E1%83%A1-%E1%83%93%E1%83%90%E1%83%90%E1%83%A4%E1%83%98%E1%83%9C%E1%83%90%E1%83%9C%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "\"The Star for Georgia and China\u035f\" project is multi-dimensional and attracts students and professors not only by offering scholarships and education in China but also in partner universities across Europe. https://civicidea.ge/wp-content/uploads/2020/09/Tinatin-Khidashedli-China-Report.pdf \n\nAlso, Georgia's former Ambassador to China, David Aptsiauri was invited to the Shandong University of Finance and Economics and the Cintao International Business and Economics University (Shandong Province) where he gave presentations and lectures to Chinese and foreign scholars and researchers, PhD and master\u2019s students from Europe and students from Yemen, Asia, Latin America, Africa and Georgia. ",
+                "evidence_urls": [
+                    "https://civicidea.ge/wp-content/uploads/2020/09/Tinatin-Khidashedli-China-Report.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "July 1, 2019 \u2013 On May 20, Batumi Sea Port Ltd hosted a delegation from China\u2019s Lianyungang port, and the two ports signed a memorandum of understanding (MoU). The signing ceremony was attended by representatives of the mayor\u2019s office headed by the mayor of Lianyungang city and by the Chairman of the Board of Lianyungang Port Holdings Group Company Limited. https://www.portseurope.com/batumi-sea-port-ltd-and-chinas-lianyungang-port-sign-a-memorandum-of-understanding/\n\nMemorandum of cooperation between the Batumi Botanical Garden and Kunming Institute of Botany http://bbg.ge/en/news/news/memorandum-of-cooperation-between-the-batumi-botanical-garden-and-kunming-institute-of-botany/290\n\nMinister of Agriculture of Adjara Tite Aroshidze, Deputy Minister Ruslan Koridze and Deputy Minister of Environment and Agriculture of Georgia Khatia Tsilosani paid an official visit to Beijing, China. Within the framework of the visit, a Memorandum of Understanding was signed between the Ministry of Agriculture of the Autonomous Republic of Adjara and the Chinese company \"Georgian Tobacco Ltd.\", in the field of cooperation in the field of tobacco sector development. Signed by the Minister of Agriculture of Adjara Tite Aroshidze and the Director of the Georgian Tobacco Company \"Georgian Tobacco\" Ben Juan. http://adjara.gov.ge/description.aspx?gtid=841324#.YNWMxRMzZo4 \n\n\n\n\n",
+                "evidence_urls": [
+                    "https://www.portseurope.com/batumi-sea-port-ltd-and-chinas-lianyungang-port-sign-a-memorandum-of-understanding/",
+                    "http://bbg.ge/en/news/news/memorandum-of-cooperation-between-the-batumi-botanical-garden-and-kunming-institute-of-botany/290",
+                    "http://adjara.gov.ge/description.aspx?gtid=841324#.YNWMxRMzZo4 "
+                ],
+                "note": "Here it is said that Batumi Port is one of the sub-divisions of Batumi Regional Center (Tax Inspection) within the Georgian state (particularly under the subordination of the Ministry of Finance) https://matsne.gov.ge/ka/document/view/75634?publication=0 \n\nBatumi Botanical Garden is an object subordinated to Batumi City Hall. https://batumelebi.netgazeti.ge/news/59224/\nIt is officially state-owned http://br.geostat.ge/register_geo/index.php?action=History&lang=ka&Stat_ID=16307114 ",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "Kutaisi is twinned with Tianjin, China https://kids.kiddle.co/List_of_twin_towns_and_sister_cities_in_Georgia_(country)#Kutaisi \n\nAlso it is a sister city of Laiwu (Jinan), China and Nanchang, China https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Georgia_(country) ",
+                "evidence_urls": [
+                    "https://kids.kiddle.co/List_of_twin_towns_and_sister_cities_in_Georgia_(country)#Kutaisi ",
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Georgia_(country) "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "Georgia's former Ambassador to China, David Aptsiauri, who was rather popular during his service years in China as well. In March 2018, the Chinese news agency, Home and Abroad News Press, awarded him \"Man of the Year in the News.\" Currently, Mr. Aptsiauri serves as a researcher at the Levan Mikeladze Diplomatic Training and Research Institute affiliated with the Ministry of Foreign Affairs of Georgia. According to their Facebook page, Mr. Aptsiauri keeps visiting China as an invited professor at the Beijing University of International Business and Economics. He also researches the Silk Road Initiative as a model of global economic cooperation. Additionally, he was invited to the Shandong University of Finance and Economics and the Cintao International Business and Economics University (Shandong Province) where he gave presentations and lectures to Chinese and foreign scholars and researchers, PhD and master\u035bs students from Europe and students from Yemen, Asia, Latin America, Africa and Georgia. https://civicidea.ge/wp-content/uploads/2020/09/Tinatin-Khidashedli-China-Report.pdf ",
+                "evidence_urls": [
+                    "https://www.facebook.com/DTRIGeorgia/posts/1601815673289279",
+                    "https://civicidea.ge/wp-content/uploads/2020/09/Tinatin-Khidashedli-China-Report.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Prime Minister\u2019s Visit to the People\u2019s Republic of China http://gov.ge/index.php?lang_id=ENG&info_id=51428\n\nGeorgian Minister of Economy and Sustainable Development Natia Turnava went to China, met with representatives of Georgian and Chinese companies at the China International Import Expo (CIIE) earlier today.  https://agenda.ge/en/news/2019/2997 \n\nWithin the frames of the official visit to the People\u2019s Republic of China, the Minister of Economy and Sustainable Development of Georgia, Natia Turnava had a meeting with the representatives of the China Chamber of Commerce for Import and Export of Machinery and Electronic Products. http://www.economy.ge/?page=news&nw=1330&lang=en \n\nThe Deputy Minister of Internal Affairs visited China University of Public Safety https://police.ge/ge/shs-ministris-moadgile-chinetis-sazogadoebrivi-usafrtkhoebis-universitets-etsvia/11048 \n\nOn April 16, the Ambassador of Georgia to China Archil Kalandia held a meeting with the President of the China Chamber of Commerce for Import and Export of Machinery and Electronic Products (CCCME) Zhang Yujing.\nThe two sides discussed areas of bilateral cooperation. The Ambassador introduced the Chinese side to the favourable business environment and investment opportunities in Georgia. https://www.gfsis.org/publications/view/2958 \n\n",
+                "evidence_urls": [
+                    "http://gov.ge/index.php?lang_id=ENG&info_id=51428",
+                    "https://agenda.ge/en/news/2019/2997 ",
+                    "http://www.economy.ge/?page=news&nw=1330&lang=en ",
+                    "https://police.ge/ge/shs-ministris-moadgile-chinetis-sazogadoebrivi-usafrtkhoebis-universitets-etsvia/11048",
+                    "https://www.gfsis.org/publications/view/2958"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Georgian government officials have repeatedly stated that Chinese companies involved in infrastructure construction are under the supervision of the Georgian government and international financial institutions and, together with companies from other countries, participate in international tenders in a fair and transparent environment. Chinese companies strictly follow the state laws and regulations of China and Georgia, make a comprehensive evaluation of the proposed tender projects and set prices accordingly. https://forbes.ge/chinethi-da-saqarthvelo-interviu-elchthan/ \n\nIn 2015, the head of the government Irakli Gharibashvili summed up the working visit to China and noted that the interest of the Chinese government in Georgia is very high. The Prime Minister called the meetings with the Chinese Prime Minister and investors, which focused on specific projects, successful and fruitful. http://gov.ge/index.php?lang_id=-&info_id=51413 \n\n\"China is our number one export partner, quite a lot of Georgian wine is going to China and we see a very good opportunity to increase Georgian exports to the Chinese market by improving this logistics,\" - said Natia Turnava(Minister of Economy) https://bm.ge/ka/article/natia-turnava-logistikuri-gaumjobeseba-chinetshi-qartuli-eqsportis-gazrdis-shesadzleblobaa/70703\n\nChina's praising from the Georgian part became more frequent during Covid Pandemic when China sent thousands of dozes of Sinopharm and Sinovac as a gift to Georgia. \n\"I thank the Chinese government for its active support in the fight against the coronavirus pandemic,\" said the Health Minister of Georgia, Ekaterina Tikaradze. http://newsday.ge/new/index.php/ka/component/k2/item/38573-%E1%83%9B%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%98\n\n\"Deputy Foreign Minister Alexander Khvtisiashvili and Deputy Minister of Health Giorgi Tsotskolauri thanked China for unselfishly providing the necessary medical supplies to Georgia, noting that this was a clear expression of the strong Sino-Georgian friendship. Items provided by the Chinese side will significantly increase the virus detection and control capabilities. Georgia stands ready to continue close communication and cooperation with China and to work in support of epidemic prevention and control.\" SOURCE: http://newsday.ge/new/index.php/ka/component/k2/item/38261-%E1%83%A9%E1%83%98%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98\n",
+                "evidence_urls": [
+                    "https://forbes.ge/chinethi-da-saqarthvelo-interviu-elchthan/",
+                    "https://bm.ge/ka/article/natia-turnava-logistikuri-gaumjobeseba-chinetshi-qartuli-eqsportis-gazrdis-shesadzleblobaa/70703",
+                    "http://gov.ge/index.php?lang_id=-&info_id=51413+",
+                    "http://newsday.ge/new/index.php/ka/component/k2/item/38573-%E1%83%9B%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%98",
+                    "http://newsday.ge/new/index.php/ka/component/k2/item/38261-%E1%83%A9%E1%83%98%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "The appointment of former (he left the PM post in 2015) and current(he was reappointed as a PM in 2020) Georgian PM Irakli Gharibashvili as a CEFC advisor. Curiously, Gharibashvili joined CEFC only in February 2018. By that time, the company was already deep in trouble: Chairman Ye Jianming diappeared at about that time, and Patrick Ho had been arrested three months earlier. Incredibly, despite all the media attention that the spectacular demise of CEFC attracted internationally, in Georgia, nobody seems to have noticed. In local media and public discourse, CEFC still features as a fabulously rich investor that will save Georgia from its economic predicament. Source: https://sinopsis.cz/en/georgias-china-dream-cefcs-last-stand-in-the-caucasus/\n\n",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/georgias-china-dream-cefcs-last-stand-in-the-caucasus/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "3",
+                "evidence": "Chinese company with dubious international reputation, Nuctech Company Ltd. provides Georgia with the safety equipment. Please for more info visit our report where it is written in details what kind of and how many state procurement tenders Nuctech won in Georgia and why are they scandalous. https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://civil.ge/archives/376043",
+                    "https://www.geostat.ge/media/34287/External-Merchandise-Trade-in-January-September-2020.pdf"
+                ],
+                "note": "China is among Georgia\u2019s top five largest economic partners, number one trading partner by exports ($355.3 million in 2020) and the third largest partner (after Turkey and Russia) in terms of the imports amounting to $509.6 million in 2020.",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Georgia owes the European Investment Bank $717 million and the IMF $210 million. \nOf states, Georgia owes the largest debt to France\u2014$561 million. It owes $496 million  dollars to Germany, $214 million to Japan, $43 million to Russia. https://jam-news.net/georgia-foreign-debt-economy/",
+                "evidence_urls": [
+                    "https://mof.ge/en/4409",
+                    "https://jam-news.net/georgia-foreign-debt-economy/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Georgia is not famous for its extractive industries. \n\nIn 2015, GIG reached an agreement with Chinese company Dongfang Electric to construct a coal-fired thermal power plant, due in 2020, with a plan to use most of the coal extracted in Tkibuli to operate the power plant. Nevertheless, China is not still considered as a top customer for Georgia's extractive industries. https://www.hrw.org/report/2019/08/22/no-year-without-deaths/decade-deregulation-puts-georgian-miners-risk ",
+                "evidence_urls": [
+                    "https://mof.ge/images/File/BDD/2018-2021/pirveladi_BDD_2018-2021_05.07.2017.pdf",
+                    "https://www.hrw.org/report/2019/08/22/no-year-without-deaths/decade-deregulation-puts-georgian-miners-risk "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Currently, CEFC China is the owner of 75% of shares in the Poti Free Industrial Zone. It is also important to note that Irakli Gharibashvili, former PM and current MOD, was on their payroll (according to his asset declaration) as an advisor of the CEFC managerial board responsible for managing regional projects. Another important factor, according to the CEFC bankruptcy case file, one of the largest creditors they have above mentioned Russian VTB Bank, that might easily claim all Poti Free Industrial Zone assets as collateral. The Georgian government, despite our multiple attempts, refuses to respond to the case. https://www.europeanvalues.cz/wp-content/uploads/2021/01/MAPPING_RESEARCH_COMPARING_FOREIGN_INFLUENCE_IN_GEORGIA.pdf",
+                "evidence_urls": [
+                    "https://www.europeanvalues.cz/wp-content/uploads/2021/01/MAPPING_RESEARCH_COMPARING_FOREIGN_INFLUENCE_IN_GEORGIA.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "In 2015, Georgia and 14 other countries lined up to join the China-led Asian Infrastructure Investment Bank (AIIB). https://agenda.ge/en/news/2015/700",
+                "evidence_urls": [
+                    "https://agenda.ge/en/news/2015/700"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Georgian Chamber of Commerce and Industry (GCCI) is the member of the Silk Road Chamber of International Commerce http://www.srcic.com/silk-road-members/\n\n\nGeorgian Chamber of Commerce and Industry (GCCI) is also the member of BRICA (the Belt and Road Industrial and Commercial Alliance) https://www.bricaistanbul.com/overview/brica-members/\n",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/",
+                    "https://www.bricaistanbul.com/overview/brica-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "Georgia signed bilateral free trade agreement (FTA) with China in 2017. https://www.freetradezone.ge/georgia-china-free-trade-agreement",
+                "evidence_urls": [
+                    "https://www.freetradezone.ge/georgia-china-free-trade-agreement"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "The project of Hualing International Special Economic Zone invested by Hualing Group Corporation is the largest investment project by China private enterprise in Georgia. A solemn construction ceremony was held On July 7, 2012, in Tbilisi. http://hualing.ge/language/en/hualing-georgia/hualing-international-special-economic-zone/\nhttps://eurasianet.org/undeterred-by-slow-start-georgia-woos-chinese-investors\n\nHualing has also strengthened its investment in the country\u2019s manufacturing sector by taking a stake in the Kutaisi Free Industrial Zone (FIZ). This, together with CEFC China Energy\u2019s recent investment in Poti FIZ on the eastern Black Sea coast to build an export hub for Chinese goods and services to Europe and Central Asia, has made Chinese investors vital for the future of two of the country\u2019s four FIZs, and important partners in realising Georgia\u2019s industrial potential. https://research.hktdc.com/archive/201807/485449_en_anting2018Jul12_gen.pdf\n",
+                "evidence_urls": [
+                    "http://hualing.ge/language/en/hualing-georgia/hualing-international-special-economic-zone/",
+                    "https://eurasianet.org/undeterred-by-slow-start-georgia-woos-chinese-investors",
+                    "https://research.hktdc.com/archive/201807/485449_en_anting2018Jul12_gen.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ghn.ge/news/26262",
+                    "http://resonancedaily.com/index.php/index.php?id_rub=2&id_artc=82622"
+                ],
+                "note": "Two Chinese telecommunications giants, ZTE and Huawei, were interested in the construction of a fiber-optic line along the railway in Georgia and participated in the tenders announed by the state railway telecom. But that info is old (dates back to 2010) and ultimately none of them won the tender. https://www.ghn.ge/news/26262  \n\nAccording to Sputnik, in 2019, the Abkhaz Customs Committee met with a delegation from the People's Republic of China led by Long Weibo, Chief Engineer of China's China Unicom, Liu Ya Joon, Vice President of the China-Asia Economic Development Association, and the so-called Honorary Consul of Abkhazia in China. , Ge Chjili attended. However, this info has been denied by the Georgian side. http://resonancedaily.com/index.php/index.php?id_rub=2&id_artc=82622",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "According to a report prepared by the auditing company EY, the main customers of Huawei are telecommunication companies operating in Georgia. https://bm.ge/ka/article/the-country-shows-the-first-sign-of-recovery--natia-turnava-/64146 \n\nThe internet provider company Silknet is collaborating with leading technology companies , such as \" Ericsson \" and \" Huawei \". https://netgazeti.ge/news/412035/\n\nThrough a number of Samsung and Huawei models connected to the Magti (internet provider and mobile telecom company in Georgia) network, users will benefit from new technology, and new models will be added to this list periodically. https://www.magticom.ge/ka/volte-press-release \n\n",
+                "evidence_urls": [
+                    "https://bm.ge/ka/article/the-country-shows-the-first-sign-of-recovery--natia-turnava-/64146 ",
+                    "https://netgazeti.ge/news/412035/ ",
+                    "https://www.magticom.ge/ka/volte-press-release "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "The internet provider company Silknet is collaborating with leading technology companies , such as \" Ericsson \" and \" Huawei \". https://netgazeti.ge/news/412035/\n\nThrough a number of Samsung and Huawei models connected to the Magti (internet provider and mobile telecom company in Georgia) network, users will benefit from new technology, and new models will be added to this list periodically. https://www.magticom.ge/ka/volte-press-release ",
+                "evidence_urls": [
+                    "https://netgazeti.ge/news/412035/",
+                    "https://www.magticom.ge/ka/volte-press-release "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "From our reports, Chinese company TBEA supplied Georgia with generators and transformers of the electrical system, while Nuctech Company LTD provided the state with X-ray safety devices (mostly for the customs checkpoints). https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/\n\nhttps://civicidea.ge/en/civic-ideas-4th-china-watch-report/",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/",
+                    "https://civicidea.ge/en/civic-ideas-4th-china-watch-report/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "The equipment provided by the Nuctech Company LTD included the applications involving biometrics https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/civic-ideas-6th-china-watch-report-nuctech-company-ltd-in-georgia/"
+                ],
+                "note": "Nuctech Company Ltd. uses facial recognition technology to enroll the passenger information and binding with the luggage scanning image. http://www.nuctech.com/en/SitePages/ThDetailPage.aspx?nk=PAS&k=IABBAG",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Chinese company Changan is building an electric car factory in Kutaisi.",
+                "evidence_urls": [
+                    "https://thebulletin.news/newsdesk/chinese-electric-car-maker-to-open-factory-in-georgia-for-eu-exports/",
+                    "https://agenda.ge/en/news/2019/971",
+                    "https://www.electrive.com/2019/07/05/aigroup-changan-to-manufacture-evs-in-georgia/",
+                    "http://www.economy.ge/?page=news&nw=1164&lang=en",
+                    "http://hualing.ge/language/en/hualing-free-industrial-zone/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "Georgia-China Friendship Association - https://bm.ge/ka/article/saqartvelo-chinetis-megobrobis-asociaciam-sapatio-prezidenti-airchia/6829 \n\nAlso the following is written in the China-Georgia FTA document: \"In accordance with Chinese laws, regulations and rules, Georgian law firms based in the China (Shanghai) Pilot Free Trade Zone may establish a commercial association with Chinese law firms in the Shanghai Free Trade Zone. Within the scope of this commercial association, the law firm of each party has an independent legal status, name, financial transactions, and civil liability. The clientele of the Commercial Association is not limited to the Shanghai Free Trade Area. Georgian lawyers of the Commercial Association cannot practice Chinese law.\" - https://www.matsne.gov.ge/ka/document/view/3897182?publication=0 \n",
+                "evidence_urls": [
+                    "https://bm.ge/ka/article/saqartvelo-chinetis-megobrobis-asociaciam-sapatio-prezidenti-airchia/6829 ",
+                    "https://www.matsne.gov.ge/ka/document/view/3897182?publication=0 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "Georgia's production studios do not portray PRC at all, nothing at all. ",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "Celebrities do not publish anything, however, some of them sometimes appear on the youtube channel of 4U media platform https://www.youtube.com/c/4UgeOfficial/videos ",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "4",
+                "evidence": "Propaganda narratives China \u2014 as a trusted partner in the fight against Covid - https://www.moh.gov.ge/ka/news/5085/saqarTveloSi-specreisiT-40-000-PCR-testi-da-20-aTasi--antisxeulebis-testi-Camovida ",
+                "evidence_urls": [
+                    "https://www.moh.gov.ge/ka/news/5085/saqarTveloSi-specreisiT-40-000-PCR-testi-da-20-aTasi--antisxeulebis-testi-Camovida",
+                    "https://www.moh.gov.ge/news/5849/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Following the pandemic, PRC government gained Georgian people's trust and this is exactly why there is a high demand on the Chinese vaccines in Georgia. \n\nThe registration places for the Chinese vaccine in Tbilisi were completely filled in 2 hours - https://formulanews.ge/News/49598\n\n\nApr 30, 2021 - In Georgia, universal vaccination with Sinopharm (for people over 18) starts in a few days, but there are no vacancies in 28 out of 74 clinics.\nRegistration started on April 27, and as of April 30 at 15:00, 15,600 out of 27,900 seats have already been booked. Places are mostly left in the regions. The data was counted by Radio Liberty on booking.moh.gov.ge according to the reservations and free seats. https://www.radiotavisupleba.ge/a/31231649.html ",
+                "evidence_urls": [
+                    "https://formulanews.ge/News/49598",
+                    "https://www.radiotavisupleba.ge/a/31231649.html "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "On January 23, 2021, based on the information spread by the Ministry of Defense of Georgia , it became known that through the active involvement of the State Defense Ministry, the above-mentioned Ukraine-based China-owned company signed a trilateral memorandum with the Georgian State Military Scientific-Technical Center DELTA and Tbilisi Aircraft Manufacturing (TAM), also known as \u201eJSC Tbilaviamsheni\u201c.Information about the current contractual relations was later confirmed by the Ministry of Defense in a statement issued on January 31, 2021: \u201e\u201dThe contract between the company \u201cMotor Sich\u201d and JSC \u201cTbilaviamsheni\u201d, concerning the engines and the reduction gears of the Mi-24 helicopter gunships, has already been signed. The cooperation envisages modernization and repair of the engines of the Mi-24 combat helicopters.\u201d https://civicidea.ge/en/echo-of-the-rocket-fraud-in-georgia-defense-memorandum-with-motor-sich/ ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/echo-of-the-rocket-fraud-in-georgia-defense-memorandum-with-motor-sich/"
+                ],
+                "note": "We also know that from our friends, colleagues who work for the Ministry of Defence, military uniforms were at some point purchased from China. ",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "With the same Motor Sich company, Georgian Ministry of Defense is going to co-produce military aircraft. https://civicidea.ge/en/echo-of-the-rocket-fraud-in-georgia-defense-memorandum-with-motor-sich/ ",
+                "evidence_urls": [
+                    "https://civicidea.ge/en/echo-of-the-rocket-fraud-in-georgia-defense-memorandum-with-motor-sich/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "In 2017, the Minister of Defense of Georgia Levan Izoria hosted a delegation of the Ministry of National Defense of the People's Republic of China. He thanked the Chinese Ministry of Defense for the training courses offered to the Georgian military in 2016. https://mod.gov.ge/ge/news/read/5690/izoria-chineli",
+                "evidence_urls": [
+                    "https://mod.gov.ge/ge/news/read/5690/izoria-chineli"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "Neither our expert, nor we have heard of such experience.",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "Agreement between the Goverment of Georgia and the Government of the People's Republic of China on the Avoidance of double taxation on income and capital and prevention of fiscal evasion https://www.mof.ge/images/File/dabegvra/DTA/chinetis_saxalxo_respublika.pdf \n\n",
+                "evidence_urls": [
+                    "https://www.mof.ge/images/File/dabegvra/DTA/chinetis_saxalxo_respublika.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "In 2017, Giorgi Mgebrishvili and Gou Shengkun signed an agreement for the fight against crime\n\nMinister of Internal Affairs Giorgi Mgebrishvili is paying his first working visit to the People\u2019s Republic of China. Within the frames of the visit, Giorgi Mgebrishvili met with the Vice-president and Minister of the Public Security of China- Guo Shengkun.\n\nhttps://police.ge/en/saqartvelos-shinagan-saqmeta-ministri-chinetis-sazogadoebrivi-usafrtkhoebis-ministrs-shekhvda/11043 ",
+                "evidence_urls": [
+                    "https://police.ge/en/saqartvelos-shinagan-saqmeta-ministri-chinetis-sazogadoebrivi-usafrtkhoebis-ministrs-shekhvda/11043"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "If they exist, these reports are probably classified, they are not publicly available.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "Again not publicly available.",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "No public info available.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "Not Found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Georgia has a GDP per capita of US $4,274.612 and a total population of 3.7 million people, with the Chinese population comprising 1,768 residents, or 0.0477% of the total population.",
+    "description-2": "Georgia established diplomatic relations with the People Republic of China in 1992. Georgia was ranked 60th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2020 Global Freedom Status, with a score of 60/100."
+}
